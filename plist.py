@@ -11,8 +11,8 @@ addons_folder = xbmc.translatePath('special://home/addons')
 image         = xbmc.translatePath(os.path.join(path, "icon.png"))
 
 plugin         = Plugin()
-addon          = xbmcaddon.Addon("plugin.video.iosinu.tv.box")
-pluginrootpath = "plugin://plugin.video.iosinu.tv.box"
+addon          = xbmcaddon.Addon("plugin.video.GrounDIY.Media.IPTV")
+pluginrootpath = "plugin://plugin.video.GrounDIY.Media.IPTV"
 http           = httplib2.Http(cache, disable_ssl_certificate_validation=True)
 query_url      = "https://docs.google.com/spreadsheets/d/{sid}/gviz/tq?gid={gid}&headers=1&tq={tq}"
 sheet_headers  = {
@@ -28,7 +28,7 @@ def GetSheetIDFromSettings():
 	url_path : string
 		link chứa nội dung m3u playlist
 	'''
-	sid = "1PWajv67U3By-SHlp1flJbPKOV-8iXyrH2_yzH6Kjwrc"
+	sid = "12_WhMHe_FmmQZ6V4Ll6GFMJNR5wbrNJfmC5JNQRjL2A"
 	resp, content = http.request(plugin.get_setting("GSheetURL"),"HEAD")
 	try:
 		sid = re.compile("/d/(.+?)/").findall(resp["content-location"])[0]
@@ -167,7 +167,7 @@ def getItems(url_path="0"):
 			item["path"] = pluginrootpath + "/executebuiltin/-"
 		else:
 			if "spreadsheets/d/" in item["path"]:
-				# https://docs.google.com/spreadsheets/d/1PWajv67U3By-SHlp1flJbPKOV-8iXyrH2_yzH6Kjwrc/edit#gid=0
+				# https://docs.google.com/spreadsheets/d/12_WhMHe_FmmQZ6V4Ll6GFMJNR5wbrNJfmC5JNQRjL2A/edit#gid=0
 				match = re.compile('&cache=(.+?)($|&)').findall(item["path"])
 				sheet_id = re.compile("/d/(.+?)/").findall(item["path"])[0]
 				try:
@@ -566,7 +566,7 @@ def get_playable_url(url):
 		url = getGDriveHighestQuality(url)
 	elif "fshare.vn/file" in url:
 		http.follow_redirects = False
-		get_fshare = "https://docs.google.com/spreadsheets/d/1SEex7ldy4rTHBJmnPKum3p7hmM53dVMEf6J25vojZiE/pub?gid=0&single=true&output=tsv"
+		get_fshare = "https://docs.google.com/spreadsheets/d/13p0_ZPOnw4a0KRRpIFD7f4QhnRyBT6eRA-EVp0nscTU/pub?gid=0&single=true&output=tsv"
 		try:
 			(resp, content) = http.request(
 				get_fshare, "GET"
