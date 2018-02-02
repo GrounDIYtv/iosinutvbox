@@ -1,12 +1,12 @@
 
 <dir>
-<title>[B][COLOR white]Verdict IPTV[/COLOR][/B]</title>
+<title>[B][COLOR white]ONE IPTV[/COLOR][/B]</title>
 <link>plugin://script.module.verdict.iptv</link>
 <thumbnail>http://illuminatitemple.xyz/judgement/Images/Verdict/Live%20TV.png</thumbnail>
 </dir>
 
 <dir>
-<title>[B][COLOR white]Live NetTV[/COLOR][/B]</title>
+<title>[B][COLOR white]NetTV[/COLOR][/B]</title>
 <link>plugin://script.module.ONE.Live.NetTV</link>
 <thumbnail>http://illuminatitemple.xyz/judgement/Images/Verdict/Live%20TV.png</thumbnail>
 </dir>
