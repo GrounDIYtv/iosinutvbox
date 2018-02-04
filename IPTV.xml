@@ -6,9 +6,9 @@
 </dir>
 
 <dir>
-<title>[B][COLOR white]XEM LẠI CÁC TRẬN ĐẤU BÓNG ĐÁ[/COLOR][/B]</title>
-<link>plugin://plugin.video.ONE.SOCCER.REPLAY</link>
-<thumbnail>https://raw.githubusercontent.com/tcm21DIY/MediaIPTV/master/soccer.jpg</thumbnail>
+<title>[B][COLOR white]THỂ THAO[/COLOR][/B]</title>
+<link>https://raw.githubusercontent.com/tcm21DIY/MediaIPTV/master/sport.xml</link>
+<thumbnail>https://raw.githubusercontent.com/tcm21DIY/MediaIPTV/master/tt.jpg</thumbnail>
 </dir>
 
 <dir>
