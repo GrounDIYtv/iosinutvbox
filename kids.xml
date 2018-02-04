@@ -2,7 +2,7 @@
 <plugin>
 <title>[B][COLOR red]Buffer Problems? Click Me![/COLOR][/B]</title>
 <link>plugin://plugin.program.judgement/?mode=writeadvanced&amp;name=1GB+RAM+or+More&amp;url=http%3A%2F%2Fjudgementwiz.xyz%2F472%2FJudgement%2FWizard%2FAdvanced%2520Settings%2F1GB%2520More%2520Ram%2520%28Kodi%252017%29.xml</link>
-<thumbnail>http://theunjudged.com/18458/Judgement/Images/Verdict/Problems.png</thumbnail>
+<thumbnail>MediaIPTV/kid.jpg</thumbnail>
 </plugin>
 
 <dir>
@@ -14,7 +14,7 @@
 <dir>
 <title>[B][COLOR white]Movies[/COLOR][/B]</title>
 <link>http://theunjudged.com/18458/Judgement/Media/Movies/Movies.xml</link>
-<thumbnail>http://theunjudged.com/18458/Judgement/Images/Verdict/Movies.png</thumbnail>
+<thumbnail>MediaIPTV/kid.jpg</thumbnail>
 </dir>
 
 <dir>
