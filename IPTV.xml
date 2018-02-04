@@ -2,11 +2,11 @@
 <dir>
 <title>[B][COLOR white]ONE IPTV[/COLOR][/B]</title>
 <link>plugin://script.module.ONE.IPTV</link>
-<thumbnail>http://illuminatitemple.xyz/judgement/Images/Verdict/Live%20TV.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/tcm21DIY/MediaIPTV/master/icon.png</thumbnail>
 </dir>
 
 <dir>
-<title>[B][COLOR white]SOCCER REPLAY[/COLOR][/B]</title>
+<title>[B][COLOR white]XEM LẠI CÁC TRẬN ĐẤU BÓNG ĐÁ[/COLOR][/B]</title>
 <link>plugin://plugin.video.ONE.SOCCER.REPLAY</link>
 <thumbnail>https://raw.githubusercontent.com/tcm21DIY/MediaIPTV/master/soccer.jpg</thumbnail>
 </dir>
