@@ -1,17 +1,17 @@
 <dir>
 <title>[B][COLOR white]SỰ KIỆN TRỰC TIẾP[/COLOR][/B]</title>
 <link>http://theunjudged.com/18458/Judgement/Media/Sports/Live%20Events.xml</link>
-<thumbnail>http://theunjudged.com/18458/Judgement/Images/Verdict/Sports.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/tcm21DIY/MediaIPTV/master/tt.jpg</thumbnail>
 </dir>
 
 <dir>
 <title>[B][COLOR white]SỰ KIỆN THỂ THAO[/COLOR][/B]</title>
 <link>http://theunjudged.com/18458/Judgement/Media/Sports/Highlights.xml</link>
-<thumbnail>http://theunjudged.com/18458/Judgement/Images/Verdict/Sports.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/tcm21DIY/MediaIPTV/master/tt.jpg</thumbnail>
 </dir>
 
 <plugin>
 <title>[B][COLOR white]TIN BÓNG ĐÁ[/COLOR][/B]</title>
 <link>plugin://script.module.verdict/?description&iconimage=C%3a%5cUsers%5cUnknown%5cAppData%5cRoaming%5cKodi%5caddons%5cscript.module.verdict%5cicon.png&mode=115&name=football&url=url</link>
-<thumbnail>http://theunjudged.com/18458/Judgement/Images/Verdict/Sports.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/tcm21DIY/MediaIPTV/master/tt.jpg</thumbnail>
 </plugin>
