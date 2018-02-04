@@ -8,7 +8,7 @@
 <dir>
 <title>[B][COLOR white]SOCCER REPLAY[/COLOR][/B]</title>
 <link>plugin://plugin.video.ONE.SOCCER.REPLAY</link>
-<thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/Kids.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/tcm21DIY/MediaIPTV/master/soccer.jpg</thumbnail>
 </dir>
 
 <dir>
@@ -26,7 +26,7 @@
 <dir>
 <title>[B][COLOR white]Trẻ Con - Kids[/COLOR][/B]</title>
 <link>https://raw.githubusercontent.com/tcm21DIY/MediaIPTV/master/kids.xml</link>
-<thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/Kids.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/tcm21DIY/MediaIPTV/master/kid.jpg</thumbnail>
 </dir>
 
 <dir>
