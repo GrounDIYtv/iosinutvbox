@@ -1,102 +1,48 @@
 
 <plugin>
-<title>[B][COLOR red]Buffer Problems? Click Me![/COLOR][/B]</title>
-<link>plugin://plugin.program.judgement/?mode=writeadvanced&amp;name=1GB+RAM+or+More&amp;url=http%3A%2F%2Fjudgementwiz.xyz%2F472%2FJudgement%2FWizard%2FAdvanced%2520Settings%2F1GB%2520More%2520Ram%2520%28Kodi%252017%29.xml</link>
-<thumbnail>MediaIPTV/kid.jpg</thumbnail>
+<title>[B][COLOR white]Large List[/COLOR][/B]</title>
+<link>plugin://script.module.verdict/?mode=51&url=http://www.toonget.net/cartoon</link>
+<thumbnail>http://theunjudged.com/18458/Judgement/Images/Verdict/Kids.png</thumbnail>
 </plugin>
 
 <dir>
-<title>[B][COLOR white]Live TV[/COLOR][/B]</title>
-<link>http://theunjudged.com/18458/Judgement/Media/Live%20TV/Live%20TV.xml</link>
-<thumbnail>http://theunjudged.com/18458/Judgement/Images/Verdict/Live%20TV.png</thumbnail>
-</dir>
-
-<dir>
-<title>[B][COLOR white]Movies[/COLOR][/B]</title>
-<link>http://theunjudged.com/18458/Judgement/Media/Movies/Movies.xml</link>
-<thumbnail>MediaIPTV/kid.jpg</thumbnail>
-</dir>
-
-<dir>
-<title>[B][COLOR white]TV Shows[/COLOR][/B]</title>
-<link>http://theunjudged.com/18458/Judgement/Media/TV%20Shows/TV%20Shows.xml</link>
-<thumbnail>http://theunjudged.com/18458/Judgement/Images/Verdict/TV%20Shows.png</thumbnail>
-</dir>
-
-<dir>
-<title>[B][COLOR white]Trakt[/COLOR][/B]</title>
-<link>http://theunjudged.com/18458/Judgement/Media/Trakt/Trakt.xml</link>
-<thumbnail>http://theunjudged.com/18458/Judgement/Images/Verdict/Trakt.png</thumbnail>
-</dir>
-
-<dir>
-<title>[B][COLOR white]Catch-up[/COLOR][/B]</title>
-<link>http://theunjudged.com/18458/Judgement/Media/Catch-up/Catch-up.xml</link>
-<thumbnail>http://theunjudged.com/18458/Judgement/Images/Verdict/Catch-up.png</thumbnail>
-</dir>
-
-<dir>
-<title>[B][COLOR white]Sports[/COLOR][/B]</title>
-<link>http://theunjudged.com/18458/Judgement/Media/Sports/Sports.xml</link>
-<thumbnail>http://theunjudged.com/18458/Judgement/Images/Verdict/Sports.png</thumbnail>
-</dir>
-
-<plugin>
-<title>[B][COLOR white]Fitness[/COLOR][/B]</title>
-<link>plugin://plugin.video.youtube/user/FitnessBlender/</link>
-<thumbnail>http://theunjudged.com/18458/Judgement/Images/Verdict/Fitness.png</thumbnail>
-</plugin>
-
-<dir>
-<title>[B][COLOR white]Stand-up Comedy[/COLOR][/B]</title>
-<trakt>https://api.trakt.tv/users/giladg/lists/stand-up-comedy/items</trakt>
-<thumbnail>http://theunjudged.com/18458/Judgement/Images/Verdict/Stand-Up%20Comedy.png</thumbnail>
-</dir>
-
-<plugin>
-<title>[B][COLOR white]Dubbed Anime[/COLOR][/B]</title>
-<link>plugin://script.module.verdict/?mode=51&url=http://www.toonget.net/dubbed-anime</link>
-<thumbnail>http://theunjudged.com/18458/Judgement/Images/Verdict/Dubbed%20Anime.png</thumbnail>
-</plugin>
-
-<dir>
-<title>[B][COLOR white]Documentaries[/COLOR][/B]</title>
-<link>http://theunjudged.com/18458/Judgement/Media/Documentaries/Documentaries.xml</link>
-<thumbnail>http://theunjudged.com/18458/Judgement/Images/Verdict/Documentaries.png</thumbnail>
-</dir>
-
-<dir>
-<title>[B][COLOR white]Kids[/COLOR][/B]</title>
-<link>http://theunjudged.com/18458/Judgement/Media/Kids/Kids.xml</link>
+<title>[B][COLOR white]Walt Disney Animation Studios[/COLOR][/B]</title>
+<tmdb>company/movies/6125</tmdb>
 <thumbnail>http://theunjudged.com/18458/Judgement/Images/Verdict/Kids.png</thumbnail>
 </dir>
 
 <dir>
-<title>[B][COLOR white]Music[/COLOR][/B]</title>
-<link>http://theunjudged.com/18458/Judgement/Media/Music/Music.xml</link>
-<thumbnail>http://theunjudged.com/18458/Judgement/Images/Verdict/Music.png</thumbnail>
+<title>[B][COLOR white]Pixar Animation[/COLOR][/B]</title>
+<tmdb>company/movies/3</tmdb>
+<thumbnail>http://theunjudged.com/18458/Judgement/Images/Verdict/Kids.png</thumbnail>
 </dir>
 
 <dir>
-<title>[B][COLOR white]News[/COLOR][/B]</title>
-<link>http://theunjudged.com/18458/Judgement/Media/News/News.xml</link>
-<thumbnail>http://theunjudged.com/18458/Judgement/Images/Verdict/News.png</thumbnail>
+<title>[B][COLOR white]DreamWorks Animation[/COLOR][/B]</title>
+<tmdb>company/movies/521</tmdb>
+<thumbnail>http://theunjudged.com/18458/Judgement/Images/Verdict/Kids.png</thumbnail>
 </dir>
 
 <dir>
-<title>[B][COLOR white]Logins[/COLOR][/B]</title>
-<link>http://theunjudged.com/18458/Judgement/Media/Logins/Logins.xml</link>
-<thumbnail>http://theunjudged.com/18458/Judgement/Images/Verdict/Logins.png</thumbnail>
+<title>[B][COLOR white]Universal Cartoon Studios[/COLOR][/B]</title>
+<tmdb>company/movies/4285</tmdb>
+<thumbnail>http://theunjudged.com/18458/Judgement/Images/Verdict/Kids.png</thumbnail>
 </dir>
 
-<plugin>
-<name>[B][COLOR white]Clear Cache[/COLOR][/B]</name>
-<link>plugin://plugin.video.verdict/?mode=clearCache</link>
-<thumbnail>http://theunjudged.com/18458/Judgement/Images/Verdict/Clear%20Cache.png</thumbnail>
-</plugin>
+<dir>
+<title>[B][COLOR white]Universal Animation Studios[/COLOR][/B]</title>
+<tmdb>company/movies/5556</tmdb>
+<thumbnail>http://theunjudged.com/18458/Judgement/Images/Verdict/Kids.png</thumbnail>
+</dir>
 
-<plugin>
-<name>[B][COLOR white]Addon Settings[/COLOR][/B]</name>
-<link>plugin://plugin.video.verdict/?action=openSettings</link>
-<thumbnail>http://theunjudged.com/18458/Judgement/Images/Verdict/Addon%20Settings.png</thumbnail>
-</plugin>
+<dir>
+<title>[B][COLOR white]Warner Bros. Animation[/COLOR][/B]</title>
+<tmdb>company/movies/2785</tmdb>
+<thumbnail>http://theunjudged.com/18458/Judgement/Images/Verdict/Kids.png</thumbnail>
+</dir>
+
+<dir>
+<title>[B][COLOR white]Search[/COLOR][/B]</title>
+<tmdb>search</tmdb>
+<thumbnail>http://theunjudged.com/18458/Judgement/Images/Verdict/Kids.png</thumbnail>
+</dir>
