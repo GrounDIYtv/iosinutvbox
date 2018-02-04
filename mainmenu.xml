@@ -4,9 +4,9 @@
 </email>
 
 <dir>
-<title>[B][COLOR white]Truyền Hình IPTV[/COLOR][/B]</title>
+<title>[B][COLOR white]ONE.TV[/COLOR][/B]</title>
 <link>https://raw.githubusercontent.com/tcm21DIY/MediaIPTV/master/IPTV.xml</link>
-<thumbnail>https://raw.githubusercontent.com/tcm21DIY/MediaIPTV/master/media.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/tcm21DIY/MediaIPTV/master/icon.png</thumbnail>
 </dir>
 
 <plugin>
