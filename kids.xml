@@ -2,47 +2,47 @@
 <plugin>
 <title>[B][COLOR white]Large List[/COLOR][/B]</title>
 <link>plugin://script.module.ONE/?mode=51&url=http://www.toonget.net/cartoon</link>
-<thumbnail>MediaIPTV/kid.jpg</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/tcm21DIY/MediaIPTV/master/kid.jpg</thumbnail>
 </plugin>
 
 <dir>
 <title>[B][COLOR white]Walt Disney Animation Studios[/COLOR][/B]</title>
 <tmdb>company/movies/6125</tmdb>
-<thumbnail>MediaIPTV/kid.jpg</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/tcm21DIY/MediaIPTV/master/kid.jpg</thumbnail>
 </dir>
 
 <dir>
 <title>[B][COLOR white]Pixar Animation[/COLOR][/B]</title>
 <tmdb>company/movies/3</tmdb>
-<thumbnail>MediaIPTV/kid.jpg</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/tcm21DIY/MediaIPTV/master/kid.jpg</thumbnail>
 </dir>
 
 <dir>
 <title>[B][COLOR white]DreamWorks Animation[/COLOR][/B]</title>
 <tmdb>company/movies/521</tmdb>
-<thumbnail>MediaIPTV/kid.jpg</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/tcm21DIY/MediaIPTV/master/kid.jpg</thumbnail>
 </dir>
 
 <dir>
 <title>[B][COLOR white]Universal Cartoon Studios[/COLOR][/B]</title>
 <tmdb>company/movies/4285</tmdb>
-<thumbnail>MediaIPTV/kid.jpg</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/tcm21DIY/MediaIPTV/master/kid.jpg</thumbnail>
 </dir>
 
 <dir>
 <title>[B][COLOR white]Universal Animation Studios[/COLOR][/B]</title>
 <tmdb>company/movies/5556</tmdb>
-<thumbnail>MediaIPTV/kid.jpg</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/tcm21DIY/MediaIPTV/master/kid.jpg</thumbnail>
 </dir>
 
 <dir>
 <title>[B][COLOR white]Warner Bros. Animation[/COLOR][/B]</title>
 <tmdb>company/movies/2785</tmdb>
-<thumbnail>MediaIPTV/kid.jpg</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/tcm21DIY/MediaIPTV/master/kid.jpg</thumbnail>
 </dir>
 
 <dir>
 <title>[B][COLOR white]Search[/COLOR][/B]</title>
 <tmdb>search</tmdb>
-<thumbnail>MediaIPTV/kid.jpg</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/tcm21DIY/MediaIPTV/master/kid.jpg</thumbnail>
 </dir>
