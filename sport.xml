@@ -12,6 +12,6 @@
 
 <plugin>
 <title>[B][COLOR white]TIN BÓNG ĐÁ[/COLOR][/B]</title>
-<link>plugin://script.module.verdict/?description&iconimage=C%3a%5cUsers%5cUnknown%5cAppData%5cRoaming%5cKodi%5caddons%5cscript.module.verdict%5cicon.png&mode=115&name=football&url=url</link>
+<link>plugin://script.module.ONE/?description&iconimage=C%3a%5cUsers%5cUnknown%5cAppData%5cRoaming%5cKodi%5caddons%5cscript.module.ONE%5cicon.png&mode=115&name=football&url=url</link>
 <thumbnail>https://raw.githubusercontent.com/tcm21DIY/MediaIPTV/master/tt.jpg</thumbnail>
 </plugin>
