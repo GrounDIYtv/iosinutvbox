@@ -1,139 +1,256 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-ID="" tvg-name="DE Sky Select 1HD" tvg-logo="" group-title="ALEMANHA<img src="http://91.194.84.21/DE.gif">",DE Sky Select 1HD
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/13153.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE Sky Select 2 HD" tvg-logo="" group-title="ALEMANHA<img src="http://91.194.84.21/DE.gif">",DE Sky Select 2 HD
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/13152.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE Sky Select 3 HD" tvg-logo="" group-title="ALEMANHA<img src="http://91.194.84.21/DE.gif">",DE Sky Select 3 HD
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/13151.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE Sky Select 4 HD" tvg-logo="" group-title="ALEMANHA<img src="http://91.194.84.21/DE.gif">",DE Sky Select 4 HD
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/13150.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE Sky Select 5 HD" tvg-logo="" group-title="ALEMANHA<img src="http://91.194.84.21/DE.gif">",DE Sky Select 5 HD
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/13149.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE Sky Select 6 HD" tvg-logo="" group-title="ALEMANHA<img src="http://91.194.84.21/DE.gif">",DE Sky Select 6 HD
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/13148.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE Sky Select 7 HD" tvg-logo="" group-title="ALEMANHA<img src="http://91.194.84.21/DE.gif">",DE Sky Select 7 HD
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/13147.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE SkySelect HD" tvg-logo="" group-title="ALEMANHA<img src="http://91.194.84.21/DE.gif">",DE SkySelect HD
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/13146.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE- 13Th Street HD" tvg-logo="" group-title="ALEMANHA<img src="http://91.194.84.21/DE.gif">",DE- 13Th Street HD
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/13145.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE- Disney Cinemagic HD" tvg-logo="" group-title="ALEMANHA<img src="http://91.194.84.21/DE.gif">",DE- Disney Cinemagic HD
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/13144.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE- Disney Junior HD" tvg-logo="" group-title="ALEMANHA<img src="http://91.194.84.21/DE.gif">",DE- Disney Junior HD
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/13143.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE- Disney XD HD" tvg-logo="" group-title="ALEMANHA<img src="http://91.194.84.21/DE.gif">",DE- Disney XD HD
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/13142.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE- Nat Geo HD" tvg-logo="" group-title="ALEMANHA<img src="http://91.194.84.21/DE.gif">",DE- Nat Geo HD
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/13141.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE- SKY ATLANTIC HD" tvg-logo="" group-title="ALEMANHA<img src="http://91.194.84.21/DE.gif">",DE- SKY ATLANTIC HD
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/13140.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE- Sky Cinema   24 HD" tvg-logo="" group-title="ALEMANHA<img src="http://91.194.84.21/DE.gif">",DE- Sky Cinema   24 HD
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/13139.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE- Sky Cinema  1 HD" tvg-logo="" group-title="ALEMANHA<img src="http://91.194.84.21/DE.gif">",DE- Sky Cinema  1 HD
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/13138.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE- Sky Cinema Action HD" tvg-logo="" group-title="ALEMANHA<img src="http://91.194.84.21/DE.gif">",DE- Sky Cinema Action HD
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/13137.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE- Sky Cinema Family HD" tvg-logo="" group-title="ALEMANHA<img src="http://91.194.84.21/DE.gif">",DE- Sky Cinema Family HD
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/13136.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE- Sport 1  HD" tvg-logo="" group-title="ALEMANHA<img src="http://91.194.84.21/DE.gif">",DE- Sport 1  HD
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/13135.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE- TNT Film (TCM) Local" tvg-logo="" group-title="ALEMANHA<img src="http://91.194.84.21/DE.gif">",DE- TNT Film (TCM) Local
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/13134.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE: 13th Street Local" tvg-logo="" group-title="ALEMANHA<img src="http://91.194.84.21/DE.gif">",DE: 13th Street Local
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/13133.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE: AXN HD" tvg-logo="" group-title="ALEMANHA<img src="http://91.194.84.21/DE.gif">",DE: AXN HD
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/13132.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE: Boomerang Local" tvg-logo="" group-title="ALEMANHA<img src="http://91.194.84.21/DE.gif">",DE: Boomerang Local
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/13131.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE: Cartoon Network Local" tvg-logo="" group-title="ALEMANHA<img src="http://91.194.84.21/DE.gif">",DE: Cartoon Network Local
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/13130.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE: Classica Local" tvg-logo="" group-title="ALEMANHA<img src="http://91.194.84.21/DE.gif">",DE: Classica Local
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/13129.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE: Das Erste HD" tvg-logo="" group-title="ALEMANHA<img src="http://91.194.84.21/DE.gif">",DE: Das Erste HD
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/13128.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE: Das Erste Local" tvg-logo="" group-title="ALEMANHA<img src="http://91.194.84.21/DE.gif">",DE: Das Erste Local
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/13127.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE: Discovery Channel HD" tvg-logo="" group-title="ALEMANHA<img src="http://91.194.84.21/DE.gif">",DE: Discovery Channel HD
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/13126.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE: Discovery Channel Local" tvg-logo="" group-title="ALEMANHA<img src="http://91.194.84.21/DE.gif">",DE: Discovery Channel Local
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/13125.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE: Disney Channel HD" tvg-logo="" group-title="ALEMANHA<img src="http://91.194.84.21/DE.gif">",DE: Disney Channel HD
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/13124.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE: Disney Cinemagic Local" tvg-logo="" group-title="ALEMANHA<img src="http://91.194.84.21/DE.gif">",DE: Disney Cinemagic Local
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/13123.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE: Disney Junior Local" tvg-logo="" group-title="ALEMANHA<img src="http://91.194.84.21/DE.gif">",DE: Disney Junior Local
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/13122.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE: Disney XD Local" tvg-logo="" group-title="ALEMANHA<img src="http://91.194.84.21/DE.gif">",DE: Disney XD Local
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/13121.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE: DMAX" tvg-logo="" group-title="ALEMANHA<img src="http://91.194.84.21/DE.gif">",DE: DMAX
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/13120.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE: E! Entertainm. HD Local" tvg-logo="" group-title="ALEMANHA<img src="http://91.194.84.21/DE.gif">",DE: E! Entertainm. HD Local
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/13119.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE: Eurosport 1 HD Local" tvg-logo="" group-title="ALEMANHA<img src="http://91.194.84.21/DE.gif">",DE: Eurosport 1 HD Local
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/13118.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE: Eurosport 2 HD Xtra Local" tvg-logo="" group-title="ALEMANHA<img src="http://91.194.84.21/DE.gif">",DE: Eurosport 2 HD Xtra Local
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/13117.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE: Eurosport 2HD Lokal" tvg-logo="" group-title="ALEMANHA<img src="http://91.194.84.21/DE.gif">",DE: Eurosport 2HD Lokal
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/13116.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE: Family TV HD Local" tvg-logo="" group-title="ALEMANHA<img src="http://91.194.84.21/DE.gif">",DE: Family TV HD Local
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/13115.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE: FC Bayern TV Full HD" tvg-logo="" group-title="ALEMANHA<img src="http://91.194.84.21/DE.gif">",DE: FC Bayern TV Full HD
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/13114.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE: FC Bayern TV HD" tvg-logo="" group-title="ALEMANHA<img src="http://91.194.84.21/DE.gif">",DE: FC Bayern TV HD
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/13113.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE: Fox HD" tvg-logo="" group-title="ALEMANHA<img src="http://91.194.84.21/DE.gif">",DE: Fox HD
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/13112.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE: Fox Serie Local" tvg-logo="" group-title="ALEMANHA<img src="http://91.194.84.21/DE.gif">",DE: Fox Serie Local
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/13111.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE: Franken TV local" tvg-logo="" group-title="ALEMANHA<img src="http://91.194.84.21/DE.gif">",DE: Franken TV local
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/13110.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE: Goldstar TV Local" tvg-logo="" group-title="ALEMANHA<img src="http://91.194.84.21/DE.gif">",DE: Goldstar TV Local
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/13109.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE: History HD" tvg-logo="" group-title="ALEMANHA<img src="http://91.194.84.21/DE.gif">",DE: History HD
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/13108.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE: Jukebox Local" tvg-logo="" group-title="ALEMANHA<img src="http://91.194.84.21/DE.gif">",DE: Jukebox Local
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/13107.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE: Junior Local" tvg-logo="" group-title="ALEMANHA<img src="http://91.194.84.21/DE.gif">",DE: Junior Local
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/13106.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE: KABEL eins HD Local" tvg-logo="" group-title="ALEMANHA<img src="http://91.194.84.21/DE.gif">",DE: KABEL eins HD Local
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/13105.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE: Kabel eins Local" tvg-logo="" group-title="ALEMANHA<img src="http://91.194.84.21/DE.gif">",DE: Kabel eins Local
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/13104.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE: KIKA HD" tvg-logo="" group-title="ALEMANHA<img src="http://91.194.84.21/DE.gif">",DE: KIKA HD
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/13103.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE: Motorvision TV Local" tvg-logo="" group-title="ALEMANHA<img src="http://91.194.84.21/DE.gif">",DE: Motorvision TV Local
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/13102.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE: N24 HD Local" tvg-logo="" group-title="ALEMANHA<img src="http://91.194.84.21/DE.gif">",DE: N24 HD Local
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/13101.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE: NAT GEO WILD HD Local" tvg-logo="" group-title="ALEMANHA<img src="http://91.194.84.21/DE.gif">",DE: NAT GEO WILD HD Local
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/13100.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE: NatGeo Wild Local" tvg-logo="" group-title="ALEMANHA<img src="http://91.194.84.21/DE.gif">",DE: NatGeo Wild Local
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/13099.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE: National Geographic Local" tvg-logo="" group-title="ALEMANHA<img src="http://91.194.84.21/DE.gif">",DE: National Geographic Local
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/13098.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE: NDR HD" tvg-logo="" group-title="ALEMANHA<img src="http://91.194.84.21/DE.gif">",DE: NDR HD
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/13097.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE: Nickelodeon HD Local" tvg-logo="" group-title="ALEMANHA<img src="http://91.194.84.21/DE.gif">",DE: Nickelodeon HD Local
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/13096.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE: NRJ TV Local" tvg-logo="" group-title="ALEMANHA<img src="http://91.194.84.21/DE.gif">",DE: NRJ TV Local
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/13095.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE: Oldenburg eins TV Local" tvg-logo="" group-title="ALEMANHA<img src="http://91.194.84.21/DE.gif">",DE: Oldenburg eins TV Local
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/13094.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE: ONE HD Local" tvg-logo="" group-title="ALEMANHA<img src="http://91.194.84.21/DE.gif">",DE: ONE HD Local
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/13093.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE: ORF 1 HD" tvg-logo="" group-title="ALEMANHA<img src="http://91.194.84.21/DE.gif">",DE: ORF 1 HD
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/13092.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE: ORF 2 HD" tvg-logo="" group-title="ALEMANHA<img src="http://91.194.84.21/DE.gif">",DE: ORF 2 HD
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/13091.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE: Planet HD" tvg-logo="" group-title="ALEMANHA<img src="http://91.194.84.21/DE.gif">",DE: Planet HD
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/13090.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE: Pro7 Fun HD" tvg-logo="" group-title="ALEMANHA<img src="http://91.194.84.21/DE.gif">",DE: Pro7 Fun HD
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/13089.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE: Pro7 MAXX HD Local" tvg-logo="" group-title="ALEMANHA<img src="http://91.194.84.21/DE.gif">",DE: Pro7 MAXX HD Local
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/13088.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE: Pro7 MAXX Local" tvg-logo="" group-title="ALEMANHA<img src="http://91.194.84.21/DE.gif">",DE: Pro7 MAXX Local
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/13087.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE: ProSieben HD Local" tvg-logo="" group-title="ALEMANHA<img src="http://91.194.84.21/DE.gif">",DE: ProSieben HD Local
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/13086.ts
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/13031.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: M6" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: M6
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11629.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: M6 HD" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: M6 HD
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11628.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: NRJ12" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: NRJ12
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11626.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: NT1" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: NT1
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11636.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: NT1 HD" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: NT1 HD
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11635.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: TF1" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: TF1
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11649.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: TF1 HD" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: TF1 HD
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11648.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: W9" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: W9
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11630.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Rtl 9" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: Rtl 9
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11631.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Cherie 25" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: Cherie 25
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11588.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Serie Club HD" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: Serie Club HD
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11542.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: 13Eme Rue HD" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: 13Eme Rue HD
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11621.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Bfm" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: Bfm
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11603.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: C8" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: C8
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11632.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: 6TER" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: 6TER
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11624.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: 6TER  HD" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: 6TER  HD
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11623.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: HD1" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: HD1
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11563.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Numéro 23" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: Numéro 23
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11555.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Rts Deux HD" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: Rts Deux HD
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11650.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Rts Un HD" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: Rts Un HD
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11651.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Teva HD" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: Teva HD
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11531.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Paris Premiere" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: Paris Premiere
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11550.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Seasons HD" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: Seasons HD
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11543.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Syfy HD" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: Syfy HD
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: TCM Cinema" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: TCM Cinema
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11534.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Tcm France" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: Tcm France
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11533.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: TMC HD" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: TMC HD
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11529.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: WEO" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: WEO
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11625.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Boomerang HD" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: Boomerang HD
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11602.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Canal J HD" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: Canal J HD
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11597.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Cartoon Network" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: Cartoon Network
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11590.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Disney Chanel" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: Disney Chanel
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11576.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Disney Cinemagic F" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: Disney Cinemagic F
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11575.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Disney Junior" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: Disney Junior
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11574.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Disney XD" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: Disney XD
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11573.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Gulli" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: Gulli
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11564.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Mangas" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: Mangas
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11559.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Nickelodeon" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: Nickelodeon
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11556.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Piwi" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: Piwi
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11549.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Teletoon" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: Teletoon
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11532.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Tiji" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: Tiji
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11530.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: France 2" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: France 2
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11645.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: France 2 HD" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: France 2 HD
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11644.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: France 3" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: France 3
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11643.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: France 3 HD" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: France 3 HD
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11642.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: France 4" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: France 4
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11641.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: France 4 HD" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: France 4 HD
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11640.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: France 5" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: France 5
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11639.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: France 5 HD" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: France 5 HD
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11638.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: France O" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: France O
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11647.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: France O HD" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: France O HD
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11646.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Canal" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: Canal
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11637.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Paramount Channel" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: Paramount Channel
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11551.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Canal Cinema HD" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: Canal Cinema HD
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11601.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Canal Decale HD" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: Canal Decale HD
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11600.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Canal Family HD" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: Canal Family HD
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11599.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Cine Classic" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: Cine Classic
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11587.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Cine Classic HD" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: Cine Classic HD
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11586.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Cine Emotion HD" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: Cine Emotion HD
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11585.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Cine Famiz HD" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: Cine Famiz HD
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11584.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Cine Frisson HD" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: Cine Frisson HD
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11583.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Cine FX" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: Cine FX
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11582.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Cine Polar" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: Cine Polar
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11581.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Cine Premier" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: Cine Premier
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11580.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Comedie" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: Comedie
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11579.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Canal HD" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: Canal HD
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11598.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Canal Play 1" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: Canal Play 1
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11596.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Canal Play 2" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: Canal Play 2
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11595.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Canal Play 3" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: Canal Play 3
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11594.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Canal Play 4" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: Canal Play 4
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11593.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Canal Play 5" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: Canal Play 5
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11592.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: AB Moteur" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: AB Moteur
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11620.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: AB1" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: AB1
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11634.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Action HD" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: Action HD
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11619.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Arte HD" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: Arte HD
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11617.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: BeIN Sports 1" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: BeIN Sports 1
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11616.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: BeIN Sports 1 HD" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: BeIN Sports 1 HD
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11615.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: BeIN Sports 2" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: BeIN Sports 2
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11614.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: BeIN Sports 2 HD" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: BeIN Sports 2 HD
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11613.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: BeIN Sports 3" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: BeIN Sports 3
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11612.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: BeIN Sports 3 HD" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: BeIN Sports 3 HD
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11611.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: BeIN Sports Max 10" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: BeIN Sports Max 10
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11610.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: BeIN Sports Max 4" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: BeIN Sports Max 4
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11609.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: BeIN Sports Max 5" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: BeIN Sports Max 5
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11608.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: BeIN Sports Max 6" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: BeIN Sports Max 6
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11607.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: BeIN Sports Max 7" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: BeIN Sports Max 7
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11606.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: BeIN Sports Max 8" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: BeIN Sports Max 8
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11605.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: BeIN Sports Max 9" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: BeIN Sports Max 9
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11604.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Canal Sports HD" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: Canal Sports HD
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11591.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: SFR Sports 1" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: SFR Sports 1
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11541.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: SFR Sports 1 HD" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: SFR Sports 1 HD
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11540.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: SFR Sports 2" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: SFR Sports 2
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11539.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: SFR Sports 2 HD" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: SFR Sports 2 HD
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11538.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: SFR Sports 3" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: SFR Sports 3
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11537.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: SFR Sports 3 HD" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: SFR Sports 3 HD
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11536.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Euronews" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: Euronews
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11570.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Eurosport 2" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: Eurosport 2
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11569.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Eurosport HD" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: Eurosport HD
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11568.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Cstar" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: Cstar
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11633.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: E! Entertainment" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: E! Entertainment
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11572.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Equidia Live" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: Equidia Live
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11571.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: France24" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: France24
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11567.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Game One" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: Game One
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11566.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Golf HD" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: Golf HD
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11565.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Infosport" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: Infosport
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11561.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: L'Equipe21" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: L'Equipe21
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11560.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: M6 Music" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: M6 Music
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11627.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Chasse & Peche HD" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: Chasse & Peche HD
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11589.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Animaux HD" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: Animaux HD
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11618.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Histoire" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: Histoire
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11562.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Discovery" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: Discovery
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11578.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Discovery SC" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: Discovery SC
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11577.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: National Geographic" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: National Geographic
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11558.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Nationalgeo Wild HD" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: Nationalgeo Wild HD
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11557.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Science et vie HD" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: Science et vie HD
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11544.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: toute l'histoire" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: toute l'histoire
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11528.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Planete   HD" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: Planete   HD
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11548.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Planete AE" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: Planete AE
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11547.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Planete C.I HD" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: Planete C.I HD
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11546.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: RMC Couverte" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: RMC Couverte
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11545.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Ocs Choc HD" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: Ocs Choc HD
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11554.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Ocs Geants" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: Ocs Geants
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11553.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Ocs Max" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: Ocs Max
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11552.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: TV Breizh HD" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: TV Breizh HD
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11527.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Ushuaa TV" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: Ushuaa TV
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11526.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Voyage HD" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: Voyage HD
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11525.ts
