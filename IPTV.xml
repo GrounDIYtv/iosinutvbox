@@ -5,6 +5,11 @@
 <thumbnail>https://raw.githubusercontent.com/tcm21DIY/MediaIPTV/master/icon.png</thumbnail>
 </plugin>
 
+<plugin>
+<title>[B][COLOR white]Main List[/COLOR][/B]</title>
+<link>plugin://plugin.video.live.streamspro/?mode=1&url=http://theunjudged.com/18458/Judgement/Media/Live%20TV/IPTV%20Main.m3u</link>
+<thumbnail>http://theunjudged.com/18458/Judgement/Images/Verdict/Live%20TV.png</thumbnail>
+</plugin>
 
 <dir>
 <title>[B][COLOR white]THỂ THAO[/COLOR][/B]</title>
