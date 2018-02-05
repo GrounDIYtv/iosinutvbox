@@ -1,7 +1,6 @@
 #EXTM3U
 
 
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/13031.ts
 #EXTINF:-1 tvg-ID="" tvg-name="FR: M6" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: M6
 http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11629.ts
 #EXTINF:-1 tvg-ID="" tvg-name="FR: M6 HD" tvg-logo="" group-title="FRANCA<img src="http://91.194.84.21/FR.gif">",FR: M6 HD
