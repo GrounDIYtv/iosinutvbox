@@ -6,6 +6,12 @@
 </plugin>
 
 <plugin>
+<title>[B][COLOR white]18+ IPTV[/COLOR][/B]</title>
+<link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/tcm21DIY/MediaIPTV/master/18.m3u</link>
+<thumbnail>https://raw.githubusercontent.com/tcm21DIY/MediaIPTV/master/icon.png</thumbnail>
+</plugin>
+
+<plugin>
 <title>[B][COLOR white]VN IPTV[/COLOR][/B]</title>
 <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/tcm21DIY/MediaIPTV/master/ONE.MEDIA/vn.m3u</link>
 <thumbnail>https://raw.githubusercontent.com/tcm21DIY/MediaIPTV/master/icon.png</thumbnail>
