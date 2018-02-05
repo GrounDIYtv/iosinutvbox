@@ -1,727 +1,845 @@
 #EXTM3U
-#EXTINF:-1,CA | OMNI 2 HD  IPTVultra.com [1280x720]
-http://144.217.64.126:8080/live/demo/demo/22586.ts
-#EXTINF:-1,CA | CP24 HD  IPTVultra.com [1280x768]
-http://144.217.64.126:8080/live/demo/demo/20725.ts
-#EXTINF:-1,CA | CNN HD  IPTVultra.com [1280x720]
-http://144.217.64.126:8080/live/demo/demo/20916.ts
-#EXTINF:-1,CA | GLOBAL EAST HD  IPTVultra.com [1280x720]
-http://144.217.64.126:8080/live/demo/demo/22581.ts
-#EXTINF:-1,CA | CITY TV EAST  IPTVultra.com [1280x720]
-http://144.217.64.126:8080/live/demo/demo/20712.ts
-#EXTINF:-1,CA | CBC NEWS NETWORK HD  IPTVultra.com [1920x1088]
-http://144.217.64.126:8080/live/demo/demo/28635.ts
-#EXTINF:-1,CA | CBC EAST HD  IPTVultra.com [1280x720]
-http://144.217.64.126:8080/live/demo/demo/16517.ts
-#EXTINF:-1,CA | GLOBAL CALGARY HD  IPTVultra.com [1280x720]
-http://144.217.64.126:8080/live/demo/demo/22593.ts
-#EXTINF:-1,CA | CTV NEWS  IPTVultra.com [1280x720]
-http://144.217.64.126:8080/live/toby1/toby1/31446.ts
-#EXTINF:-1,CA | CTV CALGARY HD  IPTVultra.com [704x480]
-http://144.217.64.126:8080/live/demo/demo/22592.ts
-#EXTINF:-1,CA | CBC CALGARY HD  IPTVultra.com [1280x720]
-http://144.217.64.126:8080/live/demo/demo/22580.ts
-#EXTINF:-1,CA | CTV EAST HD  IPTVultra.com [1280x720]
-http://144.217.64.126:8080/live/demo/demo/21510.ts
-#EXTINF:-1,CA | CBC VANCOUVER HD  IPTVultra.com [1280x720]
-http://144.217.64.126:8080/live/demo/demo/22591.ts
-#EXTINF:-1,CA | CITY CALGARY HD  IPTVultra.com [1280x720]
-http://144.217.64.126:8080/live/demo/demo/26565.ts
-#EXTINF:-1,CA | GLOBAL BC HD  IPTVultra.com [704x480]
-http://144.217.64.126:8080/live/demo/demo/20720.ts
-#EXTINF:-1,CA | CARTOON NETWORK  IPTVultra.com [1024x576]
-http://144.217.64.126:8080/live/demo/demo/21995.ts
-#EXTINF:-1,CA | CBC NEWS EDMONTON HD  IPTVultra.com [1280x720]
-http://144.217.64.126:8080/live/demo/demo/20723.ts
-#EXTINF:-1,CA | HGTV HD  IPTVultra.com [1920x1088]
-http://144.217.64.126:8080/live/demo/demo/21107.ts
-#EXTINF:-1,CA | CITY VANCOUVER HD  IPTVultra.com [1280x720]
-http://144.217.64.126:8080/live/demo/demo/27765.ts
-#EXTINF:-1,CA | W HD  IPTVultra.com [704x480]
-http://144.217.64.126:8080/live/demo/demo/21100.ts
-#EXTINF:-1,CA | TVO  IPTVultra.com [704x480]
-http://144.217.64.126:8080/live/demo/demo/20709.ts
-#EXTINF:-1,CA | GUSTO HD  IPTVultra.com [1280x720]
-http://144.217.64.126:8080/live/demo/demo/20710.ts
-#EXTINF:-1,CA | OUT TV  IPTVultra.com [704x480]
-http://144.217.64.126:8080/live/demo/demo/20705.ts
-#EXTINF:-1,CA | VELOCITY HD  IPTVultra.com [1280x720]
-http://144.217.64.126:8080/live/demo/demo/22587.ts
-#EXTINF:-1,CA | LIFETIME HD  IPTVultra.com [1280x720]
-http://144.217.64.126:8080/live/demo/demo/21094.ts
-#EXTINF:-1,CA | COTTAGE LIFE HD  IPTVultra.com [1280x720]
-http://144.217.64.126:8080/live/demo/demo/26077.ts
-#EXTINF:-1,CA | BBC EARTH HD  IPTVultra.com [1280x720]
-http://144.217.64.126:8080/live/demo/demo/26163.ts
-#EXTINF:-1,CA | COMEDY HD  IPTVultra.com [704x480]
-http://144.217.64.126:8080/live/demo/demo/21109.ts
-#EXTINF:-1,CA | A&E HD  IPTVultra.com [1920x1088]
-http://144.217.64.126:8080/live/demo/demo/22583.ts
-#EXTINF:-1,CA | ANIMAL PLANET HD  IPTVultra.com [1280x720]
-http://144.217.64.126:8080/live/demo/demo/21103.ts
-#EXTINF:-1,CA | MUCHMUSIC HD  IPTVultra.com [1920x1088]
-http://144.217.64.126:8080/live/demo/demo/29964.ts
-#EXTINF:-1,CA | FOOD NETWORK HD  IPTVultra.com [1920x1088]
-http://144.217.64.126:8080/live/demo/demo/29963.ts
-#EXTINF:-1,CA | DISCOVERY HD  IPTVultra.com [1280x720]
-http://144.217.64.126:8080/live/demo/demo/21102.ts
-#EXTINF:-1,CA | PEACHTREE  IPTVultra.com [704x480]
-http://144.217.64.126:8080/live/demo/demo/30891.ts
-#EXTINF:-1,CA | BNN  IPTVultra.com [1280x720]
-http://144.217.64.126:8080/live/demo/demo/31299.ts
-#EXTINF:-1,CA | FXX HD  IPTVultra.com [1280x720]
-http://144.217.64.126:8080/live/demo/demo/29966.ts
-#EXTINF:-1,CA | FX HD  IPTVultra.com [1920x1088]
-http://144.217.64.126:8080/live/demo/demo/21097.ts
-#EXTINF:-1,CA | NAT GEO HD  IPTVultra.com [1280x720]
-http://144.217.64.126:8080/live/demo/demo/21105.ts
-#EXTINF:-1,CA | BRAVO HD  IPTVultra.com [1280x720]
-http://144.217.64.126:8080/live/demo/demo/29962.ts
-#EXTINF:-1,CA | LOVE NATURE HD  IPTVultra.com [1920x1088]
-http://144.217.64.126:8080/live/demo/demo/21505.ts
-#EXTINF:-1,CA | SPACE  IPTVultra.com [1920x1088]
-http://144.217.64.126:8080/live/demo/demo/30892.ts
-#EXTINF:-1,CA | HISTORY HD  IPTVultra.com [720x576]
-http://144.217.64.126:8080/live/demo/demo/21106.ts
-#EXTINF:-1,CA | NAT GEO WILD HD  IPTVultra.com [1920x1088]
-http://144.217.64.126:8080/live/demo/demo/21104.ts
-#EXTINF:-1,CA | FOX EAST  IPTVultra.com [704x480]
-http://144.217.64.126:8080/live/demo/demo/27768.ts
-#EXTINF:-1,CA | AMC  IPTVultra.com [704x480]
-http://144.217.64.126:8080/live/demo/demo/29969.ts
-#EXTINF:-1,CA | OMNI 1 HD  IPTVultra.com [704x480]
-http://144.217.64.126:8080/live/toby1/toby1/22585.ts
-#EXTINF:-1,CA | E!  IPTVultra.com [1280x720]
-http://144.217.64.126:8080/live/demo/demo/31341.ts
-#EXTINF:-1,CA | DTOUR  IPTVultra.com [1280x720]
-http://144.217.64.126:8080/live/demo/demo/31337.ts
-#EXTINF:-1,CA | OWN HD  IPTVultra.com [1280x720]
-http://144.217.64.126:8080/live/demo/demo/26454.ts
-#EXTINF:-1,CA | BET  IPTVultra.com [704x480]
-http://144.217.64.126:8080/live/demo/demo/31528.ts
-#EXTINF:-1,CA | SPIKE / PARAMOUNT HD  IPTVultra.com [704x576]
-http://144.217.64.126:8080/live/demo/demo/31531.ts
-#EXTINF:-1,CA | DIY HD  IPTVultra.com [1920x1088]
-http://144.217.64.126:8080/live/toby1/toby1/31529.ts
-#EXTINF:-1,CA | TURNER CLASSIC MOVIES  IPTVultra.com [704x480]
-http://144.217.64.126:8080/live/demo/demo/31533.ts
-#EXTINF:-1,CA | CMT  IPTVultra.com [720x576]
-http://144.217.64.126:8080/live/demo/demo/31582.ts
-#EXTINF:-1,CA | ID HD  IPTVultra.com [1920x1088]
-http://144.217.64.126:8080/live/demo/demo/31596.ts
-#EXTINF:-1,CAN F | CITY MTL  IPTVultra.com [1280x720]
-http://144.217.64.126:8080/live/demo/demo/31606.ts
-#EXTINF:-1,CA | SMITHSONIAN HD  IPTVultra.com [1280x720]
-http://144.217.64.126:8080/live/demo/demo/31674.ts
-#EXTINF:-1,CA | ACTION HD  IPTVultra.com [1280x720]
-http://144.217.64.126:8080/live/demo/demo/31527.ts
-#EXTINF:-1,CA | HBO WEST HD  IPTVultra.com [1280x720]
-http://144.217.64.126:8080/live/demo/demo/26162.ts
-#EXTINF:-1,CA | TMN 3 HD  IPTVultra.com [1280x720]
-http://144.217.64.126:8080/live/demo/demo/29968.ts
-#EXTINF:-1,CA | TMN 1  IPTVultra.com [704x480]
-http://144.217.64.126:8080/live/demo/demo/21114.ts
-#EXTINF:-1,CA | SUPER CH1 HD  IPTVultra.com [1280x720]
-http://144.217.64.126:8080/live/demo/demo/26078.ts
-#EXTINF:-1,CA | SUPER CH3 HD  IPTVultra.com [1280x720]
-http://144.217.64.126:8080/live/demo/demo/26079.ts
-#EXTINF:-1,CA | HBO EAST  IPTVultra.com [1280x720]
-http://144.217.64.126:8080/live/demo/demo/31594.ts
-#EXTINF:-1,CA | TMN 2 HD  IPTVultra.com [1280x720]
-http://144.217.64.126:8080/live/demo/demo/21113.ts
-#EXTINF:-1,CA | SHOWCASE  IPTVultra.com [1280x720]
-http://144.217.64.126:8080/live/demo/demo/32499.ts
-#EXTINF:-1,CA | CBC EDMONTON  IPTVultra.com [1280x720]
-http://144.217.64.126:8080/live/demo/demo/31960.ts
-#EXTINF:-1,CA | CBC MONTREAL  IPTVultra.com [1280x720]
-http://144.217.64.126:8080/live/demo/demo/31336.ts
-#EXTINF:-1,CA | CTV EDMONTON HD  IPTVultra.com [1280x720]
-http://144.217.64.126:8080/live/demo/demo/22590.ts
-#EXTINF:-1,CAN F ARTV  IPTVultra.com [704x480]
-http://144.217.64.126:8080/live/demo/demo/35508.ts
-#EXTINF:-1,CAN F CANAL SAVOIR  IPTVultra.com [704x480]
-http://144.217.64.126:8080/live/demo/demo/35506.ts
-#EXTINF:-1,CAN F CANAL D  IPTVultra.com [704x480]
-http://144.217.64.126:8080/live/demo/demo/35507.ts
-#EXTINF:-1,CAN F ADDIK TV  IPTVultra.com [704x480]
-http://144.217.64.126:8080/live/demo/demo/35509.ts
-#EXTINF:-1,CAN F CBC MONTREAL  IPTVultra.com [704x480]
-http://144.217.64.126:8080/live/demo/demo/35504.ts
-#EXTINF:-1,CAN F CASA  IPTVultra.com [704x480]
-http://144.217.64.126:8080/live/demo/demo/35505.ts
-#EXTINF:-1,CAN F CINEPOP  IPTVultra.com [704x480]
-http://144.217.64.126:8080/live/demo/demo/35503.ts
-#EXTINF:-1,CAN F FRISIN  IPTVultra.com [1280x720]
-http://144.217.64.126:8080/live/demo/demo/35500.ts
-#EXTINF:-1,CAN F HISTORIO  IPTVultra.com [704x480]
-http://144.217.64.126:8080/live/demo/demo/35471.ts
-#EXTINF:-1,CAN F LCN  IPTVultra.com [704x480]
-http://144.217.64.126:8080/live/demo/demo/35499.ts
-#EXTINF:-1,CAN F CPAC FRENCH  IPTVultra.com [704x480]
-http://144.217.64.126:8080/live/demo/demo/35502.ts
-#EXTINF:-1,CAN F DISNEY FRENCH  IPTVultra.com [704x480]
-http://144.217.64.126:8080/live/demo/demo/35501.ts
-#EXTINF:-1,CAN F ICI MONTREAL  IPTVultra.com [704x480]
-http://144.217.64.126:8080/live/demo/demo/35470.ts
-#EXTINF:-1,CAN F ICI VANCOUVER  IPTVultra.com [704x480]
-http://144.217.64.126:8080/live/demo/demo/35469.ts
-#EXTINF:-1,CAN F MAGIO  IPTVultra.com [704x480]
-http://144.217.64.126:8080/live/demo/demo/35498.ts
-#EXTINF:-1,CAN F MAX  IPTVultra.com [704x480]
-http://144.217.64.126:8080/live/demo/demo/35495.ts
-#EXTINF:-1,CAN F METEO  IPTVultra.com [704x480]
-http://144.217.64.126:8080/live/demo/demo/35497.ts
-#EXTINF:-1,CAN F PRISE  IPTVultra.com [704x480]
-http://144.217.64.126:8080/live/demo/demo/35493.ts
-#EXTINF:-1,CAN F MUSIQUE PLUS  IPTVultra.com [704x480]
-http://144.217.64.126:8080/live/demo/demo/35494.ts
-#EXTINF:-1,CAN F RDS  IPTVultra.com [704x480]
-http://144.217.64.126:8080/live/demo/demo/35491.ts
-#EXTINF:-1,CAN F RDI  IPTVultra.com [704x480]
-http://144.217.64.126:8080/live/demo/demo/35492.ts
-#EXTINF:-1,CAN F MOI CIE  IPTVultra.com [704x480]
-http://144.217.64.126:8080/live/demo/demo/35496.ts
-#EXTINF:-1,CAN F RDS 2  IPTVultra.com [1280x720]
-http://144.217.64.126:8080/live/demo/demo/35490.ts
-#EXTINF:-1,CAN F SERIS  IPTVultra.com [704x480]
-http://144.217.64.126:8080/live/demo/demo/35489.ts
-#EXTINF:-1,CAN F SUPER ECRAN 1  IPTVultra.com [704x480]
-http://144.217.64.126:8080/live/demo/demo/35488.ts
-#EXTINF:-1,CAN F SUPER ECRAN 2  IPTVultra.com [704x480]
-http://144.217.64.126:8080/live/demo/demo/35487.ts
-#EXTINF:-1,CAN F SUPER ECRAN 4  IPTVultra.com [704x480]
-http://144.217.64.126:8080/live/demo/demo/35485.ts
-#EXTINF:-1,CAN F SUPER ECRAN 3  IPTVultra.com [704x480]
-http://144.217.64.126:8080/live/demo/demo/35486.ts
-#EXTINF:-1,CAN F TELE QUEBEC  IPTVultra.com [704x480]
-http://144.217.64.126:8080/live/demo/demo/35484.ts
-#EXTINF:-1,CAN F TELE TOON FRENCH  IPTVultra.com [704x480]
-http://144.217.64.126:8080/live/demo/demo/35483.ts
-#EXTINF:-1,CAN F TV5 QUEBEC  IPTVultra.com [704x480]
-http://144.217.64.126:8080/live/demo/demo/35482.ts
-#EXTINF:-1,CAN F TVA GATINEAU  IPTVultra.com [704x480]
-http://144.217.64.126:8080/live/demo/demo/35481.ts
-#EXTINF:-1,CAN F TVA QUEBEC  IPTVultra.com [704x480]
-http://144.217.64.126:8080/live/demo/demo/35479.ts
-#EXTINF:-1,CAN F TVA MONTREAL  IPTVultra.com [704x480]
-http://144.217.64.126:8080/live/demo/demo/35480.ts
-#EXTINF:-1,CAN F VRAK TV  IPTVultra.com [704x480]
-http://144.217.64.126:8080/live/demo/demo/35475.ts
-#EXTINF:-1,CAN F YOOPA  IPTVultra.com [704x480]
-http://144.217.64.126:8080/live/demo/demo/35474.ts
-#EXTINF:-1,CAN F VIE  IPTVultra.com [704x480]
-http://144.217.64.126:8080/live/demo/demo/35476.ts
-#EXTINF:-1,CAN F TVA SPORTS  IPTVultra.com [1280x720]
-http://144.217.64.126:8080/live/demo/demo/35478.ts
-#EXTINF:-1,CAN F V MONTREAL  IPTVultra.com [704x480]
-http://144.217.64.126:8080/live/demo/demo/35477.ts
-#EXTINF:-1,CAN F Z TELE  IPTVultra.com [704x480]
-http://144.217.64.126:8080/live/demo/demo/35473.ts
-#EXTINF:-1,CAN F ZESTE  IPTVultra.com [704x480]
-http://144.217.64.126:8080/live/demo/demo/35472.ts
-#EXTINF:-1,CA | NBA TV HD  IPTVultra.com [1280x720]
-http://144.217.64.126:8080/live/toby1/toby1/36568.ts
-#EXTINF:-1,CA | OLN  IPTVultra.com [1280x720]
-http://144.217.64.126:8080/live/toby1/toby1/36569.ts
-#EXTINF:-1,CA | HIFI HD  IPTVultra.com [1280x720]
-http://144.217.64.126:8080/live/toby1/toby1/36576.ts
-#EXTINF:-1,CAN F | TVA SPORTS2  IPTVultra.com [1280x720]
-http://144.217.64.126:8080/live/toby1/toby1/36572.ts
-#EXTINF:-1,CA | TLC HD  IPTVultra.com [1920x1088]
-http://144.217.64.126:8080/live/toby1/toby1/36571.ts
-#EXTINF:-1,CAN F | TVA SPORTS  IPTVultra.com [1280x720]
-http://144.217.64.126:8080/live/toby1/toby1/36573.ts
-#EXTINF:-1,CA | BEINSPORTS CANADA  IPTVultra.com [1280x720]
-http://144.217.64.126:8080/live/toby1/toby1/36570.ts
-#EXTINF:-1,CAN F | RDS2 HD  IPTVultra.com [1280x720]
-http://144.217.64.126:8080/live/toby1/toby1/36567.ts
-#EXTINF:-1,CA | MSNBC  IPTVultra.com [1280x720]
-http://144.217.64.126:8080/live/toby1/toby1/36575.ts
-#EXTINF:-1,CA | GLOBAL EAST HD  IPTVultra.com [1280x720]
-http://p4.giffy.be:8080/live/aman1/aman1/22581.ts
-#EXTINF:-1,CA | CTV CALGARY HD  IPTVultra.com [704x480]
-http://p4.giffy.be:8080/live/aman1/aman1/22592.ts
-#EXTINF:-1,CA | GLOBAL CALGARY HD  IPTVultra.com [1280x720]
-http://p4.giffy.be:8080/live/aman1/aman1/22593.ts
-#EXTINF:-1,CA | CBC NEWS NETWORK HD  IPTVultra.com [1920x1088]
-http://p4.giffy.be:8080/live/aman1/aman1/28635.ts
-#EXTINF:-1,CA | CBC CALGARY HD  IPTVultra.com [1280x720]
-http://p4.giffy.be:8080/live/aman1/aman1/22580.ts
-#EXTINF:-1,CA | CBC EAST HD  IPTVultra.com [1280x720]
-http://p4.giffy.be:8080/live/aman1/aman1/16517.ts
-#EXTINF:-1,CA | CITY CALGARY HD  IPTVultra.com [1280x720]
-http://p4.giffy.be:8080/live/toby1/toby1/26565.ts
-#EXTINF:-1,CA | CITY TV EAST  IPTVultra.com [1280x720]
-http://p4.giffy.be:8080/live/aman1/aman1/20712.ts
-#EXTINF:-1,CA | OMNI 2 HD  IPTVultra.com [1280x720]
-http://p4.giffy.be:8080/live/aman1/aman1/22586.ts
-#EXTINF:-1,CA | CP24 HD  IPTVultra.com [1280x768]
-http://p4.giffy.be:8080/live/aman1/aman1/20725.ts
-#EXTINF:-1,CA | OMNI 1 HD  IPTVultra.com [1280x720]
-http://p4.giffy.be:8080/live/aman1/aman1/22585.ts
-#EXTINF:-1,CA | CNN HD  IPTVultra.com [1280x720]
-http://p4.giffy.be:8080/live/aman1/aman1/20916.ts
-#EXTINF:-1,CA | VELOCITY HD  IPTVultra.com [1280x720]
-http://p4.giffy.be:8080/live/aman1/aman1/22587.ts
-#EXTINF:-1,CA | NAT GEO HD  IPTVultra.com [1280x720]
-http://p4.giffy.be:8080/live/aman1/aman1/21105.ts
-#EXTINF:-1,CA | AMC  IPTVultra.com [704x480]
-http://p4.giffy.be:8080/live/aman1/aman1/29969.ts
-#EXTINF:-1,CA | FOX EAST  IPTVultra.com [704x480]
-http://p4.giffy.be:8080/live/aman1/aman1/27768.ts
-#EXTINF:-1,CA | TVO  IPTVultra.com [704x480]
-http://p4.giffy.be:8080/live/aman1/aman1/20709.ts
-#EXTINF:-1,CA | SLICE HD  IPTVultra.com [1280x720]
-http://p4.giffy.be:8080/live/aman1/aman1/21095.ts
-#EXTINF:-1,CA | CITY VANCOUVER HD  IPTVultra.com [1280x720]
-http://p4.giffy.be:8080/live/aman1/aman1/27765.ts
-#EXTINF:-1,CA | LOVE NATURE HD  IPTVultra.com [1920x1088]
-http://p4.giffy.be:8080/live/aman1/aman1/21505.ts
-#EXTINF:-1,CA | GUSTO HD  IPTVultra.com [1280x720]
-http://p4.giffy.be:8080/live/aman1/aman1/20710.ts
-#EXTINF:-1, tvg id="CTV.ca" tvg name="CA | CTV EAST HD" tvg logo="https://s3.amazonaws.com/shresized/eng sport/ctvnew.jpg" group title="CAN"CA | CTV EAST HD  IPTVultra.com [1280x720]
-http://p4.giffy.be:8080/live/f1/f1/21510.ts
-#EXTINF:-1,CA | HISTORY HD  IPTVultra.com [720x576]
-http://p4.giffy.be:8080/live/aman1/aman1/21106.ts
-#EXTINF:-1,CA | HGTV HD  IPTVultra.com [1920x1088]
-http://p4.giffy.be:8080/live/aman1/aman1/21107.ts
-#EXTINF:-1,CA | W HD  IPTVultra.com [704x480]
-http://p4.giffy.be:8080/live/aman1/aman1/21100.ts
-#EXTINF:-1,CA | LIFETIME HD  IPTVultra.com [1280x720]
-http://p4.giffy.be:8080/live/aman1/aman1/21094.ts
-#EXTINF:-1,CA | COTTAGE LIFE HD  IPTVultra.com [1280x720]
-http://p4.giffy.be:8080/live/aman1/aman1/26077.ts
-#EXTINF:-1, tvg id="" tvg name="CA | CTV NEWS" tvg logo="https://s3.amazonaws.com/shresized/eng sport/bnnnew.jpg" group title="CAN"CA | CTV NEWS  IPTVultra.com [1280x720]
-http://p4.giffy.be:8080/live/f1/f1/31446.ts
-#EXTINF:-1,CA | CBC NEWS EDMONTON HD  IPTVultra.com [1280x720]
-http://p4.giffy.be:8080/live/aman1/aman1/20723.ts
-#EXTINF:-1,CA | CARTOON NETWORK  IPTVultra.com [1024x576]
-http://p4.giffy.be:8080/live/aman1/aman1/21995.ts
-#EXTINF:-1,CA | A&E HD  IPTVultra.com [1920x1088]
-http://p4.giffy.be:8080/live/aman1/aman1/22583.ts
-#EXTINF:-1,CA | OUT TV  IPTVultra.com [704x480]
-http://p4.giffy.be:8080/live/aman1/aman1/20705.ts
-#EXTINF:-1,CA | BBC EARTH HD  IPTVultra.com [1280x720]
-http://p4.giffy.be:8080/live/amanpreet/amanpreet/26163.ts
-#EXTINF:-1,CA | GLOBAL BC HD  IPTVultra.com [704x480]
-http://p4.giffy.be:8080/live/aman1/aman1/20720.ts
-#EXTINF:-1,CA | CBC VANCOUVER HD  IPTVultra.com [1280x720]
-http://p4.giffy.be:8080/live/aman1/aman1/22591.ts
-#EXTINF:-1,CA | ANIMAL PLANET HD  IPTVultra.com [1280x720]
-http://p4.giffy.be:8080/live/aman1/aman1/21103.ts
-#EXTINF:-1,CA | PEACHTREE  IPTVultra.com [704x480]
-http://p4.giffy.be:8080/live/aman1/aman1/30891.ts
-#EXTINF:-1,CA | NAT GEO WILD HD  IPTVultra.com [1920x1088]
-http://p4.giffy.be:8080/live/aman1/aman1/21104.ts
-#EXTINF:-1,CA | FOOD NETWORK HD  IPTVultra.com [1920x1088]
-http://p4.giffy.be:8080/live/aman1/aman1/29963.ts
-#EXTINF:-1,CA | BNN  IPTVultra.com [1280x720]
-http://p4.giffy.be:8080/live/aman1/aman1/31299.ts
-#EXTINF:-1,CA | FX HD  IPTVultra.com [1920x1088]
-http://p4.giffy.be:8080/live/aman1/aman1/21097.ts
-#EXTINF:-1,CA | SPACE  IPTVultra.com [1920x1088]
-http://p4.giffy.be:8080/live/aman1/aman1/30892.ts
-#EXTINF:-1,CA | MUCHMUSIC HD  IPTVultra.com [1920x1088]
-http://p4.giffy.be:8080/live/aman1/aman1/29964.ts
-#EXTINF:-1,CA | BRAVO HD  IPTVultra.com [1280x720]
-http://p4.giffy.be:8080/live/aman1/aman1/29962.ts
-#EXTINF:-1,CA | FXX HD  IPTVultra.com [1280x720]
-http://p4.giffy.be:8080/live/aman1/aman1/29966.ts
-#EXTINF:-1,CA | COMEDY HD  IPTVultra.com [704x480]
-http://p4.giffy.be:8080/live/aman1/aman1/21109.ts
-#EXTINF:-1,CA | DISCOVERY HD  IPTVultra.com [1280x720]
-http://p4.giffy.be:8080/live/aman1/aman1/21102.ts
-#EXTINF:-1,CA | E!  IPTVultra.com [1280x720]
-http://p4.giffy.be:8080/live/aman1/aman1/31341.ts
-#EXTINF:-1,CA | DTOUR  IPTVultra.com [1280x720]
-http://p4.giffy.be:8080/live/aman1/aman1/31337.ts
-#EXTINF:-1,CA | OWN HD  IPTVultra.com [1280x720]
-http://p4.giffy.be:8080/live/aman1/aman1/26454.ts
-#EXTINF:-1,CA | TURNER CLASSIC MOVIES  IPTVultra.com [704x480]
-http://p4.giffy.be:8080/live/aman1/aman1/31533.ts
-#EXTINF:-1,CAN F | CITY MTL  IPTVultra.com [1280x720]
-http://p4.giffy.be:8080/live/aman1/aman1/31606.ts
-#EXTINF:-1,CA | CMT  IPTVultra.com [720x576]
-http://p4.giffy.be:8080/live/aman1/aman1/31582.ts
-#EXTINF:-1,CA | DIY HD  IPTVultra.com [1920x1088]
-http://p4.giffy.be:8080/live/nat/nat/31529.ts
-#EXTINF:-1,CA | SPIKE / PARAMOUNT HD  IPTVultra.com [1920x1088]
-http://p4.giffy.be:8080/live/aman1/aman1/31531.ts
-#EXTINF:-1,CA | BET  IPTVultra.com [704x480]
-http://p4.giffy.be:8080/live/aman1/aman1/31528.ts
-#EXTINF:-1,CA | SMITHSONIAN HD  IPTVultra.com [1280x720]
-http://p4.giffy.be:8080/live/aman1/aman1/31674.ts
-#EXTINF:-1,CA | HBO WEST HD  IPTVultra.com [1280x720]
-http://p4.giffy.be:8080/live/aman1/aman1/26162.ts
-#EXTINF:-1,CA | HBO EAST  IPTVultra.com [1280x720]
-http://p4.giffy.be:8080/live/aman1/aman1/31594.ts
-#EXTINF:-1,CA | TMN 1  IPTVultra.com [704x480]
-http://p4.giffy.be:8080/live/aman1/aman1/21114.ts
-#EXTINF:-1,CA | SUPER CH1 HD  IPTVultra.com [1280x720]
-http://p4.giffy.be:8080/live/aman1/aman1/26078.ts
-#EXTINF:-1,CA | TMN 3 HD  IPTVultra.com [1280x720]
-http://p4.giffy.be:8080/live/aman1/aman1/29968.ts
-#EXTINF:-1,CA | TMN 2 HD  IPTVultra.com [1280x720]
-http://p4.giffy.be:8080/live/aman1/aman1/21113.ts
-#EXTINF:-1, tvg id="Action.ca" tvg name="CA | ACTION HD" tvg logo="https://s3.amazonaws.com/shresized/english us ca/action+hd.jpg" group title="CAN"CA | ACTION HD  IPTVultra.com [1280x720]
-http://p4.giffy.be:8080/live/f1/f1/31527.ts
-#EXTINF:-1, tvg id="SuperChannel3.ca" tvg name="CA | SUPER CH3 HD" tvg logo="http://www.tv logo.com/pt data/uploads/images/logo/super channel3 ca.jpg" group title="CAN"CA | SUPER CH3 HD  IPTVultra.com [1280x720]
-http://p4.giffy.be:8080/live/f1/f1/26079.ts
-#EXTINF:-1,CA | CBC MONTREAL  IPTVultra.com [1280x720]
-http://p4.giffy.be:8080/live/aman1/aman1/31336.ts
-#EXTINF:-1,CA | CTV EDMONTON HD  IPTVultra.com [1280x720]
-http://p4.giffy.be:8080/live/aman1/aman1/22590.ts
-#EXTINF:-1,CAN F ADDIK TV  IPTVultra.com [704x480]
-http://p4.giffy.be:8080/live/aman1/aman1/35509.ts
-#EXTINF:-1,CAN F ARTV  IPTVultra.com [704x480]
-http://p4.giffy.be:8080/live/aman1/aman1/35508.ts
-#EXTINF:-1, tvg id="" tvg name="CA | ID HD" tvg logo="https://s3.amazonaws.com/shresized/english us ca/id+channel+logo.jpg" group title="CAN"CA | ID HD  IPTVultra.com [1920x1088]
-http://p4.giffy.be:8080/live/f1/f1/31596.ts
-#EXTINF:-1,CAN F CANAL SAVOIR  IPTVultra.com [704x480]
-http://p4.giffy.be:8080/live/amanpreet/amanpreet/35506.ts
-#EXTINF:-1,CAN F CANAL D  IPTVultra.com [704x480]
-http://p4.giffy.be:8080/live/aman1/aman1/35507.ts
-#EXTINF:-1,CAN F MAX  IPTVultra.com [704x480]
-http://p4.giffy.be:8080/live/aman1/aman1/35495.ts
-#EXTINF:-1,CAN F FRISIN  IPTVultra.com [1280x720]
-http://p4.giffy.be:8080/live/aman1/aman1/35500.ts
-#EXTINF:-1,CAN F ICI MONTREAL  IPTVultra.com [704x480]
-http://p4.giffy.be:8080/live/aman1/aman1/35470.ts
-#EXTINF:-1,CAN F CINEPOP  IPTVultra.com [704x480]
-http://p4.giffy.be:8080/live/aman1/aman1/35503.ts
-#EXTINF:-1,CAN F DISNEY FRENCH  IPTVultra.com [704x480]
-http://p4.giffy.be:8080/live/aman1/aman1/35501.ts
-#EXTINF:-1,CAN F CBC MONTREAL  IPTVultra.com [704x480]
-http://p4.giffy.be:8080/live/aman1/aman1/35504.ts
-#EXTINF:-1,CAN F ICI VANCOUVER  IPTVultra.com [704x480]
-http://p4.giffy.be:8080/live/aman1/aman1/35469.ts
-#EXTINF:-1,CAN F CASA  IPTVultra.com [704x480]
-http://p4.giffy.be:8080/live/aman1/aman1/35505.ts
-#EXTINF:-1,CAN F LCN  IPTVultra.com [704x480]
-http://p4.giffy.be:8080/live/aman1/aman1/35499.ts
-#EXTINF:-1,CAN F METEO  IPTVultra.com [704x480]
-http://p4.giffy.be:8080/live/aman1/aman1/35497.ts
-#EXTINF:-1,CAN F HISTORIO  IPTVultra.com [704x480]
-http://p4.giffy.be:8080/live/aman1/aman1/35471.ts
-#EXTINF:-1,CAN F TELE QUEBEC  IPTVultra.com [704x480]
-http://p4.giffy.be:8080/live/aman1/aman1/35484.ts
-#EXTINF:-1,CAN F RDS  IPTVultra.com [704x480]
-http://p4.giffy.be:8080/live/aman1/aman1/35491.ts
-#EXTINF:-1,CAN F SUPER ECRAN 1  IPTVultra.com [704x480]
-http://p4.giffy.be:8080/live/aman1/aman1/35488.ts
-#EXTINF:-1,CAN F SERIS  IPTVultra.com [704x480]
-http://p4.giffy.be:8080/live/aman1/aman1/35489.ts
-#EXTINF:-1,CAN F SUPER ECRAN 2  IPTVultra.com [704x480]
-http://p4.giffy.be:8080/live/aman1/aman1/35487.ts
-#EXTINF:-1,CAN F SUPER ECRAN 3  IPTVultra.com [704x480]
-http://p4.giffy.be:8080/live/aman1/aman1/35486.ts
-#EXTINF:-1,CAN F TELE TOON FRENCH  IPTVultra.com [704x480]
-http://p4.giffy.be:8080/live/aman1/aman1/35483.ts
-#EXTINF:-1,CAN F SUPER ECRAN 4  IPTVultra.com [704x480]
-http://p4.giffy.be:8080/live/aman1/aman1/35485.ts
-#EXTINF:-1,CAN F MOI CIE  IPTVultra.com [704x480]
-http://p4.giffy.be:8080/live/aman1/aman1/35496.ts
-#EXTINF:-1,CAN F TV5 QUEBEC  IPTVultra.com [704x480]
-http://p4.giffy.be:8080/live/aman1/aman1/35482.ts
-#EXTINF:-1,CAN F RDI  IPTVultra.com [704x480]
-http://p4.giffy.be:8080/live/aman1/aman1/35492.ts
-#EXTINF:-1,CAN F PRISE  IPTVultra.com [704x480]
-http://p4.giffy.be:8080/live/aman1/aman1/35493.ts
-#EXTINF:-1,CAN F RDS 2  IPTVultra.com [704x480]
-http://p4.giffy.be:8080/live/aman1/aman1/35490.ts
-#EXTINF:-1,CAN F TVA QUEBEC  IPTVultra.com [704x480]
-http://p4.giffy.be:8080/live/aman1/aman1/35479.ts
-#EXTINF:-1,CAN F VRAK TV  IPTVultra.com [704x480]
-http://p4.giffy.be:8080/live/aman1/aman1/35475.ts
-#EXTINF:-1,CAN F Z TELE  IPTVultra.com [704x480]
-http://p4.giffy.be:8080/live/aman1/aman1/35473.ts
-#EXTINF:-1,CAN F VIE  IPTVultra.com [704x480]
-http://p4.giffy.be:8080/live/aman1/aman1/35476.ts
-#EXTINF:-1,CAN F TVA MONTREAL  IPTVultra.com [704x480]
-http://p4.giffy.be:8080/live/aman1/aman1/35480.ts
-#EXTINF:-1,CAN F YOOPA  IPTVultra.com [704x480]
-http://p4.giffy.be:8080/live/aman1/aman1/35474.ts
-#EXTINF:-1,CAN F TVA SPORTS  IPTVultra.com [704x480]
-http://p4.giffy.be:8080/live/aman1/aman1/35478.ts
-#EXTINF:-1,CAN F TVA GATINEAU  IPTVultra.com [704x480]
-http://p4.giffy.be:8080/live/aman1/aman1/35481.ts
-#EXTINF:-1, tvg id="Showcase.ca" tvg name="CA | SHOWCASE" tvg logo="https://s3.amazonaws.com/shresized/canada+new/showcase.jpg" group title="CAN"CA | SHOWCASE  IPTVultra.com [704x480]
-http://p4.giffy.be:8080/live/f1/f1/32499.ts
-#EXTINF:-1, tvg id="" tvg name="CAN F CPAC FRENCH" tvg logo="" group title="CAN FRENCH"CAN F CPAC FRENCH  IPTVultra.com [704x480]
-http://p4.giffy.be:8080/live/f1/f1/35502.ts
-#EXTINF:-1, tvg id="" tvg name="CAN F MUSIQUE PLUS" tvg logo="" group title="CAN FRENCH"CAN F MUSIQUE PLUS  IPTVultra.com [704x480]
-http://p4.giffy.be:8080/live/f1/f1/35494.ts
-#EXTINF:-1, tvg id="" tvg name="CAN F MAGIO" tvg logo="" group title="CAN FRENCH"CAN F MAGIO  IPTVultra.com [704x480]
-http://p4.giffy.be:8080/live/f1/f1/35498.ts
-#EXTINF:-1, tvg id="" tvg name="CA | CBC EDMONTON" tvg logo="https://s3.amazonaws.com/shresized/canada+new/cbc+edmonton.jpg" group title="CAN"CA | CBC EDMONTON  IPTVultra.com [1280x720]
-http://p4.giffy.be:8080/live/f1/f1/31960.ts
-#EXTINF:-1,CA | BEINSPORTS CANADA  IPTVultra.com [1280x720]
-http://p4.giffy.be:8080/live/pookie/pookie/36570.ts
-#EXTINF:-1, tvg id="" tvg name="CAN F ZESTE" tvg logo="" group title="CAN FRENCH"CAN F ZESTE  IPTVultra.com [704x480]
-http://p4.giffy.be:8080/live/f1/f1/35472.ts
-#EXTINF:-1,CAN F | TVA SPORTS  IPTVultra.com [1280x720]
-http://p4.giffy.be:8080/live/pookie/pookie/36573.ts
-#EXTINF:-1,CA | HIFI HD  IPTVultra.com [1280x720]
-http://p4.giffy.be:8080/live/pookie/pookie/36576.ts
-#EXTINF:-1,CA | OLN  IPTVultra.com [1280x720]
-http://p4.giffy.be:8080/live/pookie/pookie/36569.ts
-#EXTINF:-1,CAN F | RDS2 HD  IPTVultra.com [1280x720]
-http://p4.giffy.be:8080/live/pookie/pookie/36567.ts
-#EXTINF:-1,CA | MSNBC  IPTVultra.com [1280x720]
-http://p4.giffy.be:8080/live/chris/chris/36575.ts
-#EXTINF:-1,CA | TLC HD  IPTVultra.com [1920x1088]
-http://p4.giffy.be:8080/live/chris/chris/36571.ts
-#EXTINF:-1,CA | NBA TV HD  IPTVultra.com [1280x720]
-http://p4.giffy.be:8080/live/pookie/pookie/36568.ts
-#EXTINF:-1,CAN F | TVA SPORTS2  IPTVultra.com [1280x720]
-http://p4.giffy.be:8080/live/chris/chris/36572.ts
-#EXTINF:-1, tvg id="" tvg name="CAN F V MONTREAL" tvg logo="" group title="CAN FRENCH"CAN F V MONTREAL  IPTVultra.com [704x480]
-http://p4.giffy.be:8080/live/f1/f1/35477.ts
-#EXTINF:-1,CA | A&E HD  IPTVultra.com [1920x1080]
-http://s1.iptv61w.com:25461/live/mateo/mateo123/9685.ts
-#EXTINF:-1, AHC  IPTVultra.com [1920x1080]
-http://s1.iptv61w.com:25461/live/mateo/mateo123/9684.ts
-#EXTINF:-1,CA | AMC  IPTVultra.com [1920x1080]
-http://s1.iptv61w.com:25461/live/mateo/mateo123/9683.ts
-#EXTINF:-1, Cartoon Network  IPTVultra.com [1920x1080]
-http://s1.iptv61w.com:25461/live/mateo/mateo123/9676.ts
-#EXTINF:-1, Animal planet  IPTVultra.com [1920x1080]
-http://s1.iptv61w.com:25461/live/mateo/mateo123/9682.ts
-#EXTINF:-1, BBC Kids 1  IPTVultra.com [704x480]
-http://s1.iptv61w.com:25461/live/josepro/gtTNwfCswi/9681.ts
-#EXTINF:-1, CI  IPTVultra.com [1920x1080]
-http://s1.iptv61w.com:25461/live/mateo/mateo123/9678.ts
-#EXTINF:-1, Chet Tv  IPTVultra.com [1920x1080]
-http://s1.iptv61w.com:25461/live/mateo/mateo123/9679.ts
-#EXTINF:-1, Bravo  IPTVultra.com [1920x1080]
-http://s1.iptv61w.com:25461/live/mateo/mateo123/9680.ts
-#EXTINF:-1, City TV  IPTVultra.com [1920x1080]
-http://s1.iptv61w.com:25461/live/mateo/mateo123/9677.ts
-#EXTINF:-1, CNBC  IPTVultra.com [1920x1080]
-http://s1.iptv61w.com:25461/live/mateo/mateo123/9675.ts
-#EXTINF:-1, Discovery Channel  IPTVultra.com [1920x1080]
-http://s1.iptv61w.com:25461/live/mateo/mateo123/9670.ts
-#EXTINF:-1, Comedy Gold  IPTVultra.com [1920x1080]
-http://s1.iptv61w.com:25461/live/mateo/mateo123/9673.ts
-#EXTINF:-1, Cottage TV Life  IPTVultra.com [1920x1080]
-http://s1.iptv61w.com:25461/live/mateo/mateo123/9672.ts
-#EXTINF:-1, Comedy Gold  IPTVultra.com [1920x1080]
-http://s1.iptv61w.com:25461/live/mateo/mateo123/9674.ts
-#EXTINF:-1,CA | CTV NEWS  IPTVultra.com [1920x1080]
-http://s1.iptv61w.com:25461/live/mateo/mateo123/9671.ts
-#EXTINF:-1, Discovery Science  IPTVultra.com [1920x1080]
-http://s1.iptv61w.com:25461/live/mateo/mateo123/9669.ts
-#EXTINF:-1, Family Junior  IPTVultra.com [1920x1080]
-http://s1.iptv61w.com:25461/live/mateo/mateo123/9665.ts
-#EXTINF:-1, Disney Jr  IPTVultra.com [1920x1080]
-http://s1.iptv61w.com:25461/live/mateo/mateo123/9667.ts
-#EXTINF:-1, Disney Jr  IPTVultra.com [1920x1080]
-http://s1.iptv61w.com:25461/live/mateo/mateo123/9668.ts
-#EXTINF:-1, Documentary  IPTVultra.com [1920x1080]
-http://s1.iptv61w.com:25461/live/mateo/mateo123/9666.ts
-#EXTINF:-1, Family Channel  IPTVultra.com [1920x1080]
-http://s1.iptv61w.com:25461/live/mateo/mateo123/9664.ts
-#EXTINF:-1, Food Network  IPTVultra.com [1280x784]
-http://s1.iptv61w.com:25461/live/josepro/gtTNwfCswi/9661.ts
-#EXTINF:-1, Fight Network  IPTVultra.com [1920x1080]
-http://s1.iptv61w.com:25461/live/mateo/mateo123/9662.ts
-#EXTINF:-1, Game TV  IPTVultra.com [1920x1080]
-http://s1.iptv61w.com:25461/live/mateo/mateo123/9656.ts
-#EXTINF:-1, FOXNC  IPTVultra.com [1920x1080]
-http://s1.iptv61w.com:25461/live/mateo/mateo123/9658.ts
-#EXTINF:-1, FOX W  IPTVultra.com [1920x1080]
-http://s1.iptv61w.com:25461/live/mateo/mateo123/9659.ts
-#EXTINF:-1,CA | HBO WEST HD  IPTVultra.com [1920x1080]
-http://s1.iptv61w.com:25461/live/mateo/mateo123/9654.ts
-#EXTINF:-1, FOX E  IPTVultra.com [1920x1080]
-http://s1.iptv61w.com:25461/live/mateo/mateo123/9660.ts
-#EXTINF:-1, History  IPTVultra.com [1920x1080]
-http://s1.iptv61w.com:25461/live/mateo/mateo123/9651.ts
-#EXTINF:-1, G4  IPTVultra.com [1920x1080]
-http://s1.iptv61w.com:25461/live/mateo/mateo123/9657.ts
-#EXTINF:-1,CA | GLOBAL EAST HD  IPTVultra.com [1920x1080]
-http://s1.iptv61w.com:25461/live/mateo/mateo123/9655.ts
-#EXTINF:-1, HBO 2  IPTVultra.com [1920x1080]
-http://s1.iptv61w.com:25461/live/mateo/mateo123/9653.ts
-#EXTINF:-1, Leafs TV  IPTVultra.com [1920x1080]
-http://s1.iptv61w.com:25461/live/mateo/mateo123/9649.ts
-#EXTINF:-1, Slice  IPTVultra.com [1920x1080]
-http://s1.iptv61w.com:25461/live/mateo/mateo123/9644.ts
-#EXTINF:-1, Showtime East  IPTVultra.com [1920x1080]
-http://s1.iptv61w.com:25461/live/mateo/mateo123/9645.ts
-#EXTINF:-1, HLN  IPTVultra.com [704x480]
-http://s1.iptv61w.com:25461/live/josepro/gtTNwfCswi/9650.ts
-#EXTINF:-1,CA | NBA TV HD  IPTVultra.com [1920x1080]
-http://s1.iptv61w.com:25461/live/mateo/mateo123/9648.ts
-#EXTINF:-1,CA | OWN HD  IPTVultra.com [1920x1080]
-http://s1.iptv61w.com:25461/live/mateo/mateo123/9647.ts
-#EXTINF:-1, SN 360 SD  IPTVultra.com [1920x1080]
-http://s1.iptv61w.com:25461/live/mateo/mateo123/9643.ts
-#EXTINF:-1, Spike  IPTVultra.com [1920x1080]
-http://s1.iptv61w.com:25461/live/mateo/mateo123/9641.ts
-#EXTINF:-1, Space  IPTVultra.com [1920x1080]
-http://s1.iptv61w.com:25461/live/mateo/mateo123/9642.ts
-#EXTINF:-1, SportsNet  IPTVultra.com [1920x1080]
-http://s1.iptv61w.com:25461/live/mateo/mateo123/9639.ts
-#EXTINF:-1, Sportsnet LA  IPTVultra.com [1920x1080]
-http://s1.iptv61w.com:25461/live/mateo/mateo123/9638.ts
-#EXTINF:-1, SportsNet World  IPTVultra.com [1920x1080]
-http://s1.iptv61w.com:25461/live/mateo/mateo123/9633.ts
-#EXTINF:-1, SportsNet One  IPTVultra.com [1920x1080]
-http://s1.iptv61w.com:25461/live/mateo/mateo123/9637.ts
-#EXTINF:-1, SportsNet Ontario  IPTVultra.com [1920x1080]
-http://s1.iptv61w.com:25461/live/mateo/mateo123/9636.ts
-#EXTINF:-1, SportsNet 360  IPTVultra.com [1920x1080]
-http://s1.iptv61w.com:25461/live/mateo/mateo123/9640.ts
-#EXTINF:-1, SportsNet West  IPTVultra.com [1920x1080]
-http://s1.iptv61w.com:25461/live/mateo/mateo123/9634.ts
-#EXTINF:-1, Super Ecran 1  IPTVultra.com [1920x1080]
-http://s1.iptv61w.com:25461/live/mateo/mateo123/9630.ts
-#EXTINF:-1, The Movie Network 2  IPTVultra.com [1920x1080]
-http://s1.iptv61w.com:25461/live/mateo/mateo123/9627.ts
-#EXTINF:-1, The Movie Network 3  IPTVultra.com [1920x1080]
-http://s1.iptv61w.com:25461/live/mateo/mateo123/9626.ts
-#EXTINF:-1, The Movie Network Encore 2  IPTVultra.com [1920x1080]
-http://s1.iptv61w.com:25461/live/mateo/mateo123/9623.ts
-#EXTINF:-1, The Movie Network 4  IPTVultra.com [1920x1080]
-http://s1.iptv61w.com:25461/live/mateo/mateo123/9625.ts
-#EXTINF:-1, Toon East  IPTVultra.com [1920x1080]
-http://s1.iptv61w.com:25461/live/mateo/mateo123/9621.ts
-#EXTINF:-1, The Movie Network Encore 1  IPTVultra.com [1920x1080]
-http://s1.iptv61w.com:25461/live/mateo/mateo123/9624.ts
-#EXTINF:-1,CA | TLC HD  IPTVultra.com [1920x1080]
-http://s1.iptv61w.com:25461/live/mateo/mateo123/9622.ts
-#EXTINF:-1, TSN 1  IPTVultra.com [1920x1080]
-http://s1.iptv61w.com:25461/live/mateo/mateo123/9617.ts
-#EXTINF:-1, Treehouse TV  IPTVultra.com [1920x1080]
-http://s1.iptv61w.com:25461/live/mateo/mateo123/9618.ts
-#EXTINF:-1, TSN 2  IPTVultra.com [1920x1080]
-http://s1.iptv61w.com:25461/live/mateo/mateo123/9616.ts
-#EXTINF:-1, Travel & Escape  IPTVultra.com [1920x1080]
-http://s1.iptv61w.com:25461/live/mateo/mateo123/9619.ts
-#EXTINF:-1, TOONE  IPTVultra.com [1920x1080]
-http://s1.iptv61w.com:25461/live/mateo/mateo123/9620.ts
-#EXTINF:-1, TSN 3  IPTVultra.com [1920x1080]
-http://s1.iptv61w.com:25461/live/mateo/mateo123/9615.ts
-#EXTINF:-1,CA | TVO  IPTVultra.com [1920x1080]
-http://s1.iptv61w.com:25461/live/mateo/mateo123/9612.ts
-#EXTINF:-1, World Fishing Network  IPTVultra.com [1920x1080]
-http://s1.iptv61w.com:25461/live/mateo/mateo123/9611.ts
-#EXTINF:-1, TSN 4  IPTVultra.com [1920x1080]
-http://s1.iptv61w.com:25461/live/mateo/mateo123/9614.ts
-#EXTINF:-1, TSN 5  IPTVultra.com [1920x1080]
-http://s1.iptv61w.com:25461/live/mateo/mateo123/9613.ts
-#EXTINF:-1,CAT Channel TH  IPTVultra.com [1920x1080]
-http://portal.geniptv.com:8080/live/kev1/kev1/9408.ts
-#EXTINF:-1, ABC HD  IPTVultra.com [1280x720]
-http://178.132.7.100:15000/live/rmpeagrt/ML91qql9i3/22296.ts
-#EXTINF:-1, BET black entertainment television  IPTVultra.com [1920x1088]
-http://178.132.7.100:15000/live/rmpeagrt/ML91qql9i3/22294.ts
-#EXTINF:-1, abc spark  IPTVultra.com [1280x720]
-http://178.132.7.100:15000/live/rmpeagrt/ML91qql9i3/22295.ts
-#EXTINF:-1, Bravo HDTV  IPTVultra.com [1280x720]
-http://178.132.7.100:15000/live/rmpeagrt/ML91qql9i3/22292.ts
-#EXTINF:-1, CartoonNetwork  IPTVultra.com [1280x720]
-http://178.132.7.100:15000/live/rmpeagrt/ML91qql9i3/22291.ts
-#EXTINF:-1, CHCH HD  IPTVultra.com [1280x720]
-http://178.132.7.100:15000/live/rmpeagrt/ML91qql9i3/22289.ts
-#EXTINF:-1, fox 25 hd  IPTVultra.com [704x480]
-http://178.132.7.100:15000/live/bzrddxdc/v4v4yP53Vt/22280.ts
-#EXTINF:-1, fox news  IPTVultra.com [704x480]
-http://178.132.7.100:15000/live/bzrddxdc/v4v4yP53Vt/22279.ts
-#EXTINF:-1, fxx hd  IPTVultra.com [1920x1088]
-http://178.132.7.100:15000/live/rmpeagrt/ML91qql9i3/22278.ts
-#EXTINF:-1, gsn  IPTVultra.com [1920x1088]
-http://178.132.7.100:15000/live/bzrddxdc/v4v4yP53Vt/22274.ts
-#EXTINF:-1, History HD  IPTVultra.com [1280x720]
-http://178.132.7.100:15000/live/rmpeagrt/ML91qql9i3/22271.ts
-#EXTINF:-1, Movietime TV  IPTVultra.com [704x480]
-http://178.132.7.100:15000/live/bzrddxdc/v4v4yP53Vt/22268.ts
-#EXTINF:-1, RDS2 HD TV  IPTVultra.com [1920x1088]
-http://178.132.7.100:15000/live/rmpeagrt/ML91qql9i3/22257.ts
-#EXTINF:-1, Spike HD  IPTVultra.com [1920x1088]
-http://178.132.7.100:15000/live/rmpeagrt/ML91qql9i3/22253.ts
-#EXTINF:-1, Sportnet Ontario HD  IPTVultra.com [704x480]
-http://178.132.7.100:15000/live/bzrddxdc/v4v4yP53Vt/22252.ts
-#EXTINF:-1, Sportnet Pacific HD  IPTVultra.com [704x480]
-http://178.132.7.100:15000/live/bzrddxdc/v4v4yP53Vt/22251.ts
-#EXTINF:-1, Sportsnet One HD  IPTVultra.com [1280x720]
-http://178.132.7.100:15000/live/rmpeagrt/ML91qql9i3/22250.ts
-#EXTINF:-1, tree house  IPTVultra.com [1280x720]
-http://178.132.7.100:15000/live/rmpeagrt/ML91qql9i3/22244.ts
-#EXTINF:-1, World Fishing TV  IPTVultra.com [704x480]
-http://178.132.7.100:15000/live/bzrddxdc/v4v4yP53Vt/22241.ts
-#EXTINF:-1,YTV HD  IPTVultra.com [704x480]
-http://178.132.7.100:15000/live/rmpeagrt/ML91qql9i3/22240.ts
-#EXTINF:-1, NBA TV CA  IPTVultra.com [1920x1080]
-http://178.132.7.100:15000/live/bzrddxdc/v4v4yP53Vt/22264.ts
-#EXTINF:-1, HBO 2 CA  IPTVultra.com [960x544]
-http://178.132.7.100:15000/live/bzrddxdc/v4v4yP53Vt/22273.ts
-#EXTINF:-1, SportsNet Pacific  IPTVultra.com [720x576]
-http://s1.iptv61w.com:25461/live/josepro/gtTNwfCswi/9635.ts
-#EXTINF:-1,AR VIP: Bein Sport 6 HD (Backup)  IPTVultra.com [1280x720]
-http://217.160.107.173:25461/live/appco/licoveO1/3940.ts
-#EXTINF:-1,AR VIP: Bein Sport 5 HD (Backup)  IPTVultra.com [960x540]
-http://217.160.107.173:25461/live/appco/licoveO1/3941.ts
-#EXTINF:-1,AR VIP: Bein Sport 4 HD (Backup)  IPTVultra.com [720x576]
-http://217.160.107.173:25461/live/appco/licoveO1/3942.ts
-#EXTINF:-1,AR VIP: Bein Sport 3 HD (Backup)  IPTVultra.com [1120x640]
-http://217.160.107.173:25461/live/appco/licoveO1/3943.ts
-#EXTINF:-1,AR VIP: Bein Sport 2 HD (Backup)  IPTVultra.com [1280x720]
-http://217.160.107.173:25461/live/appco/licoveO1/3944.ts
-#EXTINF:-1,AR VIP: Bein Sport 12 HD (Backup)  IPTVultra.com [1920x1088]
-http://217.160.107.173:25461/live/appco/licoveO1/3945.ts
-#EXTINF:-1,AR VIP: Bein Sport 11 HD (Backup)  IPTVultra.com [1120x640]
-http://217.160.107.173:25461/live/appco/licoveO1/3946.ts
-#EXTINF:-1,AR VIP: Bein Sport 10 HD (Backup)  IPTVultra.com [960x540]
-http://217.160.107.173:25461/live/appco/licoveO1/3947.ts
-#EXTINF:-1,AR VIP: Bein Sport 1 HD (Backup)  IPTVultra.com [1280x720]
-http://217.160.107.173:25461/live/appco/licoveO1/3948.ts
-#EXTINF:-1, Sportnet Ontario HD  IPTVultra.com [1280x720]
-http://217.160.107.173:25461/live/appco/licoveO1/949.ts
-#EXTINF:-1, sportsnet 360 hd  IPTVultra.com [960x540]
-http://217.160.107.173:25461/live/appco/licoveO1/950.ts
-#EXTINF:-1, Sportsnet One HD  IPTVultra.com [960x540]
-http://217.160.107.173:25461/live/appco/licoveO1/951.ts
-#EXTINF:-1, sportsnet world hd  IPTVultra.com [960x540]
-http://217.160.107.173:25461/live/appco/licoveO1/953.ts
-#EXTINF:-1, ABC Spark  IPTVultra.com [960x540]
-http://217.160.107.173:25461/live/appco/licoveO1/967.ts
-#EXTINF:-1, CHCH HD  IPTVultra.com [960x540]
-http://217.160.107.173:25461/live/appco/licoveO1/966.ts
-#EXTINF:-1, CityTV HD  IPTVultra.com [960x540]
-http://217.160.107.173:25461/live/appco/licoveO1/965.ts
-#EXTINF:-1, CityTV Vancouver  IPTVultra.com [960x540]
-http://217.160.107.173:25461/live/appco/licoveO1/964.ts
-#EXTINF:-1,CA | CP24 HD  IPTVultra.com [960x540]
-http://217.160.107.173:25461/live/appco/licoveO1/963.ts
-#EXTINF:-1, CTV Vancouver  IPTVultra.com [960x540]
-http://217.160.107.173:25461/live/appco/licoveO1/961.ts
-#EXTINF:-1, CTV Winnipeg  IPTVultra.com [960x540]
-http://217.160.107.173:25461/live/appco/licoveO1/960.ts
-#EXTINF:-1, CW HD  IPTVultra.com [960x540]
-http://217.160.107.173:25461/live/appco/licoveO1/959.ts
-#EXTINF:-1, Family HD  IPTVultra.com [960x540]
-http://217.160.107.173:25461/live/appco/licoveO1/958.ts
-#EXTINF:-1, Family Junior SD  IPTVultra.com [960x540]
-http://217.160.107.173:25461/live/appco/licoveO1/957.ts
-#EXTINF:-1, Alsat M HD  IPTVultra.com [720x576]
-http://217.160.107.173:25461/live/appco/licoveO1/3628.ts
-#EXTINF:-1, Global HD  IPTVultra.com [960x540]
-http://217.160.107.173:25461/live/appco/licoveO1/956.ts
-#EXTINF:-1, Super Ecran 2  IPTVultra.com [960x540]
-http://217.160.107.173:25461/live/appco/licoveO1/970.ts
-#EXTINF:-1, Super Ecran 1  IPTVultra.com [960x540]
-http://217.160.107.173:25461/live/appco/licoveO1/971.ts
-#EXTINF:-1, Super Ecran 4  IPTVultra.com [960x540]
-http://217.160.107.173:25461/live/appco/licoveO1/968.ts
-#EXTINF:-1, Teletoon HD  IPTVultra.com [960x540]
-http://217.160.107.173:25461/live/appco/licoveO1/955.ts
-#EXTINF:-1, Velocity HD  IPTVultra.com [1920x1088]
-http://217.160.107.173:25461/live/appco/licoveO1/954.ts
-#EXTINF:-1, Super Ecran 3  IPTVultra.com [960x540]
-http://217.160.107.173:25461/live/appco/licoveO1/969.ts
-#EXTINF:-1, VIASAT FILM HITS  IPTVultra.com [1920x1088]
-http://217.160.107.173:25461/live/appco/licoveO1/2952.ts
-#EXTINF:-1, TV 2 SPORT  IPTVultra.com [1280x720]
-http://217.160.107.173:25461/live/appco/licoveO1/2962.ts
+#EXTINF:-1,sky atlantic
+http://149.202.200.137:8080/skyatlantic/index.m3u8
+#EXTINF:-1,sky living
+http://149.202.200.137:8080/skyliving/index.m3u8
+#EXTINF:-1,watch
+http://149.202.200.137:8080/watch/index.m3u8
+#EXTINF:-1,dave
+http://149.202.200.137:8080/dave/index.m3u8
+#EXTINF:-1,quest
+http://149.202.200.137:8080/quest/index.m3u8
+#EXTINF:-1,universal channel
+http://149.202.200.137:8080/universal/index.m3u8
+#EXTINF:-1,film4
+http://149.202.200.137:8080/film4/index.m3u8
+#EXTINF:-1,UK: SKY NEWS 1080P HD
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/9168.ts
+#EXTINF:-1,UK: SKY NEWS
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/8587.ts
+#EXTINF:-1,UK: CNN NEWS
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/4407.ts
+#EXTINF:-1,UK: BBC NEWS
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/3856.ts
+#EXTINF:-1,UK: BLOMBERG
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/8856.ts
+#EXTINF:-1,UK: ITV1
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/7915.ts
+#EXTINF:-1,UK: ITV2
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/7917.ts
+#EXTINF:-1,UK: ITV3
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/7918.ts
+#EXTINF:-1,UK: ITV4
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/7916.ts
+#EXTINF:-1,UK: ITV BE
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/8855.ts
+#EXTINF:-1,UK: E!
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/5136.ts
+#EXTINF:-1,UK: 3E
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/5147.ts
+#EXTINF:-1,UK: Alibi
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/5145.ts
+#EXTINF:-1,UK: TLC
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/4994.ts
+#EXTINF:-1,UK: FOX
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/8463.ts
+#EXTINF:-1,UK: Sy-Fy
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/4997.ts
+#EXTINF:-1,UK: Dmax
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/3861.ts
+#EXTINF:-1,UK: Home
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/4422.ts
+#EXTINF:-1,UK: Watch
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/4409.ts
+#EXTINF:-1,UK: Quest
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/5131.ts
+#EXTINF:-1,UK: Dave HD
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/8508.ts
+#EXTINF:-1,UK: Real Lives
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/4416.ts
+#EXTINF:-1,UK: ComedyCentral
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/4958.ts
+#EXTINF:-1,UK: Rte one HD
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/4404.ts
+#EXTINF:-1,UK: Rte two HD
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/4405.ts
+#EXTINF:-1,UK: 5 USA
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/5146.ts
+#EXTINF:-1,UK: E4 UK
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/5150.ts
+#EXTINF:-1,UK: More4
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/4412.ts
+#EXTINF:-1,UK: Really
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/4413.ts
+#EXTINF:-1,UK: LiverPool TV
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/4417.ts
+#EXTINF:-1,UK: DRAMA
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/8462.ts
+#EXTINF:-1,UK: TRAVEL 1
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/8469.ts
+#EXTINF:-1,UK: UTV
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/4962.ts
+#EXTINF:-1,UK: BBC 1 HD
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/3860.ts
+#EXTINF:-1,UK: BBC 2 HD
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/3859.ts
+#EXTINF:-1,UK: BBC 3 HD
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/3858.ts
+#EXTINF:-1,UK: BBC 4 HD
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/3857.ts
+#EXTINF:-1,UK: SKY 1HD
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/8289.ts
+#EXTINF:-1,UK: SKY 2HD
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/8503.ts
+#EXTINF:-1,UK: SKY LIVING
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/6895.ts
+#EXTINF:-1,UK: SKY ARTS
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/8458.ts
+#EXTINF:-1,UK: SKY ATLANTIC HD
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/6896.ts
+#EXTINF:-1,UK: SKY GOOD FOOD
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/8857.ts
+#EXTINF:-1,UK: FOOD NETWORK
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/8598.ts
+#EXTINF:-1,UK: SKY SPORT NEWS HQ
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/4963.ts
+#EXTINF:-1,UK: SKY SPORTS 1HD
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/4972.ts
+#EXTINF:-1,UK: SKY SPORTS 1SD
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/4973.ts
+#EXTINF:-1,UK: |VIP| SKY SPORTS 2HD
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/9559.ts
+#EXTINF:-1,UK: SKY SPORTS 2HD
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/4970.ts
+#EXTINF:-1,UK: SKY SPORTS 2SD
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/4971.ts
+#EXTINF:-1,UK: SKY SPORTS 3HD
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/4968.ts
+#EXTINF:-1,UK: |VIP| SKY SPORTS 3HD
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/9560.ts
+#EXTINF:-1,UK: SKY SPORTS 3SD
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/4969.ts
+#EXTINF:-1,UK: |VIP| SKY SPORTS 4HD
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/9561.ts
+#EXTINF:-1,UK: SKY SPORTS 4HD
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/4967.ts
+#EXTINF:-1,UK: |VIP| SKY SPORTS 5HD
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/9562.ts
+#EXTINF:-1,UK: SKY SPORTS 5HD
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/4965.ts
+#EXTINF:-1,UK: SKY SPORTS F1 HD
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/8755.ts
+#EXTINF:-1,UK: |VIP| BT SPORT 1HD 1080P
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/9522.ts
+#EXTINF:-1,UK: BT Sport 1 HD
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/4991.ts
+#EXTINF:-1,UK: |VIP| BT SPORT 2HD 1080P
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/9523.ts
+#EXTINF:-1,UK: BT Sport 2 HD
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/4990.ts
+#EXTINF:-1,UK: |VIP| BT SPORT 3HD 1080P
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/9524.ts
+#EXTINF:-1,UK: BT Sport 3 HD
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/8459.ts
+#EXTINF:-1,UK: SETANTA SPORTS
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/8286.ts
+#EXTINF:-1,UK: Premier Sport
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/4957.ts
+#EXTINF:-1,UK: MUTV
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/7129.ts
+#EXTINF:-1,UK: RACING
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/7128.ts
+#EXTINF:-1,UK: At The Races UK
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/8505.ts
+#EXTINF:-1,UK: Motors TV UK
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/8279.ts
+#EXTINF:-1,UK: BOXNATION
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/6901.ts
+#EXTINF:-1,UK: Chelsea TV
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/4988.ts
+#EXTINF:-1,UK: ID
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/8859.ts
+#EXTINF:-1,UK: Discovery Investigation
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/5151.ts
+#EXTINF:-1,UK: Discovery
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/8067.ts
+#EXTINF:-1,UK: Discovery Turbo
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/4986.ts
+#EXTINF:-1,UK: Discovery history
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/4987.ts
+#EXTINF:-1,UK: National_Geographic
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/6900.ts
+#EXTINF:-1,UK: NATGEO WILD
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/7143.ts
+#EXTINF:-1,UK: Animal Planet
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/8284.ts
+#EXTINF:-1,UK: Sky Sci-Fi
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/8065.ts
+#EXTINF:-1,UK: TRUE MOVIES 01
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/5141.ts
+#EXTINF:-1,UK: TRUE MOVIES 02
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/5142.ts
+#EXTINF:-1,UK: Sky_Movies_Premiere
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/6891.ts
+#EXTINF:-1,UK: Sky_Movies_Select
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/6889.ts
+#EXTINF:-1,UK: Sky-movies-Thriller
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/4956.ts
+#EXTINF:-1,UK: Sky_Movies_Comedy
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/6893.ts
+#EXTINF:-1,UK: Sky_Movies_Showcase
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/6888.ts
+#EXTINF:-1,UK: Sky_Movies_ScFi-Horror
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/6890.ts
+#EXTINF:-1,UK: Sky_Movies_Modern_Greats
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/6892.ts
+#EXTINF:-1,UK: Sky_Movies_Action&Adventure
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/6894.ts
+#EXTINF:-1,UK: Sky Movies Drama and Romance HD
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/8281.ts
+#EXTINF:-1,UK: CBS Reality UK
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/5137.ts
+#EXTINF:-1,UK: CBS_Action
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/8473.ts
+#EXTINF:-1,UK: CBS DRAMA
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/8472.ts
+#EXTINF:-1,UK: The Vault
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/10013.ts
+#EXTINF:-1,UK: Movies4Men
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/8599.ts
+#EXTINF:-1,UK: Film 4 HD
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/4411.ts
+#EXTINF:-1,UK: BABY TV
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/5138.ts
+#EXTINF:-1,UK: Nickelodeon
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/4975.ts
+#EXTINF:-1,UK: CARTOON_NETWORK
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/7312.ts
+#EXTINF:-1,UK: Disney XD
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/3862.ts
+#EXTINF:-1,UK: Disney Junior
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/3863.ts
+#EXTINF:-1,UK: Disney Channel
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/3864.ts
+#EXTINF:-1,UK: Nicktoons
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/6899.ts
+#EXTINF:-1,UK: BOOMERANG
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/5130.ts
+#EXTINF:-1,UK: Disnep Channel UK
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/8283.ts
+#EXTINF:-1,UK: TG 4
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/4421.ts
+#EXTINF:-1,UK: Eden
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/4418.ts
+#EXTINF:-1,UK: MTV_ROCKS
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/5133.ts
+#EXTINF:-1,UK: MTV_HITS
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/5134.ts
+#EXTINF:-1,UK: BEATS
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/10484.ts
+#EXTINF:-1,UK: BIKE
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/10485.ts
+#EXTINF:-1,UK: BLAZE
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/10486.ts
+#EXTINF:-1,UK: CARTOONITO
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/10487.ts
+#EXTINF:-1,UK: CBBC
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/10488.ts
+#EXTINF:-1,UK: CHALANGE
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/10489.ts
+#EXTINF:-1,UK: CNBC
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/10490.ts
+#EXTINF:-1,UK: Discovery Shed
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/10491.ts
+#EXTINF:-1,UK: FORCE TV
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/10492.ts
+#EXTINF:-1,UK: LIFETIME
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/10493.ts
+#EXTINF:-1,UK: MadeinTyneWear
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/10498.ts
+#EXTINF:-1,UK: PICK
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/10494.ts
+#EXTINF:-1,UK: TINY POP
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/10495.ts
+#EXTINF:-1,UK: TV5 Monde
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/10496.ts
+#EXTINF:-1,UK: VICELAND
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/10497.ts
+#EXTINF:-1,UK: WIllow Cricket HD
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/10483.ts
+#EXTINF:-1,UK: VH1
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/5129.ts
+#EXTINF:-1,UK: Vevo 1
+http://worldiptvbox.ddns.net:5210/live/NR16OerqFp/RsK3LTk3NK/5140.ts
+#EXTINF:-1,★★★CANADA★★★
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/6109.ts
+#EXTINF:-1,CANADA: ABC HD
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/6136.ts
+#EXTINF:-1,CANADA: BET
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/6135.ts
+#EXTINF:-1,CANADA: BRAVO HD
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/6134.ts
+#EXTINF:-1,CANADA: CBS HD
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/6133.ts
+#EXTINF:-1,CANADA: CITY VANCOUVER
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/6158.ts
+#EXTINF:-1,CANADA: COMEDY GOLD
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/6157.ts
+#EXTINF:-1,CANADA: COOKING CHANNEL
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/6132.ts
+#EXTINF:-1,CANADA: COTTAGE LIFE
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/6156.ts
+#EXTINF:-1,CANADA: CP24
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/6155.ts
+#EXTINF:-1,CANADA: CTV TORONTO
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/6154.ts
+#EXTINF:-1,CANADA: DEJA VIEW
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/6131.ts
+#EXTINF:-1,CANADA: E!
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/6130.ts
+#EXTINF:-1,CANADA: EVASION
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/6129.ts
+#EXTINF:-1,CANADA: FOX HD
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/6128.ts
+#EXTINF:-1,CANADA: FOX NEWS
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/6153.ts
+#EXTINF:-1,CANADA: FX HD
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/6127.ts
+#EXTINF:-1,CANADA: FYI
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/6152.ts
+#EXTINF:-1,CANADA: G4
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/6151.ts
+#EXTINF:-1,CANADA: GOLF CHANNEL
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/6126.ts
+#EXTINF:-1,CANADA: GSN
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/6150.ts
+#EXTINF:-1,CANADA: HISTORY HD
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/6125.ts
+#EXTINF:-1,CANADA: MOVIE TIME
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/6149.ts
+#EXTINF:-1,CANADA: MTV CANADA
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/6123.ts
+#EXTINF:-1,CANADA: NBC HD
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/6121.ts
+#EXTINF:-1,CANADA: NICK JR
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/6120.ts
+#EXTINF:-1,CANADA: OLN
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/6148.ts
+#EXTINF:-1,CANADA: PEACH TREE TV
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/6147.ts
+#EXTINF:-1,CANADA: RDI
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/6146.ts
+#EXTINF:-1,CANADA: RDS 2
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/6145.ts
+#EXTINF:-1,CANADA: SILVER SCREEN TV
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/6144.ts
+#EXTINF:-1,CANADA: SLICE
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/6143.ts
+#EXTINF:-1,CANADA: SPORTS NET WORLD HD
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/6115.ts
+#EXTINF:-1,CANADA: SUPER ECRAN 1
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/6142.ts
+#EXTINF:-1,CANADA: SUPER ECRAN 2
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/6141.ts
+#EXTINF:-1,CANADA: SUPER ECRAN 3
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/6140.ts
+#EXTINF:-1,CANADA: SUPER ECRAN 4
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/6139.ts
+#EXTINF:-1,CANADA: TELETOON
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/6114.ts
+#EXTINF:-1,CANADA: TRAVEL CHANNEL
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/6113.ts
+#EXTINF:-1,CANADA: TREE HOUSE SD
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/6138.ts
+#EXTINF:-1,CANADA: VRAK TV
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/6112.ts
+#EXTINF:-1,CANADA: W NETWORK
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/6111.ts
+#EXTINF:-1,CANADA: WORLD FISHING
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/6110.ts
+#EXTINF:-1,CANADA: YTV
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/6137.ts
+#EXTINF:-1,CANADA|MUCH MUSIC
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/6122.ts
+#EXTINF:-1,Canale 5 HD
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/1609.ts
+#EXTINF:-1,❤❤❤❤  USA  ❤❤❤❤
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/5122.ts
+#EXTINF:-1,USA:USA Net
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/2918.ts
+#EXTINF:-1,USA:Poker Central
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/2921.ts
+#EXTINF:-1,USA:Nick
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/2922.ts
+#EXTINF:-1,USA:NDTV
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/2924.ts
+#EXTINF:-1,USA:E! HD
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/2914.ts
+#EXTINF:-1,USA: Starz Cinema
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/2919.ts
+#EXTINF:-1,USA: SHOW TIME
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/3764.ts
+#EXTINF:-1,USA: CNN
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/3333.ts
+#EXTINF:-1,USA: CBS NEW,S
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/3762.ts
+#EXTINF:-1,USA: BET
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/3763.ts
+#EXTINF:-1,US: WXYZ TV
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/5108.ts
+#EXTINF:-1,US: WWE Network
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/2211.ts
+#EXTINF:-1,US: Versus NBA HD
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/5109.ts
+#EXTINF:-1,US: Twit TV
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/5110.ts
+#EXTINF:-1,US: TSN 5
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/2322.ts
+#EXTINF:-1,US: TSN 4
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/2206.ts
+#EXTINF:-1,US: TSN 3
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/2321.ts
+#EXTINF:-1,US: TSN 2
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/2205.ts
+#EXTINF:-1,US: TSN 1
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/2204.ts
+#EXTINF:-1,US: TSC
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/5111.ts
+#EXTINF:-1,US: Travel Channel HD
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/5057.ts
+#EXTINF:-1,US: Toonami Aftermath
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/5058.ts
+#EXTINF:-1,US: TLC
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/5059.ts
+#EXTINF:-1,US: The Florida Channel
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/5060.ts
+#EXTINF:-1,US: TBS HD
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/5061.ts
+#EXTINF:-1,US: SyFy US
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/5062.ts
+#EXTINF:-1,US: Starz Edge
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/5065.ts
+#EXTINF:-1,US: Starz East
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/5063.ts
+#EXTINF:-1,US: STARS KIDS & FAMILY
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/5064.ts
+#EXTINF:-1,US: SportsNet Ontario
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/5067.ts
+#EXTINF:-1,US: SportsNet One HD
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/5068.ts
+#EXTINF:-1,US: RT Documentary
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/5069.ts
+#EXTINF:-1,US: RT America HD
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/5070.ts
+#EXTINF:-1,US: Poker Central
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/2214.ts
+#EXTINF:-1,US: Pocker Central
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/5071.ts
+#EXTINF:-1,US: PAG HD
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/5072.ts
+#EXTINF:-1,US: NFL HD
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/5073.ts
+#EXTINF:-1,US: NBCSN
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/5075.ts
+#EXTINF:-1,US: NBC HD
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/5074.ts
+#EXTINF:-1,US: NBC Golf HD
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/2216.ts
+#EXTINF:-1,US: Nasa TV HD
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/5076.ts
+#EXTINF:-1,US: Mute TV
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/5077.ts
+#EXTINF:-1,US: Mello TV
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/5078.ts
+#EXTINF:-1,US: LIFE TIME
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/5079.ts
+#EXTINF:-1,US: ID
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/5081.ts
+#EXTINF:-1,US: HSN 1
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/5082.ts
+#EXTINF:-1,US: History Channel
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/5083.ts
+#EXTINF:-1,US: HGTV
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/5084.ts
+#EXTINF:-1,US: HBO ZONE
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/2209.ts
+#EXTINF:-1,US: HBO SIGNATURE
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/5085.ts
+#EXTINF:-1,US: HBO Family
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/5086.ts
+#EXTINF:-1,US: HBO East
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/5087.ts
+#EXTINF:-1,US: HBO
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/5088.ts
+#EXTINF:-1,US: HALLMARK
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/5089.ts
+#EXTINF:-1,US: Fox Sports 2
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/2208.ts
+#EXTINF:-1,US: Fox Sports 1
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/2207.ts
+#EXTINF:-1,US: Fox Sports  2
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/2213.ts
+#EXTINF:-1,US: Fox Sports  1
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/2212.ts
+#EXTINF:-1,US: FOX Deportes HD
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/2217.ts
+#EXTINF:-1,US: Fox 59 News
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/3380.ts
+#EXTINF:-1,US: FOX
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/3379.ts
+#EXTINF:-1,US: Fight Network
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/3219.ts
+#EXTINF:-1,US: ESPN
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/2323.ts
+#EXTINF:-1,US: Discovery Science HD
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/5091.ts
+#EXTINF:-1,US: Discovery Channel HD
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/5092.ts
+#EXTINF:-1,US: Cpac
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/5093.ts
+#EXTINF:-1,US: Comedy C HD
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/2215.ts
+#EXTINF:-1,US: CNBC
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/2203.ts
+#EXTINF:-1,US: Cinemax
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/5094.ts
+#EXTINF:-1,US: CBSN HD
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/5095.ts
+#EXTINF:-1,US: CBS News HD
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/5096.ts
+#EXTINF:-1,US: CBS DRAMA
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/5097.ts
+#EXTINF:-1,US: CBS ACTION
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/5098.ts
+#EXTINF:-1,US: BYU Sports TV HD
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/5099.ts
+#EXTINF:-1,US: BRAVO
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/2210.ts
+#EXTINF:-1,US: Bloomberg
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/5100.ts
+#EXTINF:-1,US: BEIN SPORT
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/2320.ts
+#EXTINF:-1,US: Animal Planet
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/5101.ts
+#EXTINF:-1,US: AMG TV
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/5102.ts
+#EXTINF:-1,US: AFN Sports 2
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/2331.ts
+#EXTINF:-1,US: AFN SPORTS
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/5103.ts
+#EXTINF:-1,US: AFN PULSE
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/5104.ts
+#EXTINF:-1,US: AFN MOVIE
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/5105.ts
+#EXTINF:-1,US: ABC News HD
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/5106.ts
+#EXTINF:-1,US: ABC News
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/2202.ts
+#EXTINF:-1,US: 360 North
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/5107.ts
+#EXTINF:-1,US WWE
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/3221.ts
+#EXTINF:-1,US Fox Sports 506 HD
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/3230.ts
+#EXTINF:-1,US Fight Sport
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/3220.ts
+#EXTINF:-1,US BYU Sports TV HD
+http://link.softiptv.com:2500/live/XFEtEkIZQr/4RcQT6QsfX/3231.ts
+EXTINF:-1,USA:L USA Network
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/2408.ts
+#EXTINF:-1,USA:L US TLC
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/2456.ts
+#EXTINF:-1,USA:L US TBS HD
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/2421.ts
+#EXTINF:-1,USA:L US NICK
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/2458.ts
+#EXTINF:-1,USA:L TNT
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/2418.ts
+#EXTINF:-1,USA:L THE CW Central
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/2412.ts
+#EXTINF:-1,USA:L SYFY USA
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/2425.ts
+#EXTINF:-1,USA:L SPIKE HD
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/2428.ts
+#EXTINF:-1,USA:L SHOWTIME HD
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/2438.ts
+#EXTINF:-1,USA:L PBS HD
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/2422.ts
+#EXTINF:-1,USA:L NBC HD
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/2420.ts
+#EXTINF:-1,USA:L NBC
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/2419.ts
+#EXTINF:-1,USA:L my9
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/2423.ts
+#EXTINF:-1,USA:L Lifetime
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/2424.ts
+#EXTINF:-1,USA:L KNBC (Los Angeles) NBC HD West
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/2450.ts
+#EXTINF:-1,USA:L History Channel USA
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/2439.ts
+#EXTINF:-1,USA:L HGTV HD
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/2430.ts
+#EXTINF:-1,USA:L HBO Zone HD
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/2451.ts
+#EXTINF:-1,USA:L HBO HD
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/2453.ts
+#EXTINF:-1,USA:L HBO FAMILY
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/2454.ts
+#EXTINF:-1,USA:L Hallmark
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/2455.ts
+#EXTINF:-1,USA:L Global EDminton
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/2426.ts
+#EXTINF:-1,USA:L FX HD
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/2434.ts
+#EXTINF:-1,USA:L FREEFORM HD
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/2429.ts
+#EXTINF:-1,USA:L FOX 43
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/2415.ts
+#EXTINF:-1,USA:L ESPN 2 USA
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/2460.ts
+#EXTINF:-1,USA:L ESPN
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/2459.ts
+#EXTINF:-1,USA:L DIY Network HD
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/2437.ts
+#EXTINF:-1,USA:L Discovery Channel
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/2440.ts
+#EXTINF:-1,USA:L CW HD
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/2411.ts
+#EXTINF:-1,USA:L Comedy Central HD US
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/2448.ts
+#EXTINF:-1,USA:L CNN
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/2444.ts
+#EXTINF:-1,USA:L CNBC
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/2445.ts
+#EXTINF:-1,USA:L CITY HD
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/2431.ts
+#EXTINF:-1,USA:L CBS HD
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/2416.ts
+#EXTINF:-1,USA:L Cartoon Network USA
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/2457.ts
+#EXTINF:-1,USA:L BRAVO USA
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/2432.ts
+#EXTINF:-1,USA:L Animal Planet US
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/2442.ts
+#EXTINF:-1,USA:L AMC
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/2409.ts
+#EXTINF:-1,USA:L ABC NEWS
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/2446.ts
+#EXTINF:-1,USA:L ABC HD
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/2410.ts
+#EXTINF:-1,USA:L ABC _HD
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/2413.ts
+#EXTINF:-1,USA:L A & E
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/2417.ts
+#EXTINF:-1,USA:L .CTV HD
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/2435.ts
+#EXTINF:-1,USA: Vevo 2
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/1836.ts
+#EXTINF:-1,USA: Vevo 1
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/1835.ts
+#EXTINF:-1,USA: HBO 2-US
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/1825.ts
+#EXTINF:-1,USA: CSPAN 2
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/1849.ts
+#EXTINF:-1,USA: C-SPAN 3
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/1850.ts
+#EXTINF:-1,USA: C-SPAN
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/1848.ts
+#EXTINF:-1,UK: SYFY HD UK
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/2471.ts
+#EXTINF:-1,UK: SKY SPORTS NEWS HQ
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/1184.ts
+#EXTINF:-1,UK: Sky Sport F1
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/1712.ts
+#EXTINF:-1,UK: Sky Sport 5 HD UK
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/1711.ts
+#EXTINF:-1,UK: Sky Sport 4 HD UK
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/1710.ts
+#EXTINF:-1,UK: Sky Sport 3 HD UK
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/1709.ts
+#EXTINF:-1,UK: Sky Sport 2 HD UK
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/1708.ts
+#EXTINF:-1,UK: Sky Sport 1 HD UK
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/1707.ts
+#EXTINF:-1,UK: SKY 2
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/2470.ts
+#EXTINF:-1,UK: Setanta Sports HD
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/1415.ts
+#EXTINF:-1,UK: Liverpool FC
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/1455.ts
+#EXTINF:-1,UK: ITV London
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/2468.ts
+#EXTINF:-1,UK: HISTORY 2 HD
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/2472.ts
+#EXTINF:-1,UK: EUROSPORT 2 HD
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/1226.ts
+#EXTINF:-1,UK: Eurosport 1 HD
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/1227.ts
+#EXTINF:-1,UK: E4
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/2469.ts
+#EXTINF:-1,UK: BT Sports Europe HD
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/1496.ts
+#EXTINF:-1,UK: BT Sports 2 HD
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/1698.ts
+#EXTINF:-1,UK: BT Sports 1 HD
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/1697.ts
+#EXTINF:-1,UK: BBC 1
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/2467.ts
+#EXTINF:-1,Nicklodeon Jr Hindi
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/1401.ts
+#EXTINF:-1,NickLodeon Hindi
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/1400.ts
+#EXTINF:-1,ESPN HD
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/1172.ts
+#EXTINF:-1,E!
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/1173.ts
+#EXTINF:-1,Universal
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/1175.ts
+#EXTINF:-1,UK: SKY Superheros
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/1414.ts
+#EXTINF:-1,UK: Boomerang
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/1454.ts
+#EXTINF:-1,UK:Disney JR
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/1171.ts
+#EXTINF:-1,UK: VH1
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/1178.ts
+#EXTINF:-1,UK: Travel Channel
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/1179.ts
+#EXTINF:-1,UK: SKY TWO
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/1182.ts
+#EXTINF:-1,UK: Sky ONE HD
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/1183.ts
+#EXTINF:-1,UK: Sky News
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/1185.ts
+#EXTINF:-1,UK: Sky Movies Thriller
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/1186.ts
+#EXTINF:-1,UK: Sky Movies Showcase
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/1187.ts
+#EXTINF:-1,UK: Sky Movies Select HD
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/1188.ts
+#EXTINF:-1,UK: Sky Movies ScFi-Horror HD
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/1189.ts
+#EXTINF:-1,UK: Sky Movies Premiere HD
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/1190.ts
+#EXTINF:-1,UK: Sky Movies Modern Greats HD
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/1191.ts
+#EXTINF:-1,UK: Sky Movies Family
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/1192.ts
+#EXTINF:-1,UK: Sky Movies Drama HD
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/1193.ts
+#EXTINF:-1,UK: Sky Movies Disney
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/1194.ts
+#EXTINF:-1,UK: Sky Movies Crime & Thriller
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/1195.ts
+#EXTINF:-1,UK: Sky Movies Comedy HD
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/1196.ts
+#EXTINF:-1,UK: Sky Movies Action&Adventure HD
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/1197.ts
+#EXTINF:-1,UK: Sky Arts 1
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/1198.ts
+#EXTINF:-1,UK: SATENTA SPORT
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/1199.ts
+#EXTINF:-1,UK: Racing UK
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/1200.ts
+#EXTINF:-1,UK: PREMIERE SPORT HD
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/1201.ts
+#EXTINF:-1,UK: PICK
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/1202.ts
+#EXTINF:-1,UK: NickToons
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/1203.ts
+#EXTINF:-1,UK: NickJr Too
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/1204.ts
+#EXTINF:-1,UK: Nickelodeon
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/1205.ts
+#EXTINF:-1,UK: Nick Jr  1
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/1206.ts
+#EXTINF:-1,UK: Nat Geo Wild
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/1207.ts
+#EXTINF:-1,UK: Nat Geo HD
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/1208.ts
+#EXTINF:-1,UK: MUTV HD
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/1209.ts
+#EXTINF:-1,UK: MTV Music
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/1211.ts
+#EXTINF:-1,UK: MTV Hits
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/1212.ts
+#EXTINF:-1,UK: MTV Dance
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/1213.ts
+#EXTINF:-1,UK: ITV4
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/1215.ts
+#EXTINF:-1,UK: ITV3
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/1216.ts
+#EXTINF:-1,UK: ITV2
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/1217.ts
+#EXTINF:-1,UK: ITV Encore
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/1218.ts
+#EXTINF:-1,UK: ITV Be
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/1219.ts
+#EXTINF:-1,UK: ITV 1
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/1220.ts
+#EXTINF:-1,UK: Investigation Discovery
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/1221.ts
+#EXTINF:-1,UK: Home
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/1222.ts
+#EXTINF:-1,UK: History 1
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/1223.ts
+#EXTINF:-1,UK: History
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/1224.ts
+#EXTINF:-1,UK: Disney XD
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/1228.ts
+#EXTINF:-1,UK: Disney HD
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/1229.ts
+#EXTINF:-1,UK: Discovery_Turbo
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/1230.ts
+#EXTINF:-1,UK: Discovery Shed
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/1231.ts
+#EXTINF:-1,UK: Discovery Science
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/1232.ts
+#EXTINF:-1,UK: Discovery Home & Health
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/1233.ts
+#EXTINF:-1,UK: Discovery History
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/1234.ts
+#EXTINF:-1,UK: Discovery
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/1235.ts
+#EXTINF:-1,UK: Comedy Central
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/1236.ts
+#EXTINF:-1,UK: Channel 4
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/1237.ts
+#EXTINF:-1,UK: CBS Reality
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/1238.ts
+#EXTINF:-1,UK: CBS Drama
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/1239.ts
+#EXTINF:-1,UK: CBS Action
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/1240.ts
+#EXTINF:-1,UK: BT_Sport ESPN
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/1241.ts
+#EXTINF:-1,UK: BT SPORTS EXTRA
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/1242.ts
+#EXTINF:-1,UK: BT Sports 2
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/1243.ts
+#EXTINF:-1,UK: BT Sports 1
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/1244.ts
+#EXTINF:-1,UK: BOX NATION  HD
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/1245.ts
+#EXTINF:-1,UK: BBC4/CBEEBIES HD
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/1246.ts
+#EXTINF:-1,UK: BBC3/CBBC HD
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/1247.ts
+#EXTINF:-1,UK: BBC2
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/1248.ts
+#EXTINF:-1,UK: BBC News HD
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/1250.ts
+#EXTINF:-1,UK: Animal planet
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/1252.ts
+#EXTINF:-1,UK: 5USA
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/1253.ts
+#EXTINF:-1,UK Sky Living HD
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/1180.ts
+#EXTINF:-1,UK :H2
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/1170.ts
+#EXTINF:-1,UK : Sky Atlantic
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/1181.ts
+#EXTINF:-1,Uk : Food Network
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/1176.ts
+#EXTINF:-1,UK : BT SPORT1 HD
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/1177.ts
