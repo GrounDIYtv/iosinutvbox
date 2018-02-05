@@ -1,80 +1,285 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-ID="" tvg-name="UK: BoxNation" tvg-logo="" group-title="UK<img src="http://91.194.84.21/UK.gif">",UK: BoxNation
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11815.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: British Eurosport 2" tvg-logo="" group-title="UK<img src="http://91.194.84.21/UK.gif">",UK: British Eurosport 2
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11814.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: BT ESPN HD" tvg-logo="" group-title="UK<img src="http://91.194.84.21/UK.gif">",UK: BT ESPN HD
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11813.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: BT Sport 1 HD" tvg-logo="" group-title="UK<img src="http://91.194.84.21/UK.gif">",UK: BT Sport 1 HD
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11812.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: BT Sport 2 HD" tvg-logo="" group-title="UK<img src="http://91.194.84.21/UK.gif">",UK: BT Sport 2 HD
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11811.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: BT Sport 3HD" tvg-logo="" group-title="UK<img src="http://91.194.84.21/UK.gif">",UK: BT Sport 3HD
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11810.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: BT Sport Xtra 1" tvg-logo="" group-title="UK<img src="http://91.194.84.21/UK.gif">",UK: BT Sport Xtra 1
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11809.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: BT Sport Xtra 2" tvg-logo="" group-title="UK<img src="http://91.194.84.21/UK.gif">",UK: BT Sport Xtra 2
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11808.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: BT Sport Xtra 3" tvg-logo="" group-title="UK<img src="http://91.194.84.21/UK.gif">",UK: BT Sport Xtra 3
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11807.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: BT Sport Xtra 4" tvg-logo="" group-title="UK<img src="http://91.194.84.21/UK.gif">",UK: BT Sport Xtra 4
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11806.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: BT Sport Xtra 5" tvg-logo="" group-title="UK<img src="http://91.194.84.21/UK.gif">",UK: BT Sport Xtra 5
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11805.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: Chelsea FC" tvg-logo="" group-title="UK<img src="http://91.194.84.21/UK.gif">",UK: Chelsea FC
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11804.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: Liverpool" tvg-logo="" group-title="UK<img src="http://91.194.84.21/UK.gif">",UK: Liverpool
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11803.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: Motor TV" tvg-logo="" group-title="UK<img src="http://91.194.84.21/UK.gif">",UK: Motor TV
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11802.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: Premier Sports" tvg-logo="" group-title="UK<img src="http://91.194.84.21/UK.gif">",UK: Premier Sports
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11801.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: Racing UK" tvg-logo="" group-title="UK<img src="http://91.194.84.21/UK.gif">",UK: Racing UK
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11800.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky  Disney" tvg-logo="" group-title="UK<img src="http://91.194.84.21/UK.gif">",UK: Sky  Disney
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11799.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky 1 HD" tvg-logo="" group-title="UK<img src="http://91.194.84.21/UK.gif">",UK: Sky 1 HD
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11798.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky 2 HD" tvg-logo="" group-title="UK<img src="http://91.194.84.21/UK.gif">",UK: Sky 2 HD
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11797.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Arts 1" tvg-logo="" group-title="UK<img src="http://91.194.84.21/UK.gif">",UK: Sky Arts 1
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11796.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Atlantic" tvg-logo="" group-title="UK<img src="http://91.194.84.21/UK.gif">",UK: Sky Atlantic
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11795.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Cinema Premiere" tvg-logo="" group-title="UK<img src="http://91.194.84.21/UK.gif">",UK: Sky Cinema Premiere
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11794.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Comedy" tvg-logo="" group-title="UK<img src="http://91.194.84.21/UK.gif">",UK: Sky Comedy
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11793.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Drama" tvg-logo="" group-title="UK<img src="http://91.194.84.21/UK.gif">",UK: Sky Drama
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11792.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Family" tvg-logo="" group-title="UK<img src="http://91.194.84.21/UK.gif">",UK: Sky Family
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11791.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: sky Movies Greats HD" tvg-logo="" group-title="UK<img src="http://91.194.84.21/UK.gif">",UK: sky Movies Greats HD
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11790.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Movies Select HD" tvg-logo="" group-title="UK<img src="http://91.194.84.21/UK.gif">",UK: Sky Movies Select HD
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11789.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Movies ShowCase" tvg-logo="" group-title="UK<img src="http://91.194.84.21/UK.gif">",UK: Sky Movies ShowCase
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11788.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky News" tvg-logo="" group-title="UK<img src="http://91.194.84.21/UK.gif">",UK: Sky News
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11787.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Scifi&horror" tvg-logo="" group-title="UK<img src="http://91.194.84.21/UK.gif">",UK: Sky Scifi&horror
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11786.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Sports Action HD" tvg-logo="" group-title="UK<img src="http://91.194.84.21/UK.gif">",UK: Sky Sports Action HD
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11785.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Sports Cricket HD" tvg-logo="" group-title="UK<img src="http://91.194.84.21/UK.gif">",UK: Sky Sports Cricket HD
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11784.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Sports Main Events" tvg-logo="" group-title="UK<img src="http://91.194.84.21/UK.gif">",UK: Sky Sports Main Events
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11783.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Sports Main Events HD" tvg-logo="" group-title="UK<img src="http://91.194.84.21/UK.gif">",UK: Sky Sports Main Events HD
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11782.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Sports Mix HD" tvg-logo="" group-title="UK<img src="http://91.194.84.21/UK.gif">",UK: Sky Sports Mix HD
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11781.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Sports News HD" tvg-logo="" group-title="UK<img src="http://91.194.84.21/UK.gif">",UK: Sky Sports News HD
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11780.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Sports Premier League" tvg-logo="" group-title="UK<img src="http://91.194.84.21/UK.gif">",UK: Sky Sports Premier League
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11779.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Sports The Open HD" tvg-logo="" group-title="UK<img src="http://91.194.84.21/UK.gif">",UK: Sky Sports The Open HD
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11778.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Thriller" tvg-logo="" group-title="UK<img src="http://91.194.84.21/UK.gif">",UK: Sky Thriller
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/11777.ts
+#EXTM3U
+
+#EXTINF:-1 tvg-id="Alibi" tvg-name="Alibi." tvg-logo="http://emby.world/LOGOS/2/alibihd.png" group-title="UK ENTERTAINMENT",Alibi.
+http://plextreamiptv.net:80/live/cover/cover/632.ts
+#EXTINF:-1 tvg-id="Sky Arts" tvg-name="Sky Arts HD" tvg-logo="http://emby.world/LOGOS/2/skyarts.png" group-title="UK LIFESTYLE",Sky Arts HD
+http://plextreamiptv.net:80/live/cover/cover/631.ts
+#EXTINF:-1 tvg-id="Food Network" tvg-name="Food Network" tvg-logo="http://plextream.co.uk/PICONS/foodnetwork.png" group-title="UK LIFESTYLE",Food Network
+http://plextreamiptv.net:80/live/cover/cover/650.ts
+#EXTINF:-1 tvg-id="Discovery Shed" tvg-name="Discovery Shed*" tvg-logo="http://emby.world/LOGOS/2/discoveryshed.png" group-title="UK DOCUMENTARIES",Discovery Shed*
+http://plextreamiptv.net:80/live/cover/cover/5470.ts
+#EXTINF:-1 tvg-id="Discovery Home & Health" tvg-name="Discovery Home & Health" tvg-logo="http://emby.world/LOGOS/2/homeandhealth.png" group-title="UK DOCUMENTARIES",Discovery Home & Health
+http://plextreamiptv.net:80/live/cover/cover/5451.ts
+#EXTINF:-1 tvg-id="Challenge" tvg-name="Challenge" tvg-logo="http://emby.world/LOGOS/2/challenge.png" group-title="UK LIFESTYLE",Challenge
+http://plextreamiptv.net:80/live/cover/cover/5460.ts
+#EXTINF:-1 tvg-id="CBS Reality" tvg-name="CBS Reality HD" tvg-logo="http://emby.world/LOGOS/2/cbsreality.png" group-title="UK LIFESTYLE",CBS Reality HD
+http://plextreamiptv.net:80/live/cover/cover/626.ts
+#EXTINF:-1 tvg-id="CBS Drama" tvg-name="CBS Drama HD" tvg-logo="http://emby.world/LOGOS/2/cbsdrama.png" group-title="UK LIFESTYLE",CBS Drama HD
+http://plextreamiptv.net:80/live/cover/cover/627.ts
+#EXTINF:-1 tvg-id="CBS Action" tvg-name="CBS Action HD" tvg-logo="http://emby.world/LOGOS/2/cbsaction.png" group-title="UK LIFESTYLE",CBS Action HD
+http://plextreamiptv.net:80/live/cover/cover/628.ts
+#EXTINF:-1 tvg-id="Eden HD" tvg-name="Eden" tvg-logo="http://emby.world/LOGOS/2/edenhd.png" group-title="UK ENTERTAINMENT",Eden
+http://plextreamiptv.net:80/live/cover/cover/13098.ts
+#EXTINF:-1 tvg-id="Real Lives" tvg-name="Real Lives." tvg-logo="http://s5.postimg.org/8j1fzd3hj/reallives.png" group-title="UK LIFESTYLE",Real Lives.
+http://plextreamiptv.net:80/live/cover/cover/9492.ts
+#EXTINF:-1 tvg-id="Real Lives" tvg-name="Real Lives" tvg-logo="http://emby.world/LOGOS/2/reallives.png" group-title="UK ENTERTAINMENT",Real Lives
+http://plextreamiptv.net:80/live/cover/cover/5560.ts
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC." tvg-logo="http://emby.world/LOGOS/2/tlc.png" group-title="UK ENTERTAINMENT",TLC.
+http://plextreamiptv.net:80/live/cover/cover/9948.ts
+#EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime HD" tvg-logo="http://emby.world/LOGOS/2/lifetimehd.png" group-title="UK LIFESTYLE",Lifetime HD
+http://plextreamiptv.net:80/live/cover/cover/6610.ts
+#EXTINF:-1 tvg-id="YESTERDAY" tvg-name="YESTERDAY" tvg-logo="http://emby.world/LOGOS/2/yesterday.png" group-title="UK LIFESTYLE",YESTERDAY
+http://plextreamiptv.net:80/live/cover/cover/5563.ts
+#EXTINF:-1 tvg-id="Discovery Home & Health" tvg-name="Home & Health+" tvg-logo="http://emby.world/LOGOS/2/homeandhealth.png" group-title="UK LIFESTYLE",Home & Health+
+http://plextreamiptv.net:80/live/cover/cover/13338.ts
+#EXTINF:-1 tvg-id="" tvg-name="Home" tvg-logo="http://emby.world/LOGOS/2/home.png" group-title="UK LIFESTYLE",Home
+http://plextreamiptv.net:80/live/cover/cover/6907.ts
+#EXTINF:-1 tvg-id="Home" tvg-name="Home Ire" tvg-logo="http://emby.world/LOGOS/2/home.png" group-title="UK ENTERTAINMENT",Home Ire
+http://plextreamiptv.net:80/live/cover/cover/12887.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fine Living Network" tvg-logo="http://emby.world/LOGOS/2/fotv.png" group-title="UK LIFESTYLE",Fine Living Network
+http://plextreamiptv.net:80/live/cover/cover/12134.ts
+#EXTINF:-1 tvg-id="" tvg-name="Travel Channel UK" tvg-logo="" group-title="UK LIFESTYLE",Travel Channel UK
+http://plextreamiptv.net:80/live/cover/cover/49985.ts
+#EXTINF:-1 tvg-ID="CBS Reality" tvg-name="CBS REALITY" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cbs_reality_eu.jpg" group-title="MEO/NOS<img src="http://91.194.84.21/POR.gif">",CBS REALITY
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/4324.ts
+#EXTINF:-1 tvg-ID="E! ENTERTAINMENT HD" tvg-name="E! ENTERTAINMENT" tvg-logo="http://coolspotters.com/files/photos/684034/e-entertainment-television-latin-america-profile.png" group-title="MEO/NOS<img src="http://91.194.84.21/POR.gif">",E! ENTERTAINMENT
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/4322.ts
+#EXTINF:-1 tvg-ID="ODIS" tvg-name="ODISSEIA" tvg-logo="http://www.marketeer.pt/wp-content/uploads/2011/02/odisseia_.jpg" group-title="MEO/NOS<img src="http://91.194.84.21/POR.gif">",ODISSEIA
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/4323.ts
+#EXTINF:-1 tvg-ID="Canal História" tvg-name="HISTORIA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canal_de_historia.jpg" group-title="MEO/NOS<img src="http://91.194.84.21/POR.gif">",HISTORIA
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/4321.ts
+#EXTINF:-1 tvg-ID="DISCOVERYHD" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://images.bwwstatic.com/tvnetworklogos/sm0FAEE978-F8B3-7263-46BB3F5DACADE164.jpg" group-title="MEO/NOS<img src="http://91.194.84.21/POR.gif">",DISCOVERY CHANNEL
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/4320.ts
+#EXTINF:-1 tvg-ID="DISCOVERY SHOWCASE HD LOW" tvg-name="DISCOVERY HD SHOWCASE" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/discovery_hd_showcase_us.jpg" group-title="MEO/NOS<img src="http://91.194.84.21/POR.gif">",DISCOVERY HD SHOWCASE
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/4319.ts
+#EXTINF:-1 tvg-ID="NGC" tvg-name="NACIONAL GEOGRAPHIC HD" tvg-logo="http://tvimages.burrp.com/images/channels2/documentary/National-Geographic-Channel.png" group-title="MEO/NOS<img src="http://91.194.84.21/POR.gif">",NACIONAL GEOGRAPHIC HD
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/4318.ts
+#EXTINF:-1 tvg-ID="Nat Geo Wild" tvg-name="NAT GEO WILD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/47/Nat_geo_wild_hd.jpg" group-title="MEO/NOS<img src="http://91.194.84.21/POR.gif">",NAT GEO WILD
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/4317.ts
+#EXTINF:-1 tvg-ID="MCS EXTREME" tvg-name="MCS EXTREME" tvg-logo="http://www.fpv-passion.fr/wp-content/uploads/2016/03/mcs-extreme-Recherche-Google-Mozilla-Firefox_2016-03-29_10-46-45.jpg" group-title="MEO/NOS<img src="http://91.194.84.21/POR.gif">",MCS EXTREME
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/4315.ts
+#EXTINF:-1 tvg-ID="TRAVEL CHANNEL HD" tvg-name="TRAVEL CHANNEL HD" tvg-logo="http://portalnacional.com.pt/images/icons/tv/TRVHD.png" group-title="MEO/NOS<img src="http://91.194.84.21/POR.gif">",TRAVEL CHANNEL HD
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/4313.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DOG TV" tvg-logo="" group-title="MEO/NOS<img src="http://91.194.84.21/POR.gif">",DOG TV
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/12054.ts
+#EXTINF:-1 tvg-ID="A&E" tvg-name="A.E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/A%2BE_Networks_2017.svg/200px-A%2BE_Networks_2017.svg.png" group-title="MEO/NOS<img src="http://91.194.84.21/POR.gif">",A.E
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/4312.ts
+#EXTINF:-1 tvg-ID="FRANCE24FR" tvg-name="FRANCE 24" tvg-logo="https://lh6.ggpht.com/BWV0xi-IcYkk6zJavfWi94-Mk4um78GMEJHvlOajbViRTP3Viek7hzjRmzXJJ0gWbm4I=w300" group-title="MEO/NOS<img src="http://91.194.84.21/POR.gif">",FRANCE 24
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/4299.ts
+#EXTINF:-1 tvg-ID="SKYN" tvg-name="SKY NEWS" tvg-logo="http://news.sky.com/assets/sky-news-logo.png" group-title="MEO/NOS<img src="http://91.194.84.21/POR.gif">",SKY NEWS
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/4298.ts
+#EXTINF:-1 tvg-ID="FoxNews.pt" tvg-name="FOX NEWS" tvg-logo="http://15130-presscdn-0-89.pagely.netdna-cdn.com/wp-content/uploads/2015/01/fox-news-gop-logo.jpg" group-title="MEO/NOS<img src="http://91.194.84.21/POR.gif">",FOX NEWS
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/4296.ts
+#EXTINF:-1 tvg-ID="FASHIONTVHD" tvg-name="FASHION TV" tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/3b/8a/2c/3b8a2cb8e99423468cf0fb826888731b.jpg" group-title="MEO/NOS<img src="http://91.194.84.21/POR.gif">",FASHION TV
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/4294.ts
+
+#EXTINF:-1 tvg-ID="SPTV" tvg-name="SPORT TV +" tvg-logo="https://2.bp.blogspot.com/-e0GDx24F1bU/WDrqHkQIbmI/AAAAAAAAFe8/qRpP0X9Kdh41LIGAN8PgeGL282w0i20BQCLcB/s1600/Sport%2BTV%2B%252B%2Blogo.png" group-title="MEO/NOS<img src="http://91.194.84.21/POR.gif">",SPORT TV +
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/4377.ts
+#EXTINF:-1 tvg-ID="SPORTV 1 HD" tvg-name="SPORT TV 1" tvg-logo="https://3.bp.blogspot.com/-ks8Kh19lwGk/WDrqH2F-u8I/AAAAAAAAFfI/iBCeQ2JA5YENOGgs0bhJZgj-o4mFin85wCLcB/s1600/Sport%2BTV%2B1%2Blogo.png" group-title="MEO/NOS<img src="http://91.194.84.21/POR.gif">",SPORT TV 1
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/4376.ts
+#EXTINF:-1 tvg-ID="SPTV2" tvg-name="SPORT TV 2" tvg-logo="https://3.bp.blogspot.com/-ampBZ6dy0rk/WDrqISiM6BI/AAAAAAAAFfY/nrvVN-5IMCIEuw-f9nUqVpA714J6HiBHwCLcB/s1600/Sport%2BTV%2B2%2Blogo.png" group-title="MEO/NOS<img src="http://91.194.84.21/POR.gif">",SPORT TV 2
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/4374.ts
+#EXTINF:-1 tvg-ID="SPTV3" tvg-name="SPORT TV 3" tvg-logo="https://4.bp.blogspot.com/-rhq-pDSzCZA/WDrqIhr_xpI/AAAAAAAAFfo/itogXv9TiBU6GOXi-85ClGBvWJjnMHudwCLcB/s1600/Sport%2BTV%2B3%2Blogo.png" group-title="MEO/NOS<img src="http://91.194.84.21/POR.gif">",SPORT TV 3
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/4372.ts
+#EXTINF:-1 tvg-ID="SPTV4" tvg-name="SPORT TV 4" tvg-logo="https://2.bp.blogspot.com/-LAwIlcqDZd4/WDrqJJRu8QI/AAAAAAAAFf4/TtrrQ6Bz9eUMOThjgCfSCFDpZY6-pEOpACLcB/s1600/Sport%2BTV%2B4%2Blogo.png" group-title="MEO/NOS<img src="http://91.194.84.21/POR.gif">",SPORT TV 4
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/4370.ts
+#EXTINF:-1 tvg-ID="SPTV5" tvg-name="SPORT TV 5" tvg-logo="https://4.bp.blogspot.com/-bq7Ob-pxQOw/WDrqJQDcRjI/AAAAAAAAFgI/zQvCQQa5XKUDrqXhiwB80eOTA-wUqqtfgCLcB/s1600/Sport%2BTV%2B5%2Blogo.png" group-title="MEO/NOS<img src="http://91.194.84.21/POR.gif">",SPORT TV 5
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/4369.ts
+#EXTINF:-1 tvg-ID="SPORTV 1 HD (LOW BITRATE)" tvg-name="SPORT TV 1 HQ (NET FRACA)" tvg-logo="https://2.bp.blogspot.com/-T5KqRqOifUU/WDrqHwwtQLI/AAAAAAAAFfA/vEcoLG0uT2sEgBs65X3uyBLmapRDNHTNgCLcB/s1600/Sport%2BTV%2B1%2BHD%2Blogo.png" group-title="MEO/NOS<img src="http://91.194.84.21/POR.gif">",SPORT TV 1 HQ (NET FRACA)
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/5036.ts
+#EXTINF:-1 tvg-ID="SPORTV 1 HD." tvg-name="SPORT TV 1 HD" tvg-logo="https://2.bp.blogspot.com/-T5KqRqOifUU/WDrqHwwtQLI/AAAAAAAAFfA/vEcoLG0uT2sEgBs65X3uyBLmapRDNHTNgCLcB/s1600/Sport%2BTV%2B1%2BHD%2Blogo.png" group-title="MEO/NOS<img src="http://91.194.84.21/POR.gif">",SPORT TV 1 HD
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/4375.ts
+#EXTINF:-1 tvg-ID="SPORTV 2 HD" tvg-name="SPORT TV 2 HD" tvg-logo="https://4.bp.blogspot.com/-y__uH8k1v08/WDrqIBWclZI/AAAAAAAAFfQ/xCtHrooT-1EinhQR6F31qgF7F0AqH6VwACLcB/s1600/Sport%2BTV%2B2%2BHD%2Blogo.png" group-title="MEO/NOS<img src="http://91.194.84.21/POR.gif">",SPORT TV 2 HD
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/4373.ts
+#EXTINF:-1 tvg-ID="SPORTV 3 HD" tvg-name="SPORT TV 3 HD" tvg-logo="https://2.bp.blogspot.com/-qufakmpQu28/WDrqIZ_2a8I/AAAAAAAAFfg/DwLw9SZsbZA2Et5xCkLcjSXaRDd6IHvdQCLcB/s1600/Sport%2BTV%2B3%2BHD%2Blogo.png" group-title="MEO/NOS<img src="http://91.194.84.21/POR.gif">",SPORT TV 3 HD
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/4371.ts
+#EXTINF:-1 tvg-ID="SPORTV 4 HD" tvg-name="SPORT TV 4 HD" tvg-logo="https://1.bp.blogspot.com/-jmw8oY0FZMI/WDrqIyOEiqI/AAAAAAAAFfw/mDesW_mtIkMxbG-xcp4R9zl3AbQZreXuQCLcB/s1600/Sport%2BTV%2B4%2BHD%2Blogo.png" group-title="MEO/NOS<img src="http://91.194.84.21/POR.gif">",SPORT TV 4 HD
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/4692.ts
+#EXTINF:-1 tvg-ID="SPORTV 5 HD" tvg-name="SPORT TV 5 HD" tvg-logo="https://4.bp.blogspot.com/-ddUuGooLVhw/WDrqJCrCufI/AAAAAAAAFgA/VzwpLJy8XoQ-o0atQeQ-ogWjlmZd_k5BgCLcB/s1600/Sport%2BTV%2B5%2BHD%2Blogo.png" group-title="MEO/NOS<img src="http://91.194.84.21/POR.gif">",SPORT TV 5 HD
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/6245.ts
+#EXTINF:-1 tvg-ID="Benfica TV" tvg-name="BTV 1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/benfica_tv.jpg" group-title="MEO/NOS<img src="http://91.194.84.21/POR.gif">",BTV 1
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/4368.ts
+#EXTINF:-1 tvg-ID="Benfica TV" tvg-name="BTV HQ (NET FRACA)" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/benfica_tv.jpg" group-title="MEO/NOS<img src="http://91.194.84.21/POR.gif">",BTV HQ (NET FRACA)
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/12108.ts
+#EXTINF:-1 tvg-ID="BENFICA TV 1 HD" tvg-name="BTV 1 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/benfica_tv.jpg" group-title="MEO/NOS<img src="http://91.194.84.21/POR.gif">",BTV 1 HD
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/4367.ts
+#EXTINF:-1 tvg-ID="A Bola TV" tvg-name="A BOLA TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/a_bola_tv_pt.jpg" group-title="MEO/NOS<img src="http://91.194.84.21/POR.gif">",A BOLA TV
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/4366.ts
+#EXTINF:-1 tvg-ID="NBATV" tvg-name="NBA" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSwOdDO_17DVuP1S9Tz3bBCFXbuPSiONbbaLGDg3ztMJxlyHdgW" group-title="MEO/NOS<img src="http://91.194.84.21/POR.gif">",NBA
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/4365.ts
+#EXTINF:-1 tvg-ID="KOMBAT SPORT" tvg-name="KOMBAT SPORTS" tvg-logo="http://www.ikusa.fr/forums/uploads/e273560f4339358864eb1d3a947a9950.jpg" group-title="MEO/NOS<img src="http://91.194.84.21/POR.gif">",KOMBAT SPORTS
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/4687.ts
+#EXTINF:-1 tvg-ID="FIGHT NETWORK FHD" tvg-name="FIGHT NETWORK HD" tvg-logo="http://www.nos.pt/particulares/televisao/canais/exclusivos/PublishingImages/fight-network/logo/large_logo.jpg" group-title="MEO/NOS<img src="http://91.194.84.21/POR.gif">",FIGHT NETWORK HD
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/4364.ts
+#EXTINF:-1 tvg-ID="MOTORVISIONHD" tvg-name="MOTORVISION" tvg-logo="http://www.sky-angebote.info/wp-content/uploads/2015/05/Motorvision-tv-logo.jpg" group-title="MEO/NOS<img src="http://91.194.84.21/POR.gif">",MOTORVISION
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/4363.ts
+#EXTINF:-1 tvg-ID="Motors TV" tvg-name="MOTORS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/MotorsTV_logo.png/220px-MotorsTV_logo.png" group-title="MEO/NOS<img src="http://91.194.84.21/POR.gif">",MOTORS TV
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/4362.ts
+#EXTINF:-1 tvg-ID="SPORTINGTV" tvg-name="SPORTING TV" tvg-logo="http://portalnacional.com.pt/images/icons/tv/SCP.png" group-title="MEO/NOS<img src="http://91.194.84.21/POR.gif">",SPORTING TV
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/4361.ts
+#EXTINF:-1 tvg-ID="REAL MADRID TV" tvg-name="REAL MADRID TV" tvg-logo="https://www.meo.pt/PublishingImages/MEO/canais/real-madrid-tv.png" group-title="MEO/NOS<img src="http://91.194.84.21/POR.gif">",REAL MADRID TV
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/4360.ts
+#EXTINF:-1 tvg-ID="EUROSPORT 1" tvg-name="EUROSPORT" tvg-logo="http://layout.tv.eurosport.com/i/logo/tvschedule/epg/v8/logo_id_0_full.png" group-title="MEO/NOS<img src="http://91.194.84.21/POR.gif">",EUROSPORT
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/4359.ts
+#EXTINF:-1 tvg-ID="EUROS2" tvg-name="EUROSPORT 2" tvg-logo="http://www.tvtuga.com/wp-content/uploads/2015/11/eurosport-2.jpg" group-title="MEO/NOS<img src="http://91.194.84.21/POR.gif">",EUROSPORT 2
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/4356.ts
+#EXTINF:-1 tvg-ID="TOUROS TV HD" tvg-name="TOROS TV" tvg-logo="http://portalnacional.com.pt/images/icons/tv/TOROTV.png" group-title="MEO/NOS<img src="http://91.194.84.21/POR.gif">",TOROS TV
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/4352.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Fox Sports (BR)" tvg-logo="" group-title="BRASIL<img src="http://91.194.84.21/BR.gif">",Fox Sports (BR)
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/12281.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Fox Sports 2 (BR)" tvg-logo="" group-title="BRASIL<img src="http://91.194.84.21/BR.gif">",Fox Sports 2 (BR)
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/12280.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere 2 (BR)" tvg-logo="" group-title="BRASIL<img src="http://91.194.84.21/BR.gif">",Premiere 2 (BR)
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/12248.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere 3 (BR)" tvg-logo="" group-title="BRASIL<img src="http://91.194.84.21/BR.gif">",Premiere 3 (BR)
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/12247.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere 4 (BR)" tvg-logo="" group-title="BRASIL<img src="http://91.194.84.21/BR.gif">",Premiere 4 (BR)
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/12246.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere 5 (BR)" tvg-logo="" group-title="BRASIL<img src="http://91.194.84.21/BR.gif">",Premiere 5 (BR)
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/12245.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere 6 (BR)" tvg-logo="" group-title="BRASIL<img src="http://91.194.84.21/BR.gif">",Premiere 6 (BR)
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/12244.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere 7 (BR)" tvg-logo="" group-title="BRASIL<img src="http://91.194.84.21/BR.gif">",Premiere 7 (BR)
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/12243.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere 8 (BR)" tvg-logo="" group-title="BRASIL<img src="http://91.194.84.21/BR.gif">",Premiere 8 (BR)
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/12242.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere 9 (BR)" tvg-logo="" group-title="BRASIL<img src="http://91.194.84.21/BR.gif">",Premiere 9 (BR)
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/12241.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere Clubes (BR)" tvg-logo="" group-title="BRASIL<img src="http://91.194.84.21/BR.gif">",Premiere Clubes (BR)
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/12240.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Prime Box Brasil (BR)" tvg-logo="" group-title="BRASIL<img src="http://91.194.84.21/BR.gif">",Prime Box Brasil (BR)
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/12239.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SporTV (BR)" tvg-logo="" group-title="BRASIL<img src="http://91.194.84.21/BR.gif">",SporTV (BR)
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/12232.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SporTV 2 (BR)" tvg-logo="" group-title="BRASIL<img src="http://91.194.84.21/BR.gif">",SporTV 2 (BR)
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/12231.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SporTV 3 (BR)" tvg-logo="" group-title="BRASIL<img src="http://91.194.84.21/BR.gif">",SporTV 3 (BR)
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/12230.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="IT Sky Sport" tvg-logo="" group-title="ITALIA<img src="http://91.194.84.21/IT.gif">",IT Sky Sport
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/12792.ts
+#EXTINF:-1 tvg-ID="" tvg-name="IT Sky Sport   HD" tvg-logo="" group-title="ITALIA<img src="http://91.194.84.21/IT.gif">",IT Sky Sport   HD
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/12791.ts
+#EXTINF:-1 tvg-ID="" tvg-name="IT Sky Sport 1" tvg-logo="" group-title="ITALIA<img src="http://91.194.84.21/IT.gif">",IT Sky Sport 1
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/12790.ts
+#EXTINF:-1 tvg-ID="" tvg-name="IT Sky Sport 1 HD" tvg-logo="" group-title="ITALIA<img src="http://91.194.84.21/IT.gif">",IT Sky Sport 1 HD
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/12789.ts
+#EXTINF:-1 tvg-ID="" tvg-name="IT Sky Sport 1 SD" tvg-logo="" group-title="ITALIA<img src="http://91.194.84.21/IT.gif">",IT Sky Sport 1 SD
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/12788.ts
+#EXTINF:-1 tvg-ID="" tvg-name="IT Sky Sport 2" tvg-logo="" group-title="ITALIA<img src="http://91.194.84.21/IT.gif">",IT Sky Sport 2
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/12787.ts
+#EXTINF:-1 tvg-ID="" tvg-name="IT Sky Sport 2 HD" tvg-logo="" group-title="ITALIA<img src="http://91.194.84.21/IT.gif">",IT Sky Sport 2 HD
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/12786.ts
+#EXTINF:-1 tvg-ID="" tvg-name="IT Sky Sport 2 SD" tvg-logo="" group-title="ITALIA<img src="http://91.194.84.21/IT.gif">",IT Sky Sport 2 SD
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/12785.ts
+#EXTINF:-1 tvg-ID="" tvg-name="IT Sky Sport 24" tvg-logo="" group-title="ITALIA<img src="http://91.194.84.21/IT.gif">",IT Sky Sport 24
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/12781.ts
+#EXTINF:-1 tvg-ID="" tvg-name="IT Sky Sport 24 HD" tvg-logo="" group-title="ITALIA<img src="http://91.194.84.21/IT.gif">",IT Sky Sport 24 HD
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/12780.ts
+#EXTINF:-1 tvg-ID="" tvg-name="IT Sky Sport 3" tvg-logo="" group-title="ITALIA<img src="http://91.194.84.21/IT.gif">",IT Sky Sport 3
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/12784.ts
+#EXTINF:-1 tvg-ID="" tvg-name="IT Sky Sport 3 HD" tvg-logo="" group-title="ITALIA<img src="http://91.194.84.21/IT.gif">",IT Sky Sport 3 HD
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/12783.ts
+#EXTINF:-1 tvg-ID="" tvg-name="IT Sky Sport 3 SD" tvg-logo="" group-title="ITALIA<img src="http://91.194.84.21/IT.gif">",IT Sky Sport 3 SD
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/12782.ts
+#EXTINF:-1 tvg-ID="" tvg-name="IT Sky Sport F1" tvg-logo="" group-title="ITALIA<img src="http://91.194.84.21/IT.gif">",IT Sky Sport F1
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/12779.ts
+#EXTINF:-1 tvg-ID="" tvg-name="IT Sky Sport F1 HD" tvg-logo="" group-title="ITALIA<img src="http://91.194.84.21/IT.gif">",IT Sky Sport F1 HD
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/12778.ts
+#EXTINF:-1 tvg-ID="" tvg-name="IT Sky Sport MotoGP" tvg-logo="" group-title="ITALIA<img src="http://91.194.84.21/IT.gif">",IT Sky Sport MotoGP
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/12777.ts
+#EXTINF:-1 tvg-ID="" tvg-name="IT Sky Sport MotoGP HD" tvg-logo="" group-title="ITALIA<img src="http://91.194.84.21/IT.gif">",IT Sky Sport MotoGP HD
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/12762.ts
+#EXTINF:-1 tvg-ID="" tvg-name="IT Sky Supercalcio" tvg-logo="" group-title="ITALIA<img src="http://91.194.84.21/IT.gif">",IT Sky Supercalcio
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/12776.ts
+#EXTINF:-1 tvg-ID="" tvg-name="IT Sky Supercalcio HD" tvg-logo="" group-title="ITALIA<img src="http://91.194.84.21/IT.gif">",IT Sky Supercalcio HD
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/12775.ts
+#EXTINF:-1 tvg-ID="" tvg-name="IT Sky TG24 HD" tvg-logo="" group-title="ITALIA<img src="http://91.194.84.21/IT.gif">",IT Sky TG24 HD
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/12774.ts
+#EXTINF:-1 tvg-ID="" tvg-name="IT Sky Uno" tvg-logo="" group-title="ITALIA<img src="http://91.194.84.21/IT.gif">",IT Sky Uno
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/12773.ts
+#EXTINF:-1 tvg-ID="" tvg-name="IT Sky Uno HD" tvg-logo="" group-title="ITALIA<img src="http://91.194.84.21/IT.gif">",IT Sky Uno HD
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/12772.ts
+#EXTINF:-1 tvg-ID="" tvg-name="IT Sport Italia" tvg-logo="" group-title="ITALIA<img src="http://91.194.84.21/IT.gif">",IT Sport Italia
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/12771.ts
+#EXTINF:-1 tvg-ID="" tvg-name="IT Super Calcio" tvg-logo="" group-title="ITALIA<img src="http://91.194.84.21/IT.gif">",IT Super Calcio
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/12770.ts
+#EXTINF:-1 tvg-ID="" tvg-name="IT Super Tennis" tvg-logo="" group-title="ITALIA<img src="http://91.194.84.21/IT.gif">",IT Super Tennis
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/12769.ts
+
+#EXTINF:-1 tvg-ID="TVC1" tvg-name="TVCINE 1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tvc1.jpg" group-title="MEO/NOS<img src="http://91.194.84.21/POR.gif">",TVCINE 1
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/4350.ts
+#EXTINF:-1 tvg-ID="TVC2" tvg-name="TVCINE 2" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tvc2.jpg" group-title="MEO/NOS<img src="http://91.194.84.21/POR.gif">",TVCINE 2
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/4349.ts
+#EXTINF:-1 tvg-ID="TVC3" tvg-name="TVCINE 3" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tvc3.jpg" group-title="MEO/NOS<img src="http://91.194.84.21/POR.gif">",TVCINE 3
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/4348.ts
+#EXTINF:-1 tvg-ID="TVC4" tvg-name="TVCINE 4" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tvc4.jpg" group-title="MEO/NOS<img src="http://91.194.84.21/POR.gif">",TVCINE 4
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/4347.ts
+#EXTINF:-1 tvg-ID="TVC1 HD (LOW BITRATE)" tvg-name="TVCINE 1 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tvc1.jpg" group-title="MEO/NOS<img src="http://91.194.84.21/POR.gif">",TVCINE 1 HD
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/4346.ts
+#EXTINF:-1 tvg-ID="TVC2 HD (LOW BITRATE)" tvg-name="TVCINE 2 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tvc2.jpg" group-title="MEO/NOS<img src="http://91.194.84.21/POR.gif">",TVCINE 2 HD
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/4345.ts
+#EXTINF:-1 tvg-ID="TVC3 HD (LOW BITRATE)" tvg-name="TVCINE 3 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tvc3.jpg" group-title="MEO/NOS<img src="http://91.194.84.21/POR.gif">",TVCINE 3 HD
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/4344.ts
+#EXTINF:-1 tvg-ID="TVC4HD(LOWBITRATE)" tvg-name="TVCINE 4 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tvc4.jpg" group-title="MEO/NOS<img src="http://91.194.84.21/POR.gif">",TVCINE 4 HD
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/4343.ts
+#EXTINF:-1 tvg-ID="TVC SERIES (LOW BITRATE)" tvg-name="TV SERIES" tvg-logo="http://www.meiosepublicidade.pt/wp-content/uploads/2011/09/logo-TV-S%C3%A9ries.jpg" group-title="MEO/NOS<img src="http://91.194.84.21/POR.gif">",TV SERIES
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/4342.ts
+#EXTINF:-1 tvg-ID="TVSERIES" tvg-name="TV SERIES HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tvc_hd.jpg" group-title="MEO/NOS<img src="http://91.194.84.21/POR.gif">",TV SERIES HD
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/4341.ts
+#EXTINF:-1 tvg-ID="Cinemundo" tvg-name="CINEMUNDO" tvg-logo="http://www.cinemundo.pt/canalcinemundo/wp-content/uploads/2015/09/logo-canal1.png" group-title="MEO/NOS<img src="http://91.194.84.21/POR.gif">",CINEMUNDO
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/4340.ts
+#EXTINF:-1 tvg-ID="FOX MOVIES HD" tvg-name="FOX MOVIES" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_movies_pt.jpg" group-title="MEO/NOS<img src="http://91.194.84.21/POR.gif">",FOX MOVIES
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/4339.ts
+#EXTINF:-1 tvg-ID="SUNDANCE" tvg-name="Sundance HD" tvg-logo="" group-title="MEO/NOS<img src="http://91.194.84.21/POR.gif">",Sundance HD
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/6230.ts
+#EXTINF:-1 tvg-ID="AMC" tvg-name="AMC" tvg-logo="http://www.sato.tv.br/images/logos/amc.png" group-title="MEO/NOS<img src="http://91.194.84.21/POR.gif">",AMC
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/4337.ts
+#EXTINF:-1 tvg-ID="HOLLY" tvg-name="HOLLYWOOD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canal_hollywood.jpg" group-title="MEO/NOS<img src="http://91.194.84.21/POR.gif">",HOLLYWOOD
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/4336.ts
+#EXTINF:-1 tvg-ID="HOLLYWOOD HD" tvg-name="HOLLYWOOD HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canal_hollywood_hd.jpg" group-title="MEO/NOS<img src="http://91.194.84.21/POR.gif">",HOLLYWOOD HD
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/4335.ts
+#EXTINF:-1 tvg-ID="FOXLIFE" tvg-name="FOX LIFE HD" tvg-logo="https://2.bp.blogspot.com/-8-AJk5HnS5c/WBj-X_uga-I/AAAAAAAAAsI/dMMsr9zdyE4127cTO03GnUbL1Xt1MPIQQCEw/s1600/Fox-Life-HD.png" group-title="MEO/NOS<img src="http://91.194.84.21/POR.gif">",FOX LIFE HD
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/4333.ts
+#EXTINF:-1 tvg-ID="FOX" tvg-name="FOX HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/64/Fox_HD.png/revision/latest?cb=20101222173354" group-title="MEO/NOS<img src="http://91.194.84.21/POR.gif">",FOX HD
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/4332.ts
+#EXTINF:-1 tvg-ID="FOX COMEDY HD" tvg-name="FOX COMEDY" tvg-logo="https://www.cnt.gob.ec/tv/wp-content/uploads/sites/5/2014/10/FOX-Comedy-Logo-01.png" group-title="MEO/NOS<img src="http://91.194.84.21/POR.gif">",FOX COMEDY
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/4331.ts
+#EXTINF:-1 tvg-ID="FOXCRIME" tvg-name="FOX CRIME HD" tvg-logo="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxIQEBISExIQFRAPFRcVEBcQExUVFhUbFhYXGBcVGBUYHSggGBolGxcVITEhJSkrLi4uFx8zRDMsNygtLisBCgoKDg0OGxAQGzIhHyUtLS8rLTU3MC81NS03LSsrKy0uLS0wLSsrLTctLy4tLTItLS4rLy0tLS0tKy0tLTMtLf/AABEIALcBEwMBIgACEQEDEQH/xAAcAAEAAgMBAQEAAAAAAAAAAAAABgcCAwUBBAj/xABIEAACAQIDAwcGCwQJBQAAAAAAAQIDEQQSIQUGMQcTIkFRYXEUMlKBkbEjNEJyc4KSobPB0RdTYpMVQ1RjdLLT4fEWJUSD0v/EABkBAQADAQEAAAAAAAAAAAAAAAABAgMFBP/EAC4RAQACAgECBAMHBQAAAAAAAAABAgMRBBIxBRMhQRRhcSIyQoGhwfAVIzM10f/aAAwDAQACEQMRAD8AvEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAeXFwPQeHoAAAAAAAAAAAAAAAAAAgVTf2qm1zFPRtefLq+qBPQV+9/6v7il9uX6H3bE3yqYivToypQiqjazRnK6tFvg13doEyB8+LxUKUHOpJRiuLkyLYzf2lF2p0qk12yapp+GjftSAmIIjgt/KMmlUp1Kd+tNTj67Wf3HW2rtdww/lFCMK0Fq+k10etppPh2AdgEB/aBU/s8P5sv8A5JdQ2pTlh1iM3weTO32WWq8U9AOgCAvlAqX0w8LdV6jvbqv0ST7B2nUxFHnqkI01JvJaTd0vlO6Vv9gOuCtd5uU9U5Sp4SEajjdOpUvzd1p0YrWfjdLxIlU5Q9otv4eKv1RpU7LwvFsxnPSHSxeFcjJXq1r6r3BU+7XKZXlWpUcRThNVZxpqdK8JRc5KKbi21JXa4W07TLeflExmGxmIoU44Xm6M1GLnTqOT6MXq1US4t9RPnV1tH9L5HmeXr11v8lrApqhyqY1O86WFlHsiqkH9pzl7iwN0d7qW0YvLeFaC+Epyd2u9P5Ue/wBxNctbdmefw/Pgr1Xj0SUEI5Q96sRgFR5lUXzrlm52MpcF1ZZI+vk+3hrY/D1KlZU1OFVwXNRlFWUIS1UpSd7yfX2E9cdXT7sp4uSMUZvwpPUqKLV2lmdld8X2Lv4+wzuV9ys7UlQhg1B2mq/PL/1RentnH2e2Z7G2hHE0KVaPm1YqXhfivUyYtEzpW+C1cVcntL72YVKiirtpLtbsZFb8q28LpTw+Gg/lRr17PhGMuhH1tN/U7xa0VjcnHwWzX6KrITMj5ada9NTXXHMvWrlP/tTx/oYP+VV/1SL5Ir3acfhZc8z0e3ddQKW/antD0MH/ACqv+qSTcHfbFY7FSo1o4dQVKU06UJxleMoK15TkrWk+rsK1zVtOobZvDORipN7R6QsUGFz4thYyVbDUasrZ6lOMpZVZXa1sru3tNXPdAHh5cDIGNz24HoPAB6UnX8+Xzpe9l2FJ1/Pl86XvZMDsbL3WxGJpKrTdHJJtLPKSejs9FF+862yN0sTQr0q05UMlKWaVqkr2s0+MOxnG2bvLiMPTVOm6eSN2s0LvV3et+87GE3hr4jC4znHDoUlbJG3nvK+vsA4m8W2pYuq5XfNRbVGPd6TXpPj6zHd7ZPldbms2VKLnJ2u7JxVku28kcwlHJ18bn9BP/PTCHK3h2S8JW5vNmTipRdrPXqaNu7O2XhquWWtCq8tWL4K+ma3v7rnQ5Q/jUfo172RZoJdTeHZbwteUNebl0qL7Yvq8U9O3g+tHzx2jUVB4fN8FKam13rq8L2fivEmO3aUa2y6NWo7VIUqcoSfFylFJx+t+hAwh9+wtmPFV40lfK9ajXVFcfW+C72dblV29zFOngqLyupG9TLplprRR7r29iZ3+T/Cwjh3UTTnUlaf8OXhH8/WVjyk1HLade/yVTjHwyKXvkzHPbVXU8Jw1y8iOrtHq37hbnPHydSpeOFpPK7aOpJcYp8UkrXffbina0aW5+BjHKsLRtpe8U27cHftPNwKMYbNwairZqMJvvlNZ5P1tskQx44iqnN5uXJln11ET6K72rycQjXoV8I8nN16U6lOT6OWNSMpODfmtJcODK+38f/csb89fhQP0Iz8+b9K+0sYu2ovwoGWesRHo6PhGfJlyzF53qE/luHhK2BhUjF06zpKSnBu18qd3Hg7/AJ9RANxMZKltDCyj8uapys+MZqzXhez9SPpxe/GLnh1h0406ahkbgum1a1s19NPedXku3bnVxEMVKLVChd02+E5tOKt2xSb17bFNxa0dL09OTBgyfEW3E9odTln/APF8Ze46PIz8Srf4h/hUjn8tHDC+MvcdDkb+J1/8RL8Kkax/ll4Mn+tr9f8AqNcr2Mz42FNPSjSV+5zd39yidXkg21dVMJJ6x+Eo37H56Xg7P6yIbvpiue2hiZLVc5kj9W0UfHs7GVMBi4VLNVMNPpx62rWlDvvF6d9jHr1k26XwkZODXF763D9D4vERpU5Tk7RhFyl4JXZ+ddu7Rli8RWrS/rZNpdkeEV9lIsvlS3ij5LTo0pJ+VpTbj+70d/rXX3lUuk8qnboylKKffFRcl7Jx9pbkW3OoYeC8aKUnLbvPpC/N0sXz2zqE+t0VfjxSs1qUTsinGpXw8ZLoVK1KMl3TqRTXsZbPJTi8+zpw66M6kftdNfdIp3DJ2hbNm6OXLfNfS2W2t72tbW4yzuKyt4bj6MmesfzuvP8A6D2b+4h9p/qdDY26+EwlR1aFJRm4uDabejabXtivYUf5Hjv3W0f5eJ/Qt/kvp1Y7PiqsasZ56mlZSUrZ3a6nrwsa47Rae2ng5uDJix7nL1b9v5KVo5G5/wAQw30a/M7LONuf8Qw30aN3GbMXt/D0sRDDTqqNeqk6cMs3e90tUrLzX1jbG3sPhOb5+ooc83GneMndq110U+1Fe7/Yp0dtYWpGEqkqdKDUIedLp1NF3nO3529UxcsKqmFr0ObqPLzytmu43S06rfeZTk1uHRx8Dr6J9pjc/qsTF78bPpVJU54hRnTeWScKmj8VG33nU2Vtehio56FWFSK0eSV7dzXUyvN0MFTrbW2jGrCE4qzSnFStq78eBrhQjgN4KdKgstLEQjmiuCzKelvGndfOZEZLT6rZOHjiZpWZ6orv5dtrWbPADZy/RmUnX8+Xzpe9l2FJ1/Pl86XvJhKRbB3TeKoqrzuW7krZL+a7cb9xIdmbpujTxEHUUvKKeVdG2V62fHtaN24PxKHz5/5mSJgUnUg4txkrSi3GSfU07Ne0kfJ9UUcZK7SzUZJXfF56bsvUn7CQb07q+UN1aVo1vlJ6Kpbhr1S7/wDlQTFbOrUpWnSqRkv4X9zQHb5QKili1Zp5YJSt1O70I7QoyqSjCCvObyxXezfhdnVq0rQp1JN/wv72/eSV7OWzKDrTali6icKKWqp3WrXa0usDn7249OVPDQd6OEiofOnFWb9S08c3ccC3Xrbh/sIptpK7cnp2tvh6yxVutH+j+Y055/CZv7y3ut0fAIRvcra3MV1CT+CrtRd+EZcIy9fD2HI5W9lOni4YhLoYiKi3b5cL8e9xt9k+WcbNpppq6afU1o0WBs3mtq4GVCvrOFozfyk15tRPt/NMzyU6q6ezg8n4fNF57e/0cbkp3lhKisHUklVpX5nM/Pg3dRXfHhbsSLHzIoDeHdHFYGbbjKdJP4OrTTfg2lrCXdwNNPe3HQjzaxVVLhZtOS8HJNowrlmkatDq5/Da8i3m4bxqV4ba3goYV0o1JfCV6kKdOEdZNzkop27E3xKQ37dtpY19lRfhQNm7uz8Vi8ZQqKFWo4VqVSpOd7KMakZNuUu5Mx3/AKMntDG2hNpz0tFu/wAFDrSK5LTevb3ejg8anGz9PVuen1ad4tiTwkqT15uvBToyfgs0X3q/saLV5ON5li6CpzssRQSUl6UeCml7+8+/bewIY/ARoyspqEZUpWu4TUdH+T7U2imsDVxOz8UpxhNVqEmpxyycZK/Sg2lrGSXHwfUTryrb9pZddefgmlp+3XsnPLRwwvzp+4+nkprZNnYqfoVqj17qNJnL5TcfHF0MFWpxnlnmdnF5o6axkupp6Gnd6tOlsHHWjUzzrOEbRd+nTpRulbhqW3/cmfkz6d8GlJ79Wv1lEti0vKMZRj++rRb+tO7/ADJbys7F5qvDExVoV1lqWXyo9b72vcc/kz2dOe0qTcJqNGM6jzRkl5uRLVcbzT9Ra29uxvLcJVoq2dq9NvqnHWPgup9zZXHTqpLXmcyMPLprtEan6KCzVKsqcLuUrRpUk+pX6MPC8mWDv5u8sJsrCRXHD1Fzj9J1FLM7d82jnclWxHWxTrzj0MLwUl/WPS3ilcsDlHwjq7NxCSbcEppJXbySUtF18BTH9iZlPN5sRysdK9on1/ND+R7Fa4yl2xhUS7+lGXuh7SB7vfGcJ9PQ/FgSPk2c6e0I3hUUatKrTblCSS6OdNtr+7t9YieGhOORpTUo2aai7pqzTWnFMzn7tflv9ntx1r5+XU/eiP3h+mkZRZ+ef6fx/wDacZ9uoS7kw2riq2NlGrVrzhzM3aq5NXU6dnr12b9rPTXNEzpwc/hWTFSbzaJ0tls425/xDDfRo65yt0I2wOG+ij9+ps5aP7f3dxFbbGFxUIxdCjGCqNySacZVG9Ovzke8ou7uIxrwroxi+ZnJ1M0lGyeS1u3gybgrNI1MPRHJvE1mPwxqFYUdibUwuNxOIw9KhJYh6c7LqXDRWt1nT3X3SxPlcsdjZwliH5kYaxjpZeCS0S729W2yeArGOF783JaJ7RuNb+TCx4bAX1Dx6DR5JD0IfZX6G8EpYQpqOiSS7ErGYAHjFj0AeWNdShGXnRi7cMyT95tAGhYSHVCH2V+htymQA0SwsHq4Qu+2K/Q9p4eMfNjFX42SXuNwAwcPA+WWy6Ld3SpX7XCP6H2gJiZjs106SirJJLu0PHRT6o+w2gG5Y5TB0E+pexG0BETpp8nj6MbeBkqaXBJeCNgCdywyHuUyAQ+PA7Op0c/NxUednKpO3XKXnM+rKZAEzudsMhr8lh6EfYjeAmJmGjyWHoQ9iMoUIrVRin3KxtANyxyiEElZJJLglwMgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP/Z" group-title="MEO/NOS<img src="http://91.194.84.21/POR.gif">",FOX CRIME HD
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/4330.ts
+#EXTINF:-1 tvg-ID="CRIME INVESTIGATION" tvg-name="CRIME & INVESTIGATION" tvg-logo="http://www.nos.pt/particulares/televisao/canais/exclusivos/PublishingImages/crime-investigation/logo/large2.jpg" group-title="MEO/NOS<img src="http://91.194.84.21/POR.gif">",CRIME & INVESTIGATION
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/6231.ts
+#EXTINF:-1 tvg-ID="AXN" tvg-name="AXN HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/721_300.png" group-title="MEO/NOS<img src="http://91.194.84.21/POR.gif">",AXN HD
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/4329.ts
+#EXTINF:-1 tvg-ID="AXN Black" tvg-name="AXN BLACK HD" tvg-logo="http://3.bp.blogspot.com/-s7u82NdX8bs/UGnBIwfcVoI/AAAAAAAA3vI/EinGPA1jlzA/s1600/image008.jpg" group-title="MEO/NOS<img src="http://91.194.84.21/POR.gif">",AXN BLACK HD
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/4328.ts
+#EXTINF:-1 tvg-ID="AXN White" tvg-name="AXN WHITE HD" tvg-logo="http://i60.tinypic.com/2qlbcwg.jpg" group-title="MEO/NOS<img src="http://91.194.84.21/POR.gif">",AXN WHITE HD
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/4327.ts
+#EXTINF:-1 tvg-ID="SyFy" tvg-name="SYFY" tvg-logo="http://www.lamac.org/res/channels/logos/_0030_syfy.png" group-title="MEO/NOS<img src="http://91.194.84.21/POR.gif">",SYFY
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/4326.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HBO (BR)" tvg-logo="" group-title="BRASIL<img src="http://91.194.84.21/BR.gif">",HBO (BR)
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/12271.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HBO 2 (BR)" tvg-logo="" group-title="BRASIL<img src="http://91.194.84.21/BR.gif">",HBO 2 (BR)
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/12270.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HBO Family (BR)" tvg-logo="" group-title="BRASIL<img src="http://91.194.84.21/BR.gif">",HBO Family (BR)
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/12269.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HBO Plus (BR)" tvg-logo="" group-title="BRASIL<img src="http://91.194.84.21/BR.gif">",HBO Plus (BR)
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/12268.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HBO Signature (BR)" tvg-logo="" group-title="BRASIL<img src="http://91.194.84.21/BR.gif">",HBO Signature (BR)
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/12267.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HBO2 (BR)" tvg-logo="" group-title="BRASIL<img src="http://91.194.84.21/BR.gif">",HBO2 (BR)
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/12266.ts
+#EXTINF:-1 tvg-ID="" tvg-name="I sat (BR)" tvg-logo="" group-title="BRASIL<img src="http://91.194.84.21/BR.gif">",I sat (BR)
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/12265.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ID - Investiga (BR)" tvg-logo="" group-title="BRASIL<img src="http://91.194.84.21/BR.gif">",ID - Investiga (BR)
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/12314.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Mais Globo Sat (BR)" tvg-logo="" group-title="BRASIL<img src="http://91.194.84.21/BR.gif">",Mais Globo Sat (BR)
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/12264.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Max (BR)" tvg-logo="" group-title="BRASIL<img src="http://91.194.84.21/BR.gif">",Max (BR)
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/12263.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Max Prime (BR)" tvg-logo="" group-title="BRASIL<img src="http://91.194.84.21/BR.gif">",Max Prime (BR)
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/12262.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Max Up (BR)" tvg-logo="" group-title="BRASIL<img src="http://91.194.84.21/BR.gif">",Max Up (BR)
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/12261.ts
