@@ -1,54 +1,41 @@
 #EXTM3U
 
 
-
-#EXTINF:-1 tvg-ID="" tvg-name="IT Sky Sport" tvg-logo="" group-title="ITALIA<img src="http://91.194.84.21/IT.gif">",IT Sky Sport
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/12792.ts
-#EXTINF:-1 tvg-ID="" tvg-name="IT Sky Sport   HD" tvg-logo="" group-title="ITALIA<img src="http://91.194.84.21/IT.gif">",IT Sky Sport   HD
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/12791.ts
-#EXTINF:-1 tvg-ID="" tvg-name="IT Sky Sport 1" tvg-logo="" group-title="ITALIA<img src="http://91.194.84.21/IT.gif">",IT Sky Sport 1
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/12790.ts
-#EXTINF:-1 tvg-ID="" tvg-name="IT Sky Sport 1 HD" tvg-logo="" group-title="ITALIA<img src="http://91.194.84.21/IT.gif">",IT Sky Sport 1 HD
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/12789.ts
-#EXTINF:-1 tvg-ID="" tvg-name="IT Sky Sport 1 SD" tvg-logo="" group-title="ITALIA<img src="http://91.194.84.21/IT.gif">",IT Sky Sport 1 SD
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/12788.ts
-#EXTINF:-1 tvg-ID="" tvg-name="IT Sky Sport 2" tvg-logo="" group-title="ITALIA<img src="http://91.194.84.21/IT.gif">",IT Sky Sport 2
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/12787.ts
-#EXTINF:-1 tvg-ID="" tvg-name="IT Sky Sport 2 HD" tvg-logo="" group-title="ITALIA<img src="http://91.194.84.21/IT.gif">",IT Sky Sport 2 HD
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/12786.ts
-#EXTINF:-1 tvg-ID="" tvg-name="IT Sky Sport 2 SD" tvg-logo="" group-title="ITALIA<img src="http://91.194.84.21/IT.gif">",IT Sky Sport 2 SD
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/12785.ts
-#EXTINF:-1 tvg-ID="" tvg-name="IT Sky Sport 24" tvg-logo="" group-title="ITALIA<img src="http://91.194.84.21/IT.gif">",IT Sky Sport 24
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/12781.ts
-#EXTINF:-1 tvg-ID="" tvg-name="IT Sky Sport 24 HD" tvg-logo="" group-title="ITALIA<img src="http://91.194.84.21/IT.gif">",IT Sky Sport 24 HD
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/12780.ts
-#EXTINF:-1 tvg-ID="" tvg-name="IT Sky Sport 3" tvg-logo="" group-title="ITALIA<img src="http://91.194.84.21/IT.gif">",IT Sky Sport 3
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/12784.ts
-#EXTINF:-1 tvg-ID="" tvg-name="IT Sky Sport 3 HD" tvg-logo="" group-title="ITALIA<img src="http://91.194.84.21/IT.gif">",IT Sky Sport 3 HD
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/12783.ts
-#EXTINF:-1 tvg-ID="" tvg-name="IT Sky Sport 3 SD" tvg-logo="" group-title="ITALIA<img src="http://91.194.84.21/IT.gif">",IT Sky Sport 3 SD
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/12782.ts
-#EXTINF:-1 tvg-ID="" tvg-name="IT Sky Sport F1" tvg-logo="" group-title="ITALIA<img src="http://91.194.84.21/IT.gif">",IT Sky Sport F1
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/12779.ts
-#EXTINF:-1 tvg-ID="" tvg-name="IT Sky Sport F1 HD" tvg-logo="" group-title="ITALIA<img src="http://91.194.84.21/IT.gif">",IT Sky Sport F1 HD
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/12778.ts
-#EXTINF:-1 tvg-ID="" tvg-name="IT Sky Sport MotoGP" tvg-logo="" group-title="ITALIA<img src="http://91.194.84.21/IT.gif">",IT Sky Sport MotoGP
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/12777.ts
-#EXTINF:-1 tvg-ID="" tvg-name="IT Sky Sport MotoGP HD" tvg-logo="" group-title="ITALIA<img src="http://91.194.84.21/IT.gif">",IT Sky Sport MotoGP HD
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/12762.ts
-#EXTINF:-1 tvg-ID="" tvg-name="IT Sky Supercalcio" tvg-logo="" group-title="ITALIA<img src="http://91.194.84.21/IT.gif">",IT Sky Supercalcio
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/12776.ts
-#EXTINF:-1 tvg-ID="" tvg-name="IT Sky Supercalcio HD" tvg-logo="" group-title="ITALIA<img src="http://91.194.84.21/IT.gif">",IT Sky Supercalcio HD
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/12775.ts
-#EXTINF:-1 tvg-ID="" tvg-name="IT Sky TG24 HD" tvg-logo="" group-title="ITALIA<img src="http://91.194.84.21/IT.gif">",IT Sky TG24 HD
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/12774.ts
-#EXTINF:-1 tvg-ID="" tvg-name="IT Sky Uno" tvg-logo="" group-title="ITALIA<img src="http://91.194.84.21/IT.gif">",IT Sky Uno
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/12773.ts
-#EXTINF:-1 tvg-ID="" tvg-name="IT Sky Uno HD" tvg-logo="" group-title="ITALIA<img src="http://91.194.84.21/IT.gif">",IT Sky Uno HD
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/12772.ts
-#EXTINF:-1 tvg-ID="" tvg-name="IT Sport Italia" tvg-logo="" group-title="ITALIA<img src="http://91.194.84.21/IT.gif">",IT Sport Italia
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/12771.ts
-#EXTINF:-1 tvg-ID="" tvg-name="IT Super Calcio" tvg-logo="" group-title="ITALIA<img src="http://91.194.84.21/IT.gif">",IT Super Calcio
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/12770.ts
-#EXTINF:-1 tvg-ID="" tvg-name="IT Super Tennis" tvg-logo="" group-title="ITALIA<img src="http://91.194.84.21/IT.gif">",IT Super Tennis
-http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/12769.ts
+#EXTINF:-1 tvg-ID="" tvg-name="IT Super!" tvg-logo="" group-title="ITALIA<img src="http://91.194.84.21/IT.gif">",IT Super!
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/12768.ts
+#EXTINF:-1 tvg-ID="" tvg-name="IT Top Crime" tvg-logo="" group-title="ITALIA<img src="http://91.194.84.21/IT.gif">",IT Top Crime
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/12766.ts
+#EXTINF:-1 tvg-ID="" tvg-name="IT Torino Channel HD" tvg-logo="" group-title="ITALIA<img src="http://91.194.84.21/IT.gif">",IT Torino Channel HD
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/12767.ts
+#EXTINF:-1 tvg-ID="" tvg-name="IT TV2000" tvg-logo="" group-title="ITALIA<img src="http://91.194.84.21/IT.gif">",IT TV2000
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/12952.ts
+#EXTINF:-1 tvg-ID="" tvg-name="IT TV8" tvg-logo="" group-title="ITALIA<img src="http://91.194.84.21/IT.gif">",IT TV8
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/12953.ts
+#EXTINF:-1 tvg-ID="" tvg-name="IT Video Lina" tvg-logo="" group-title="ITALIA<img src="http://91.194.84.21/IT.gif">",IT Video Lina
+http://www.bragatop.com:8080/live/JaiGuHM7Sz/rSEatS4YPW/12765.ts
+#EXTINF:-1 tvg-ID="" tvg-name="The Hitmans Bodyguard" tvg-logo="http://painelpro.net:8000/images/1959563.jpg" group-title="GENERAL MOVIES",The Hitmans Bodyguard
+http://www.bragatop.com:8080/movie/JaiGuHM7Sz/rSEatS4YPW/7358.avi
+#EXTINF:-1 tvg-ID="" tvg-name="The Recall 2017" tvg-logo="http://painelpro.net:8000/images/5669936.jpg" group-title="GENERAL MOVIES",The Recall 2017
+http://www.bragatop.com:8080/movie/JaiGuHM7Sz/rSEatS4YPW/7359.avi
+#EXTINF:-1 tvg-ID="" tvg-name="Guardians Of The Galaxy Vol 2" tvg-logo="http://painelpro.net:8000/images/3896198.jpg" group-title="GENERAL MOVIES",Guardians Of The Galaxy Vol 2
+http://www.bragatop.com:8080/movie/JaiGuHM7Sz/rSEatS4YPW/7357.avi
+#EXTINF:-1 tvg-ID="" tvg-name="Barbie Dreamtopia" tvg-logo="http://painelpro.net:8000/images/7069740.jpg" group-title="ANIMACAO PORTUGUESA",Barbie Dreamtopia
+http://www.bragatop.com:8080/movie/JaiGuHM7Sz/rSEatS4YPW/7362.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="The Mummy" tvg-logo="http://painelpro.net:8000/images/2345759.jpg" group-title="GENERAL MOVIES",The Mummy
+http://www.bragatop.com:8080/movie/JaiGuHM7Sz/rSEatS4YPW/7361.avi
+#EXTINF:-1 tvg-ID="" tvg-name="Security" tvg-logo="http://painelpro.net:8000/images/3501112.jpg" group-title="GENERAL MOVIES",Security
+http://www.bragatop.com:8080/movie/JaiGuHM7Sz/rSEatS4YPW/7368.avi
+#EXTINF:-1 tvg-ID="" tvg-name="Moana" tvg-logo="http://painelpro.net:8000/images/3521164.jpg" group-title="ANIMACAO PORTUGUESA",Moana
+http://www.bragatop.com:8080/movie/JaiGuHM7Sz/rSEatS4YPW/7365.avi
+#EXTINF:-1 tvg-ID="" tvg-name="Branca De Neve E O Cacadore" tvg-logo="http://painelpro.net:8000/images/1735898.jpg" group-title="GENERAL MOVIES",Branca De Neve E O Cacadore
+http://www.bragatop.com:8080/movie/JaiGuHM7Sz/rSEatS4YPW/8819.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="The Peanuts Movie" tvg-logo="http://painelpro.net:8000/images/2452042.jpg" group-title="ANIMACAO PORTUGUESA",The Peanuts Movie
+http://www.bragatop.com:8080/movie/JaiGuHM7Sz/rSEatS4YPW/8817.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Unlocked 2017" tvg-logo="http://painelpro.net:8000/images/1734493.jpg" group-title="GENERAL MOVIES",Unlocked 2017
+http://www.bragatop.com:8080/movie/JaiGuHM7Sz/rSEatS4YPW/8823.avi
+#EXTINF:-1 tvg-ID="" tvg-name="Lego Scooby Doo Blowout Beach Bash" tvg-logo="http://painelpro.net:8000/images/6946580.jpg" group-title="ANIMACAO PORTUGUESA",Lego Scooby Doo Blowout Beach Bash
+http://www.bragatop.com:8080/movie/JaiGuHM7Sz/rSEatS4YPW/8821.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Sahara 2017" tvg-logo="http://painelpro.net:8000/images/4466894.jpg" group-title="ANIMACAO PORTUGUESA",Sahara 2017
+http://www.bragatop.com:8080/movie/JaiGuHM7Sz/rSEatS4YPW/8822.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Japonesas Gostosas" tvg-logo="http://painelpro.net:8000/images/4466894.jpg" group-title="FOR ADULTS",Japonesas Gostosas
+http://www.bragatop.com:8080/movie/JaiGuHM7Sz/rSEatS4YPW/8824.mp4
