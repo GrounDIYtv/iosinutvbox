@@ -7,7 +7,7 @@
 
 <plugin>
 <title>[B][COLOR white]PHÁP IPTV[/COLOR][/B]</title>
-<link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/tcm21DIY/MediaIPTV/master/phap.m3u</link>
+<link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/tcm21DIY/MediaIPTV/master/Phap.m3u</link>
 <thumbnail>https://raw.githubusercontent.com/tcm21DIY/MediaIPTV/master/icon.png</thumbnail>
 </plugin>
 
