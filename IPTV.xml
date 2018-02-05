@@ -6,6 +6,18 @@
 </plugin>
 
 <plugin>
+<title>[B][COLOR white]ANH IPTV[/COLOR][/B]</title>
+<link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/tcm21DIY/MediaIPTV/master/ONE.MEDIA/uk.m3u</link>
+<thumbnail>https://raw.githubusercontent.com/tcm21DIY/MediaIPTV/master/icon.png</thumbnail>
+</plugin>
+
+<plugin>
+<title>[B][COLOR white]MỸ IPTV[/COLOR][/B]</title>
+<link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/tcm21DIY/MediaIPTV/master/ONE.MEDIA/us.m3u</link>
+<thumbnail>https://raw.githubusercontent.com/tcm21DIY/MediaIPTV/master/icon.png</thumbnail>
+</plugin>
+
+<plugin>
 <title>[B][COLOR white]PHÁP IPTV[/COLOR][/B]</title>
 <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/tcm21DIY/MediaIPTV/master/ONE.MEDIA/phap.m3u</link>
 <thumbnail>https://raw.githubusercontent.com/tcm21DIY/MediaIPTV/master/icon.png</thumbnail>
