@@ -29,26 +29,3 @@
 <thumbnail>https://raw.githubusercontent.com/tcm21DIY/MediaIPTV/master/kid.jpg</thumbnail>
 </dir>
 
-<dir>
-<title>[B][COLOR white]BT Sports[/COLOR][/B]</title>
-<link>http://illuminatitemple.xyz/judgement/Media/Live%20TV/BT%20Sports.xml</link>
-<thumbnail>http://illuminatitemple.xyz/judgement/Images/Verdict/Live%20TV.png</thumbnail>
-</dir>
-
-<dir>
-<title>[B][COLOR white]Sky Sports[/COLOR][/B]</title>
-<link>http://illuminatitemple.xyz/judgement/Media/Live%20TV/Sky%20Sports.xml</link>
-<thumbnail>http://illuminatitemple.xyz/judgement/Images/Verdict/Live%20TV.png</thumbnail>
-</dir>
-
-<dir>
-<title>[B][COLOR white]Sky Movies[/COLOR][/B]</title>
-<link>http://illuminatitemple.xyz/judgement/Media/Live%20TV/Sky%20Movies.xml</link>
-<thumbnail>http://illuminatitemple.xyz/judgement/Images/Verdict/Live%20TV.png</thumbnail>
-</dir>
-
-<dir>
-<title>[B][COLOR white]Open SportsDevil[/COLOR][/B]</title>
-<link>plugin://plugin.video.SportsDevil</link>
-<thumbnail>http://illuminatitemple.xyz/judgement/Images/Verdict/Live%20TV.png</thumbnail>
-</dir>
