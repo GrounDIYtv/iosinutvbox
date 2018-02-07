@@ -1,2042 +1,1419 @@
 #EXTM3U
-
-#EXTINF:-1,AF | BRIDGE TV CLASSIC AF
-http://p4.giffy.be:8080/live/toby1/toby1/36208.ts
-#EXTINF:-1,AF | BRIDGE TV DANCE AF
-http://p4.giffy.be:8080/live/toby1/toby1/36207.ts
-#EXTINF:-1,DISCOVERY WORLD HD
-http://p4.giffy.be:8080/live/toby1/toby1/31437.ts
-#EXTINF:-1,ESPN HD
-http://p4.giffy.be:8080/live/toby1/toby1/13859.ts
-#EXTINF:-1,ESPN 2
-http://p4.giffy.be:8080/live/toby1/toby1/13860.ts
-#EXTINF:-1,ESPN U
-http://p4.giffy.be:8080/live/toby1/toby1/13861.ts
-#EXTINF:-1,ESPN News
-http://p4.giffy.be:8080/live/toby1/toby1/13862.ts
-#EXTINF:-1,FOX SPORTS 1
-http://p4.giffy.be:8080/live/toby1/toby1/13878.ts
-#EXTINF:-1,FOX SPORTS 2
-http://p4.giffy.be:8080/live/toby1/toby1/13879.ts
-#EXTINF:-1,NBCSN HD
-http://p4.giffy.be:8080/live/toby1/toby1/23190.ts
-#EXTINF:-1,BIG TEN NETWORK US
-http://p4.giffy.be:8080/live/toby1/toby1/20950.ts
-#EXTINF:-1,CBS SPORTS NETWORK US
-http://p4.giffy.be:8080/live/toby1/toby1/20948.ts
-#EXTINF:-1,SPORTSNET WORLD
-http://p4.giffy.be:8080/live/toby1/toby1/13884.ts
-#EXTINF:-1,SPORTSNET ONTARIO
-http://p4.giffy.be:8080/live/toby1/toby1/13880.ts
-#EXTINF:-1,SPORTSNET ONE HD
-http://p4.giffy.be:8080/live/toby1/toby1/20721.ts
-#EXTINF:-1,SPORTSNET 360.
-http://p4.giffy.be:8080/live/toby1/toby1/14215.ts
-#EXTINF:-1,SPORTSNET WEST HD
-http://p4.giffy.be:8080/live/toby1/toby1/21527.ts
-#EXTINF:-1,SPORTSNET EAST HD
-http://p4.giffy.be:8080/live/toby1/toby1/22575.ts
-#EXTINF:-1,SPORTSNET PACIFIC
-http://p4.giffy.be:8080/live/toby1/toby1/21526.ts
-#EXTINF:-1,US | TENNIS HD
-http://p4.giffy.be:8080/live/toby1/toby1/27825.ts
-#EXTINF:-1,GOLF HD
-http://p4.giffy.be:8080/live/toby1/toby1/31422.ts
-#EXTINF:-1,WWE HD
-http://p4.giffy.be:8080/live/toby1/toby1/20913.ts
-#EXTINF:-1,TSN 1 HD
-http://p4.giffy.be:8080/live/toby1/toby1/31526.ts
-#EXTINF:-1,TSN 2 HD
-http://p4.giffy.be:8080/live/toby1/toby1/22576.ts
-#EXTINF:-1,TSN 3 HD
-http://p4.giffy.be:8080/live/toby1/toby1/35127.ts
-#EXTINF:-1,TSN 4 HD
-http://p4.giffy.be:8080/live/toby1/toby1/13888.ts
-#EXTINF:-1,TSN 5 HD
-http://p4.giffy.be:8080/live/toby1/toby1/13889.ts
-#EXTINF:-1,BEIN SPORTS US HD.
-http://p4.giffy.be:8080/live/toby1/toby1/13890.ts
-#EXTINF:-1,NBA TV CA
-http://p4.giffy.be:8080/live/toby1/toby1/20715.ts
-#EXTINF:-1,SEC NETWORK HD US
-http://p4.giffy.be:8080/live/toby1/toby1/20959.ts
-#EXTINF:-1,TEN 1 HD (FULL HD)
-http://p4.giffy.be:8080/live/toby1/toby1/16960.ts
-#EXTINF:-1,SONY SIX HD.
-http://p4.giffy.be:8080/live/toby1/toby1/15456.ts
-#EXTINF:-1,CSN CHICAGO
-http://p4.giffy.be:8080/live/toby1/toby1/26074.ts
-#EXTINF:-1,SONY ESPN(FULL HD)
-http://p4.giffy.be:8080/live/toby1/toby1/16023.ts
-#EXTINF:-1,LAT | FOX SPORTS PREMIUM
-http://p4.giffy.be:8080/live/toby1/toby1/32367.ts
-#EXTINF:-1,LAT | BEIN SPORTS
-http://p4.giffy.be:8080/live/toby1/toby1/32294.ts
-#EXTINF:-1,LAT | GOL TV
-http://p4.giffy.be:8080/live/toby1/toby1/32295.ts
-#EXTINF:-1,EUROSPORT 2 HD
-http://p4.giffy.be:8080/live/toby1/toby1/27826.ts
-#EXTINF:-1,EUROSPORT 1 HD
-http://p4.giffy.be:8080/live/toby1/toby1/21727.ts
-
-#EXTINF:-1,SKY SPORT MAIN EVENT
-http://p4.giffy.be:8080/live/toby1/toby1/21743.ts
-#EXTINF:-1,SKY SPORTS CRICKET
-http://p4.giffy.be:8080/live/toby1/toby1/21742.ts
-#EXTINF:-1,SKY SPORTS ACTION
-http://p4.giffy.be:8080/live/toby1/toby1/21741.ts
-#EXTINF:-1,SKY SPORTS GOLF
-http://p4.giffy.be:8080/live/toby1/toby1/21740.ts
-#EXTINF:-1,SKY SPORT SKY PREMIER LEAGUE
-http://p4.giffy.be:8080/live/toby1/toby1/21739.ts
-#EXTINF:-1,SKY SPORT F1 HD
-http://p4.giffy.be:8080/live/toby1/toby1/21738.ts
-#EXTINF:-1,SKY SPORT NEWS
-http://p4.giffy.be:8080/live/toby1/toby1/21732.ts
-#EXTINF:-1,SKY SPORTS MIX
-http://p4.giffy.be:8080/live/toby1/toby1/21728.ts
-#EXTINF:-1,SKY SPORTS NEWS HD
-http://p4.giffy.be:8080/live/toby1/toby1/21737.ts
-#EXTINF:-1,SKY SPORTS HD ARENA
-http://p4.giffy.be:8080/live/toby1/toby1/27769.ts
-#EXTINF:-1,SKY SPORT 1 HD
-http://p4.giffy.be:8080/live/toby1/toby1/30065.ts
-#EXTINF:-1,SKY SPORT 2 HD
-http://p4.giffy.be:8080/live/toby1/toby1/30066.ts
-#EXTINF:-1,SKY SPORT NEWS.
-http://p4.giffy.be:8080/live/toby1/toby1/30075.ts
-#EXTINF:-1,SKY FOOTBALL ( NEW HD )
-http://p4.giffy.be:8080/live/toby1/toby1/28297.ts
-#EXTINF:-1,BT SPORTS 1 HD
-http://p4.giffy.be:8080/live/toby1/toby1/21736.ts
-#EXTINF:-1,BT SPORTS 2 HD
-http://p4.giffy.be:8080/live/toby1/toby1/21735.ts
-
-#EXTINF:-1,CA | CNN  HD
-http://p4.giffy.be:8080/live/toby1/toby1/20916.ts
-#EXTINF:-1,CA | CP24 HD
-http://p4.giffy.be:8080/live/toby1/toby1/20725.ts
-#EXTINF:-1,CA | OMNI 1 HD
-http://p4.giffy.be:8080/live/toby1/toby1/22585.ts
-#EXTINF:-1,CA | OMNI 2 HD
-http://p4.giffy.be:8080/live/toby1/toby1/22586.ts
-#EXTINF:-1,CA | CITY TV EAST
-http://p4.giffy.be:8080/live/toby1/toby1/20712.ts
-#EXTINF:-1,CA | GLOBAL EAST HD
-http://p4.giffy.be:8080/live/toby1/toby1/22581.ts
-#EXTINF:-1,CA | CBC NEWS NETWORK HD
-http://p4.giffy.be:8080/live/toby1/toby1/28635.ts
-#EXTINF:-1,CA | CBC EAST HD
-http://p4.giffy.be:8080/live/toby1/toby1/16517.ts
-#EXTINF:-1,CA | CTV NEWS
-http://p4.giffy.be:8080/live/toby1/toby1/31446.ts
-#EXTINF:-1,CA | CTV EAST HD
-http://p4.giffy.be:8080/live/toby1/toby1/21510.ts
-#EXTINF:-1,CA | GLOBAL CALGARY HD
-http://p4.giffy.be:8080/live/toby1/toby1/22593.ts
-#EXTINF:-1,CA | CBC CALGARY HD
-http://p4.giffy.be:8080/live/toby1/toby1/22580.ts
-#EXTINF:-1,CA | CTV CALGARY HD
-http://p4.giffy.be:8080/live/toby1/toby1/22592.ts
-#EXTINF:-1,CA | CITY CALGARY HD
-http://p4.giffy.be:8080/live/toby1/toby1/26565.ts
-#EXTINF:-1,CA | CBC VANCOUVER HD
-http://p4.giffy.be:8080/live/toby1/toby1/22591.ts
-#EXTINF:-1,CA | CITY VANCOUVER HD
-http://p4.giffy.be:8080/live/toby1/toby1/27765.ts
-#EXTINF:-1,CA | GLOBAL BC HD
-http://p4.giffy.be:8080/live/toby1/toby1/20720.ts
-#EXTINF:-1,CA | CBC NEWS EDMONTON HD
-http://p4.giffy.be:8080/live/toby1/toby1/20723.ts
-#EXTINF:-1,CA | CARTOON NETWORK
-http://p4.giffy.be:8080/live/toby1/toby1/21995.ts
-#EXTINF:-1,CA | SLICE HD
-http://p4.giffy.be:8080/live/toby1/toby1/21095.ts
-#EXTINF:-1,CA | GUSTO HD
-http://p4.giffy.be:8080/live/toby1/toby1/20710.ts
-#EXTINF:-1,CA | OUT TV
-http://p4.giffy.be:8080/live/toby1/toby1/20705.ts
-#EXTINF:-1,CA | TVO
-http://p4.giffy.be:8080/live/toby1/toby1/20709.ts
-#EXTINF:-1,CA | HGTV HD
-http://p4.giffy.be:8080/live/toby1/toby1/21107.ts
-#EXTINF:-1,CA | W HD
-http://p4.giffy.be:8080/live/toby1/toby1/21100.ts
-#EXTINF:-1,CA | VELOCITY HD
-http://p4.giffy.be:8080/live/toby1/toby1/22587.ts
-#EXTINF:-1,CA | LIFETIME HD
-http://p4.giffy.be:8080/live/toby1/toby1/21094.ts
-#EXTINF:-1,CA | COTTAGE LIFE HD
-http://p4.giffy.be:8080/live/toby1/toby1/26077.ts
-#EXTINF:-1,CA | BBC EARTH HD
-http://p4.giffy.be:8080/live/toby1/toby1/26163.ts
-#EXTINF:-1,US | HLN HD
-http://p4.giffy.be:8080/live/toby1/toby1/26550.ts
-#EXTINF:-1,CA | ANIMAL PLANET HD
-http://p4.giffy.be:8080/live/toby1/toby1/21103.ts
-#EXTINF:-1,CA | A&E HD
-http://p4.giffy.be:8080/live/toby1/toby1/22583.ts
-#EXTINF:-1,CA | COMEDY HD
-http://p4.giffy.be:8080/live/toby1/toby1/21109.ts
-#EXTINF:-1,CA | MUCHMUSIC HD
-http://p4.giffy.be:8080/live/toby1/toby1/29964.ts
-#EXTINF:-1,CA | FOOD NETWORK HD
-http://p4.giffy.be:8080/live/toby1/toby1/29963.ts
-#EXTINF:-1,CHARGD
-http://p4.giffy.be:8080/live/toby1/toby1/31338.ts
-#EXTINF:-1,CA | DISCOVERY HD
-http://p4.giffy.be:8080/live/toby1/toby1/21102.ts
-#EXTINF:-1,CA | PEACHTREE
-http://p4.giffy.be:8080/live/toby1/toby1/30891.ts
-#EXTINF:-1,CA | BNN
-http://p4.giffy.be:8080/live/toby1/toby1/31299.ts
-#EXTINF:-1,CA | FX HD
-http://p4.giffy.be:8080/live/toby1/toby1/21097.ts
-#EXTINF:-1,CA | FXX HD
-http://p4.giffy.be:8080/live/toby1/toby1/29966.ts
-#EXTINF:-1,CA | HISTORY HD
-http://p4.giffy.be:8080/live/toby1/toby1/21106.ts
-#EXTINF:-1,CA | LOVE NATURE HD
-http://p4.giffy.be:8080/live/toby1/toby1/21505.ts
-#EXTINF:-1,CA | NAT GEO HD
-http://p4.giffy.be:8080/live/toby1/toby1/21105.ts
-#EXTINF:-1,CA | NAT GEO WILD HD
-http://p4.giffy.be:8080/live/toby1/toby1/21104.ts
-#EXTINF:-1,CA | BRAVO HD
-http://p4.giffy.be:8080/live/toby1/toby1/29962.ts
-#EXTINF:-1,CA | SPACE
-http://p4.giffy.be:8080/live/toby1/toby1/30892.ts
-#EXTINF:-1,CA | AMC
-http://p4.giffy.be:8080/live/toby1/toby1/29969.ts
-#EXTINF:-1,CA | FOX EAST
-http://p4.giffy.be:8080/live/toby1/toby1/27768.ts
-#EXTINF:-1,US | NBC HD EAST
-http://p4.giffy.be:8080/live/toby1/toby1/20985.ts
-#EXTINF:-1,US | ABC EAST
-http://p4.giffy.be:8080/live/toby1/toby1/20986.ts
-#EXTINF:-1,US | FOX EAST.
-http://p4.giffy.be:8080/live/toby1/toby1/28642.ts
-#EXTINF:-1,US | NBC WEST
-http://p4.giffy.be:8080/live/toby1/toby1/26563.ts
-#EXTINF:-1,US | FOX HD WEST
-http://p4.giffy.be:8080/live/toby1/toby1/26562.ts
-#EXTINF:-1,US | ABC HD WEST
-http://p4.giffy.be:8080/live/toby1/toby1/26561.ts
-#EXTINF:-1,US | CBS WEST
-http://p4.giffy.be:8080/live/toby1/toby1/26560.ts
-#EXTINF:-1,US | CNBC WORLD
-http://p4.giffy.be:8080/live/toby1/toby1/20711.ts
-#EXTINF:-1,US | FOX NEWS
-http://p4.giffy.be:8080/live/toby1/toby1/20706.ts
-#EXTINF:-1,US | A&E HD
-http://p4.giffy.be:8080/live/toby1/toby1/20911.ts
-#EXTINF:-1,US | BRAVO HD
-http://p4.giffy.be:8080/live/toby1/toby1/20902.ts
-#EXTINF:-1,US | CARTOON NETWORK HD
-http://p4.giffy.be:8080/live/toby1/toby1/20988.ts
-#EXTINF:-1,US | CRIMINAL INVESTIGATION  HD
-http://p4.giffy.be:8080/live/toby1/toby1/20973.ts
-#EXTINF:-1,US | FOX BUSINESS NETWORK HD
-http://p4.giffy.be:8080/live/toby1/toby1/20983.ts
-#EXTINF:-1,US | MTV LIVE HD
-http://p4.giffy.be:8080/live/toby1/toby1/20954.ts
-#EXTINF:-1,US | SUNDANCE HD
-http://p4.giffy.be:8080/live/toby1/toby1/20956.ts
-#EXTINF:-1,US | TRU TV HD
-http://p4.giffy.be:8080/live/toby1/toby1/20952.ts
-#EXTINF:-1,US  | WE TV HD
-http://p4.giffy.be:8080/live/toby1/toby1/20955.ts
-#EXTINF:-1,US | C-SPAN 1
-http://p4.giffy.be:8080/live/toby1/toby1/21170.ts
-#EXTINF:-1,US | C-SPAN 2
-http://p4.giffy.be:8080/live/toby1/toby1/21171.ts
-#EXTINF:-1,US | C-SPAN 3
-http://p4.giffy.be:8080/live/toby1/toby1/21172.ts
-#EXTINF:-1,US | TNT HD
-http://p4.giffy.be:8080/live/toby1/toby1/21459.ts
-#EXTINF:-1,US | ID HD
-http://p4.giffy.be:8080/live/toby1/toby1/21997.ts
-#EXTINF:-1,US | GSN HD
-http://p4.giffy.be:8080/live/toby1/toby1/23305.ts
-#EXTINF:-1,US | AL JAZEERA ENGLISH
-http://p4.giffy.be:8080/live/toby1/toby1/18803.ts
-#EXTINF:-1,US | CINEMAX HD
-http://p4.giffy.be:8080/live/toby1/toby1/20976.ts
-#EXTINF:-1,US | CINEMAX MOREMAX HD
-http://p4.giffy.be:8080/live/toby1/toby1/20975.ts
-#EXTINF:-1,US | CINEMAX THRILLERMAX HD
-http://p4.giffy.be:8080/live/toby1/toby1/20974.ts
-#EXTINF:-1,US | EL RAY HD
-http://p4.giffy.be:8080/live/toby1/toby1/20970.ts
-#EXTINF:-1,US | EPIX 2 HD
-http://p4.giffy.be:8080/live/toby1/toby1/20968.ts
-#EXTINF:-1,US | HBO COMEDY HD
-http://p4.giffy.be:8080/live/toby1/toby1/20964.ts
-#EXTINF:-1,US | HBO SIGNATURE HD
-http://p4.giffy.be:8080/live/toby1/toby1/20962.ts
-#EXTINF:-1,US | HBO ZONE HD
-http://p4.giffy.be:8080/live/toby1/toby1/20961.ts
-#EXTINF:-1,US | SHOWTIME FAMILY ZONE
-http://p4.giffy.be:8080/live/toby1/toby1/20958.ts
-#EXTINF:-1,US | EPIX HD
+#EXTINF:-1,USA: Boomerang  IPTVultra.com [1920x1080]
+http://194.88.107.12:8000/live/sonictv_7EHHLD/ygegekqg/3777.ts
+#EXTINF:-1,USA:UNIVISION  IPTVultra.com [1920x1088]
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/11561.ts
+#EXTINF:-1,USA: A&E  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/17138.ts
+#EXTINF:-1,USA: Bein Sports US HD  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/1687.ts
+#EXTINF:-1,USA: 105TV  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/22294.ts
+#EXTINF:-1,USA: ANIMAL PLANET HD  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/2448.ts
+#EXTINF:-1,USA: ABC HD  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/2118.ts
+#EXTINF:-1,USA: BLOOMBERG  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/2446.ts
+#EXTINF:-1,USA: AMERICAN HEROES CHANNEL  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/20361.ts
+#EXTINF:-1,USA: CBS DRAMA  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/20360.ts
+#EXTINF:-1,USA: ADULT SWIM HD  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/22603.ts
+#EXTINF:-1,USA: CINEMAX 5 STARMAX  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/22608.ts
+#EXTINF:-1,USA: ABC NEWS  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/17126.ts
+#EXTINF:-1,USA: CINEMAX HD  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/22609.ts
+#EXTINF:-1,USA: COOKING CHANNEL  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/15679.ts
+#EXTINF:-1,USA: CBS SPORTS NETWORK HD  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/5818.ts
+#EXTINF:-1,USA: Destination America  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/19945.ts
+#EXTINF:-1,USA: CNN HD  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/2133.ts
+#EXTINF:-1,USA: Comedy CENTRAL HD  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/2156.ts
+#EXTINF:-1,USA: BRAVO HD  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/16684.ts
+#EXTINF:-1,USA: Discovery HD  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/17154.ts
+#EXTINF:-1,USA: Discovery Science  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/17140.ts
+#EXTINF:-1,USA: E!  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/17139.ts
+#EXTINF:-1,USA: ESPN 2 HD  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/15672.ts
+#EXTINF:-1,USA: ESPN U HD  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/15667.ts
+#EXTINF:-1,USA: FOX BUSINESS  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/20359.ts
+#EXTINF:-1,USA: BT SPORT | ESPN  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/8865.ts
+#EXTINF:-1,USA: FOX News  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/16689.ts
+#EXTINF:-1,USA: DAYSTAR  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/8862.ts
+#EXTINF:-1,USA: CW HD  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/4323.ts
+#EXTINF:-1,USA: DIY NETWORK  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/12399.ts
+#EXTINF:-1,USA: FOX HD  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/16688.ts
+#EXTINF:-1,USA: CP24 HD  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/17161.ts
+#EXTINF:-1,USA: FOX West  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/15657.ts
+#EXTINF:-1,USA: FREEFORM  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/20337.ts
+#EXTINF:-1,USA: FYI  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/22604.ts
+#EXTINF:-1,USA {} Cinema 04 PPV  IPTVultra.com [1920x800]
+http://tv.latintvweb.com:8000/live/LATINTV22w/Tvhd11/17152.ts
+#EXTINF:-1,USA: FX HD  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/2400.ts
+#EXTINF:-1,USA: Fight Network  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/17158.ts
+#EXTINF:-1,USA: Fox Soccer Plus HD  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/15661.ts
+#EXTINF:-1,USA: Fox Sports 1 HD  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/17142.ts
+#EXTINF:-1,USA: Fox Sports 2 HD  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/17143.ts
+#EXTINF:-1,USA: GOLF HD  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/22610.ts
+#EXTINF:-1,USA: HALLMARK CHANNEL HD  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/4294.ts
+#EXTINF:-1,USA {} Cinema 09 PPV  IPTVultra.com [1920x816]
+http://tv.latintvweb.com:8000/live/LATINTV22w/Tvhd11/17147.ts
+#EXTINF:-1,USA: LIFETIME HD  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/16683.ts
+#EXTINF:-1,USA: HALLMARK MOVIES & MYSTERIES  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/16690.ts
+#EXTINF:-1,USA: HBO HD 1  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/22611.ts
+#EXTINF:-1,USA: HISTORY HD  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/3382.ts
+#EXTINF:-1,USA: HGTV  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/17133.ts
+#EXTINF:-1,USA: HBO East HD  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/15529.ts
+#EXTINF:-1,USA: LIFETIME MOVIES NETWORK  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/8058.ts
+#EXTINF:-1,USA: HBO COMEDY HD  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/2431.ts
+#EXTINF:-1,USA: HBO FAMILY HD  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/22617.ts
+#EXTINF:-1,USA: HBO ZONE HD  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/950.ts
+#EXTINF:-1,USA: HBO SIGNATURE HD  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/8068.ts
+#EXTINF:-1,USA: INVESTIGATION DISCOVERY HD  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/8852.ts
+#EXTINF:-1,USA: MLB Network HD  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/17157.ts
+#EXTINF:-1,USA {} Cinema 06 PPV  IPTVultra.com [1920x1072]
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/17150.ts
+#EXTINF:-1,USA: MoreMax HD  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/17156.ts
+#EXTINF:-1,USA: MSNBC  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/15645.ts
+#EXTINF:-1,USA: MAV TV  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/16699.ts
+#EXTINF:-1,USA: National Geographic  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/17141.ts
+#EXTINF:-1,USA: NFL Red Zone  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/17756.ts
+#EXTINF:-1,USA: NHL NETWORK HD  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/4318.ts
+#EXTINF:-1,USA: NICKELODEON HD  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/4319.ts
+#EXTINF:-1,USA {} Cinema 01 PPV  IPTVultra.com [1920x1088]
+http://tv.latintvweb.com:8000/live/LATINTV22w/Tvhd11/17155.ts
+#EXTINF:-1,USA: NBCSN  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/15642.ts
+#EXTINF:-1,USA {} Cinema 05 PPV  IPTVultra.com [1920x800]
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/17151.ts
+#EXTINF:-1,USA: NBA TV HD  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/999.ts
+#EXTINF:-1,USA: NBA HD  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/15641.ts
+#EXTINF:-1,USA: RT AMERICA  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/22612.ts
+#EXTINF:-1,USA: NBC HD  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/17150.ts
+#EXTINF:-1,USA: NFL Network HD  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/957.ts
+#EXTINF:-1,USA: OXYGEN HD  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/17149.ts
+#EXTINF:-1,USA {} Cinema 03 PPV  IPTVultra.com [1920x816]
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/17153.ts
+#EXTINF:-1,USA: NBC GOLF HD  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/8071.ts
+#EXTINF:-1,USA: SEC Network FHD  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/15632.ts
+#EXTINF:-1,USA: SHOWTIME 2 HD  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/22618.ts
+#EXTINF:-1,USA: SHOWTIME HD  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/22613.ts
+#EXTINF:-1,USA: STAR CINEMA HD  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/22614.ts
+#EXTINF:-1,USA: STARZ ENCORE HD  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/16697.ts
+#EXTINF:-1,USA: STARZ KIDS & FAMILY  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/18487.ts
+#EXTINF:-1,USA: SYFY HD  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/22605.ts
+#EXTINF:-1,USA: Spike HD ( USA )  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/1693.ts
+#EXTINF:-1,USA: Starz East  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/15697.ts
+#EXTINF:-1,USA {} Cinema 08 PPV  IPTVultra.com [1920x1024]
+http://tv.latintvweb.com:8000/live/LATINTV22w/Tvhd11/17148.ts
+#EXTINF:-1,USA: TBS HD  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/22615.ts
+#EXTINF:-1,USA: TNT HD  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/22607.ts
+#EXTINF:-1,USA: TLC HD  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/17136.ts
+#EXTINF:-1,USA: TSN 1  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/17123.ts
+#EXTINF:-1,USA: TELEMUNDO  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/8848.ts
+#EXTINF:-1,USA: CNN US HD  IPTVultra.com [1920x1088]
+http://tv.latintvweb.com:8000/live/torres1/torres1/16442.ts
+#EXTINF:-1,USA: TSN 2  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/16692.ts
+#EXTINF:-1,USA: TSN 4  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/16694.ts
+#EXTINF:-1,USA: VH1 HD  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/22606.ts
+#EXTINF:-1,USA: TSN 3  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/16693.ts
+#EXTINF:-1,USA: TSN 5  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/16695.ts
+#EXTINF:-1,USA: USA Network HD  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/1700.ts
+#EXTINF:-1,USA: UTV IT  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/22616.ts
+#EXTINF:-1,USA: USA VH1  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/12228.ts
+#EXTINF:-1,USA: Travel Channel HD  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/2110.ts
+#EXTINF:-1,USA: Viceland  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/17134.ts
+#EXTINF:-1,USA: ATLANTA CHANNEL  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/22631.ts
+#EXTINF:-1,USA: CNN HD  IPTVultra.com [960x544]
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/16476.ts
+#EXTINF:-1,USA: Velocity HD  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/17124.ts
+#EXTINF:-1,USA: ABC NEWS ORLANDO  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/22630.ts
+#EXTINF:-1,USA: CSPAN  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/22632.ts
+#EXTINF:-1,USA: 30A HD  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/22624.ts
+#EXTINF:-1,USA: PAC 12 NETWORK  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/22638.ts
+#EXTINF:-1,USA: FOX SPORTS HD  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/22628.ts
+#EXTINF:-1,USA: BET HD  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/22626.ts
+#EXTINF:-1,USA: INFOWARS  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/22629.ts
+#EXTINF:-1,USA: AMC  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/22636.ts
+#EXTINF:-1,USA: CBSN HD  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/22627.ts
+#EXTINF:-1,USA: 12 OREGON  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/22633.ts
+#EXTINF:-1,USA: NICKENITO  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/22623.ts
+#EXTINF:-1,USA: PAWLEY ISLAND  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/22625.ts
+#EXTINF:-1,USA: PAC 12 OREGON  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/22637.ts
+#EXTINF:-1,USA: TVW 2  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/22634.ts
+#EXTINF:-1,USA: TRU TV  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/22619.ts
+#EXTINF:-1,USA: TUFF TV  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/22622.ts
+#EXTINF:-1,USA: WE TV  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/22620.ts
+#EXTINF:-1,USA: REDBULL TV  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/22621.ts
+#EXTINF:-1,USA: WWE NETWORK HD  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/22635.ts
+#EXTINF:-1,USA: Food Network  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/17127.ts
+#EXTINF:-1,USA: FXX  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/17155.ts
+#EXTINF:-1,USA: FOX 5 Las Vegas HD  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/17125.ts
+#EXTINF:-1, AFN MOVIE  IPTVultra.com [720x480]
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/16499.ts
+#EXTINF:-1, Bein Sports USA HD  IPTVultra.com [720x480]
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/16508.ts
+#EXTINF:-1, AFN PULSE  IPTVultra.com [720x480]
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/16503.ts
+#EXTINF:-1, AFN NEWS  IPTVultra.com [720x480]
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/16500.ts
+#EXTINF:-1,USA : NFL REDZONE SD  IPTVultra.com [720x576]
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/16376.ts
+#EXTINF:-1,USA : Starz Comedy  IPTVultra.com [960x544]
+http://tv.latintvweb.com:8000/live/LATINTV22w/Tvhd11/16398.ts
+#EXTINF:-1,USA: OUTDOOR CHANNEL HD  IPTVultra.com [1920x1088]
+http://tv.latintvweb.com:8000/live/LATINTV22w/Tvhd11/16457.ts
+#EXTINF:-1,USA: ESPN News  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/15668.ts
+#EXTINF:-1,USA:UNIVISION TDN  IPTVultra.com [1920x1088]
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/11607.ts
+#EXTINF:-1,USA: CINEMAX ACTIONMAX  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/16686.ts
+#EXTINF:-1,USA: C SPAN 2  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/15683.ts
+#EXTINF:-1,USA: FX MOVIE CHANNEL  IPTVultra.com [1920x1080]
+http://global.ipsatpro.tv:8080/live/waleed/waleed123/16682.ts
+#EXTINF:-1, Discovery Science HD  IPTVultra.com [720x576]
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/16512.ts
+#EXTINF:-1, HIFI  IPTVultra.com [704x480]
+http://tv.latintvweb.com:8000/live/LATINTV22w/Tvhd11/16519.ts
+#EXTINF:-1, AFN SPORTS 2  IPTVultra.com [1280x720]
+http://tv.latintvweb.com:8000/live/LATINTV22w/Tvhd11/16506.ts
+#EXTINF:-1, AFN SPORTS 2  IPTVultra.com [1280x720]
+http://tv.latintvweb.com:8000/live/LATINTV22w/Tvhd11/16505.ts
+#EXTINF:-1,USA ESPN HD  IPTVultra.com [1280x720]
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/16408.ts
+#EXTINF:-1,USA: MSNBC HD  IPTVultra.com [1920x1088]
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/16482.ts
+#EXTINF:-1,USA COMEDY CENTRAL HD  IPTVultra.com [1280x720]
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/16406.ts
+#EXTINF:-1,USA: NICKELODEN HD  IPTVultra.com [720x576]
+http://tv.latintvweb.com:8000/live/LATINTV22w/Tvhd11/16470.ts
+#EXTINF:-1,USA: NBC HD  IPTVultra.com [960x544]
+http://tv.latintvweb.com:8000/live/manu/manu/16454.ts
+#EXTINF:-1,USA: ABC HD  IPTVultra.com [640x368]
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12545.ts
+#EXTINF:-1,USA: CBS HD  IPTVultra.com [1920x1080]
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12551.ts
+#EXTINF:-1,USA: AMC HD  IPTVultra.com [960x544]
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12548.ts
+#EXTINF:-1,USA: BRAVO HD  IPTVultra.com [1920x1080]
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12550.ts
+#EXTINF:-1,USA: ABC NEWS HD  IPTVultra.com [1280x720]
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12546.ts
+#EXTINF:-1,USA: AETV HD  IPTVultra.com [1280x720]
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12547.ts
+#EXTINF:-1,USA: CNBC HD  IPTVultra.com [1920x1080]
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12553.ts
+#EXTINF:-1,USA: DISCOVERY HD  IPTVultra.com [720x576]
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12555.ts
+#EXTINF:-1,USA: CN HD  IPTVultra.com [1280x720]
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12552.ts
+#EXTINF:-1,USA: CNN HD  IPTVultra.com [1920x1080]
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12554.ts
+#EXTINF:-1,USA: SHOWTIME SHOWCASE  IPTVultra.com [1920x1088]
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12569.ts
+#EXTINF:-1, tvg id="" tvg name="USA: DIY Network HD" tvg logo="" group title="U.S.A"USA: DIY Network HD  IPTVultra.com [1920x1080]
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12556.ts
+#EXTINF:-1, tvg id="" tvg name="USA: E! ENTERTAINMENT US" tvg logo="" group title="U.S.A"USA: E! ENTERTAINMENT US  IPTVultra.com [1920x1080]
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12557.ts
+#EXTINF:-1,USA: SYFY HD  IPTVultra.com [1024x576]
+http://fostefodido.ddns.net:8000/live/KSkD9VXwB8/I3QfcILUrq/12571.ts
+#EXTINF:-1,USA: SPIKE HD  IPTVultra.com [1280x720]
+http://fostefodido.ddns.net:8000/live/KSkD9VXwB8/I3QfcILUrq/12570.ts
+#EXTINF:-1, tvg id="" tvg name="USA: TSN 3" tvg logo="" group title="U.S.A"USA: TSN 3  IPTVultra.com [1920x1080]
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12576.ts
+#EXTINF:-1,US | TENNIS HD  IPTVultra.com [1280x720]
+http://p4.giffy.be:8080/live/aman1/aman1/27825.ts
+#EXTINF:-1,US | HLN HD  IPTVultra.com [720x576]
+http://p4.giffy.be:8080/live/aman1/aman1/26550.ts
+#EXTINF:-1,US | NBC HD EAST  IPTVultra.com [704x480]
+http://p4.giffy.be:8080/live/aman1/aman1/20985.ts
+#EXTINF:-1,US | ABC EAST  IPTVultra.com [1280x720]
+http://p4.giffy.be:8080/live/aman1/aman1/20986.ts
+#EXTINF:-1,US | FOX EAST.  IPTVultra.com [704x480]
+http://p4.giffy.be:8080/live/aman1/aman1/28642.ts
+#EXTINF:-1,US | CBS WEST  IPTVultra.com [704x480]
+http://p4.giffy.be:8080/live/aman1/aman1/26560.ts
+#EXTINF:-1,US | FOX HD WEST  IPTVultra.com [720x576]
+http://p4.giffy.be:8080/live/aman1/aman1/26562.ts
+#EXTINF:-1,US | FOX NEWS  IPTVultra.com [704x576]
+http://p4.giffy.be:8080/live/aman1/aman1/20706.ts
+#EXTINF:-1,US | NBC WEST  IPTVultra.com [704x480]
+http://p4.giffy.be:8080/live/aman1/aman1/26563.ts
+#EXTINF:-1,US | ABC HD WEST  IPTVultra.com [720x576]
+http://p4.giffy.be:8080/live/aman1/aman1/26561.ts
+#EXTINF:-1,US | CNBC WORLD  IPTVultra.com [704x480]
+http://p4.giffy.be:8080/live/aman1/aman1/20711.ts
+#EXTINF:-1,US | A&E HD  IPTVultra.com [1280x720]
+http://p4.giffy.be:8080/live/aman1/aman1/20911.ts
+#EXTINF:-1,US | MTV LIVE HD  IPTVultra.com [1920x1088]
+http://p4.giffy.be:8080/live/aman1/aman1/20954.ts
+#EXTINF:-1,US | FOX BUSINESS NETWORK HD  IPTVultra.com [1280x720]
+http://p4.giffy.be:8080/live/aman1/aman1/20983.ts
+#EXTINF:-1,US | CRIMINAL INVESTIGATION HD  IPTVultra.com [704x480]
+http://p4.giffy.be:8080/live/aman1/aman1/20973.ts
+#EXTINF:-1,US | CARTOON NETWORK HD  IPTVultra.com [1920x1088]
+http://p4.giffy.be:8080/live/aman1/aman1/20988.ts
+#EXTINF:-1,US | BRAVO HD  IPTVultra.com [1280x720]
+http://p4.giffy.be:8080/live/aman1/aman1/20902.ts
+#EXTINF:-1,US | CINEMAX THRILLERMAX HD  IPTVultra.com [1920x1088]
+http://p4.giffy.be:8080/live/aman1/aman1/20974.ts
+#EXTINF:-1,US | AL JAZEERA ENGLISH  IPTVultra.com [720x416]
+http://p4.giffy.be:8080/live/aman1/aman1/18803.ts
+#EXTINF:-1,US | SHOWTIME FAMILY ZONE  IPTVultra.com [1920x1088]
+http://p4.giffy.be:8080/live/aman1/aman1/20958.ts
+#EXTINF:-1,US | TRU TV HD  IPTVultra.com [1280x720]
+http://p4.giffy.be:8080/live/aman1/aman1/20952.ts
+#EXTINF:-1,US | ID HD  IPTVultra.com [1280x720]
+http://p4.giffy.be:8080/live/aman1/aman1/21997.ts
+#EXTINF:-1,US | WE TV HD  IPTVultra.com [1280x720]
+http://p4.giffy.be:8080/live/aman1/aman1/20955.ts
+#EXTINF:-1,US | BBC AMERICA HD  IPTVultra.com [1920x1088]
+http://p4.giffy.be:8080/live/aman1/aman1/20977.ts
+#EXTINF:-1,US | C SPAN 3  IPTVultra.com [1024x576]
+http://p4.giffy.be:8080/live/aman1/aman1/21172.ts
+#EXTINF:-1,US | CINEMAX HD  IPTVultra.com [1920x1088]
+http://p4.giffy.be:8080/live/aman1/aman1/20976.ts
+#EXTINF:-1,US | HBO SIGNATURE HD  IPTVultra.com [1920x1088]
+http://p4.giffy.be:8080/live/aman1/aman1/20962.ts
+#EXTINF:-1,US | EPIX 2 HD  IPTVultra.com [1920x1088]
+http://p4.giffy.be:8080/live/aman1/aman1/20968.ts
+#EXTINF:-1,US | SUNDANCE HD  IPTVultra.com [704x480]
+http://p4.giffy.be:8080/live/aman1/aman1/20956.ts
+#EXTINF:-1,US | HGTV HD  IPTVultra.com [640x368]
+http://p4.giffy.be:8080/live/aman1/aman1/25232.ts
+#EXTINF:-1,US | ANIMAL PLANET HD  IPTVultra.com [1920x1088]
+http://p4.giffy.be:8080/live/aman1/aman1/20989.ts
+#EXTINF:-1,US | MSNBC HD  IPTVultra.com [960x544]
+http://p4.giffy.be:8080/live/aman1/aman1/26075.ts
+#EXTINF:-1,US | C SPAN 1  IPTVultra.com [1024x576]
+http://p4.giffy.be:8080/live/aman1/aman1/21170.ts
+#EXTINF:-1,US | HBO COMEDY HD  IPTVultra.com [1920x1088]
+http://p4.giffy.be:8080/live/aman1/aman1/20964.ts
+#EXTINF:-1,US | EPIX HD  IPTVultra.com [1920x1088]
 http://p4.giffy.be:8080/live/toby1/toby1/20969.ts
-#EXTINF:-1,US | HGTV HD
-http://p4.giffy.be:8080/live/toby1/toby1/25232.ts
-#EXTINF:-1,US | MSNBC HD
-http://p4.giffy.be:8080/live/toby1/toby1/26075.ts
-#EXTINF:-1,US | ANIMAL PLANET HD
-http://p4.giffy.be:8080/live/toby1/toby1/20989.ts
-#EXTINF:-1,US | BBC AMERICA HD
-http://p4.giffy.be:8080/live/toby1/toby1/20977.ts
-#EXTINF:-1,US | BET HD
+#EXTINF:-1,US | HBO ZONE HD  IPTVultra.com [1920x1088]
+http://p4.giffy.be:8080/live/aman1/aman1/20961.ts
+#EXTINF:-1,US | CINEMAX MOREMAX HD  IPTVultra.com [1920x1088]
+http://p4.giffy.be:8080/live/aman1/aman1/20975.ts
+#EXTINF:-1,US | EL RAY HD  IPTVultra.com [720x480]
+http://p4.giffy.be:8080/live/aman1/aman1/20970.ts
+#EXTINF:-1,US | TNT HD  IPTVultra.com [1280x720]
+http://p4.giffy.be:8080/live/aman1/aman1/21459.ts
+#EXTINF:-1,US | C SPAN 2  IPTVultra.com [1024x576]
+http://p4.giffy.be:8080/live/aman1/aman1/21171.ts
+#EXTINF:-1,US | COMEDY CENTRAL HD  IPTVultra.com [1280x720]
+http://p4.giffy.be:8080/live/aman1/aman1/20904.ts
+#EXTINF:-1,US | BET HD  IPTVultra.com [1920x1088]
 http://p4.giffy.be:8080/live/toby1/toby1/20651.ts
-#EXTINF:-1,US | COMEDY CENTRAL HD
-http://p4.giffy.be:8080/live/toby1/toby1/20904.ts
-#EXTINF:-1,US | CW11
-http://p4.giffy.be:8080/live/toby1/toby1/20984.ts
-#EXTINF:-1,US | DESTINATION AMERICA HD
-http://p4.giffy.be:8080/live/toby1/toby1/26546.ts
-#EXTINF:-1,US | DISCOVERY SCIENCE HD
-http://p4.giffy.be:8080/live/toby1/toby1/20935.ts
-#EXTINF:-1,US | E! HD
-http://p4.giffy.be:8080/live/toby1/toby1/20704.ts
-#EXTINF:-1,US | FOOD NETWORK HD
-http://p4.giffy.be:8080/live/toby1/toby1/21142.ts
-#EXTINF:-1,US | HALLMARK HD
-http://p4.giffy.be:8080/live/toby1/toby1/29987.ts
-#EXTINF:-1,US | HALLMARK MOVIES HD
-http://p4.giffy.be:8080/live/toby1/toby1/20966.ts
-#EXTINF:-1,US | IFC HD
-http://p4.giffy.be:8080/live/toby1/toby1/20960.ts
-#EXTINF:-1,US | LIFETIME MOVIES HD
-http://p4.giffy.be:8080/live/toby1/toby1/20914.ts
-#EXTINF:-1,US | NAT GEO HD
-http://p4.giffy.be:8080/live/toby1/toby1/20982.ts
-#EXTINF:-1,US | NAT GEO WILD HD
-http://p4.giffy.be:8080/live/toby1/toby1/20981.ts
-#EXTINF:-1,US | OWN HD
-http://p4.giffy.be:8080/live/toby1/toby1/20979.ts
-#EXTINF:-1,US | PBS EAST
-http://p4.giffy.be:8080/live/toby1/toby1/26548.ts
-#EXTINF:-1,US | SPIKE HD
-http://p4.giffy.be:8080/live/toby1/toby1/20943.ts
-#EXTINF:-1,US | SYFY HD
-http://p4.giffy.be:8080/live/toby1/toby1/20909.ts
-#EXTINF:-1,US | TBS HD
-http://p4.giffy.be:8080/live/toby1/toby1/20987.ts
-#EXTINF:-1,US | TLC
-http://p4.giffy.be:8080/live/toby1/toby1/26543.ts
-#EXTINF:-1,US | TRAVEL HD
-http://p4.giffy.be:8080/live/toby1/toby1/26545.ts
-#EXTINF:-1,US | USA NETWORK HD
-http://p4.giffy.be:8080/live/toby1/toby1/20944.ts
-#EXTINF:-1,US | WEATHER HD
-http://p4.giffy.be:8080/live/toby1/toby1/23193.ts
-#EXTINF:-1,US | STARZ CINEMA HD
-http://p4.giffy.be:8080/live/toby1/toby1/21460.ts
-#EXTINF:-1,US | CNN  HD
-http://p4.giffy.be:8080/live/toby1/toby1/29026.ts
-#EXTINF:-1,US | CBSN NEWS
-http://p4.giffy.be:8080/live/toby1/toby1/27539.ts
-#EXTINF:-1,US | BLOOMBERG
-http://p4.giffy.be:8080/live/toby1/toby1/27538.ts
-#EXTINF:-1,US | CNBC HD
-http://p4.giffy.be:8080/live/toby1/toby1/28303.ts
-
-#EXTINF:-1,DISNEY HD CA
-http://p4.giffy.be:8080/live/toby1/toby1/20728.ts
-#EXTINF:-1,DISNEY JR CA
-http://p4.giffy.be:8080/live/toby1/toby1/20727.ts
-#EXTINF:-1,FAMILY HD  CA
-http://p4.giffy.be:8080/live/toby1/toby1/20731.ts
-#EXTINF:-1,FAMILY JR CA
-http://p4.giffy.be:8080/live/toby1/toby1/20708.ts
-#EXTINF:-1,TREEHOUSE HD CA
-http://p4.giffy.be:8080/live/toby1/toby1/20732.ts
-#EXTINF:-1,YTV HD CA
-http://p4.giffy.be:8080/live/toby1/toby1/20730.ts
-#EXTINF:-1,DISCOVERY FAMILY HD US
-http://p4.giffy.be:8080/live/toby1/toby1/20972.ts
-#EXTINF:-1,DISNEY HD US
-http://p4.giffy.be:8080/live/toby1/toby1/20971.ts
-#EXTINF:-1,NICK JR HD US
-http://p4.giffy.be:8080/live/toby1/toby1/20980.ts
-#EXTINF:-1,NICK TOONS HD US
-http://p4.giffy.be:8080/live/toby1/toby1/20951.ts
-
-#EXTINF:-1,STAR SPORTS 1 HD (FULL HD)
-http://p4.giffy.be:8080/live/toby1/toby1/16956.ts
-#EXTINF:-1,STAR SPORTS 2 HD (FULL HD)
-http://p4.giffy.be:8080/live/toby1/toby1/16955.ts
-#EXTINF:-1,STAR SPORTS 3 HD (FULL HD)
-http://p4.giffy.be:8080/live/toby1/toby1/16954.ts
-
-#EXTINF:-1,TELETOON HD
-http://p4.giffy.be:8080/live/toby1/toby1/22584.ts
-#EXTINF:-1,DISNEY XD HD
-http://p4.giffy.be:8080/live/toby1/toby1/23200.ts
-#EXTINF:-1,STAR MOVIES (FULL HD)
-http://p4.giffy.be:8080/live/toby1/toby1/15454.ts
-#EXTINF:-1,STAR GOLD SELECT (FULL HD)
-http://p4.giffy.be:8080/live/toby1/toby1/24701.ts
-#EXTINF:-1,STAR SPORTS SELECT 1 HD (FULL HD)
-http://p4.giffy.be:8080/live/toby1/toby1/24270.ts
-#EXTINF:-1,STAR SPORTS SELECT 2 HD (FULL HD)
-http://p4.giffy.be:8080/live/toby1/toby1/24271.ts
-
-
-#EXTINF:-1,PRIME SPORT HD
-http://p4.giffy.be:8080/live/toby1/toby1/21733.ts
-#EXTINF:-1,RACING UK
-http://p4.giffy.be:8080/live/toby1/toby1/21725.ts
-#EXTINF:-1,NEWS 12 CT
-http://p4.giffy.be:8080/live/toby1/toby1/28294.ts
-
-#EXTINF:-1,PLAYBOY
-http://p4.giffy.be:8080/live/toby1/toby1/28400.ts
-#EXTINF:-1,REDHOT
-http://p4.giffy.be:8080/live/toby1/toby1/28399.ts
-#EXTINF:-1,VIVID
-http://p4.giffy.be:8080/live/toby1/toby1/28397.ts
-
-#EXTINF:-1,US | HISTORY
-http://p4.giffy.be:8080/live/toby1/toby1/28580.ts
-#EXTINF:-1,US | SHOWTIME SHOWCASE
-http://p4.giffy.be:8080/live/toby1/toby1/28573.ts
-#EXTINF:-1,US | ABC NEWS.
-http://p4.giffy.be:8080/live/toby1/toby1/28649.ts
-#EXTINF:-1,US | CBS EAST.
-http://p4.giffy.be:8080/live/toby1/toby1/28647.ts
-#EXTINF:-1,US | DIY NETWORK.
-http://p4.giffy.be:8080/live/toby1/toby1/28637.ts
-
-#EXTINF:-1,SKY ACTION HD
-http://p4.giffy.be:8080/live/toby1/toby1/30054.ts
-#EXTINF:-1,SKY BUNDESLIGA 1 HD
-http://p4.giffy.be:8080/live/toby1/toby1/30055.ts
-#EXTINF:-1,SKY CINEMA HD
-http://p4.giffy.be:8080/live/toby1/toby1/30056.ts
-#EXTINF:-1,SKY COMEDY HD
-http://p4.giffy.be:8080/live/toby1/toby1/30057.ts
-#EXTINF:-1,SKY EMOTION
-http://p4.giffy.be:8080/live/toby1/toby1/30058.ts
-#EXTINF:-1,SKY GERMANY
-http://p4.giffy.be:8080/live/toby1/toby1/30074.ts
-#EXTINF:-1,SKY HITS HD
-http://p4.giffy.be:8080/live/toby1/toby1/30059.ts
-#EXTINF:-1,SKY SELECT 1 HD
-http://p4.giffy.be:8080/live/toby1/toby1/30060.ts
-#EXTINF:-1,SKY SELECT 2 HD
-http://p4.giffy.be:8080/live/toby1/toby1/30061.ts
-#EXTINF:-1,SKY SELECT 3 HD
-http://p4.giffy.be:8080/live/toby1/toby1/30062.ts
-#EXTINF:-1,SKY SELECT 4 HD
-http://p4.giffy.be:8080/live/toby1/toby1/30063.ts
-#EXTINF:-1,SKY SELECT HD
-http://p4.giffy.be:8080/live/toby1/toby1/30064.ts
-#EXTINF:-1,SKYBUNDESLIGA 1 HD
-http://p4.giffy.be:8080/live/toby1/toby1/30035.ts
-#EXTINF:-1,SPORT 1 HD
-http://p4.giffy.be:8080/live/toby1/toby1/30067.ts
-
-#EXTINF:-1,UK | 4 SEVEN
-http://p4.giffy.be:8080/live/toby1/toby1/30513.ts
-#EXTINF:-1,UK | 5 STAR
-http://p4.giffy.be:8080/live/toby1/toby1/30512.ts
-#EXTINF:-1,UK | 5 USA
-http://p4.giffy.be:8080/live/toby1/toby1/30514.ts
-#EXTINF:-1,UK | ANIMAL PLANET
-http://p4.giffy.be:8080/live/toby1/toby1/30530.ts
-#EXTINF:-1,UK | BBC ALBA
-http://p4.giffy.be:8080/live/toby1/toby1/30543.ts
-#EXTINF:-1,UK | BBC ONE SCOTLAND
-http://p4.giffy.be:8080/live/toby1/toby1/30547.ts
-#EXTINF:-1,UK | BBC ONE WALES
-http://p4.giffy.be:8080/live/toby1/toby1/30548.ts
-#EXTINF:-1,UK | BBC PARLIEMNT
-http://p4.giffy.be:8080/live/toby1/toby1/30542.ts
-#EXTINF:-1,UK | BBC TWO NORTHERN IRELAND
-http://p4.giffy.be:8080/live/toby1/toby1/30544.ts
-#EXTINF:-1,UK | BBC TWO SCOTLAND
-http://p4.giffy.be:8080/live/toby1/toby1/30545.ts
-#EXTINF:-1,UK | BBC TWO WALES
-http://p4.giffy.be:8080/live/toby1/toby1/30546.ts
-#EXTINF:-1,UK | BBC1
-http://p4.giffy.be:8080/live/toby1/toby1/30549.ts
-#EXTINF:-1,UK | BBC2
-http://p4.giffy.be:8080/live/toby1/toby1/30550.ts
-#EXTINF:-1,UK | BBC3
-http://p4.giffy.be:8080/live/toby1/toby1/30551.ts
-#EXTINF:-1,UK | BBC4
-http://p4.giffy.be:8080/live/toby1/toby1/30552.ts
-#EXTINF:-1,UK | CBS ACTION
-http://p4.giffy.be:8080/live/toby1/toby1/30526.ts
-#EXTINF:-1,UK | CBS DRAMA
-http://p4.giffy.be:8080/live/toby1/toby1/30525.ts
-#EXTINF:-1,UK | CBS REALITY
-http://p4.giffy.be:8080/live/toby1/toby1/30524.ts
-#EXTINF:-1,UK | CHANNEL 14
-http://p4.giffy.be:8080/live/toby1/toby1/30554.ts
-#EXTINF:-1,UK | CRIME INVESTIGATION
-http://p4.giffy.be:8080/live/toby1/toby1/30504.ts
-#EXTINF:-1,UK | DAVE
-http://p4.giffy.be:8080/live/toby1/toby1/30511.ts
-#EXTINF:-1,UK | DAVE HD
-http://p4.giffy.be:8080/live/toby1/toby1/30560.ts
-#EXTINF:-1,UK | DISCOVERY CH
-http://p4.giffy.be:8080/live/toby1/toby1/30539.ts
-#EXTINF:-1,UK | DISCOVERY HISTORY
-http://p4.giffy.be:8080/live/toby1/toby1/30538.ts
-#EXTINF:-1,UK | DISCOVERY HOME & HEALTH
-http://p4.giffy.be:8080/live/toby1/toby1/30537.ts
-#EXTINF:-1,UK | DISCOVERY SCIENCE
-http://p4.giffy.be:8080/live/toby1/toby1/30536.ts
-#EXTINF:-1,UK | DISCOVERY SHED
-http://p4.giffy.be:8080/live/toby1/toby1/30535.ts
-#EXTINF:-1,UK | DISCOVERY TURBO
-http://p4.giffy.be:8080/live/toby1/toby1/30534.ts
-#EXTINF:-1,UK | E4
-http://p4.giffy.be:8080/live/toby1/toby1/30522.ts
-#EXTINF:-1,UK | FOOD NETWORK
-http://p4.giffy.be:8080/live/toby1/toby1/30521.ts
-#EXTINF:-1,UK | FOX VOD
-http://p4.giffy.be:8080/live/toby1/toby1/30520.ts
-#EXTINF:-1,UK | HISTORY
-http://p4.giffy.be:8080/live/toby1/toby1/30528.ts
-#EXTINF:-1,UK | HISTORY 1
-http://p4.giffy.be:8080/live/toby1/toby1/30523.ts
-#EXTINF:-1,UK | HOME
-http://p4.giffy.be:8080/live/toby1/toby1/30527.ts
-#EXTINF:-1,UK | INVESTIGATION DISCOVERY
-http://p4.giffy.be:8080/live/toby1/toby1/30533.ts
-#EXTINF:-1,UK | ITV BE
-http://p4.giffy.be:8080/live/toby1/toby1/30519.ts
-#EXTINF:-1,UK | ITV ENCORE
-http://p4.giffy.be:8080/live/toby1/toby1/30555.ts
-#EXTINF:-1,UK | ITV LONDON
-http://p4.giffy.be:8080/live/toby1/toby1/30518.ts
-#EXTINF:-1,UK | ITV1
-http://p4.giffy.be:8080/live/toby1/toby1/30556.ts
-#EXTINF:-1,UK | ITV2
-http://p4.giffy.be:8080/live/toby1/toby1/30557.ts
-#EXTINF:-1,UK | ITV3
-http://p4.giffy.be:8080/live/toby1/toby1/30558.ts
-#EXTINF:-1,UK | ITV4
-http://p4.giffy.be:8080/live/toby1/toby1/30559.ts
-#EXTINF:-1,UK | KIX ENG
-http://p4.giffy.be:8080/live/toby1/toby1/30505.ts
-#EXTINF:-1,UK | LIFETIME
-http://p4.giffy.be:8080/live/toby1/toby1/30506.ts
-#EXTINF:-1,UK | MTV DANCE
-http://p4.giffy.be:8080/live/toby1/toby1/30563.ts
-#EXTINF:-1,UK | MTV HITS
-http://p4.giffy.be:8080/live/toby1/toby1/30562.ts
-#EXTINF:-1,UK | MTV MUSIC
-http://p4.giffy.be:8080/live/toby1/toby1/30561.ts
-#EXTINF:-1,UK | NAT GEO
-http://p4.giffy.be:8080/live/toby1/toby1/30531.ts
-#EXTINF:-1,UK | NAT GEO WILD
-http://p4.giffy.be:8080/live/toby1/toby1/30532.ts
-#EXTINF:-1,UK | NATGEO
-http://p4.giffy.be:8080/live/toby1/toby1/30540.ts
-#EXTINF:-1,UK | PICK
-http://p4.giffy.be:8080/live/toby1/toby1/30517.ts
-#EXTINF:-1,UK | QUEST
-http://p4.giffy.be:8080/live/toby1/toby1/30507.ts
-#EXTINF:-1,UK | RTE
-http://p4.giffy.be:8080/live/toby1/toby1/30516.ts
-#EXTINF:-1,UK | S4C
-http://p4.giffy.be:8080/live/toby1/toby1/30541.ts
-#EXTINF:-1,UK | SKY ARTS 1
-http://p4.giffy.be:8080/live/toby1/toby1/30503.ts
-#EXTINF:-1,UK | SKY ATLANTIC
-http://p4.giffy.be:8080/live/toby1/toby1/30502.ts
-#EXTINF:-1,UK | SKY LIVING
-http://p4.giffy.be:8080/live/toby1/toby1/30489.ts
-#EXTINF:-1,UK | SKY MOVIES ACTION & ADVENTURE
-http://p4.giffy.be:8080/live/toby1/toby1/30501.ts
-#EXTINF:-1,UK | SKY MOVIES COMEDY
-http://p4.giffy.be:8080/live/toby1/toby1/30500.ts
-#EXTINF:-1,UK | SKY MOVIES CRIMES & THRILLER
-http://p4.giffy.be:8080/live/toby1/toby1/30499.ts
-#EXTINF:-1,UK | SKY MOVIES DISNEY
-http://p4.giffy.be:8080/live/toby1/toby1/30498.ts
-#EXTINF:-1,UK | SKY MOVIES DRAMA
-http://p4.giffy.be:8080/live/toby1/toby1/30497.ts
-#EXTINF:-1,UK | SKY MOVIES FAMILY
-http://p4.giffy.be:8080/live/toby1/toby1/30496.ts
-#EXTINF:-1,UK | SKY MOVIES MODERN GREATS
-http://p4.giffy.be:8080/live/toby1/toby1/30495.ts
-#EXTINF:-1,UK | SKY MOVIES PREMIERE
-http://p4.giffy.be:8080/live/toby1/toby1/30494.ts
-#EXTINF:-1,UK | SKY MOVIES SCI-FI
-http://p4.giffy.be:8080/live/toby1/toby1/30493.ts
-#EXTINF:-1,UK | SKY MOVIES SELECT HD
-http://p4.giffy.be:8080/live/toby1/toby1/30492.ts
-#EXTINF:-1,UK | SKY MOVIES SHOWCASE
-http://p4.giffy.be:8080/live/toby1/toby1/30491.ts
-#EXTINF:-1,UK | SKY MOVIES THRILLER
-http://p4.giffy.be:8080/live/toby1/toby1/30490.ts
-#EXTINF:-1,UK | TLC
-http://p4.giffy.be:8080/live/toby1/toby1/30510.ts
-#EXTINF:-1,UK | TRAVEL
-http://p4.giffy.be:8080/live/toby1/toby1/30529.ts
-#EXTINF:-1,UK | TRAVEL CH HD
-http://p4.giffy.be:8080/live/toby1/toby1/30553.ts
-#EXTINF:-1,UK | TV5
-http://p4.giffy.be:8080/live/toby1/toby1/30508.ts
-
-
-#EXTINF:-1,BEIN SPORTS 2HD
-http://p4.giffy.be:8080/live/toby1/toby1/31318.ts
-#EXTINF:-1,BEIN SPORTS 3HD
-http://p4.giffy.be:8080/live/toby1/toby1/31317.ts
-#EXTINF:-1,BEIN SPORTS 4HD
-http://p4.giffy.be:8080/live/toby1/toby1/31316.ts
-#EXTINF:-1,BEIN SPORTS 5HD
-http://p4.giffy.be:8080/live/toby1/toby1/31315.ts
-#EXTINF:-1,AR: BEIN SPORTS 6HD
-http://p4.giffy.be:8080/live/toby1/toby1/31314.ts
-#EXTINF:-1,BEIN SPORTS 7HD
-http://p4.giffy.be:8080/live/toby1/toby1/31313.ts
-#EXTINF:-1,BEIN SPORTS 8HD
-http://p4.giffy.be:8080/live/toby1/toby1/31312.ts
-#EXTINF:-1,BEIN SPORTS 9HD
-http://p4.giffy.be:8080/live/toby1/toby1/31311.ts
-#EXTINF:-1,AR: BEIN SPORTS 10HD
-http://p4.giffy.be:8080/live/toby1/toby1/31310.ts
-#EXTINF:-1,AR: BEIN SPORTS 11HD
-http://p4.giffy.be:8080/live/toby1/toby1/31309.ts
-
-
-#EXTINF:-1,CA | BET
-http://p4.giffy.be:8080/live/toby1/toby1/31528.ts
-#EXTINF:-1,CA | DIY HD
-http://p4.giffy.be:8080/live/toby1/toby1/31529.ts
-#EXTINF:-1,CA | SPIKE / PARAMOUNT HD
-http://p4.giffy.be:8080/live/toby1/toby1/31531.ts
-#EXTINF:-1,CA | TURNER CLASSIC MOVIES
-http://p4.giffy.be:8080/live/toby1/toby1/31533.ts
-#EXTINF:-1,CA | CMT
-http://p4.giffy.be:8080/live/toby1/toby1/31582.ts
-#EXTINF:-1,CAN-F | CITY MTL
-http://p4.giffy.be:8080/live/toby1/toby1/31606.ts
-#EXTINF:-1,CA | ID HD
-http://p4.giffy.be:8080/live/toby1/toby1/31596.ts
-#EXTINF:-1,PAC-12 (Bay Area)
-http://p4.giffy.be:8080/live/toby1/toby1/31669.ts
-#EXTINF:-1,PAC-12 (Los Angeles)
-http://p4.giffy.be:8080/live/toby1/toby1/31668.ts
-#EXTINF:-1,PAC-12 (Mountain)
-http://p4.giffy.be:8080/live/toby1/toby1/31667.ts
-#EXTINF:-1,PAC-12 (National)
-http://p4.giffy.be:8080/live/toby1/toby1/31664.ts
-#EXTINF:-1,PAC-12 (Oregon)
-http://p4.giffy.be:8080/live/toby1/toby1/31666.ts
-#EXTINF:-1,PAC-12 (Washington)
-http://p4.giffy.be:8080/live/toby1/toby1/31665.ts
-#EXTINF:-1,CA | SMITHSONIAN HD
-http://p4.giffy.be:8080/live/toby1/toby1/31674.ts
-#EXTINF:-1,CA | ACTION HD
-http://p4.giffy.be:8080/live/toby1/toby1/31527.ts
-#EXTINF:-1,CA | HBO WEST HD
-http://p4.giffy.be:8080/live/toby1/toby1/26162.ts
-#EXTINF:-1,CA | HBO EAST
-http://p4.giffy.be:8080/live/toby1/toby1/31594.ts
-#EXTINF:-1,CA | SUPER CH1 HD
-http://p4.giffy.be:8080/live/toby1/toby1/26078.ts
-#EXTINF:-1,CA | SUPER CH3 HD
-http://p4.giffy.be:8080/live/toby1/toby1/26079.ts
-#EXTINF:-1,CA | TMN 1
-http://p4.giffy.be:8080/live/toby1/toby1/21114.ts
-#EXTINF:-1,CA | TMN 3 HD
-http://p4.giffy.be:8080/live/toby1/toby1/29968.ts
-
-
-#EXTINF:-1,US | VELOCITY
-http://p4.giffy.be:8080/live/toby1/toby1/32183.ts
-
-
-
-#EXTINF:-1,CA | CBC EDMONTON
-http://p4.giffy.be:8080/live/toby1/toby1/31960.ts
-#EXTINF:-1,CA | CBC MONTREAL
-http://p4.giffy.be:8080/live/toby1/toby1/31336.ts
-#EXTINF:-1,FAMILIA DISCOVERY
-http://p4.giffy.be:8080/live/toby1/toby1/35224.ts
-#EXTINF:-1,BABY TV
-http://p4.giffy.be:8080/live/toby1/toby1/35351.ts
-#EXTINF:-1,CA | SUPER CHANNEL 3 BACKUP
-http://p4.giffy.be:8080/live/toby1/toby1/35441.ts
-#EXTINF:-1,US | HBO 2
-http://p4.giffy.be:8080/live/toby1/toby1/35439.ts
-#EXTINF:-1,US | MY38
-http://p4.giffy.be:8080/live/toby1/toby1/35438.ts
-#EXTINF:-1,CA | CTV EDMONTON HD
-http://p4.giffy.be:8080/live/toby1/toby1/22590.ts
-#EXTINF:-1,ARG | AMERICA TV 2
-http://p4.giffy.be:8080/live/toby1/toby1/35451.ts
-#EXTINF:-1,ESP: CANAL 7 PUNTA DEL ESTE
-http://p4.giffy.be:8080/live/toby1/toby1/35448.ts
-#EXTINF:-1,PPV WWE ROYAL RUMBLE 2018
-http://p4.giffy.be:8080/live/toby1/toby1/35464.ts
-#EXTINF:-1,PPV 2
-http://p4.giffy.be:8080/live/toby1/toby1/35465.ts
-#EXTINF:-1,CAN-F ADDIK TV
-http://p4.giffy.be:8080/live/toby1/toby1/35509.ts
-#EXTINF:-1,CAN-F ARTV
-http://p4.giffy.be:8080/live/toby1/toby1/35508.ts
-#EXTINF:-1,CAN-F CANAL D
-http://p4.giffy.be:8080/live/toby1/toby1/35507.ts
-#EXTINF:-1,CAN-F CANAL SAVOIR
-http://p4.giffy.be:8080/live/toby1/toby1/35506.ts
-#EXTINF:-1,CAN-F CASA
-http://p4.giffy.be:8080/live/toby1/toby1/35505.ts
-#EXTINF:-1,CAN-F CBC MONTREAL
-http://p4.giffy.be:8080/live/toby1/toby1/35504.ts
-#EXTINF:-1,CAN-F CINEPOP
-http://p4.giffy.be:8080/live/toby1/toby1/35503.ts
-#EXTINF:-1,CAN-F CPAC FRENCH
-http://p4.giffy.be:8080/live/toby1/toby1/35502.ts
-#EXTINF:-1,CAN-F DISNEY FRENCH
-http://p4.giffy.be:8080/live/toby1/toby1/35501.ts
-#EXTINF:-1,CAN-F FRISIN
-http://p4.giffy.be:8080/live/toby1/toby1/35500.ts
-#EXTINF:-1,CAN-F HISTORIO
-http://p4.giffy.be:8080/live/toby1/toby1/35471.ts
-#EXTINF:-1,CAN-F ICI MONTREAL
-http://p4.giffy.be:8080/live/toby1/toby1/35470.ts
-#EXTINF:-1,CAN-F ICI VANCOUVER
-http://p4.giffy.be:8080/live/toby1/toby1/35469.ts
-#EXTINF:-1,CAN-F LCN
-http://p4.giffy.be:8080/live/toby1/toby1/35499.ts
-#EXTINF:-1,CAN-F MAGIO
-http://p4.giffy.be:8080/live/toby1/toby1/35498.ts
-#EXTINF:-1,CAN-F MAX
-http://p4.giffy.be:8080/live/toby1/toby1/35495.ts
-#EXTINF:-1,CAN-F METEO
-http://p4.giffy.be:8080/live/toby1/toby1/35497.ts
-#EXTINF:-1,CAN-F MOI CIE
-http://p4.giffy.be:8080/live/toby1/toby1/35496.ts
-#EXTINF:-1,CAN-F MUSIQUE PLUS
-http://p4.giffy.be:8080/live/toby1/toby1/35494.ts
-#EXTINF:-1,CAN-F PRISE
-http://p4.giffy.be:8080/live/toby1/toby1/35493.ts
-#EXTINF:-1,CAN-F RDI
-http://p4.giffy.be:8080/live/toby1/toby1/35492.ts
-#EXTINF:-1,CAN-F RDS
-http://p4.giffy.be:8080/live/toby1/toby1/35491.ts
-#EXTINF:-1,CAN-F RDS 2
-http://p4.giffy.be:8080/live/toby1/toby1/35490.ts
-#EXTINF:-1,CAN-F SERIS
-http://p4.giffy.be:8080/live/toby1/toby1/35489.ts
-#EXTINF:-1,CAN-F SUPER ECRAN 1
-http://p4.giffy.be:8080/live/toby1/toby1/35488.ts
-#EXTINF:-1,CAN-F SUPER ECRAN 2
-http://p4.giffy.be:8080/live/toby1/toby1/35487.ts
-#EXTINF:-1,CAN-F SUPER ECRAN 3
-http://p4.giffy.be:8080/live/toby1/toby1/35486.ts
-#EXTINF:-1,CAN-F SUPER ECRAN 4
-http://p4.giffy.be:8080/live/toby1/toby1/35485.ts
-#EXTINF:-1,CAN-F TELE QUEBEC
-http://p4.giffy.be:8080/live/toby1/toby1/35484.ts
-#EXTINF:-1,CAN-F TELE TOON FRENCH
-http://p4.giffy.be:8080/live/toby1/toby1/35483.ts
-#EXTINF:-1,CAN-F TV5 QUEBEC
-http://p4.giffy.be:8080/live/toby1/toby1/35482.ts
-#EXTINF:-1,CAN-F TVA GATINEAU
-http://p4.giffy.be:8080/live/toby1/toby1/35481.ts
-#EXTINF:-1,CAN-F TVA MONTREAL
-http://p4.giffy.be:8080/live/toby1/toby1/35480.ts
-#EXTINF:-1,CAN-F TVA QUEBEC
-http://p4.giffy.be:8080/live/toby1/toby1/35479.ts
-#EXTINF:-1,CAN-F TVA SPORTS
-http://p4.giffy.be:8080/live/toby1/toby1/35478.ts
-#EXTINF:-1,CAN-F V MONTREAL
-http://p4.giffy.be:8080/live/toby1/toby1/35477.ts
-#EXTINF:-1,CAN-F VIE
-http://p4.giffy.be:8080/live/toby1/toby1/35476.ts
-#EXTINF:-1,CAN-F VRAK TV
-http://p4.giffy.be:8080/live/toby1/toby1/35475.ts
-#EXTINF:-1,CAN-F YOOPA
-http://p4.giffy.be:8080/live/toby1/toby1/35474.ts
-#EXTINF:-1,CAN-F Z TELE
-http://p4.giffy.be:8080/live/toby1/toby1/35473.ts
-#EXTINF:-1,CAN-F ZESTE
-http://p4.giffy.be:8080/live/toby1/toby1/35472.ts
-#EXTINF:-1,13 Reasons Why E01
-http://p4.giffy.be:8080/movie/toby1/toby1/35510.mp4
-#EXTINF:-1,13 Reasons Why E02
-http://p4.giffy.be:8080/movie/toby1/toby1/35511.mp4
-#EXTINF:-1,13 Reasons Why E03
-http://p4.giffy.be:8080/movie/toby1/toby1/35512.mp4
-#EXTINF:-1,13 Reasons Why E04
-http://p4.giffy.be:8080/movie/toby1/toby1/35513.mp4
-#EXTINF:-1,13 Reasons Why E05
-http://p4.giffy.be:8080/movie/toby1/toby1/35514.mp4
-#EXTINF:-1,13 Reasons Why E06
-http://p4.giffy.be:8080/movie/toby1/toby1/35515.mp4
-#EXTINF:-1,13 Reasons Why E07
-http://p4.giffy.be:8080/movie/toby1/toby1/35516.mp4
-#EXTINF:-1,13 Reasons Why E09
-http://p4.giffy.be:8080/movie/toby1/toby1/35517.mp4
-#EXTINF:-1,13 Reasons Why E10
-http://p4.giffy.be:8080/movie/toby1/toby1/35518.mp4
-#EXTINF:-1,24 Legacy Season 1 E01
-http://p4.giffy.be:8080/movie/toby1/toby1/35519.mp4
-#EXTINF:-1,24 Legacy Season 1 E02
-http://p4.giffy.be:8080/movie/toby1/toby1/35520.mp4
-#EXTINF:-1,24 Legacy Season 1 E03
-http://p4.giffy.be:8080/movie/toby1/toby1/35521.mp4
-#EXTINF:-1,24 Legacy Season 1 E04
-http://p4.giffy.be:8080/movie/toby1/toby1/35522.mp4
-#EXTINF:-1,24 Legacy Season 1 E05
-http://p4.giffy.be:8080/movie/toby1/toby1/35523.mp4
-#EXTINF:-1,24 Legacy Season 1 E06
-http://p4.giffy.be:8080/movie/toby1/toby1/35524.mp4
-#EXTINF:-1,24 Legacy Season 1 E07
-http://p4.giffy.be:8080/movie/toby1/toby1/35525.mp4
-#EXTINF:-1,24 Legacy Season 1 E08
-http://p4.giffy.be:8080/movie/toby1/toby1/35526.mp4
-#EXTINF:-1,24 Legacy Season 1 E10
-http://p4.giffy.be:8080/movie/toby1/toby1/35528.mp4
-#EXTINF:-1,24 Legacy Season 1 E9
-http://p4.giffy.be:8080/movie/toby1/toby1/35527.mp4
-#EXTINF:-1,Alone  Season 1 E03
-http://p4.giffy.be:8080/movie/toby1/toby1/35543.mp4
-#EXTINF:-1,Alone S2 E01
-http://p4.giffy.be:8080/movie/toby1/toby1/35550.mp4
-#EXTINF:-1,Alone S2 E02
-http://p4.giffy.be:8080/movie/toby1/toby1/35551.mp4
-#EXTINF:-1,Alone S2 E03
-http://p4.giffy.be:8080/movie/toby1/toby1/35552.mp4
-#EXTINF:-1,Alone S2 E04
-http://p4.giffy.be:8080/movie/toby1/toby1/35553.mp4
-#EXTINF:-1,Alone S2 E05
-http://p4.giffy.be:8080/movie/toby1/toby1/35554.mp4
-#EXTINF:-1,Alone S2 E06
-http://p4.giffy.be:8080/movie/toby1/toby1/35555.mp4
-#EXTINF:-1,Alone S2 E07
-http://p4.giffy.be:8080/movie/toby1/toby1/35556.mp4
-#EXTINF:-1,Alone S2 E08
-http://p4.giffy.be:8080/movie/toby1/toby1/35557.mp4
-#EXTINF:-1,Alone S2 E09
-http://p4.giffy.be:8080/movie/toby1/toby1/35558.mp4
-#EXTINF:-1,Alone S2 E10
-http://p4.giffy.be:8080/movie/toby1/toby1/35559.mp4
-#EXTINF:-1,Alone S2 E11
-http://p4.giffy.be:8080/movie/toby1/toby1/35560.mp4
-#EXTINF:-1,Alone S2 E12
-http://p4.giffy.be:8080/movie/toby1/toby1/35561.mp4
-#EXTINF:-1,Alone S2 E13
-http://p4.giffy.be:8080/movie/toby1/toby1/35562.mp4
-#EXTINF:-1,Alone S3 E01
-http://p4.giffy.be:8080/movie/toby1/toby1/35563.mp4
-#EXTINF:-1,Alone S3 E02
-http://p4.giffy.be:8080/movie/toby1/toby1/35564.mp4
-#EXTINF:-1,Alone S3 E03
-http://p4.giffy.be:8080/movie/toby1/toby1/35565.mp4
-#EXTINF:-1,Alone S3 E04
-http://p4.giffy.be:8080/movie/toby1/toby1/35566.mp4
-#EXTINF:-1,Alone S3 E05
-http://p4.giffy.be:8080/movie/toby1/toby1/35567.mp4
-#EXTINF:-1,Alone S3 E06
-http://p4.giffy.be:8080/movie/toby1/toby1/35568.mp4
-#EXTINF:-1,Alone S3 E07
-http://p4.giffy.be:8080/movie/toby1/toby1/35569.mp4
-#EXTINF:-1,Alone S3 E08
-http://p4.giffy.be:8080/movie/toby1/toby1/35570.mp4
-#EXTINF:-1,Alone S3 E09
-http://p4.giffy.be:8080/movie/toby1/toby1/35571.mp4
-#EXTINF:-1,Alone S3 E10
-http://p4.giffy.be:8080/movie/toby1/toby1/35572.mp4
-#EXTINF:-1,Alone S4 E01
-http://p4.giffy.be:8080/movie/toby1/toby1/35573.mp4
-#EXTINF:-1,Alone S4 E02
-http://p4.giffy.be:8080/movie/toby1/toby1/35574.mp4
-#EXTINF:-1,Alone S4 E03
-http://p4.giffy.be:8080/movie/toby1/toby1/35575.mp4
-#EXTINF:-1,Alone S4 E04
-http://p4.giffy.be:8080/movie/toby1/toby1/35576.mp4
-#EXTINF:-1,Alone S4 E06
-http://p4.giffy.be:8080/movie/toby1/toby1/35578.mp4
-#EXTINF:-1,Alone S4 E08
-http://p4.giffy.be:8080/movie/toby1/toby1/35579.mp4
-#EXTINF:-1,Alone S4 E09
-http://p4.giffy.be:8080/movie/toby1/toby1/35580.mp4
-#EXTINF:-1,Alone S4 E10
-http://p4.giffy.be:8080/movie/toby1/toby1/35581.mp4
-#EXTINF:-1,Alone S5 E05
-http://p4.giffy.be:8080/movie/toby1/toby1/35577.mp4
-#EXTINF:-1,Alone Season 1 E01
-http://p4.giffy.be:8080/movie/toby1/toby1/35541.mp4
-#EXTINF:-1,Alone Season 1 E02
-http://p4.giffy.be:8080/movie/toby1/toby1/35542.mp4
-#EXTINF:-1,Alone Season 1 E04
-http://p4.giffy.be:8080/movie/toby1/toby1/35544.mp4
-#EXTINF:-1,Alone Season 1 E05
-http://p4.giffy.be:8080/movie/toby1/toby1/35545.mp4
-#EXTINF:-1,Alone Season 1 E06
-http://p4.giffy.be:8080/movie/toby1/toby1/35546.mp4
-#EXTINF:-1,Alone Season 1 E07
-http://p4.giffy.be:8080/movie/toby1/toby1/35547.mp4
-#EXTINF:-1,Alone Season 1 E09
-http://p4.giffy.be:8080/movie/toby1/toby1/35548.mp4
-#EXTINF:-1,Alone Season 1 E10
-http://p4.giffy.be:8080/movie/toby1/toby1/35549.mp4
-#EXTINF:-1,Apb Season 1 E01
-http://p4.giffy.be:8080/movie/toby1/toby1/35529.mp4
-#EXTINF:-1,Apb Season 1 E02
-http://p4.giffy.be:8080/movie/toby1/toby1/35530.mp4
-#EXTINF:-1,Apb Season 1 E03
-http://p4.giffy.be:8080/movie/toby1/toby1/35531.mp4
-#EXTINF:-1,Apb Season 1 E04
-http://p4.giffy.be:8080/movie/toby1/toby1/35532.mp4
-#EXTINF:-1,Apb Season 1 E05
-http://p4.giffy.be:8080/movie/toby1/toby1/35533.mp4
-#EXTINF:-1,Apb Season 1 E07
-http://p4.giffy.be:8080/movie/toby1/toby1/35535.mp4
-#EXTINF:-1,Apb Season 1 E08
-http://p4.giffy.be:8080/movie/toby1/toby1/35536.mp4
-#EXTINF:-1,Apb Season 1 E09
-http://p4.giffy.be:8080/movie/toby1/toby1/35537.mp4
-#EXTINF:-1,Apb Season 1 E10
-http://p4.giffy.be:8080/movie/toby1/toby1/35538.mp4
-#EXTINF:-1,Apb Season 1 E11
-http://p4.giffy.be:8080/movie/toby1/toby1/35539.mp4
-#EXTINF:-1,Apb Season 1 E12
-http://p4.giffy.be:8080/movie/toby1/toby1/35540.mp4
-#EXTINF:-1,Apb Season One E06
-http://p4.giffy.be:8080/movie/toby1/toby1/35534.mp4
-#EXTINF:-1,Alphas S02 E07
-http://p4.giffy.be:8080/movie/toby1/toby1/35598.mp4
-#EXTINF:-1,Alphas S02 E12
-http://p4.giffy.be:8080/movie/toby1/toby1/35603.mp4
-#EXTINF:-1,Alphas S1 E 10
-http://p4.giffy.be:8080/movie/toby1/toby1/35590.mp4
-#EXTINF:-1,Alphas S1 E01
-http://p4.giffy.be:8080/movie/toby1/toby1/35582.mp4
-#EXTINF:-1,Alphas S1 E02
-http://p4.giffy.be:8080/movie/toby1/toby1/35583.mp4
-#EXTINF:-1,Alphas S1 E03
-http://p4.giffy.be:8080/movie/toby1/toby1/35584.mp4
-#EXTINF:-1,Alphas S1 E04
-http://p4.giffy.be:8080/movie/toby1/toby1/35585.mp4
-#EXTINF:-1,Alphas S1 E08
-http://p4.giffy.be:8080/movie/toby1/toby1/35588.mp4
-#EXTINF:-1,Alphas S1 E09
-http://p4.giffy.be:8080/movie/toby1/toby1/35589.mp4
-#EXTINF:-1,Alphas S1 E11
-http://p4.giffy.be:8080/movie/toby1/toby1/35591.mp4
-#EXTINF:-1,Alphas S2 05
-http://p4.giffy.be:8080/movie/toby1/toby1/35596.mp4
-#EXTINF:-1,Alphas S2 E01
-http://p4.giffy.be:8080/movie/toby1/toby1/35592.mp4
-#EXTINF:-1,Alphas S2 E02
-http://p4.giffy.be:8080/movie/toby1/toby1/35593.mp4
-#EXTINF:-1,Alphas S2 E03
-http://p4.giffy.be:8080/movie/toby1/toby1/35594.mp4
-#EXTINF:-1,Alphas S2 E04
-http://p4.giffy.be:8080/movie/toby1/toby1/35595.mp4
-#EXTINF:-1,Alphas S2 E06
-http://p4.giffy.be:8080/movie/toby1/toby1/35597.mp4
-#EXTINF:-1,Alphas S2 E08
-http://p4.giffy.be:8080/movie/toby1/toby1/35599.mp4
-#EXTINF:-1,Alphas S2 E09
-http://p4.giffy.be:8080/movie/toby1/toby1/35600.mp4
-#EXTINF:-1,Alphas S2 E10
-http://p4.giffy.be:8080/movie/toby1/toby1/35601.mp4
-#EXTINF:-1,Alphas S2 E11
-http://p4.giffy.be:8080/movie/toby1/toby1/35602.mp4
-#EXTINF:-1,Alphas S2 E13
-http://p4.giffy.be:8080/movie/toby1/toby1/35604.mp4
-#EXTINF:-1,Aphas S1 E6
-http://p4.giffy.be:8080/movie/toby1/toby1/35586.mp4
-#EXTINF:-1,Aphas S1 E7
-http://p4.giffy.be:8080/movie/toby1/toby1/35587.mp4
-#EXTINF:-1,Mother
-http://p4.giffy.be:8080/movie/toby1/toby1/35611.mp4
-#EXTINF:-1,Return Of Xander Cage
-http://p4.giffy.be:8080/movie/toby1/toby1/35610.mp4
-#EXTINF:-1,The Vault
-http://p4.giffy.be:8080/movie/toby1/toby1/35638.mp4
-#EXTINF:-1,The Villainess
-http://p4.giffy.be:8080/movie/toby1/toby1/35639.mp4
-#EXTINF:-1,The Wall
-http://p4.giffy.be:8080/movie/toby1/toby1/35640.mp4
-#EXTINF:-1,Thor Ragnarok
-http://p4.giffy.be:8080/movie/toby1/toby1/35637.mp4
-#EXTINF:-1,To The Bone
-http://p4.giffy.be:8080/movie/toby1/toby1/35636.mp4
-#EXTINF:-1,Tracktown
-http://p4.giffy.be:8080/movie/toby1/toby1/35635.mp4
-#EXTINF:-1,Tragedy Girls
-http://p4.giffy.be:8080/movie/toby1/toby1/35634.mp4
-#EXTINF:-1,Transformers
-http://p4.giffy.be:8080/movie/toby1/toby1/35633.mp4
-#EXTINF:-1,Trespass Against Us
-http://p4.giffy.be:8080/movie/toby1/toby1/35632.mp4
-#EXTINF:-1,Tulip Fever
-http://p4.giffy.be:8080/movie/toby1/toby1/35631.mp4
-#EXTINF:-1,Una
-http://p4.giffy.be:8080/movie/toby1/toby1/35630.mp4
-#EXTINF:-1,Undercover Grandpa
-http://p4.giffy.be:8080/movie/toby1/toby1/35629.mp4
-#EXTINF:-1,Unlocked
-http://p4.giffy.be:8080/movie/toby1/toby1/35628.mp4
-#EXTINF:-1,Close Encounters Of The Third Kind (1977)
-http://p4.giffy.be:8080/movie/toby1/toby1/35605.mp4
-#EXTINF:-1,Leap Year (2010)
-http://p4.giffy.be:8080/movie/toby1/toby1/35606.mp4
-#EXTINF:-1,Little Murders (2012)
-http://p4.giffy.be:8080/movie/toby1/toby1/35607.mp4
-#EXTINF:-1,Valerian And The City Of A Thousand Planets
-http://p4.giffy.be:8080/movie/toby1/toby1/35627.mp4
-#EXTINF:-1,Voice From The Stone
-http://p4.giffy.be:8080/movie/toby1/toby1/35626.mp4
-#EXTINF:-1,Walk Of Fame
-http://p4.giffy.be:8080/movie/toby1/toby1/35625.mp4
-#EXTINF:-1,Walking Out
-http://p4.giffy.be:8080/movie/toby1/toby1/35624.mp4
-#EXTINF:-1,War For The Planets Of The Apes
-http://p4.giffy.be:8080/movie/toby1/toby1/35622.mp4
-#EXTINF:-1,War Machine
-http://p4.giffy.be:8080/movie/toby1/toby1/35623.mp4
-#EXTINF:-1,Welcome To Willits
-http://p4.giffy.be:8080/movie/toby1/toby1/35621.mp4
-#EXTINF:-1,What Happened To Monday
-http://p4.giffy.be:8080/movie/toby1/toby1/35620.mp4
-#EXTINF:-1,Wheelman
-http://p4.giffy.be:8080/movie/toby1/toby1/35619.mp4
-#EXTINF:-1,Whose Streets
-http://p4.giffy.be:8080/movie/toby1/toby1/35618.mp4
-#EXTINF:-1,Wilson
-http://p4.giffy.be:8080/movie/toby1/toby1/35617.mp4
-#EXTINF:-1,Wind River
-http://p4.giffy.be:8080/movie/toby1/toby1/35616.mp4
-#EXTINF:-1,Wish Upon
-http://p4.giffy.be:8080/movie/toby1/toby1/35615.mp4
-#EXTINF:-1,Wonderstruck
-http://p4.giffy.be:8080/movie/toby1/toby1/35614.mp4
-#EXTINF:-1,Woodshock
-http://p4.giffy.be:8080/movie/toby1/toby1/35613.mp4
-#EXTINF:-1,Youth In Oregon
-http://p4.giffy.be:8080/movie/toby1/toby1/35612.mp4
-#EXTINF:-1,The Fate Of The Furious
-http://p4.giffy.be:8080/movie/toby1/toby1/35641.mp4
-#EXTINF:-1,The Foreigner
-http://p4.giffy.be:8080/movie/toby1/toby1/35642.mp4
-#EXTINF:-1,The Glass Castle
-http://p4.giffy.be:8080/movie/toby1/toby1/35643.mp4
-#EXTINF:-1,The Good Catholic
-http://p4.giffy.be:8080/movie/toby1/toby1/35644.mp4
-#EXTINF:-1,The Gracefield
-http://p4.giffy.be:8080/movie/toby1/toby1/35645.mp4
-#EXTINF:-1,The Hero
-http://p4.giffy.be:8080/movie/toby1/toby1/35646.mp4
-#EXTINF:-1,The Houes Of October Built 2
-http://p4.giffy.be:8080/movie/toby1/toby1/35648.mp4
-#EXTINF:-1,The House
-http://p4.giffy.be:8080/movie/toby1/toby1/35647.mp4
-#EXTINF:-1,The Killing Of Sacred Deer
-http://p4.giffy.be:8080/movie/toby1/toby1/35649.mp4
-#EXTINF:-1,The Last Word
-http://p4.giffy.be:8080/movie/toby1/toby1/35651.mp4
-#EXTINF:-1,The Layover
-http://p4.giffy.be:8080/movie/toby1/toby1/35652.mp4
-#EXTINF:-1,The Lego Batman Movie
-http://p4.giffy.be:8080/movie/toby1/toby1/35653.mp4
-#EXTINF:-1,The Lego Ninjago
-http://p4.giffy.be:8080/movie/toby1/toby1/35650.mp4
-#EXTINF:-1,The Ligh Of The The Moon
-http://p4.giffy.be:8080/movie/toby1/toby1/35654.mp4
-#EXTINF:-1,The Little Hours
-http://p4.giffy.be:8080/movie/toby1/toby1/35655.mp4
-#EXTINF:-1,The Lost City Of Z
-http://p4.giffy.be:8080/movie/toby1/toby1/35656.mp4
-#EXTINF:-1,The Lovers
-http://p4.giffy.be:8080/movie/toby1/toby1/35657.mp4
-#EXTINF:-1,The Moutnain Between Us
-http://p4.giffy.be:8080/movie/toby1/toby1/35658.mp4
-#EXTINF:-1,The Mummy
-http://p4.giffy.be:8080/movie/toby1/toby1/35659.mp4
-#EXTINF:-1,The Nut Job 2 Nutty By Nature
-http://p4.giffy.be:8080/movie/toby1/toby1/35660.mp4
-#EXTINF:-1,The Only Living Boy In New York
-http://p4.giffy.be:8080/movie/toby1/toby1/35661.mp4
-#EXTINF:-1,The Ottoman Lietenant
-http://p4.giffy.be:8080/movie/toby1/toby1/35662.mp4
-#EXTINF:-1,The Pirates Of Somalia
-http://p4.giffy.be:8080/movie/toby1/toby1/35663.mp4
-#EXTINF:-1,Total Recall
-http://p4.giffy.be:8080/movie/toby1/toby1/35664.mp4
-#EXTINF:-1,The Sense Of An Ending
-http://p4.giffy.be:8080/movie/toby1/toby1/35665.mp4
-#EXTINF:-1,The Shack
-http://p4.giffy.be:8080/movie/toby1/toby1/35666.mp4
-#EXTINF:-1,The Show
-http://p4.giffy.be:8080/movie/toby1/toby1/35667.mp4
-#EXTINF:-1,The Snowman
-http://p4.giffy.be:8080/movie/toby1/toby1/35668.mp4
-#EXTINF:-1,The Transfiguration
-http://p4.giffy.be:8080/movie/toby1/toby1/35669.mp4
-#EXTINF:-1,The Tribes Of Palos Verdes
-http://p4.giffy.be:8080/movie/toby1/toby1/35670.mp4
-#EXTINF:-1,Trip To Spain
-http://p4.giffy.be:8080/movie/toby1/toby1/35671.mp4
-#EXTINF:-1,Belief: The Possession Of Janet Moses (2015)
-http://p4.giffy.be:8080/movie/toby1/toby1/35609.mp4
-#EXTINF:-1,CA | BBC KIDS
-http://p4.giffy.be:8080/live/toby1/toby1/35734.ts
-#EXTINF:-1,CA | CHCH
-http://p4.giffy.be:8080/live/toby1/toby1/35752.ts
-#EXTINF:-1,CA | CNN INTERNATIONAL
-http://p4.giffy.be:8080/live/toby1/toby1/35733.ts
-#EXTINF:-1,CA | COMEDY GOLD
-http://p4.giffy.be:8080/live/toby1/toby1/35751.ts
-#EXTINF:-1,CA | COOKING CHANNEL
-http://p4.giffy.be:8080/live/toby1/toby1/35750.ts
-#EXTINF:-1,CA | COSMO
-http://p4.giffy.be:8080/live/toby1/toby1/35739.ts
-#EXTINF:-1,CA | DOCUMENTARY
-http://p4.giffy.be:8080/live/toby1/toby1/35738.ts
-#EXTINF:-1,CA | ENCORE 1 EAST
-http://p4.giffy.be:8080/live/toby1/toby1/35748.ts
-#EXTINF:-1,CA | FIGHT NETWORK
-http://p4.giffy.be:8080/live/toby1/toby1/35747.ts
-#EXTINF:-1,CA | H2 CANADA
-http://p4.giffy.be:8080/live/toby1/toby1/35730.ts
-#EXTINF:-1,KNOWLEDGE KIDS
-http://p4.giffy.be:8080/live/toby1/toby1/35737.ts
-#EXTINF:-1,CA | MTIME
-http://p4.giffy.be:8080/live/toby1/toby1/35761.ts
-#EXTINF:-1,CA | MTV
-http://p4.giffy.be:8080/live/toby1/toby1/35760.ts
-#EXTINF:-1,CA | SHOPPING
-http://p4.giffy.be:8080/live/toby1/toby1/35745.ts
-#EXTINF:-1,CA | THE WEATHER NETWORK
-http://p4.giffy.be:8080/live/toby1/toby1/35754.ts
-#EXTINF:-1,CA | VISION
-http://p4.giffy.be:8080/live/toby1/toby1/35744.ts
-#EXTINF:-1,US | WSBK
-http://p4.giffy.be:8080/live/toby1/toby1/35743.ts
-#EXTINF:-1,YTV West
-http://p4.giffy.be:8080/live/toby1/toby1/35759.ts
-
-#EXTINF:-1, Right Before Aaron
-http://p4.giffy.be:8080/movie/toby1/toby1/35947.mp4
-#EXTINF:-1, The Moderate Rise And Tragic Fall Of A New York Fixer
-http://p4.giffy.be:8080/movie/toby1/toby1/35969.mp4
-#EXTINF:-1,)newsies The Broadway Musical
-http://p4.giffy.be:8080/movie/toby1/toby1/35968.mp4
-#EXTINF:-1,/sand Castle 2017
-http://p4.giffy.be:8080/movie/toby1/toby1/35993.mp4
-#EXTINF:-1,/sleepless 2017
-http://p4.giffy.be:8080/movie/toby1/toby1/35997.mp4
-#EXTINF:-1,/stronger
-http://p4.giffy.be:8080/movie/toby1/toby1/36004.mp4
-#EXTINF:-1,0
-http://p4.giffy.be:8080/movie/toby1/toby1/35800.mp4
-#EXTINF:-1,1
-http://p4.giffy.be:8080/movie/toby1/toby1/35801.mp4
-#EXTINF:-1,2
-http://p4.giffy.be:8080/movie/toby1/toby1/35802.mp4
-#EXTINF:-1,47 Meters Down
-http://p4.giffy.be:8080/movie/toby1/toby1/35803.mp4
-#EXTINF:-1,6 Days
-http://p4.giffy.be:8080/movie/toby1/toby1/35804.mp4
-#EXTINF:-1,68 Kill
-http://p4.giffy.be:8080/movie/toby1/toby1/35805.mp4
-#EXTINF:-1,7 Witches
-http://p4.giffy.be:8080/movie/toby1/toby1/35806.mp4
-#EXTINF:-1,A Bad Moms Christmas
-http://p4.giffy.be:8080/movie/toby1/toby1/35807.mp4
-#EXTINF:-1,A Cure For Wellness
-http://p4.giffy.be:8080/movie/toby1/toby1/35808.mp4
-#EXTINF:-1,A Ghost Story
-http://p4.giffy.be:8080/movie/toby1/toby1/35809.mp4
-#EXTINF:-1,A Question Of Faith
-http://p4.giffy.be:8080/movie/toby1/toby1/35810.mp4
-#EXTINF:-1,Abacus Small Enough To Jail
-http://p4.giffy.be:8080/movie/toby1/toby1/35811.mp4
-#EXTINF:-1,Absolutely Anything (2015)
-http://p4.giffy.be:8080/movie/toby1/toby1/35608.mp4
-#EXTINF:-1,Alien Covenant
-http://p4.giffy.be:8080/movie/toby1/toby1/35812.mp4
-#EXTINF:-1,Alien Invasion S U M 1
-http://p4.giffy.be:8080/movie/toby1/toby1/35813.mp4
-#EXTINF:-1,All Eyez On Me
-http://p4.giffy.be:8080/movie/toby1/toby1/35814.mp4
-#EXTINF:-1,All Nighter
-http://p4.giffy.be:8080/movie/toby1/toby1/35815.mp4
-#EXTINF:-1,All Saints
-http://p4.giffy.be:8080/movie/toby1/toby1/35816.mp4
-#EXTINF:-1,Almost Friends
-http://p4.giffy.be:8080/movie/toby1/toby1/35817.mp4
-#EXTINF:-1,American Assassin
-http://p4.giffy.be:8080/movie/toby1/toby1/35818.mp4
-#EXTINF:-1,American Fable
-http://p4.giffy.be:8080/movie/toby1/toby1/35819.mp4
-#EXTINF:-1,American Made
-http://p4.giffy.be:8080/movie/toby1/toby1/35820.mp4
-#EXTINF:-1,American Satan
-http://p4.giffy.be:8080/movie/toby1/toby1/35821.mp4
-#EXTINF:-1,American Violence
-http://p4.giffy.be:8080/movie/toby1/toby1/35822.mp4
-#EXTINF:-1,Amityville The Awakening
-http://p4.giffy.be:8080/movie/toby1/toby1/35823.mp4
-#EXTINF:-1,An Inconvenient Sequel Truth To Power
-http://p4.giffy.be:8080/movie/toby1/toby1/35824.mp4
-#EXTINF:-1,Annabelle Creation
-http://p4.giffy.be:8080/movie/toby1/toby1/35825.mp4
-#EXTINF:-1,Another Evil
-http://p4.giffy.be:8080/movie/toby1/toby1/35826.mp4
-#EXTINF:-1,ARG | AMERICA TV
-http://p4.giffy.be:8080/live/toby1/toby1/35352.ts
-#EXTINF:-1,ARG | GOLTV
-http://p4.giffy.be:8080/live/toby1/toby1/35413.ts
-#EXTINF:-1,ARG | VIVO CANAL 13
-http://p4.giffy.be:8080/live/toby1/toby1/35410.ts
-#EXTINF:-1,Armed Response
-http://p4.giffy.be:8080/movie/toby1/toby1/35827.mp4
-#EXTINF:-1,Arsenal
-http://p4.giffy.be:8080/movie/toby1/toby1/35828.mp4
-#EXTINF:-1,Atomic Blonde
-http://p4.giffy.be:8080/movie/toby1/toby1/35829.mp4
-#EXTINF:-1,Atomica
-http://p4.giffy.be:8080/movie/toby1/toby1/35830.mp4
-#EXTINF:-1,Austin Found
-http://p4.giffy.be:8080/movie/toby1/toby1/35831.mp4
-#EXTINF:-1,Awakening The Zodiac
-http://p4.giffy.be:8080/movie/toby1/toby1/35832.mp4
-#EXTINF:-1,Baby Driver
-http://p4.giffy.be:8080/movie/toby1/toby1/35833.mp4
-#EXTINF:-1,Bad Day For The Cut
-http://p4.giffy.be:8080/movie/toby1/toby1/35834.mp4
-#EXTINF:-1,Band Aid
-http://p4.giffy.be:8080/movie/toby1/toby1/35835.mp4
-#EXTINF:-1,Battle Of The Sexes
-http://p4.giffy.be:8080/movie/toby1/toby1/35836.mp4
-#EXTINF:-1,Baywatch
-http://p4.giffy.be:8080/movie/toby1/toby1/35837.mp4
-#EXTINF:-1,Beach Rats
-http://p4.giffy.be:8080/movie/toby1/toby1/35838.mp4
-#EXTINF:-1,Beatriz At Dinner
-http://p4.giffy.be:8080/movie/toby1/toby1/35839.mp4
-#EXTINF:-1,Beauty And The Beast
-http://p4.giffy.be:8080/movie/toby1/toby1/35840.mp4
-#EXTINF:-1,Before I Fall
-http://p4.giffy.be:8080/movie/toby1/toby1/35841.mp4
-#EXTINF:-1,Berlin Syndrome
-http://p4.giffy.be:8080/movie/toby1/toby1/35842.mp4
-#EXTINF:-1,Better Watch Out
-http://p4.giffy.be:8080/movie/toby1/toby1/35843.mp4
-#EXTINF:-1,Beyond Skyline
-http://p4.giffy.be:8080/movie/toby1/toby1/35844.mp4
-#EXTINF:-1,Birth Of The Dragon
-http://p4.giffy.be:8080/movie/toby1/toby1/35845.mp4
-#EXTINF:-1,Bitch
-http://p4.giffy.be:8080/movie/toby1/toby1/35846.mp4
-#EXTINF:-1,Bitter Harvest
-http://p4.giffy.be:8080/movie/toby1/toby1/35847.mp4
-#EXTINF:-1,Black Butterfly
-http://p4.giffy.be:8080/movie/toby1/toby1/35848.mp4
-#EXTINF:-1,Black Site Delta
-http://p4.giffy.be:8080/movie/toby1/toby1/35849.mp4
-#EXTINF:-1,Blade Runner 2049
-http://p4.giffy.be:8080/movie/toby1/toby1/35850.mp4
-#EXTINF:-1,Blind
-http://p4.giffy.be:8080/movie/toby1/toby1/35851.mp4
-#EXTINF:-1,Blood Money
-http://p4.giffy.be:8080/movie/toby1/toby1/35853.mp4
-#EXTINF:-1,Bokeh
-http://p4.giffy.be:8080/movie/toby1/toby1/35852.mp4
-#EXTINF:-1,Brawl In Cell Block 99
-http://p4.giffy.be:8080/movie/toby1/toby1/35854.mp4
-#EXTINF:-1,Breathe
-http://p4.giffy.be:8080/movie/toby1/toby1/35855.mp4
-#EXTINF:-1,Bright
-http://p4.giffy.be:8080/movie/toby1/toby1/35856.mp4
-#EXTINF:-1,Brigsby Bear
-http://p4.giffy.be:8080/movie/toby1/toby1/35857.mp4
-#EXTINF:-1,Brimstone
-http://p4.giffy.be:8080/movie/toby1/toby1/35858.mp4
-#EXTINF:-1,Bullet Head
-http://p4.giffy.be:8080/movie/toby1/toby1/35859.mp4
-#EXTINF:-1,Bushwick
-http://p4.giffy.be:8080/movie/toby1/toby1/35860.mp4
-#EXTINF:-1,Cage Dive
-http://p4.giffy.be:8080/movie/toby1/toby1/35862.mp4
-#EXTINF:-1,California Typewriter
-http://p4.giffy.be:8080/movie/toby1/toby1/35863.mp4
-#EXTINF:-1,Camera Obscura
-http://p4.giffy.be:8080/movie/toby1/toby1/35864.mp4
-#EXTINF:-1,Captain Underpants The First Epic Movie
-http://p4.giffy.be:8080/movie/toby1/toby1/35865.mp4
-#EXTINF:-1,Carrie Pilby
-http://p4.giffy.be:8080/movie/toby1/toby1/35866.mp4
-#EXTINF:-1,Cars 3
-http://p4.giffy.be:8080/movie/toby1/toby1/35867.mp4
-#EXTINF:-1,Catfight
-http://p4.giffy.be:8080/movie/toby1/toby1/35868.mp4
-#EXTINF:-1,Chips
-http://p4.giffy.be:8080/movie/toby1/toby1/35861.mp4
-#EXTINF:-1,Chris Brown Welcome To My Life
-http://p4.giffy.be:8080/movie/toby1/toby1/35869.mp4
-#EXTINF:-1,Chuck
-http://p4.giffy.be:8080/movie/toby1/toby1/35870.mp4
-#EXTINF:-1,Churchill
-http://p4.giffy.be:8080/movie/toby1/toby1/35871.mp4
-#EXTINF:-1,City Of Ghosts
-http://p4.giffy.be:8080/movie/toby1/toby1/35872.mp4
-#EXTINF:-1,Claire In Motion
-http://p4.giffy.be:8080/movie/toby1/toby1/35873.mp4
-#EXTINF:-1,Columbus
-http://p4.giffy.be:8080/movie/toby1/toby1/35874.mp4
-#EXTINF:-1,Conor Mcgregor Notorious
-http://p4.giffy.be:8080/movie/toby1/toby1/35875.mp4
-#EXTINF:-1,Crown Heights
-http://p4.giffy.be:8080/movie/toby1/toby1/35876.mp4
-#EXTINF:-1,Darkness Rising
-http://p4.giffy.be:8080/movie/toby1/toby1/35877.mp4
-#EXTINF:-1,Dave Made A Maze
-http://p4.giffy.be:8080/movie/toby1/toby1/35878.mp4
-#EXTINF:-1,Dead Awake
-http://p4.giffy.be:8080/movie/toby1/toby1/35879.mp4
-#EXTINF:-1,Dean
-http://p4.giffy.be:8080/movie/toby1/toby1/35880.mp4
-#EXTINF:-1,Death Note
-http://p4.giffy.be:8080/movie/toby1/toby1/35881.mp4
-#EXTINF:-1,Deep
-http://p4.giffy.be:8080/movie/toby1/toby1/35882.mp4
-#EXTINF:-1,Despicable Me 3
-http://p4.giffy.be:8080/movie/toby1/toby1/35883.mp4
-#EXTINF:-1,Detour
-http://p4.giffy.be:8080/movie/toby1/toby1/35884.mp4
-#EXTINF:-1,Detroit
-http://p4.giffy.be:8080/movie/toby1/toby1/35885.mp4
-#EXTINF:-1,Diary Of A Wimpy Kid The Long Haul
-http://p4.giffy.be:8080/movie/toby1/toby1/35886.mp4
-#EXTINF:-1,Different Flowers
-http://p4.giffy.be:8080/movie/toby1/toby1/35887.mp4
-#EXTINF:-1,Donald Cried
-http://p4.giffy.be:8080/movie/toby1/toby1/35888.mp4
-#EXTINF:-1,Dunkirk
-http://p4.giffy.be:8080/movie/toby1/toby1/35889.mp4
-#EXTINF:-1,Eloise
-http://p4.giffy.be:8080/movie/toby1/toby1/35890.mp4
-#EXTINF:-1,Everything
-http://p4.giffy.be:8080/movie/toby1/toby1/35891.mp4
-#EXTINF:-1,Fifty Shades Darker
-http://p4.giffy.be:8080/movie/toby1/toby1/35892.mp4
-#EXTINF:-1,First Kill
-http://p4.giffy.be:8080/movie/toby1/toby1/35893.mp4
-#EXTINF:-1,First They Killed My Father
-http://p4.giffy.be:8080/movie/toby1/toby1/35894.mp4
-#EXTINF:-1,Fist Fight
-http://p4.giffy.be:8080/movie/toby1/toby1/35895.mp4
-#EXTINF:-1,Flatliners
-http://p4.giffy.be:8080/movie/toby1/toby1/35896.mp4
-#EXTINF:-1,Frank Serpico
-http://p4.giffy.be:8080/movie/toby1/toby1/35897.mp4
-#EXTINF:-1,Free Fire
-http://p4.giffy.be:8080/movie/toby1/toby1/35898.mp4
-#EXTINF:-1,From A House On Willow Street
-http://p4.giffy.be:8080/movie/toby1/toby1/35899.mp4
-#EXTINF:-1,Fun Mom Dinner
-http://p4.giffy.be:8080/movie/toby1/toby1/35900.mp4
-#EXTINF:-1,Generation Iron 2
-http://p4.giffy.be:8080/movie/toby1/toby1/35901.mp4
-#EXTINF:-1,Geostorm
-http://p4.giffy.be:8080/movie/toby1/toby1/35902.mp4
-#EXTINF:-1,Get Out
-http://p4.giffy.be:8080/movie/toby1/toby1/35903.mp4
-#EXTINF:-1,Gifted
-http://p4.giffy.be:8080/movie/toby1/toby1/35904.mp4
-#EXTINF:-1,Girls Trip
-http://p4.giffy.be:8080/movie/toby1/toby1/35905.mp4
-#EXTINF:-1,Going In Style
-http://p4.giffy.be:8080/movie/toby1/toby1/35906.mp4
-#EXTINF:-1,Good Time
-http://p4.giffy.be:8080/movie/toby1/toby1/35907.mp4
-#EXTINF:-1,Goodbye Christopher Robin
-http://p4.giffy.be:8080/movie/toby1/toby1/35908.mp4
-#EXTINF:-1,Gook
-http://p4.giffy.be:8080/movie/toby1/toby1/35909.mp4
-#EXTINF:-1,Goon Last Of The Enforcers
-http://p4.giffy.be:8080/movie/toby1/toby1/35910.mp4
-#EXTINF:-1,Gun Shy
-http://p4.giffy.be:8080/movie/toby1/toby1/35911.mp4
-#EXTINF:-1,Handsome A Netflix Mystery Movie
-http://p4.giffy.be:8080/movie/toby1/toby1/35912.mp4
-#EXTINF:-1,Handsome Devil
-http://p4.giffy.be:8080/movie/toby1/toby1/35913.mp4
-#EXTINF:-1,Hangman
-http://p4.giffy.be:8080/movie/toby1/toby1/35914.mp4
-#EXTINF:-1,Happy Death Day
-http://p4.giffy.be:8080/movie/toby1/toby1/35915.mp4
-#EXTINF:-1,Hickok
-http://p4.giffy.be:8080/movie/toby1/toby1/35916.mp4
-#EXTINF:-1,Home Again
-http://p4.giffy.be:8080/movie/toby1/toby1/35917.mp4
-#EXTINF:-1,How To Be A Latin Lover
-http://p4.giffy.be:8080/movie/toby1/toby1/35918.mp4
-#EXTINF:-1,I Love You Both
-http://p4.giffy.be:8080/movie/toby1/toby1/35919.mp4
-#EXTINF:-1,In Dubious Battle
-http://p4.giffy.be:8080/movie/toby1/toby1/35920.mp4
-#EXTINF:-1,Inconceivable
-http://p4.giffy.be:8080/movie/toby1/toby1/35921.mp4
-#EXTINF:-1,Ingrid Goes West
-http://p4.giffy.be:8080/movie/toby1/toby1/35922.mp4
-#EXTINF:-1,It
-http://p4.giffy.be:8080/movie/toby1/toby1/35923.mp4
-#EXTINF:-1,It Comes At Night
-http://p4.giffy.be:8080/movie/toby1/toby1/35924.mp4
-#EXTINF:-1,Jeepers Creepers 3
-http://p4.giffy.be:8080/movie/toby1/toby1/35925.mp4
-#EXTINF:-1,Jigsaw
-http://p4.giffy.be:8080/movie/toby1/toby1/35926.mp4
-#EXTINF:-1,John Wick Chapter 2
-http://p4.giffy.be:8080/movie/toby1/toby1/35927.mp4
-#EXTINF:-1,Jungle
-http://p4.giffy.be:8080/movie/toby1/toby1/35928.mp4
-#EXTINF:-1,Kedi
-http://p4.giffy.be:8080/movie/toby1/toby1/35929.mp4
-#EXTINF:-1,Kidnap
-http://p4.giffy.be:8080/movie/toby1/toby1/35930.mp4
-#EXTINF:-1,Kiki
-http://p4.giffy.be:8080/movie/toby1/toby1/35931.mp4
-#EXTINF:-1,Kill Switch
-http://p4.giffy.be:8080/movie/toby1/toby1/35932.mp4
-#EXTINF:-1,Killing Ground
-http://p4.giffy.be:8080/movie/toby1/toby1/35933.mp4
-#EXTINF:-1,Killing Gunther/
-http://p4.giffy.be:8080/movie/toby1/toby1/35934.mp4
-#EXTINF:-1,King Arthur Legend Of The Sword
-http://p4.giffy.be:8080/movie/toby1/toby1/35935.mp4
-#EXTINF:-1,Kingsman The Golden Circle
-http://p4.giffy.be:8080/movie/toby1/toby1/35936.mp4
-#EXTINF:-1,Kong Skull Island
-http://p4.giffy.be:8080/movie/toby1/toby1/35937.mp4
-#EXTINF:-1,Kung Fu Yoga
-http://p4.giffy.be:8080/movie/toby1/toby1/35938.mp4
-#EXTINF:-1,La Barracuda
-http://p4.giffy.be:8080/movie/toby1/toby1/35940.mp4
-#EXTINF:-1,Lady Macbeth
-http://p4.giffy.be:8080/movie/toby1/toby1/35941.mp4
-#EXTINF:-1,Last Flag Flying
-http://p4.giffy.be:8080/movie/toby1/toby1/35942.mp4
-#EXTINF:-1,Last Rampage The Escape Of Gary Tison
-http://p4.giffy.be:8080/movie/toby1/toby1/35943.mp4
-#EXTINF:-1,Lbj
-http://p4.giffy.be:8080/movie/toby1/toby1/35939.mp4
-#EXTINF:-1,Lemon
-http://p4.giffy.be:8080/movie/toby1/toby1/35944.mp4
-#EXTINF:-1,Let There Be Light
-http://p4.giffy.be:8080/movie/toby1/toby1/35945.mp4
-#EXTINF:-1,Life
-http://p4.giffy.be:8080/movie/toby1/toby1/35946.mp4
-#EXTINF:-1,Logan
-http://p4.giffy.be:8080/movie/toby1/toby1/35948.mp4
-#EXTINF:-1,Logan Lucky
-http://p4.giffy.be:8080/movie/toby1/toby1/35949.mp4
-#EXTINF:-1,Lost In Florence
-http://p4.giffy.be:8080/movie/toby1/toby1/35950.mp4
-#EXTINF:-1,Lost In Paris
-http://p4.giffy.be:8080/movie/toby1/toby1/35951.mp4
-#EXTINF:-1,Love Kennedy
-http://p4.giffy.be:8080/movie/toby1/toby1/35952.mp4
-#EXTINF:-1,Love Beats Rhymes
-http://p4.giffy.be:8080/movie/toby1/toby1/35953.mp4
-#EXTINF:-1,Lowriders
-http://p4.giffy.be:8080/movie/toby1/toby1/35954.mp4
-#EXTINF:-1,Lucky
-http://p4.giffy.be:8080/movie/toby1/toby1/35955.mp4
-#EXTINF:-1,Lycan
-http://p4.giffy.be:8080/movie/toby1/toby1/35956.mp4
-#EXTINF:-1,Marjorie Prime
-http://p4.giffy.be:8080/movie/toby1/toby1/35957.mp4
-#EXTINF:-1,Mark Felt
-http://p4.giffy.be:8080/movie/toby1/toby1/35958.mp4
-#EXTINF:-1,Marshall
-http://p4.giffy.be:8080/movie/toby1/toby1/35959.mp4
-#EXTINF:-1,Maudie
-http://p4.giffy.be:8080/movie/toby1/toby1/35960.mp4
-#EXTINF:-1,Maya Dardel
-http://p4.giffy.be:8080/movie/toby1/toby1/35961.mp4
-#EXTINF:-1,Megan Leavey
-http://p4.giffy.be:8080/movie/toby1/toby1/35962.mp4
-#EXTINF:-1,Menashe
-http://p4.giffy.be:8080/movie/toby1/toby1/35963.mp4
-#EXTINF:-1,Most Beautiful Island
-http://p4.giffy.be:8080/movie/toby1/toby1/35964.mp4
-#EXTINF:-1,Mudbound
-http://p4.giffy.be:8080/movie/toby1/toby1/35965.mp4
-#EXTINF:-1,My Cousin Rachel
-http://p4.giffy.be:8080/movie/toby1/toby1/35966.mp4
-#EXTINF:-1,Naked
-http://p4.giffy.be:8080/movie/toby1/toby1/35967.mp4
-#EXTINF:-1,November Criminals
-http://p4.giffy.be:8080/movie/toby1/toby1/35970.mp4
-#EXTINF:-1,Okja
-http://p4.giffy.be:8080/movie/toby1/toby1/35971.mp4
-#EXTINF:-1,Once Upon A Time In Venice
-http://p4.giffy.be:8080/movie/toby1/toby1/35972.mp4
-#EXTINF:-1,Only The Brave
-http://p4.giffy.be:8080/movie/toby1/toby1/35973.mp4
-#EXTINF:-1,Our Souls At Night
-http://p4.giffy.be:8080/movie/toby1/toby1/35974.mp4
-#EXTINF:-1,Patti Cake
-http://p4.giffy.be:8080/movie/toby1/toby1/35975.mp4
-#EXTINF:-1,Permanent
-http://p4.giffy.be:8080/movie/toby1/toby1/35976.mp4
-#EXTINF:-1,Person To Person
-http://p4.giffy.be:8080/movie/toby1/toby1/35977.mp4
-#EXTINF:-1,Pilgrimage
-http://p4.giffy.be:8080/movie/toby1/toby1/35978.mp4
-#EXTINF:-1,Pirates Of The Caribbean Dead Men Tell No Tales
-http://p4.giffy.be:8080/movie/toby1/toby1/35979.mp4
-#EXTINF:-1,Pokémon The Movie I Choose You!
-http://p4.giffy.be:8080/movie/toby1/toby1/35980.mp4
-#EXTINF:-1,Pray For Rain 2017
-http://p4.giffy.be:8080/movie/toby1/toby1/35982.mp4
-#EXTINF:-1,Pray For Rain
-http://p4.giffy.be:8080/movie/toby1/toby1/35981.mp4
-#EXTINF:-1,Professor Marston And The Wonder Women 2017
-http://p4.giffy.be:8080/movie/toby1/toby1/35983.mp4
-#EXTINF:-1,Random Tropical Paradise 2017
-http://p4.giffy.be:8080/movie/toby1/toby1/35984.mp4
-#EXTINF:-1,Rebel In The Rye 2017
-http://p4.giffy.be:8080/movie/toby1/toby1/35985.mp4
-#EXTINF:-1,Rememory 2017
-http://p4.giffy.be:8080/movie/toby1/toby1/35986.mp4
-#EXTINF:-1,Resident Evil Vendetta 2017
-http://p4.giffy.be:8080/movie/toby1/toby1/35987.mp4
-#EXTINF:-1,Revolt 2017
-http://p4.giffy.be:8080/movie/toby1/toby1/35988.mp4
-#EXTINF:-1,Ripped 2017
-http://p4.giffy.be:8080/movie/toby1/toby1/35989.mp4
-#EXTINF:-1,Rough Night 2017
-http://p4.giffy.be:8080/movie/toby1/toby1/35990.mp4
-#EXTINF:-1,Running Wild 2017
-http://p4.giffy.be:8080/movie/toby1/toby1/35991.mp4
-#EXTINF:-1,Same Kind Of Different As Me 2017
-http://p4.giffy.be:8080/movie/toby1/toby1/35992.mp4
-#EXTINF:-1,Savage Dog 2017
-http://p4.giffy.be:8080/movie/toby1/toby1/35994.mp4
-#EXTINF:-1,Science Fiction Volume One The Osiris Child
-http://p4.giffy.be:8080/movie/toby1/toby1/35995.mp4
-#EXTINF:-1,Shot Caller 2017
-http://p4.giffy.be:8080/movie/toby1/toby1/35996.mp4
-#EXTINF:-1,Sleight 2016
-http://p4.giffy.be:8080/movie/toby1/toby1/35998.mp4
-#EXTINF:-1,Snatched 2017
-http://p4.giffy.be:8080/movie/toby1/toby1/35999.mp4
-#EXTINF:-1,Song To Song
-http://p4.giffy.be:8080/movie/toby1/toby1/36000.mp4
-#EXTINF:-1,Spider-man Homecoming
-http://p4.giffy.be:8080/movie/toby1/toby1/36001.mp4
-#EXTINF:-1,Split 2016 
-http://p4.giffy.be:8080/movie/toby1/toby1/36002.mp4
-#EXTINF:-1,Starship Troopers Traitor Of Mars
-http://p4.giffy.be:8080/movie/toby1/toby1/36003.mp4
-#EXTINF:-1,Suburbicon 2017
-http://p4.giffy.be:8080/movie/toby1/toby1/36005.mp4
-#EXTINF:-1,Super Dark Times 2017
-http://p4.giffy.be:8080/movie/toby1/toby1/36006.mp4
-#EXTINF:-1,Sweet Virginia 2017
-http://p4.giffy.be:8080/movie/toby1/toby1/36007.mp4
-#EXTINF:-1,Swing Away 2016
-http://p4.giffy.be:8080/movie/toby1/toby1/36008.mp4
-#EXTINF:-1,T2 Trainspotting 2017
-http://p4.giffy.be:8080/movie/toby1/toby1/36009.mp4
-#EXTINF:-1,Take Me 2017
-http://p4.giffy.be:8080/movie/toby1/toby1/36010.mp4
-#EXTINF:-1,Thank You For Your Service 2017
-http://p4.giffy.be:8080/movie/toby1/toby1/36011.mp4
-#EXTINF:-1,The Axe Murders Of Villisca
-http://p4.giffy.be:8080/movie/toby1/toby1/36012.mp4
-#EXTINF:-1,The Babysitter 2017
-http://p4.giffy.be:8080/movie/toby1/toby1/36013.mp4
-#EXTINF:-1,The Bad Batch
-http://p4.giffy.be:8080/movie/toby1/toby1/36014.mp4
-#EXTINF:-1,The Beguiled 2017
-http://p4.giffy.be:8080/movie/toby1/toby1/36016.mp4
-#EXTINF:-1,The Big Sick
-http://p4.giffy.be:8080/movie/toby1/toby1/36017.mp4
-#EXTINF:-1,The Book Of Henry 2017
-http://p4.giffy.be:8080/movie/toby1/toby1/36018.mp4
-#EXTINF:-1,The Book Of Love
-http://p4.giffy.be:8080/movie/toby1/toby1/36019.mp4
-#EXTINF:-1,The Bye Bye Man 2017
-http://p4.giffy.be:8080/movie/toby1/toby1/36020.mp4
-#EXTINF:-1,The Case For Christ 2017
-http://p4.giffy.be:8080/movie/toby1/toby1/36021.mp4
-#EXTINF:-1,The Dark Tower 2017
-http://p4.giffy.be:8080/movie/toby1/toby1/36022.mp4
-#EXTINF:-1,The Dinner 2017
-http://p4.giffy.be:8080/movie/toby1/toby1/36023.mp4
-#EXTINF:-1,The Discovery 2017
-http://p4.giffy.be:8080/movie/toby1/toby1/36024.mp4
-#EXTINF:-1,The Emoji Movie 2017
-http://p4.giffy.be:8080/movie/toby1/toby1/36025.mp4
-#EXTINF:-1,The Foreigner 2017
-http://p4.giffy.be:8080/movie/toby1/toby1/36026.mp4
-#EXTINF:-1,The Glass Castle 2017
-http://p4.giffy.be:8080/movie/toby1/toby1/36027.mp4
-#EXTINF:-1,The Good Catholic 2017
-http://p4.giffy.be:8080/movie/toby1/toby1/36028.mp4
-#EXTINF:-1,The Gracefield Incident 2017
-http://p4.giffy.be:8080/movie/toby1/toby1/36029.mp4
-#EXTINF:-1,The Hero 2017
-http://p4.giffy.be:8080/movie/toby1/toby1/36030.mp4
-#EXTINF:-1,The Houses October Built 2
-http://p4.giffy.be:8080/movie/toby1/toby1/36031.mp4
-#EXTINF:-1,The Killing Of A Sacred Deer 2017
-http://p4.giffy.be:8080/movie/toby1/toby1/36033.mp4
-#EXTINF:-1,The Last Word 2017
-http://p4.giffy.be:8080/movie/toby1/toby1/36035.mp4
-#EXTINF:-1,The Layover 2017
-http://p4.giffy.be:8080/movie/toby1/toby1/36036.mp4
-#EXTINF:-1,The Lego Batman Movie 2017
-http://p4.giffy.be:8080/movie/toby1/toby1/36037.mp4
-#EXTINF:-1,The Lego Ninjago Movie 2017
-http://p4.giffy.be:8080/movie/toby1/toby1/36034.mp4
-#EXTINF:-1,The Light Of The Moon 2017
-http://p4.giffy.be:8080/movie/toby1/toby1/36038.mp4
-#EXTINF:-1,The Little Hours 2017
-http://p4.giffy.be:8080/movie/toby1/toby1/36039.mp4
-#EXTINF:-1,The Lovers 2017
-http://p4.giffy.be:8080/movie/toby1/toby1/36040.mp4
-#EXTINF:-1,The Mountain Between Us 2017
-http://p4.giffy.be:8080/movie/toby1/toby1/36041.mp4
-#EXTINF:-1,The Mummy 2017
-http://p4.giffy.be:8080/movie/toby1/toby1/36042.mp4
-#EXTINF:-1,The Nut Job 2 Nutty By Nature 2017
-http://p4.giffy.be:8080/movie/toby1/toby1/36043.mp4
-#EXTINF:-1,The Ottoman Lieutenant 2017
-http://p4.giffy.be:8080/movie/toby1/toby1/36045.mp4
-#EXTINF:-1,The Recall 2017
-http://p4.giffy.be:8080/movie/toby1/toby1/36046.mp4
-#EXTINF:-1,The Tribes Of Palos Verdes 2017
-http://p4.giffy.be:8080/movie/toby1/toby1/36052.mp4
-#EXTINF:-1,The Ballad Of Lefty Brown 2017
-http://p4.giffy.be:8080/movie/toby1/toby1/36015.mp4
-#EXTINF:-1,The Hunter
-http://p4.giffy.be:8080/movie/toby1/toby1/36032.mp4
-#EXTINF:-1,The Only Living Boy In New York 2017
-http://p4.giffy.be:8080/movie/toby1/toby1/36044.mp4
-#EXTINF:-1,The Sense Of An Ending 2017
-http://p4.giffy.be:8080/movie/toby1/toby1/36047.mp4
-#EXTINF:-1,The Shack 2017
-http://p4.giffy.be:8080/movie/toby1/toby1/36048.mp4
-#EXTINF:-1,The Show 2017
-http://p4.giffy.be:8080/movie/toby1/toby1/36049.mp4
-#EXTINF:-1,The Snowman 2017
-http://p4.giffy.be:8080/movie/toby1/toby1/36050.mp4
-#EXTINF:-1,The Transfiguration
-http://p4.giffy.be:8080/movie/toby1/toby1/36051.mp4
-#EXTINF:-1, Daniel Blake 2016
-http://p4.giffy.be:8080/movie/toby1/toby1/36094.mp4
-#EXTINF:-1,/lavender 2016 
-http://p4.giffy.be:8080/movie/toby1/toby1/36090.mp4
-#EXTINF:-1,100 Streets 2016 
-http://p4.giffy.be:8080/movie/toby1/toby1/36113.mp4
-#EXTINF:-1,20th Century Women 2016 
-http://p4.giffy.be:8080/movie/toby1/toby1/36112.mp4
-#EXTINF:-1,A Monster Calls 2016
-http://p4.giffy.be:8080/movie/toby1/toby1/36110.mp4
-#EXTINF:-1,A Quiet Passion 2016
-http://p4.giffy.be:8080/movie/toby1/toby1/36109.mp4
-#EXTINF:-1,A United Kingdom
-http://p4.giffy.be:8080/movie/toby1/toby1/36108.mp4
-#EXTINF:-1,Absolutely Anything 2015
-http://p4.giffy.be:8080/movie/toby1/toby1/36119.mp4
-#EXTINF:-1,Alone In Berlin 2016
-http://p4.giffy.be:8080/movie/toby1/toby1/36107.mp4
-#EXTINF:-1,Ballerina 2016
-http://p4.giffy.be:8080/movie/toby1/toby1/36106.mp4
-#EXTINF:-1,Between Us 2016
-http://p4.giffy.be:8080/movie/toby1/toby1/36105.mp4
-#EXTINF:-1,Black Rose 2014
-http://p4.giffy.be:8080/movie/toby1/toby1/36120.mp4
-#EXTINF:-1,Born In China 2016
-http://p4.giffy.be:8080/movie/toby1/toby1/36104.mp4
-#EXTINF:-1,Bornless Ones 2016
-http://p4.giffy.be:8080/movie/toby1/toby1/36103.mp4
-#EXTINF:-1,Close Encounters Of The Third Kind 1977
-http://p4.giffy.be:8080/movie/toby1/toby1/36123.mp4
-#EXTINF:-1,Collide 2016
-http://p4.giffy.be:8080/movie/toby1/toby1/36102.mp4
-#EXTINF:-1,Dark Signal 2016
-http://p4.giffy.be:8080/movie/toby1/toby1/36101.mp4
-#EXTINF:-1,Enter The Warriors Gate 2016
-http://p4.giffy.be:8080/movie/toby1/toby1/36100.mp4
-#EXTINF:-1,Fallen 2016 
-http://p4.giffy.be:8080/movie/toby1/toby1/36099.mp4
-#EXTINF:-1,Generations 2015
-http://p4.giffy.be:8080/movie/toby1/toby1/36111.mp4
-#EXTINF:-1,Gold 2016 
-http://p4.giffy.be:8080/movie/toby1/toby1/36098.mp4
-#EXTINF:-1,Havenhurst 2016
-http://p4.giffy.be:8080/movie/toby1/toby1/36097.mp4
-#EXTINF:-1,Here Alone 2016
-http://p4.giffy.be:8080/movie/toby1/toby1/36096.mp4
-#EXTINF:-1,Hidden Figures 2016
-http://p4.giffy.be:8080/movie/toby1/toby1/36095.mp4
-#EXTINF:-1,Imperfections 2016 
-http://p4.giffy.be:8080/movie/toby1/toby1/36093.mp4
-#EXTINF:-1,Infinity Chamber 2016
-http://p4.giffy.be:8080/movie/toby1/toby1/36092.mp4
-#EXTINF:-1,Jeremiah Tower The Last Magnificent 2016
-http://p4.giffy.be:8080/movie/toby1/toby1/36091.mp4
-#EXTINF:-1,Leap Year 2010
-http://p4.giffy.be:8080/movie/toby1/toby1/36122.mp4
-#EXTINF:-1,Little Murder
-http://p4.giffy.be:8080/movie/toby1/toby1/36121.mp4
-#EXTINF:-1,Live By Night 2016
-http://p4.giffy.be:8080/movie/toby1/toby1/36088.mp4
-#EXTINF:-1,Live Cargo 2016
-http://p4.giffy.be:8080/movie/toby1/toby1/36089.mp4
-#EXTINF:-1,Manifesto 2015 
-http://p4.giffy.be:8080/movie/toby1/toby1/36117.mp4
-#EXTINF:-1,Mean Dreams 2016
-http://p4.giffy.be:8080/movie/toby1/toby1/36087.mp4
-#EXTINF:-1,Mine 2016
-http://p4.giffy.be:8080/movie/toby1/toby1/36086.mp4
-#EXTINF:-1,Moana 2016
-http://p4.giffy.be:8080/movie/toby1/toby1/36085.mp4
-#EXTINF:-1,Mune Guardian Of The Moon 2014
-http://p4.giffy.be:8080/movie/toby1/toby1/36116.mp4
-#EXTINF:-1,My Scientology Movie
-http://p4.giffy.be:8080/movie/toby1/toby1/36083.mp4
-#EXTINF:-1,Night School 2016
-http://p4.giffy.be:8080/movie/toby1/toby1/36082.mp4
-#EXTINF:-1,Ozzy 2016
-http://p4.giffy.be:8080/movie/toby1/toby1/36081.mp4
-#EXTINF:-1,Paint It Black 2016 
-http://p4.giffy.be:8080/movie/toby1/toby1/36080.mp4
-#EXTINF:-1,Paris Can Wait 2016
-http://p4.giffy.be:8080/movie/toby1/toby1/36079.mp4
-#EXTINF:-1,Patriots Day 2016
-http://p4.giffy.be:8080/movie/toby1/toby1/36078.mp4
-#EXTINF:-1,Personal Shopper 2016
-http://p4.giffy.be:8080/movie/toby1/toby1/36077.mp4
-#EXTINF:-1,Queen Of The Desert 2015
-http://p4.giffy.be:8080/movie/toby1/toby1/36115.mp4
-#EXTINF:-1,Realive 2016
-http://p4.giffy.be:8080/movie/toby1/toby1/36076.mp4
-#EXTINF:-1,Red Christmas 2016
-http://p4.giffy.be:8080/movie/toby1/toby1/36075.mp4
-#EXTINF:-1,Resident Evil The Final Chapter 2016
-http://p4.giffy.be:8080/movie/toby1/toby1/36074.mp4
-#EXTINF:-1,Rock Dog 2016
-http://p4.giffy.be:8080/movie/toby1/toby1/36073.mp4
-#EXTINF:-1,Salt And Fire 2016
-http://p4.giffy.be:8080/movie/toby1/toby1/36072.mp4
-#EXTINF:-1,Second Nature 2016 
-http://p4.giffy.be:8080/movie/toby1/toby1/36071.mp4
-#EXTINF:-1,Silence 2016 
-http://p4.giffy.be:8080/movie/toby1/toby1/36070.mp4
-#EXTINF:-1,Sophie And The Rising Sun 2016 
-http://p4.giffy.be:8080/movie/toby1/toby1/36069.mp4
-#EXTINF:-1,Swallows And Amazons 2016 
-http://p4.giffy.be:8080/movie/toby1/toby1/36068.mp4
-#EXTINF:-1,The Belko Experiment 2016 
-http://p4.giffy.be:8080/movie/toby1/toby1/36067.mp4
-#EXTINF:-1,The Black Room 2016
-http://p4.giffy.be:8080/movie/toby1/toby1/36066.mp4
-#EXTINF:-1,The Comedian 2016
-http://p4.giffy.be:8080/movie/toby1/toby1/36065.mp4
-#EXTINF:-1,The Founder 2016
-http://p4.giffy.be:8080/movie/toby1/toby1/36064.mp4
-#EXTINF:-1,The Girl With All The Gifts 2016
-http://p4.giffy.be:8080/movie/toby1/toby1/36063.mp4
-#EXTINF:-1,The Great Wall 2016
-http://p4.giffy.be:8080/movie/toby1/toby1/36062.mp4
-#EXTINF:-1,The Last Face 2016 
-http://p4.giffy.be:8080/movie/toby1/toby1/36061.mp4
-#EXTINF:-1,The Possession Of Janet Moses 
-http://p4.giffy.be:8080/movie/toby1/toby1/36118.mp4
-#EXTINF:-1,The Promise 2016
-http://p4.giffy.be:8080/movie/toby1/toby1/36060.mp4
-#EXTINF:-1,The Salesman 2016
-http://p4.giffy.be:8080/movie/toby1/toby1/36059.mp4
-#EXTINF:-1,This Beautiful Fantastic 2016 
-http://p4.giffy.be:8080/movie/toby1/toby1/36058.mp4
-#EXTINF:-1,Top Cat Begins 2015
-http://p4.giffy.be:8080/movie/toby1/toby1/36114.mp4
-#EXTINF:-1,Trucks 2016
-http://p4.giffy.be:8080/movie/toby1/toby1/36084.mp4
-#EXTINF:-1,Underworld Blood Wars 2016 
-http://p4.giffy.be:8080/movie/toby1/toby1/36057.mp4
-#EXTINF:-1,Arrested Development S1 E01
-http://p4.giffy.be:8080/movie/toby1/toby1/36124.mp4
-#EXTINF:-1,Arrested Development S1 E02
-http://p4.giffy.be:8080/movie/toby1/toby1/36125.mp4
-#EXTINF:-1,Arrested Development S1 E03
-http://p4.giffy.be:8080/movie/toby1/toby1/36126.mp4
-#EXTINF:-1,Arrested Development S1 E04
-http://p4.giffy.be:8080/movie/toby1/toby1/36143.mp4
-#EXTINF:-1,Arrested Development S1 E05
-http://p4.giffy.be:8080/movie/toby1/toby1/36142.mp4
-#EXTINF:-1,Arrested Development S1 E06
-http://p4.giffy.be:8080/movie/toby1/toby1/36144.mp4
-#EXTINF:-1,Arrested Development S1 E07
-http://p4.giffy.be:8080/movie/toby1/toby1/36145.mp4
-#EXTINF:-1,Arrested Development S1 E08
-http://p4.giffy.be:8080/movie/toby1/toby1/36146.mp4
-#EXTINF:-1,Arrested Development S1 E09
-http://p4.giffy.be:8080/movie/toby1/toby1/36147.mp4
-#EXTINF:-1,Arrested Development S1 E10
-http://p4.giffy.be:8080/movie/toby1/toby1/36148.mp4
-#EXTINF:-1,Arrested Development S1 E11
-http://p4.giffy.be:8080/movie/toby1/toby1/36169.mp4
-#EXTINF:-1,Arrested Development S1 E12
-http://p4.giffy.be:8080/movie/toby1/toby1/36190.mp4
-#EXTINF:-1,Arrested Development S1 E13
-http://p4.giffy.be:8080/movie/toby1/toby1/36191.mp4
-#EXTINF:-1,Arrested Development S1 E14
-http://p4.giffy.be:8080/movie/toby1/toby1/36192.mp4
-#EXTINF:-1,Vincent N Roxxy
-http://p4.giffy.be:8080/movie/toby1/toby1/36056.mp4
-#EXTINF:-1,Wakefield 2016
-http://p4.giffy.be:8080/movie/toby1/toby1/36055.mp4
-#EXTINF:-1,Whisky Galore 2016 
-http://p4.giffy.be:8080/movie/toby1/toby1/36054.mp4
-#EXTINF:-1,Wolves 2016
-http://p4.giffy.be:8080/movie/toby1/toby1/36053.mp4
-#EXTINF:-1,Arrested Development S1 E15
-http://p4.giffy.be:8080/movie/toby1/toby1/36213.mp4
-#EXTINF:-1,Arrested Development S1 E16
-http://p4.giffy.be:8080/movie/toby1/toby1/36214.mp4
-#EXTINF:-1,Arrested Development S1 E17
-http://p4.giffy.be:8080/movie/toby1/toby1/36215.mp4
-#EXTINF:-1,Arrested Development S1 E18
-http://p4.giffy.be:8080/movie/toby1/toby1/36216.mp4
-#EXTINF:-1,Arrested Development S1 E19
-http://p4.giffy.be:8080/movie/toby1/toby1/36217.mp4
-#EXTINF:-1,Arrested Development S1 E21
-http://p4.giffy.be:8080/movie/toby1/toby1/36218.mp4
-#EXTINF:-1,Arrested Development S1 E22
-http://p4.giffy.be:8080/movie/toby1/toby1/36219.mp4
-#EXTINF:-1,Arrested Development S2 15
-http://p4.giffy.be:8080/movie/toby1/toby1/36233.mp4
-#EXTINF:-1,Arrested Development S2 E01
-http://p4.giffy.be:8080/movie/toby1/toby1/36220.mp4
-#EXTINF:-1,Arrested Development S2 E013
-http://p4.giffy.be:8080/movie/toby1/toby1/36231.mp4
-#EXTINF:-1,Arrested Development S2 E02
-http://p4.giffy.be:8080/movie/toby1/toby1/36221.mp4
-#EXTINF:-1,Arrested Development S2 E03
-http://p4.giffy.be:8080/movie/toby1/toby1/36222.mp4
-#EXTINF:-1,Arrested Development S2 E04
-http://p4.giffy.be:8080/movie/toby1/toby1/36223.mp4
-#EXTINF:-1,Arrested Development S2 E05
-http://p4.giffy.be:8080/movie/toby1/toby1/36224.mp4
-#EXTINF:-1,Arrested Development S2 E06
-http://p4.giffy.be:8080/movie/toby1/toby1/36225.mp4
-#EXTINF:-1,Arrested Development S2 E08
-http://p4.giffy.be:8080/movie/toby1/toby1/36226.mp4
-#EXTINF:-1,Arrested Development S2 E09
-http://p4.giffy.be:8080/movie/toby1/toby1/36227.mp4
-#EXTINF:-1,Arrested Development S2 E10
-http://p4.giffy.be:8080/movie/toby1/toby1/36228.mp4
-#EXTINF:-1,Arrested Development S2 E11
-http://p4.giffy.be:8080/movie/toby1/toby1/36229.mp4
-#EXTINF:-1,Arrested Development S2 E12
-http://p4.giffy.be:8080/movie/toby1/toby1/36230.mp4
-#EXTINF:-1,Arrested Development S2 E14
-http://p4.giffy.be:8080/movie/toby1/toby1/36232.mp4
-#EXTINF:-1,Arrested Development S2 E16
-http://p4.giffy.be:8080/movie/toby1/toby1/36234.mp4
-#EXTINF:-1,Arrested Development S2 E17
-http://p4.giffy.be:8080/movie/toby1/toby1/36235.mp4
-#EXTINF:-1,Arrested Development S2 E18
-http://p4.giffy.be:8080/movie/toby1/toby1/36236.mp4
-#EXTINF:-1,Arrested Development S3 E01
-http://p4.giffy.be:8080/movie/toby1/toby1/36237.mp4
-#EXTINF:-1,Arrested Development S3 E02
-http://p4.giffy.be:8080/movie/toby1/toby1/36238.mp4
-#EXTINF:-1,Arrested Development S3 E03
-http://p4.giffy.be:8080/movie/toby1/toby1/36239.mp4
-#EXTINF:-1,Arrested Development S3 E04
-http://p4.giffy.be:8080/movie/toby1/toby1/36240.mp4
-#EXTINF:-1,Arrested Development S3 E05
-http://p4.giffy.be:8080/movie/toby1/toby1/36241.mp4
-#EXTINF:-1,Arrested Development S3 E06
-http://p4.giffy.be:8080/movie/toby1/toby1/36242.mp4
-#EXTINF:-1,Arrested Development S3 E08
-http://p4.giffy.be:8080/movie/toby1/toby1/36243.mp4
-#EXTINF:-1,Arrested Development S3 E09
-http://p4.giffy.be:8080/movie/toby1/toby1/36244.mp4
-#EXTINF:-1,Arrested Development S3 E10
-http://p4.giffy.be:8080/movie/toby1/toby1/36245.mp4
-#EXTINF:-1,Arrested Development S3 E11
-http://p4.giffy.be:8080/movie/toby1/toby1/36246.mp4
-#EXTINF:-1,Arrested Development S3 E12
-http://p4.giffy.be:8080/movie/toby1/toby1/36247.mp4
-#EXTINF:-1,Arrested Development S3 E13
-http://p4.giffy.be:8080/movie/toby1/toby1/36248.mp4
-#EXTINF:-1,E! DC
-http://p4.giffy.be:8080/live/toby1/toby1/36260.ts
-#EXTINF:-1,RT DOC  DC
-http://p4.giffy.be:8080/live/toby1/toby1/36261.ts
-#EXTINF:-1,TBS DC
-http://p4.giffy.be:8080/live/toby1/toby1/36259.ts
-#EXTINF:-1,Ash Vs Evil Dead S1 E01
-http://p4.giffy.be:8080/movie/toby1/toby1/36249.mp4
-#EXTINF:-1,Ash Vs Evil Dead S1 E02
-http://p4.giffy.be:8080/movie/toby1/toby1/36250.mp4
-#EXTINF:-1,Ash Vs Evil Dead S1 E03
-http://p4.giffy.be:8080/movie/toby1/toby1/36251.mp4
-#EXTINF:-1,Ash Vs Evil Dead S1 E04
-http://p4.giffy.be:8080/movie/toby1/toby1/36252.mp4
-#EXTINF:-1,Ash Vs Evil Dead S1 E05
-http://p4.giffy.be:8080/movie/toby1/toby1/36253.mp4
-#EXTINF:-1,Ash Vs Evil Dead S1 E06
-http://p4.giffy.be:8080/movie/toby1/toby1/36254.mp4
-#EXTINF:-1,Ash Vs Evil Dead S1 E07
-http://p4.giffy.be:8080/movie/toby1/toby1/36255.mp4
-#EXTINF:-1,Ash Vs Evil Dead S1 E08
-http://p4.giffy.be:8080/movie/toby1/toby1/36256.mp4
-#EXTINF:-1,Ash Vs Evil Dead S1 E09
-http://p4.giffy.be:8080/movie/toby1/toby1/36257.mp4
-#EXTINF:-1,Ash Vs Evil Dead S1 E10
-http://p4.giffy.be:8080/movie/toby1/toby1/36258.mp4
-#EXTINF:-1,Ash Vs Evil Dead S E01
-http://p4.giffy.be:8080/movie/toby1/toby1/36274.mp4
-#EXTINF:-1,Ash Vs Evil Dead S2 E03
-http://p4.giffy.be:8080/movie/toby1/toby1/36276.mp4
-#EXTINF:-1,Ash Vs Evil Dead S2 E04
-http://p4.giffy.be:8080/movie/toby1/toby1/36277.mp4
-#EXTINF:-1,Ash Vs Evil Dead S2 E05
-http://p4.giffy.be:8080/movie/toby1/toby1/36278.mp4
-#EXTINF:-1,Ash Vs Evil Dead S2 E06
-http://p4.giffy.be:8080/movie/toby1/toby1/36279.mp4
-#EXTINF:-1,Ash Vs Evil Dead S2 E07
-http://p4.giffy.be:8080/movie/toby1/toby1/36280.mp4
-#EXTINF:-1,Ash Vs Evil Dead S2 E08
-http://p4.giffy.be:8080/movie/toby1/toby1/36281.mp4
-#EXTINF:-1,Ash Vs Evil Dead S2 E09
-http://p4.giffy.be:8080/movie/toby1/toby1/36282.mp4
-#EXTINF:-1,Ash Vs Evil Dead S2 E10
-http://p4.giffy.be:8080/movie/toby1/toby1/36283.mp4
-#EXTINF:-1,Ash Vs Evil Dead S2 E02
-http://p4.giffy.be:8080/movie/toby1/toby1/36275.mp4
-#EXTINF:-1,Atlanta S1 E01
-http://p4.giffy.be:8080/movie/toby1/toby1/36284.mp4
-#EXTINF:-1,Atlanta S1 E02
-http://p4.giffy.be:8080/movie/toby1/toby1/36285.mp4
-#EXTINF:-1,Atlanta S1 E03
-http://p4.giffy.be:8080/movie/toby1/toby1/36286.mp4
-#EXTINF:-1,Atlanta S1 E04
-http://p4.giffy.be:8080/movie/toby1/toby1/36287.mp4
-#EXTINF:-1,Atlanta S1 E06
-http://p4.giffy.be:8080/movie/toby1/toby1/36288.mp4
-#EXTINF:-1,Atlanta S1 E07
-http://p4.giffy.be:8080/movie/toby1/toby1/36289.mp4
-#EXTINF:-1,Atlanta S1 E08
-http://p4.giffy.be:8080/movie/toby1/toby1/36290.mp4
-#EXTINF:-1,Atlanta S1 E09
-http://p4.giffy.be:8080/movie/toby1/toby1/36291.mp4
-#EXTINF:-1,Atlanta S1 E10
-http://p4.giffy.be:8080/movie/toby1/toby1/36292.mp4
-#EXTINF:-1,Backstage S1 E01
-http://p4.giffy.be:8080/movie/toby1/toby1/36293.mp4
-#EXTINF:-1,Backstage S1 E02
-http://p4.giffy.be:8080/movie/toby1/toby1/36294.mp4
-#EXTINF:-1,Backstage S1 E03
-http://p4.giffy.be:8080/movie/toby1/toby1/36295.mp4
-#EXTINF:-1,Backstage S1 E04
-http://p4.giffy.be:8080/movie/toby1/toby1/36296.mp4
-#EXTINF:-1,Backstage S1 E05
-http://p4.giffy.be:8080/movie/toby1/toby1/36297.mp4
-#EXTINF:-1,Backstage S1 E06
-http://p4.giffy.be:8080/movie/toby1/toby1/36326.mp4
-#EXTINF:-1,Backstage S1 E07
-http://p4.giffy.be:8080/movie/toby1/toby1/36327.mp4
-#EXTINF:-1,Backstage S1 E08
-http://p4.giffy.be:8080/movie/toby1/toby1/36328.mp4
-#EXTINF:-1,Backstage S1 E09
-http://p4.giffy.be:8080/movie/toby1/toby1/36329.mp4
-#EXTINF:-1,Backstage S1 E10
-http://p4.giffy.be:8080/movie/toby1/toby1/36330.mp4
-#EXTINF:-1,Backstage S1 E11
-http://p4.giffy.be:8080/movie/toby1/toby1/36331.mp4
-#EXTINF:-1,Backstage S1 E12
-http://p4.giffy.be:8080/movie/toby1/toby1/36332.mp4
-
-#EXTINF:-1,PT | FTV
-http://p4.giffy.be:8080/live/toby1/toby1/36441.ts
-#EXTINF:-1,PT | SPORT TV
-http://p4.giffy.be:8080/live/toby1/toby1/36407.ts
-#EXTINF:-1,PT | Sport TV 1 HD
-http://p4.giffy.be:8080/live/toby1/toby1/36406.ts
-#EXTINF:-1,PT | Sport TV 2 HD
-http://p4.giffy.be:8080/live/toby1/toby1/36405.ts
-#EXTINF:-1,PT | Sport TV 3 HD
-http://p4.giffy.be:8080/live/toby1/toby1/36404.ts
-#EXTINF:-1,PT | Sport TV 4
-http://p4.giffy.be:8080/live/toby1/toby1/36403.ts
-#EXTINF:-1,PT | Sport TV 5
-http://p4.giffy.be:8080/live/toby1/toby1/36402.ts
-#EXTINF:-1,PT | Sporting TV
-http://p4.giffy.be:8080/live/toby1/toby1/36401.ts
-#EXTINF:-1,PT | TV5 Monde
-http://p4.giffy.be:8080/live/toby1/toby1/36393.ts
-#EXTINF:-1,PT | Venus
-http://p4.giffy.be:8080/live/toby1/toby1/36382.ts
-#EXTINF:-1,PT | Playboy TV
-http://p4.giffy.be:8080/live/toby1/toby1/36422.ts
-#EXTINF:-1,PT | Hot
-http://p4.giffy.be:8080/live/toby1/toby1/36435.ts
-#EXTINF:-1,XXX: Babes 1
-http://p4.giffy.be:8080/live/toby1/toby1/32342.ts
-#EXTINF:-1,XXX: Babes 18
-http://p4.giffy.be:8080/live/toby1/toby1/32333.ts
-#EXTINF:-1,XXX: Babes 3
-http://p4.giffy.be:8080/live/toby1/toby1/32340.ts
-#EXTINF:-1,XXX: Babes 4
-http://p4.giffy.be:8080/live/toby1/toby1/32339.ts
-#EXTINF:-1,XXX: Babes 5
-http://p4.giffy.be:8080/live/toby1/toby1/32338.ts
-#EXTINF:-1,XXX: Babes 6
-http://p4.giffy.be:8080/live/toby1/toby1/32337.ts
-#EXTINF:-1,XXX: Babes 8
-http://p4.giffy.be:8080/live/toby1/toby1/32335.ts
-#EXTINF:-1,XXX: Babes 9
-http://p4.giffy.be:8080/live/toby1/toby1/32334.ts
-#EXTINF:-1,XXX: BRAZZERS TV EUROPE
-http://p4.giffy.be:8080/live/toby1/toby1/32326.ts
-#EXTINF:-1,XXX: CHANNEL X 1
-http://p4.giffy.be:8080/live/toby1/toby1/32332.ts
-#EXTINF:-1,XXX: DAUGHTER SWAP
-http://p4.giffy.be:8080/live/toby1/toby1/32331.ts
-#EXTINF:-1,XXX: DORCEL
-http://p4.giffy.be:8080/live/toby1/toby1/32329.ts
-#EXTINF:-1,XXX: MIAMI TV
-http://p4.giffy.be:8080/live/toby1/toby1/32328.ts
-#EXTINF:-1,XXX: Penthouse
-http://p4.giffy.be:8080/live/toby1/toby1/32327.ts
-#EXTINF:-1,XXX: SUPERONE
-http://p4.giffy.be:8080/live/toby1/toby1/32330.ts
-#EXTINF:-1,CA | SHOWCASE
-http://p4.giffy.be:8080/live/toby1/toby1/32499.ts
-#EXTINF:-1,XXX DUSK
-http://p4.giffy.be:8080/live/toby1/toby1/35141.ts
-#EXTINF:-1,XXX EROTIC 2
-http://p4.giffy.be:8080/live/toby1/toby1/35138.ts
-#EXTINF:-1,XXX HOT
-http://p4.giffy.be:8080/live/toby1/toby1/35139.ts
-#EXTINF:-1,XXX PLAYBOY 2
-http://p4.giffy.be:8080/live/toby1/toby1/35140.ts
-
-#EXTINF:-1,PLAYBOY
-http://p4.giffy.be:8080/live/toby1/toby1/28400.ts
-#EXTINF:-1,REDHOT
-http://p4.giffy.be:8080/live/toby1/toby1/28399.ts
-#EXTINF:-1,VIVID
-http://p4.giffy.be:8080/live/toby1/toby1/28397.ts
-
+#EXTINF:-1, tvg id="GameShowNetwork.ca" tvg name="US | GSN HD" tvg logo="https://s3.amazonaws.com/rsicons/gsn logo.png" group title="USA"US | GSN HD  IPTVultra.com [1920x1088]
+http://p4.giffy.be:8080/live/f1/f1/23305.ts
+#EXTINF:-1,US | IFC HD  IPTVultra.com [1920x1088]
+http://p4.giffy.be:8080/live/aman1/aman1/20960.ts
+#EXTINF:-1,US | CW11  IPTVultra.com [1920x1088]
+http://p4.giffy.be:8080/live/aman1/aman1/20984.ts
+#EXTINF:-1,US | FOOD NETWORK HD  IPTVultra.com [1280x720]
+http://p4.giffy.be:8080/live/aman1/aman1/21142.ts
+#EXTINF:-1,US | HALLMARK HD  IPTVultra.com [1280x720]
+http://p4.giffy.be:8080/live/aman1/aman1/29987.ts
+#EXTINF:-1,US | DISCOVERY SCIENCE HD  IPTVultra.com [1920x1088]
+http://p4.giffy.be:8080/live/aman1/aman1/20935.ts
+#EXTINF:-1,US | LIFETIME MOVIES HD  IPTVultra.com [704x480]
+http://p4.giffy.be:8080/live/aman1/aman1/20914.ts
+#EXTINF:-1,US | OWN HD  IPTVultra.com [1280x720]
+http://p4.giffy.be:8080/live/aman1/aman1/20979.ts
+#EXTINF:-1,US | PBS EAST  IPTVultra.com [704x480]
+http://p4.giffy.be:8080/live/aman1/aman1/26548.ts
+#EXTINF:-1,US | TBS HD  IPTVultra.com [640x368]
+http://p4.giffy.be:8080/live/aman1/aman1/20987.ts
+#EXTINF:-1,US | NAT GEO HD  IPTVultra.com [720x576]
+http://p4.giffy.be:8080/live/aman1/aman1/20982.ts
+#EXTINF:-1,US | NAT GEO WILD HD  IPTVultra.com [1280x720]
+http://p4.giffy.be:8080/live/aman1/aman1/20981.ts
+#EXTINF:-1,US | SPIKE HD  IPTVultra.com [1920x1088]
+http://p4.giffy.be:8080/live/aman1/aman1/20943.ts
+#EXTINF:-1,US | SYFY HD  IPTVultra.com [1024x576]
+http://p4.giffy.be:8080/live/aman1/aman1/20909.ts
+#EXTINF:-1,US | TLC  IPTVultra.com [1280x720]
+http://p4.giffy.be:8080/live/aman1/aman1/26543.ts
+#EXTINF:-1,US | WEATHER HD  IPTVultra.com [1280x720]
+http://p4.giffy.be:8080/live/aaaa/aaaa/23193.ts
+#EXTINF:-1,US | USA NETWORK HD  IPTVultra.com [1280x720]
+http://p4.giffy.be:8080/live/aman1/aman1/20944.ts
+#EXTINF:-1,US | STARZ CINEMA HD  IPTVultra.com [1232x624]
+http://p4.giffy.be:8080/live/aman1/aman1/21460.ts
+#EXTINF:-1,US | CNN HD  IPTVultra.com [1280x720]
+http://p4.giffy.be:8080/live/aman1/aman1/29026.ts
+#EXTINF:-1,US | TRAVEL HD  IPTVultra.com [1920x1088]
+http://p4.giffy.be:8080/live/aman1/aman1/26545.ts
+#EXTINF:-1,US | BLOOMBERG  IPTVultra.com [1280x720]
+http://p4.giffy.be:8080/live/aman1/aman1/27538.ts
+#EXTINF:-1,US | CNBC HD  IPTVultra.com [1280x720]
+http://p4.giffy.be:8080/live/aman1/aman1/28303.ts
+#EXTINF:-1, tvg id="EEntertainment.ca" tvg name="US | E! HD" tvg logo="https://s3.amazonaws.com/stricons/EEntertainment.ca.png" group title="USA"US | E! HD  IPTVultra.com [1280x720]
+http://p4.giffy.be:8080/live/f1/f1/20704.ts
+#EXTINF:-1, tvg id="DestinationAmerica.us" tvg name="US | DESTINATION AMERICA HD" tvg logo="https://s3.amazonaws.com/stricons/DestinationAmerica.us.png" group title="USA"US | DESTINATION AMERICA HD  IPTVultra.com [1920x1088]
+http://p4.giffy.be:8080/live/f1/f1/26546.ts
+#EXTINF:-1, tvg id="Hallmark.us" tvg name="US | HALLMARK MOVIES HD" tvg logo="https://s3.amazonaws.com/shresized/eng sport/hallmark channel east.jpg" group title="USA"US | HALLMARK MOVIES HD  IPTVultra.com [1920x1088]
+http://p4.giffy.be:8080/live/f1/f1/20966.ts
+#EXTINF:-1,RUS: VIASAT SPORT EAST  IPTVultra.com [720x576]
+http://p4.giffy.be:8080/live/aman1/aman1/26583.ts
+#EXTINF:-1,RUS: MATCH GAME  IPTVultra.com [720x576]
+http://p4.giffy.be:8080/live/aman1/aman1/26571.ts
+#EXTINF:-1,RUS: MATCH FUTBOL 3 HD  IPTVultra.com [720x576]
+http://p4.giffy.be:8080/live/aman1/aman1/26593.ts
+#EXTINF:-1,RUS: MATCH FUTBOL 2 HD  IPTVultra.com [720x576]
+http://p4.giffy.be:8080/live/aman1/aman1/26594.ts
+#EXTINF:-1, tvg id="" tvg name="RUS: MATCH SPORTS" tvg logo="https://s3.amazonaws.com/rsicons/MATCH%20PLANET.png" group title="RUSSIA / UKRAINE"RUS: MATCH SPORTS  IPTVultra.com [1280x720]
+http://p4.giffy.be:8080/live/f1/f1/26596.ts
+#EXTINF:-1, tvg id="" tvg name="RUS: BOXE TB" tvg logo="" group title="RUSSIA / UKRAINE"RUS: BOXE TB  IPTVultra.com [1280x720]
+http://p4.giffy.be:8080/live/f1/f1/26584.ts
+#EXTINF:-1,RUS: MATCH PLANET  IPTVultra.com [720x576]
+http://p4.giffy.be:8080/live/aman1/aman1/26586.ts
+#EXTINF:-1,RUS: XTREAM SPORTS  IPTVultra.com [720x576]
+http://p4.giffy.be:8080/live/aman1/aman1/26582.ts
+#EXTINF:-1, tvg id="" tvg name="RUS: RUSSIA LEAGUE HD" tvg logo="https://s3.amazonaws.com/shresized/russian/russian+match+game.jpg" group title="RUSSIA / UKRAINE"RUS: RUSSIA LEAGUE HD  IPTVultra.com [1280x720]
+http://p4.giffy.be:8080/live/f1/f1/26591.ts
+#EXTINF:-1, tvg id="" tvg name="RUS: MATCH FUTBOL 1 HD" tvg logo="https://s3.amazonaws.com/rsicons/MATCH%20FUTBOL%201%20HD.jpg" group title="RUSSIA / UKRAINE"RUS: MATCH FUTBOL 1 HD  IPTVultra.com [1280x720]
+http://p4.giffy.be:8080/live/f1/f1/26595.ts
+#EXTINF:-1, tvg id="" tvg name="RUS: RUSSIA 1 HD" tvg logo="https://s3.amazonaws.com/rsicons/RUSSIA%201%20HD.png" group title="RUSSIA / UKRAINE"RUS: RUSSIA 1 HD  IPTVultra.com [1280x720]
+http://p4.giffy.be:8080/live/f1/f1/26575.ts
+#EXTINF:-1, tvg id="" tvg name="RUS: MATCH TV" tvg logo="https://s3.amazonaws.com/rsicons/MATCH%20PLANET.png" group title="RUSSIA / UKRAINE"RUS: MATCH TV  IPTVultra.com [1280x720]
+http://p4.giffy.be:8080/live/f1/f1/26597.ts
+#EXTINF:-1, tvg id="" tvg name="RUS: MATCH OUR SPORTS" tvg logo="https://s3.amazonaws.com/rsicons/MATCH%20OUR%20SPORTS.jpg" group title="RUSSIA / UKRAINE"RUS: MATCH OUR SPORTS  IPTVultra.com [1280x720]
+http://p4.giffy.be:8080/live/f1/f1/26585.ts
+#EXTINF:-1, tvg id="" tvg name="RUS: MATCH APEHA HD" tvg logo="https://s3.amazonaws.com/rsicons/MATCH%20APEHA%20HD.png" group title="RUSSIA / UKRAINE"RUS: MATCH APEHA HD  IPTVultra.com [1280x720]
+http://p4.giffy.be:8080/live/f1/f1/26592.ts
+#EXTINF:-1,US | HISTORY  IPTVultra.com [1920x1088]
+http://p4.giffy.be:8080/live/aman1/aman1/28580.ts
+#EXTINF:-1,US | CBS EAST.  IPTVultra.com [720x576]
+http://p4.giffy.be:8080/live/aman1/aman1/28647.ts
+#EXTINF:-1,US | SHOWTIME SHOWCASE  IPTVultra.com [1920x1088]
+http://p4.giffy.be:8080/live/aman1/aman1/28573.ts
+#EXTINF:-1,US | ABC NEWS.  IPTVultra.com [640x368]
+http://p4.giffy.be:8080/live/aman1/aman1/28649.ts
+#EXTINF:-1,US | AMC  IPTVultra.com [1920x1088]
+http://p4.giffy.be:8080/live/aman1/aman1/29263.ts
+#EXTINF:-1, tvg id="DoItYourselfNetwork.us" tvg name="US | DIY NETWORK." tvg logo="https://s3.amazonaws.com/stricons/DoItYourselfNetwork.us.png" group title="USA"US | DIY NETWORK.  IPTVultra.com [1920x1088]
+http://p4.giffy.be:8080/live/f1/f1/28637.ts
+#EXTINF:-1,US | BUZZR  IPTVultra.com [704x480]
+http://p4.giffy.be:8080/live/aman1/aman1/30627.ts
+#EXTINF:-1,US| VICELAND  IPTVultra.com [1280x720]
+http://p4.giffy.be:8080/live/aman1/aman1/30893.ts
+#EXTINF:-1,US | AMERICAN HEROS  IPTVultra.com [704x480]
+http://p4.giffy.be:8080/live/aman1/aman1/30625.ts
+#EXTINF:-1,US | FXX  IPTVultra.com [1280x720]
+http://p4.giffy.be:8080/live/aman1/aman1/32181.ts
+#EXTINF:-1,US | VELOCITY  IPTVultra.com [1280x720]
+http://p4.giffy.be:8080/live/aman1/aman1/32183.ts
+#EXTINF:-1,US | DISCOVERY HD  IPTVultra.com [1280x720]
+http://p4.giffy.be:8080/live/aman1/aman1/32182.ts
+#EXTINF:-1, tvg id="" tvg name="US | ACTION MAX HD" tvg logo="https://s3.amazonaws.com/shresized/eng sport/actionmax.jpg" group title="USA"US | ACTION MAX HD  IPTVultra.com [1920x1088]
+http://p4.giffy.be:8080/live/f1/f1/32176.ts
+#EXTINF:-1, tvg id="" tvg name="US | E!" tvg logo="https://s3.amazonaws.com/shresized/english us ca/E!.jpg" group title="USA"US | E!  IPTVultra.com [1280x720]
+http://p4.giffy.be:8080/live/f1/f1/32174.ts
+#EXTINF:-1, tvg id="Nickelodeon.us" tvg name="US | NICKTOONS" tvg logo="https://s3.amazonaws.com/shresized/english us ca/nickelodean.jpg" group title="KIDS"US | NICKTOONS  IPTVultra.com [544x576]
+http://p4.giffy.be:8080/live/f1/f1/32173.ts
+#EXTINF:-1,US | MY38  IPTVultra.com [1280x720]
+http://p4.giffy.be:8080/live/aman1/aman1/35438.ts
+#EXTINF:-1,US | FOX BOSTON 25  IPTVultra.com [1280x720]
+http://p4.giffy.be:8080/live/nat/nat/36653.ts
+#EXTINF:-1,USA: A&E HD  IPTVultra.com [1280x720]
+http://178.132.7.100:15000/live/rmpeagrt/ML91qql9i3/20501.ts
+#EXTINF:-1,USA: ABC Action News  IPTVultra.com [1280x720]
+http://178.132.7.100:15000/live/rmpeagrt/ML91qql9i3/20499.ts
+#EXTINF:-1,USA: AFN Family Movie  IPTVultra.com [1280x720]
+http://178.132.7.100:15000/live/rmpeagrt/ML91qql9i3/20495.ts
+#EXTINF:-1,USA: AFN News  IPTVultra.com [1280x720]
+http://178.132.7.100:15000/live/rmpeagrt/ML91qql9i3/20493.ts
+#EXTINF:-1,USA: AFN Prime Atlantic  IPTVultra.com [1280x720]
+http://178.132.7.100:15000/live/rmpeagrt/ML91qql9i3/20492.ts
+#EXTINF:-1,USA: AFN Prime Pacific  IPTVultra.com [1280x720]
+http://178.132.7.100:15000/live/bzrddxdc/v4v4yP53Vt/20491.ts
+#EXTINF:-1,USA: AFN Sports  IPTVultra.com [1280x720]
+http://178.132.7.100:15000/live/rmpeagrt/ML91qql9i3/20490.ts
+#EXTINF:-1,USA: AFN Sports 2  IPTVultra.com [1280x720]
+http://178.132.7.100:15000/live/rmpeagrt/ML91qql9i3/20489.ts
+#EXTINF:-1,USA: AMC  IPTVultra.com [1920x1088]
+http://178.132.7.100:15000/live/bzrddxdc/v4v4yP53Vt/20486.ts
+#EXTINF:-1,USA: Astro Sports 3  IPTVultra.com [1280x720]
+http://178.132.7.100:15000/live/bzrddxdc/v4v4yP53Vt/20482.ts
+#EXTINF:-1,USA: BEIN SPORTS U.S.A  IPTVultra.com [1920x1088]
+http://178.132.7.100:15000/live/rmpeagrt/ML91qql9i3/20479.ts
+#EXTINF:-1,USA: Big Ten Network HD  IPTVultra.com [1280x720]
+http://178.132.7.100:15000/live/bzrddxdc/v4v4yP53Vt/20478.ts
+#EXTINF:-1,USA: Bravo HD  IPTVultra.com [1280x720]
+http://178.132.7.100:15000/live/rmpeagrt/ML91qql9i3/20476.ts
+#EXTINF:-1,USA: C SPAN 1 HD  IPTVultra.com [1024x576]
+http://178.132.7.100:15000/live/bzrddxdc/v4v4yP53Vt/20474.ts
+#EXTINF:-1,USA: C SPAN 3 HD  IPTVultra.com [1024x576]
+http://178.132.7.100:15000/live/rmpeagrt/ML91qql9i3/20472.ts
+#EXTINF:-1,USA: CARTOON NETWORK  IPTVultra.com [1280x720]
+http://178.132.7.100:15000/live/rmpeagrt/ML91qql9i3/20470.ts
+#EXTINF:-1,USA: CBSN News  IPTVultra.com [1280x720]
+http://178.132.7.100:15000/live/rmpeagrt/ML91qql9i3/20467.ts
+#EXTINF:-1,USA: CAPITAL TV  IPTVultra.com [1280x720]
+http://178.132.7.100:15000/live/bzrddxdc/v4v4yP53Vt/20471.ts
+#EXTINF:-1,USA: Cinemax 5 Star Max  IPTVultra.com [1920x1088]
+http://178.132.7.100:15000/live/bzrddxdc/v4v4yP53Vt/20465.ts
+#EXTINF:-1,USA: Cinemax East  IPTVultra.com [1920x1088]
+http://178.132.7.100:15000/live/rmpeagrt/ML91qql9i3/20463.ts
+#EXTINF:-1,USA: Cinemax ActionMax  IPTVultra.com [1920x1088]
+http://178.132.7.100:15000/live/rmpeagrt/ML91qql9i3/20464.ts
+#EXTINF:-1,USA: Cinemax 5 Max  IPTVultra.com [1920x1088]
+http://178.132.7.100:15000/live/rmpeagrt/ML91qql9i3/20466.ts
+#EXTINF:-1,USA: CW 11 HD  IPTVultra.com [1280x720]
+http://178.132.7.100:15000/live/rmpeagrt/ML91qql9i3/20454.ts
+#EXTINF:-1,USA: CNN HD  IPTVultra.com [960x544]
+http://178.132.7.100:15000/live/rmpeagrt/ML91qql9i3/20459.ts
+#EXTINF:-1,USA: COMEDY CENTRAL  IPTVultra.com [1920x1088]
+http://178.132.7.100:15000/live/rmpeagrt/ML91qql9i3/20456.ts
+#EXTINF:-1,USA: CW Channel 11  IPTVultra.com [1920x1088]
+http://178.132.7.100:15000/live/bzrddxdc/v4v4yP53Vt/20453.ts
+#EXTINF:-1,USA: DISCOVERY SCIENCE HD  IPTVultra.com [1920x1088]
+http://178.132.7.100:15000/live/rmpeagrt/ML91qql9i3/20450.ts
+#EXTINF:-1,USA: Crime & Investigation  IPTVultra.com [720x576]
+http://178.132.7.100:15000/live/rmpeagrt/ML91qql9i3/20455.ts
+#EXTINF:-1,USA: DISCOVERY CHANNEL HD  IPTVultra.com [1280x720]
+http://178.132.7.100:15000/live/rmpeagrt/ML91qql9i3/20451.ts
+#EXTINF:-1,USA: ESPN 2 HD  IPTVultra.com [720x576]
+http://178.132.7.100:15000/live/rmpeagrt/ML91qql9i3/20445.ts
+#EXTINF:-1,USA: DISCOVERY VELOCITY  IPTVultra.com [1280x720]
+http://178.132.7.100:15000/live/bzrddxdc/v4v4yP53Vt/20448.ts
+#EXTINF:-1,USA: DISNEY JR HD  IPTVultra.com [1920x1088]
+http://178.132.7.100:15000/live/bzrddxdc/v4v4yP53Vt/20447.ts
+#EXTINF:-1,USA: ESPN 2 HD  IPTVultra.com [1280x720]
+http://178.132.7.100:15000/live/bzrddxdc/v4v4yP53Vt/20443.ts
+#EXTINF:-1,USA: Fight Network / MMA Network  IPTVultra.com [720x576]
+http://178.132.7.100:15000/live/rmpeagrt/ML91qql9i3/20439.ts
+#EXTINF:-1,USA: Fight Sport 1  IPTVultra.com [1280x720]
+http://178.132.7.100:15000/live/bzrddxdc/v4v4yP53Vt/20438.ts
+#EXTINF:-1,USA: FOOD NETWORK  IPTVultra.com [960x720]
+http://178.132.7.100:15000/live/bzrddxdc/v4v4yP53Vt/20436.ts
+#EXTINF:-1,USA: Fight Sport 2  IPTVultra.com [1280x720]
+http://178.132.7.100:15000/live/bzrddxdc/v4v4yP53Vt/20437.ts
+#EXTINF:-1,USA: FOX SOCCER SUN HD  IPTVultra.com [640x368]
+http://178.132.7.100:15000/live/rmpeagrt/ML91qql9i3/20432.ts
+#EXTINF:-1,USA: FOX Sport 1  IPTVultra.com [1920x1088]
+http://178.132.7.100:15000/live/rmpeagrt/ML91qql9i3/20431.ts
+#EXTINF:-1,USA: FOX SPORTS ONE  IPTVultra.com [1280x720]
+http://178.132.7.100:15000/live/rmpeagrt/ML91qql9i3/20430.ts
+#EXTINF:-1,USA: GRIT TV MOVIES  IPTVultra.com [544x576]
+http://178.132.7.100:15000/live/bzrddxdc/v4v4yP53Vt/20427.ts
+#EXTINF:-1,USA: GSN TV  IPTVultra.com [1920x1088]
+http://178.132.7.100:15000/live/rmpeagrt/ML91qql9i3/20426.ts
+#EXTINF:-1,USA: HALLMARK HD  IPTVultra.com [1280x720]
+http://178.132.7.100:15000/live/rmpeagrt/ML91qql9i3/20425.ts
+#EXTINF:-1,USA: HBO 2 COMEDY  IPTVultra.com [1920x1088]
+http://178.132.7.100:15000/live/rmpeagrt/ML91qql9i3/20424.ts
+#EXTINF:-1,USA: HBO HD 1  IPTVultra.com [640x368]
+http://178.132.7.100:15000/live/bzrddxdc/v4v4yP53Vt/20422.ts
+#EXTINF:-1,USA: HBO ZONE HD  IPTVultra.com [1920x1088]
+http://178.132.7.100:15000/live/rmpeagrt/ML91qql9i3/20420.ts
+#EXTINF:-1,USA: HBO SIGNATURE HD  IPTVultra.com [1920x1088]
+http://178.132.7.100:15000/live/rmpeagrt/ML91qql9i3/20421.ts
+#EXTINF:-1,USA: HISTORY HD  IPTVultra.com [1280x720]
+http://178.132.7.100:15000/live/rmpeagrt/ML91qql9i3/20417.ts
+#EXTINF:-1,USA: LIFE TIME  IPTVultra.com [704x480]
+http://178.132.7.100:15000/live/bzrddxdc/v4v4yP53Vt/20414.ts
+#EXTINF:-1,USA: LMN HDTV  IPTVultra.com [1920x1088]
+http://178.132.7.100:15000/live/rmpeagrt/ML91qql9i3/20412.ts
+#EXTINF:-1,USA: MLB HD  IPTVultra.com [960x720]
+http://178.132.7.100:15000/live/bzrddxdc/v4v4yP53Vt/20411.ts
+#EXTINF:-1,USA: MTV HD  IPTVultra.com [1920x1088]
+http://178.132.7.100:15000/live/rmpeagrt/ML91qql9i3/20408.ts
+#EXTINF:-1,USA: NASA TV HD  IPTVultra.com [720x576]
+http://178.132.7.100:15000/live/rmpeagrt/ML91qql9i3/20401.ts
+#EXTINF:-1,USA: AFN Movie  IPTVultra.com [1280x720]
+http://178.132.7.100:15000/live/bzrddxdc/v4v4yP53Vt/20494.ts
+#EXTINF:-1,USA: NAT GEO HD  IPTVultra.com [1280x720]
+http://178.132.7.100:15000/live/bzrddxdc/v4v4yP53Vt/20399.ts
+#EXTINF:-1,USA: NBA TV HD  IPTVultra.com [720x576]
+http://178.132.7.100:15000/live/rmpeagrt/ML91qql9i3/20398.ts
+#EXTINF:-1,USA: NBC GOLF HD  IPTVultra.com [1280x720]
+http://178.132.7.100:15000/live/rmpeagrt/ML91qql9i3/20390.ts
+#EXTINF:-1,USA: NBC HD  IPTVultra.com [1920x1088]
+http://178.132.7.100:15000/live/bzrddxdc/v4v4yP53Vt/20389.ts
+#EXTINF:-1,USA: BBC WORLD NEWS  IPTVultra.com [720x576]
+http://178.132.7.100:15000/live/bzrddxdc/v4v4yP53Vt/20480.ts
+#EXTINF:-1,USA: NFL Network HD  IPTVultra.com [1280x720]
+http://178.132.7.100:15000/live/rmpeagrt/ML91qql9i3/20380.ts
+#EXTINF:-1,USA: NFL Network HDTV 1080i  IPTVultra.com [1600x912]
+http://178.132.7.100:15000/live/rmpeagrt/ML91qql9i3/20379.ts
+#EXTINF:-1,USA: ESPN 1  IPTVultra.com [1280x720]
+http://178.132.7.100:15000/live/bzrddxdc/v4v4yP53Vt/20444.ts
+#EXTINF:-1,USA: NHL NETWORK HD  IPTVultra.com [1280x720]
+http://178.132.7.100:15000/live/rmpeagrt/ML91qql9i3/20376.ts
+#EXTINF:-1,USA: Astro Sports 4  IPTVultra.com [1280x720]
+http://178.132.7.100:15000/live/bzrddxdc/v4v4yP53Vt/20481.ts
+#EXTINF:-1,USA: NHLTV NETWORK HD  IPTVultra.com [1280x720]
+http://178.132.7.100:15000/live/rmpeagrt/ML91qql9i3/20375.ts
+#EXTINF:-1,USA: NICK HD (kids)  IPTVultra.com [544x576]
+http://178.132.7.100:15000/live/rmpeagrt/ML91qql9i3/20374.ts
+#EXTINF:-1,USA: NICKELODEON KIDS  IPTVultra.com [544x576]
+http://178.132.7.100:15000/live/rmpeagrt/ML91qql9i3/20373.ts
+#EXTINF:-1,USA: NICKTOONS  IPTVultra.com [1920x1088]
+http://178.132.7.100:15000/live/rmpeagrt/ML91qql9i3/20372.ts
+#EXTINF:-1,USA: CBS HD US  IPTVultra.com [1280x720]
+http://178.132.7.100:15000/live/bzrddxdc/v4v4yP53Vt/20469.ts
+#EXTINF:-1,USA: ESPN 3 TRE  IPTVultra.com [640x368]
+http://178.132.7.100:15000/live/bzrddxdc/v4v4yP53Vt/20442.ts
+#EXTINF:-1,USA: CNN HD INTERNATIONAL  IPTVultra.com [544x576]
+http://178.132.7.100:15000/live/bzrddxdc/v4v4yP53Vt/20457.ts
+#EXTINF:-1,USA: CNBC HD  IPTVultra.com [1280x720]
+http://178.132.7.100:15000/live/bzrddxdc/v4v4yP53Vt/20460.ts
+#EXTINF:-1,USA: RT DOCUMENTARY  IPTVultra.com [640x368]
+http://178.132.7.100:15000/live/bzrddxdc/v4v4yP53Vt/20363.ts
+#EXTINF:-1,USA: Showtime 2 HD  IPTVultra.com [1920x1088]
+http://178.132.7.100:15000/live/rmpeagrt/ML91qql9i3/20362.ts
+#EXTINF:-1,USA: Showtime HDTV  IPTVultra.com [1920x1088]
+http://178.132.7.100:15000/live/bzrddxdc/v4v4yP53Vt/20360.ts
+#EXTINF:-1,USA: SPIKE TV  IPTVultra.com [704x576]
+http://178.132.7.100:15000/live/rmpeagrt/ML91qql9i3/20358.ts
+#EXTINF:-1,USA: FOX SPORTS TWO HD  IPTVultra.com [1280x720]
+http://178.132.7.100:15000/live/bzrddxdc/v4v4yP53Vt/20429.ts
+#EXTINF:-1,USA: FX HD  IPTVultra.com [1920x1088]
+http://178.132.7.100:15000/live/bzrddxdc/v4v4yP53Vt/20428.ts
+#EXTINF:-1,USA: HBO Family HD  IPTVultra.com [1920x1088]
+http://178.132.7.100:15000/live/bzrddxdc/v4v4yP53Vt/20423.ts
+#EXTINF:-1,USA: FOX BUSINESS  IPTVultra.com [704x576]
+http://178.132.7.100:15000/live/bzrddxdc/v4v4yP53Vt/20435.ts
+#EXTINF:-1,USA: LIFETIME HD  IPTVultra.com [1920x1088]
+http://178.132.7.100:15000/live/bzrddxdc/v4v4yP53Vt/20413.ts
+#EXTINF:-1,USA: HGTV HD  IPTVultra.com [640x368]
+http://178.132.7.100:15000/live/bzrddxdc/v4v4yP53Vt/20418.ts
+#EXTINF:-1,USA: TBS HD  IPTVultra.com [640x368]
+http://178.132.7.100:15000/live/bzrddxdc/v4v4yP53Vt/20346.ts
+#EXTINF:-1,USA: TENNIS HD  IPTVultra.com [1280x720]
+http://178.132.7.100:15000/live/bzrddxdc/v4v4yP53Vt/20345.ts
+#EXTINF:-1,USA: The Weather Channel  IPTVultra.com [960x544]
+http://178.132.7.100:15000/live/bzrddxdc/v4v4yP53Vt/20343.ts
+#EXTINF:-1,USA: Toon Kids  IPTVultra.com [1280x720]
+http://178.132.7.100:15000/live/rmpeagrt/ML91qql9i3/20341.ts
+#EXTINF:-1,USA: TRAVEL CHANNEL  IPTVultra.com [544x576]
+http://178.132.7.100:15000/live/rmpeagrt/ML91qql9i3/20340.ts
+#EXTINF:-1,USA: Tsn Sport 1 HD  IPTVultra.com [1920x1088]
+http://178.132.7.100:15000/live/bzrddxdc/v4v4yP53Vt/20337.ts
+#EXTINF:-1,USA: Tsn Sport 2 HD  IPTVultra.com [720x576]
+http://178.132.7.100:15000/live/bzrddxdc/v4v4yP53Vt/20336.ts
+#EXTINF:-1,USA: Tsn Sport 3 HD  IPTVultra.com [1280x720]
+http://178.132.7.100:15000/live/rmpeagrt/ML91qql9i3/20335.ts
+#EXTINF:-1,USA: Tsn Sport 4 HD  IPTVultra.com [1920x1088]
+http://178.132.7.100:15000/live/bzrddxdc/v4v4yP53Vt/20334.ts
+#EXTINF:-1,USA: Tsn Sport 5 HD  IPTVultra.com [1280x720]
+http://178.132.7.100:15000/live/bzrddxdc/v4v4yP53Vt/20333.ts
+#EXTINF:-1,USA: USA Network HD  IPTVultra.com [1280x720]
+http://178.132.7.100:15000/live/rmpeagrt/ML91qql9i3/20329.ts
+#EXTINF:-1,USA: Versus | NBA  IPTVultra.com [720x576]
+http://178.132.7.100:15000/live/bzrddxdc/v4v4yP53Vt/20328.ts
+#EXTINF:-1,USA: VH1 HD  IPTVultra.com [1920x1088]
+http://178.132.7.100:15000/live/rmpeagrt/ML91qql9i3/20327.ts
+#EXTINF:-1,USA: WWE Network  IPTVultra.com [1280x720]
+http://178.132.7.100:15000/live/rmpeagrt/ML91qql9i3/20325.ts
+#EXTINF:-1,USA: Showtime Extreme HD  IPTVultra.com [1920x1088]
+http://178.132.7.100:15000/live/bzrddxdc/v4v4yP53Vt/20361.ts
+#EXTINF:-1,USA: OWN HD (Oprah Winfrey TV)  IPTVultra.com [1920x1088]
+http://178.132.7.100:15000/live/bzrddxdc/v4v4yP53Vt/20369.ts
+#EXTINF:-1,USA: QVC Beauty IQ  IPTVultra.com [1920x1088]
+http://178.132.7.100:15000/live/bzrddxdc/v4v4yP53Vt/20367.ts
+#EXTINF:-1,USA: P.B.S Kids  IPTVultra.com [640x368]
+http://178.132.7.100:15000/live/bzrddxdc/v4v4yP53Vt/20368.ts
+#EXTINF:-1,USA: QVC Plus  IPTVultra.com [1024x576]
+http://178.132.7.100:15000/live/bzrddxdc/v4v4yP53Vt/20365.ts
+#EXTINF:-1,USA: QVC Live  IPTVultra.com [1920x1088]
+http://178.132.7.100:15000/live/bzrddxdc/v4v4yP53Vt/20366.ts
+#EXTINF:-1,USA: SportsNet One HD  IPTVultra.com [1280x720]
+http://178.132.7.100:15000/live/bzrddxdc/v4v4yP53Vt/20357.ts
+#EXTINF:-1,USA: Showtime Showcase  IPTVultra.com [1920x1088]
+http://178.132.7.100:15000/live/bzrddxdc/v4v4yP53Vt/20359.ts
+#EXTINF:-1,USA: Starz Edge HD  IPTVultra.com [1280x720]
+http://178.132.7.100:15000/live/bzrddxdc/v4v4yP53Vt/20353.ts
+#EXTINF:-1,USA: TLC HD  IPTVultra.com [1280x720]
+http://178.132.7.100:15000/live/bzrddxdc/v4v4yP53Vt/20342.ts
+#EXTINF:-1,USA: ESPN HD  IPTVultra.com [1280x720]
+http://62.210.188.98:8000/live/vod/vod/1624.ts
+#EXTINF:-1,USA: PAC 12 Net. (Arizona)  IPTVultra.com [1920x1088]
+http://62.210.188.98:8000/live/vod/vod/1636.ts
+#EXTINF:-1,USA: PAC 12 Net. (Moutain)  IPTVultra.com [1920x1088]
+http://62.210.188.98:8000/live/vod/vod/1639.ts
+#EXTINF:-1,USA: TRU TV  IPTVultra.com [704x576]
+http://62.210.188.98:8000/live/vod/vod/4044.ts
+#EXTINF:-1,USA: LIFE TIME  IPTVultra.com [1920x1088]
+http://62.210.188.98:8000/live/vod/vod/4109.ts
+#EXTINF:-1,USA: DISCOVERY SHOWCASE  IPTVultra.com [1920x1088]
+http://62.210.188.98:8000/live/vod/vod/4138.ts
+#EXTINF:-1,USA: HBO ZONE HD  IPTVultra.com [1920x1088]
+http://62.210.188.98:8000/live/vod/vod/4114.ts
+#EXTINF:-1,USA | Action Max  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6061.ts
+#EXTINF:-1,USA | ABC  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6130.ts
+#EXTINF:-1,USA | ***** U.S.A VIP *****  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6170.ts
+#EXTINF:-1,USA | 360 North  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6169.ts
+#EXTINF:-1,USA | A&E  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6168.ts
+#EXTINF:-1,USA | AFN News  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6135.ts
+#EXTINF:-1,USA | AFN Prime Atlantic  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6139.ts
+#EXTINF:-1,USA | AFN Movie  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6136.ts
+#EXTINF:-1,USA | AFN Prime Pacific  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6138.ts
+#EXTINF:-1,USA | AFN Pulse  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6137.ts
+#EXTINF:-1,USA | AFN Sports  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6133.ts
+#EXTINF:-1,USA | AMC  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6167.ts
+#EXTINF:-1,USA | AFN Spectrum  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6134.ts
+#EXTINF:-1,USA | AFN Sports 2  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6132.ts
+#EXTINF:-1,USA | AMG TV  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6100.ts
+#EXTINF:-1,USA | Animal Planet  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6070.ts
+#EXTINF:-1,USA | Bravo  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6081.ts
+#EXTINF:-1,USA | Bein Sports  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6102.ts
+#EXTINF:-1,USA | Bloomberg  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6147.ts
+#EXTINF:-1,USA | Bet  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6166.ts
+#EXTINF:-1,USA | BTN Sport  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6082.ts
+#EXTINF:-1,USA | BYU Sports TV  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6112.ts
+#EXTINF:-1,USA | Cartoon Network  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6084.ts
+#EXTINF:-1,USA | CBS  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6083.ts
+#EXTINF:-1,USA | CBSN US  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6146.ts
+#EXTINF:-1,USA | Cinemax 5 Starmax  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6113.ts
+#EXTINF:-1,USA | Cinemax 5 Starmax  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6116.ts
+#EXTINF:-1,USA | Cinemax East  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6114.ts
+#EXTINF:-1,USA | Cinemax Moremax  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6115.ts
+#EXTINF:-1,USA | CNBC  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6165.ts
+#EXTINF:-1,USA | CNN  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6122.ts
+#EXTINF:-1,USA | Comedy Central  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6080.ts
+#EXTINF:-1,USA | Crime and Investigation  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6077.ts
+#EXTINF:-1,USA | Destination America  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6163.ts
+#EXTINF:-1,USA | Discovery Science  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6085.ts
+#EXTINF:-1,USA | CW  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6164.ts
+#EXTINF:-1,USA | Discovery ID  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6121.ts
+#EXTINF:-1,USA | Discovery Velocity  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6075.ts
+#EXTINF:-1,USA | Discovery Science  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6123.ts
+#EXTINF:-1,USA | E! Entertainment  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6071.ts
+#EXTINF:-1,USA | E! Network  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6159.ts
+#EXTINF:-1,USA | ESPN News  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6142.ts
+#EXTINF:-1,USA | ESPN Deportes  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6141.ts
+#EXTINF:-1,USA | ESPN 2  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6143.ts
+#EXTINF:-1,USA | Food Network  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6157.ts
+#EXTINF:-1,USA | ESPN U  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6140.ts
+#EXTINF:-1,USA | Fox Sports 506  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6152.ts
+#EXTINF:-1,USA | FOX  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6156.ts
+#EXTINF:-1,USA | Fox Sports 1  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6155.ts
+#EXTINF:-1,USA | Fox Sports 2  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6154.ts
+#EXTINF:-1,USA | Fox Deportes  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6153.ts
+#EXTINF:-1,USA | Fox News  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6151.ts
+#EXTINF:-1,USA | FreeRom  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6158.ts
+#EXTINF:-1,USA | ESPN News  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6144.ts
+#EXTINF:-1,USA | FX  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6150.ts
+#EXTINF:-1,USA | H2  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6086.ts
+#EXTINF:-1,USA | FXX  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6149.ts
+#EXTINF:-1,USA | Hallmark  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6087.ts
+#EXTINF:-1,USA | HBO  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6128.ts
+#EXTINF:-1,USA | HSN 1  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6103.ts
+#EXTINF:-1,USA | History  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6078.ts
+#EXTINF:-1,USA | HBO Signature  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6126.ts
+#EXTINF:-1,USA | ION Television  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6058.ts
+#EXTINF:-1,USA | HBO Zone  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6127.ts
+#EXTINF:-1,USA | HGTV  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6074.ts
+#EXTINF:-1,USA | HIFI  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6088.ts
+#EXTINF:-1,USA | HBO Comedy  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6125.ts
+#EXTINF:-1,USA | MLB Live  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6059.ts
+#EXTINF:-1,USA | Lifetime  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6089.ts
+#EXTINF:-1,USA | MSNBC  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6104.ts
+#EXTINF:-1,USA | MLB Network  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6060.ts
+#EXTINF:-1,USA | NASA  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6148.ts
+#EXTINF:-1,USA | Music  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6076.ts
+#EXTINF:-1,USA | NBA  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6106.ts
+#EXTINF:-1,USA | NBA Versus  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6105.ts
+#EXTINF:-1,USA | National Geographic  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6079.ts
+#EXTINF:-1,USA | NBC Golf  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6161.ts
+#EXTINF:-1,USA | NBC Golf  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6162.ts
+#EXTINF:-1,USA | NFL  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6120.ts
+#EXTINF:-1,USA | NBC Sport  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6160.ts
+#EXTINF:-1,USA | NHL Network  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6068.ts
+#EXTINF:-1,USA | Nickelodeon  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6072.ts
+#EXTINF:-1,USA | Own  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6090.ts
+#EXTINF:-1,USA | PAC Arizona  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6057.ts
+#EXTINF:-1,USA | PAC Los Angeles  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6055.ts
+#EXTINF:-1,USA | PAC Oregon  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6053.ts
+#EXTINF:-1,USA | PAC Bay Area  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6056.ts
+#EXTINF:-1,USA | PAC Mountain  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6054.ts
+#EXTINF:-1,USA | PAC Washington  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6052.ts
+#EXTINF:-1,USA | RT Documentary  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6107.ts
+#EXTINF:-1,USA | Sports Net West  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6050.ts
+#EXTINF:-1,USA | Sportsnet One  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6094.ts
+#EXTINF:-1,USA | Sports Net Pacific  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6051.ts
+#EXTINF:-1,USA | Starz East  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6095.ts
+#EXTINF:-1,USA | Sports Net 360  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6117.ts
+#EXTINF:-1,USA | Showcase  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6091.ts
+#EXTINF:-1,USA | Showtime  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6131.ts
+#EXTINF:-1,USA | Spike  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6092.ts
+#EXTINF:-1,USA | Sport1  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6118.ts
+#EXTINF:-1,USA | Sports Net One  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6119.ts
+#EXTINF:-1,USA | Starz Cinema  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6098.ts
+#EXTINF:-1,USA | Starz Edge  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6097.ts
+#EXTINF:-1,USA | Starz Encore  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6096.ts
+#EXTINF:-1,USA | SportsNet World  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6093.ts
+#EXTINF:-1,USA | Starz Comedy  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6099.ts
+#EXTINF:-1,USA | Starz West  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6108.ts
+#EXTINF:-1,USA | TBS  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6109.ts
+#EXTINF:-1,USA | Tennis Channel  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6067.ts
+#EXTINF:-1,USA | TSN 5  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6062.ts
+#EXTINF:-1,USA | TLC  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6129.ts
+#EXTINF:-1,USA | TSN 4  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6063.ts
+#EXTINF:-1,USA | TSN 1  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6066.ts
+#EXTINF:-1,USA | The Florida Channel  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6110.ts
+#EXTINF:-1,USA | Travel Channel  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6111.ts
+#EXTINF:-1,USA | TSN 2  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6065.ts
+#EXTINF:-1,USA | TSN 3  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6064.ts
+#EXTINF:-1,USA | TNT  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6069.ts
+#EXTINF:-1,USA | USA Network  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6101.ts
+#EXTINF:-1,USA | WWE Network  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6124.ts
+#EXTINF:-1,USA | Viceland  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6073.ts
+#EXTINF:-1,USA | World Fashion Channel  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/6145.ts
+#EXTINF:-1,USA: ABC HD  IPTVultra.com [1920x1080]
+http://vip.groupiptv.com:7000/live/erkan/erkan/5274.ts
+#EXTINF:-1,USA {} Cinema 07 PPV  IPTVultra.com [1920x816]
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/17149.ts
+#EXTINF:-1,USA: SPIKE HD  IPTVultra.com [1280x720]
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/16522.ts
+#EXTINF:-1,USA : NBA TV HD  IPTVultra.com [720x576]
+http://tv.latintvweb.com:8000/live/LATINTV22w/Tvhd11/16393.ts
+#EXTINF:-1,USA : SHOWTIME HD  IPTVultra.com [1920x1088]
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/16395.ts
+#EXTINF:-1,USA | Fox Sports 2 HD  IPTVultra.com [1280x720]
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/16420.ts
+#EXTINF:-1,USA | WWE HD  IPTVultra.com [1920x1088]
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/16435.ts
+#EXTINF:-1,USA FOX NEWS HD  IPTVultra.com [1920x1088]
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/16409.ts
+#EXTINF:-1,USA: NHL Network  IPTVultra.com [1280x720]
+http://tv.latintvweb.com:8000/live/torres1/torres1/16487.ts
+#EXTINF:-1,USA: CAPITAL TV  IPTVultra.com [1280x720]
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/16451.ts
+#EXTINF:-1,USA: ION Television East HD  IPTVultra.com [704x480]
+http://tv.latintvweb.com:8000/live/JulioCesar/JulioCesar/16439.ts
+#EXTINF:-1,USA:CA | TSN4 HD  IPTVultra.com [1280x720]
+http://tv.latintvweb.com:8000/live/LATINTV22w/Tvhd11/16496.ts
+#EXTINF:-1,USA : Fight HD  IPTVultra.com [720x576]
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/16385.ts
+#EXTINF:-1,USA:FOX DEPORTES HD  IPTVultra.com [1280x720]
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/11605.ts
+#EXTINF:-1,USA:FIGHT [1080]  IPTVultra.com [1920x1088]
+http://tv.latintvweb.com:8000/live/manu/manu/11622.ts
+#EXTINF:-1,USA:NBATV  IPTVultra.com [1280x720]
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/11611.ts
+#EXTINF:-1,USA:CHELSEA  IPTVultra.com [1280x720]
+http://tv.latintvweb.com:8000/live/LATINTV22w/Tvhd11/11623.ts
+#EXTINF:-1,USA:GOL TV  IPTVultra.com [1280x720]
+http://tv.latintvweb.com:8000/live/LATINTV22w/Tvhd11/11603.ts
+#EXTINF:-1,USA:GOL TV ENGLISH  IPTVultra.com [1280x720]
+http://tv.latintvweb.com:8000/live/LATINTV22w/Tvhd11/11602.ts
+#EXTINF:-1,USA:TELEMUNDO  IPTVultra.com [1280x720]
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/11563.ts
+#EXTINF:-1,USA:GALAVISION  IPTVultra.com [1920x1088]
+http://tv.latintvweb.com:8000/live/LATINTV22w/Tvhd11/11627.ts
+#EXTINF:-1,USA {} Cinema 02 PPV  IPTVultra.com [1920x1088]
+http://tv.latintvweb.com:8000/live/LATINTV22w/Tvhd11/17154.ts
+#EXTINF:-1,USA {} Cinema 10 PPV  IPTVultra.com [1920x800]
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/17146.ts
+#EXTINF:-1,USA: NFL Network HD  IPTVultra.com [1920x1088]
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15246.ts
+#EXTINF:-1,USA:A&E  IPTVultra.com [1280x720]
+http://tv.latintvweb.com:8000/live/LATINTV22w/Tvhd11/11597.ts
+#EXTINF:-1, AFN PRIME ATLANTIC  IPTVultra.com [1280x720]
+http://tv.latintvweb.com:8000/live/LATINTV22w/Tvhd11/16501.ts
+#EXTINF:-1, AFN PRIME PACIFIC  IPTVultra.com [720x480]
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/16502.ts
+#EXTINF:-1, AFN SPECTRUM  IPTVultra.com [720x480]
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/16504.ts
+#EXTINF:-1, AFN SPORTS HD  IPTVultra.com [1280x720]
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/16507.ts
+#EXTINF:-1, Cinemax 5 StarMax  IPTVultra.com [1920x1088]
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/16509.ts
+#EXTINF:-1, Cinemax ActionMax East  IPTVultra.com [1920x1088]
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/16510.ts
+#EXTINF:-1,USA: Cinemax East  IPTVultra.com [1920x1088]
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/16511.ts
+#EXTINF:-1, tvg id="" tvg name="USA: DIY Network HD" tvg logo="" group title="U.S.A"USA: DIY Network HD  IPTVultra.com [1920x1088]
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/16513.ts
+#EXTINF:-1, Food Network HD  IPTVultra.com [544x576]
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/16514.ts
+#EXTINF:-1, FOXX HD  IPTVultra.com [1280x720]
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/16515.ts
+#EXTINF:-1,USA: FX HD  IPTVultra.com [1920x1088]
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/16516.ts
+#EXTINF:-1,USA | H2  IPTVultra.com [1280x720]
+http://tv.latintvweb.com:8000/live/LATINTV22w/Tvhd11/16517.ts
+#EXTINF:-1,USA: HALLMARK CHANNEL HD  IPTVultra.com [1920x1088]
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/16518.ts
+#EXTINF:-1, MelloTV  IPTVultra.com [720x576]
+http://tv.latintvweb.com:8000/live/LATINTV22w/Tvhd11/16525.ts
+#EXTINF:-1,USA: National Geographic  IPTVultra.com [960x544]
+http://tv.latintvweb.com:8000/live/LATINTV22w/Tvhd11/16520.ts
+#EXTINF:-1,USA: NICKELODEN HD  IPTVultra.com [720x576]
+http://tv.latintvweb.com:8000/live/LATINTV22w/Tvhd11/16521.ts
+#EXTINF:-1, STARZ EDGE HD  IPTVultra.com [1280x720]
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/16523.ts
+#EXTINF:-1,USA: USA Network HD  IPTVultra.com [1280x720]
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/16524.ts
+#EXTINF:-1,USA : AMC HD  IPTVultra.com [1280x720]
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/16378.ts
+#EXTINF:-1,USA : CARTOON NETWORK  IPTVultra.com [1280x720]
+http://tv.latintvweb.com:8000/live/LATINTV22w/Tvhd11/16380.ts
+#EXTINF:-1,USA : CBSN HD  IPTVultra.com [1280x720]
+http://tv.latintvweb.com:8000/live/LATINTV22w/Tvhd11/16381.ts
+#EXTINF:-1,USA : CNBC  IPTVultra.com [960x544]
+http://tv.latintvweb.com:8000/live/LATINTV22w/Tvhd11/16382.ts
+#EXTINF:-1,USA : DISCCOVERY HD  IPTVultra.com [1280x720]
+http://tv.latintvweb.com:8000/live/LATINTV22w/Tvhd11/16383.ts
+#EXTINF:-1,USA : DW  IPTVultra.com [720x400]
+http://tv.latintvweb.com:8000/live/LATINTV22w/Tvhd11/16384.ts
+#EXTINF:-1,USA : Fox HD  IPTVultra.com [1280x720]
+http://tv.latintvweb.com:8000/live/LATINTV22w/Tvhd11/16375.ts
+#EXTINF:-1,USA : HBO Comedy  IPTVultra.com [1920x1088]
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/16387.ts
+#EXTINF:-1,USA : HBO East  IPTVultra.com [640x368]
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/16388.ts
+#EXTINF:-1,USA : HBO HD  IPTVultra.com [1920x1088]
+http://tv.latintvweb.com:8000/live/LATINTV22w/Tvhd11/16389.ts
+#EXTINF:-1,USA : HBO Signature  IPTVultra.com [1920x1088]
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/16390.ts
+#EXTINF:-1,USA : HBO Zone  IPTVultra.com [1920x1088]
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/16391.ts
+#EXTINF:-1,USA : NBA SD  IPTVultra.com [720x576]
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/16392.ts
+#EXTINF:-1,USA : NFL Network 1080i  IPTVultra.com [1280x720]
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/16377.ts
+#EXTINF:-1,USA : Showtime 2  IPTVultra.com [1920x1088]
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/16394.ts
+#EXTINF:-1,USA : Showtime West  IPTVultra.com [1280x720]
+http://tv.latintvweb.com:8000/live/LATINTV22w/Tvhd11/16396.ts
+#EXTINF:-1,USA : Starz Cinema  IPTVultra.com [960x544]
+http://tv.latintvweb.com:8000/live/LATINTV22w/Tvhd11/16397.ts
+#EXTINF:-1,USA : Starz East  IPTVultra.com [640x368]
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/16399.ts
+#EXTINF:-1,USA : Tennis Channel HD  IPTVultra.com [1280x720]
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/16401.ts
+#EXTINF:-1,USA | A&E HD  IPTVultra.com [1920x1088]
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/16416.ts
+#EXTINF:-1,USA | Amazing Discoveries HD  IPTVultra.com [1280x720]
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/16417.ts
+#EXTINF:-1,USA | ESPN News  IPTVultra.com [1280x720]
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/16418.ts
+#EXTINF:-1,USA | Fox Sports 1 HD  IPTVultra.com [1920x1088]
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/16419.ts
+#EXTINF:-1,USA | NBCSN HD  IPTVultra.com [1920x1088]
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/16426.ts
+#EXTINF:-1,USA | PAC 12 Arizona  IPTVultra.com [1920x1088]
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/16427.ts
+#EXTINF:-1,USA | PAC 12 Bay Area  IPTVultra.com [1920x1088]
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/16428.ts
+#EXTINF:-1,USA | PAC 12 Los Angeles  IPTVultra.com [1920x1088]
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/16429.ts
+#EXTINF:-1,USA | PAC 12 Oregon  IPTVultra.com [1920x1088]
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/16430.ts
+#EXTINF:-1,USA | PAC 12 Washington  IPTVultra.com [1920x1088]
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/16431.ts
+#EXTINF:-1,USA | TLC HD  IPTVultra.com [1280x720]
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/16433.ts
+#EXTINF:-1,USA ABC HD  IPTVultra.com [1280x720]
+http://tv.latintvweb.com:8000/live/LATINTV22w/Tvhd11/16402.ts
+#EXTINF:-1,USA ABC NEWS HD  IPTVultra.com [1280x720]
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/16403.ts
+#EXTINF:-1,USA BRAVO HD  IPTVultra.com [1280x720]
+http://tv.latintvweb.com:8000/live/edgar/edgar/16404.ts
+#EXTINF:-1,USA CBS  IPTVultra.com [544x576]
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/16405.ts
+#EXTINF:-1,USA CW HD  IPTVultra.com [1280x720]
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/16407.ts
+#EXTINF:-1,USA HISTORY HD  IPTVultra.com [1280x720]
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/16410.ts
+#EXTINF:-1,USA Investigation Discovery  IPTVultra.com [1280x720]
+http://tv.latintvweb.com:8000/live/LATINTV22w/Tvhd11/16411.ts
+#EXTINF:-1,USA NBC Golf  IPTVultra.com [1280x720]
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/16412.ts
+#EXTINF:-1,USA Network (US)  IPTVultra.com [1280x720]
+http://tv.latintvweb.com:8000/live/LATINTV22w/Tvhd11/16413.ts
+#EXTINF:-1,USA SYFY HD  IPTVultra.com [1024x576]
+http://tv.latintvweb.com:8000/live/LATINTV22w/Tvhd11/16414.ts
+#EXTINF:-1,USA TNT HD  IPTVultra.com [640x368]
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/16415.ts
+#EXTINF:-1,USA: ANIMAL PLANET HD  IPTVultra.com [1920x1088]
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/16471.ts
+#EXTINF:-1,USA: Bloomberg TV  IPTVultra.com [1920x1088]
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/16453.ts
+#EXTINF:-1,USA: Bloomberg Europe  IPTVultra.com [1280x720]
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/16468.ts
+#EXTINF:-1,USA: C Span 2  IPTVultra.com [1024x576]
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/16473.ts
+#EXTINF:-1,USA: C Span 3  IPTVultra.com [1024x576]
+http://tv.latintvweb.com:8000/live/LATINTV22w/Tvhd11/16474.ts
+#EXTINF:-1,USA: Cinemax East HD  IPTVultra.com [1920x1088]
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/16465.ts
+#EXTINF:-1,USA: Cinemax MoreMax  IPTVultra.com [1920x1088]
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/16464.ts
+#EXTINF:-1,USA: CW11  IPTVultra.com [1280x720]
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/16463.ts
+#EXTINF:-1,USA: ESPN 2 HD  IPTVultra.com [1280x720]
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/16477.ts
+#EXTINF:-1,USA: ESPN News US HD  IPTVultra.com [1280x720]
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/16441.ts
+#EXTINF:-1,USA: ESPN U HD  IPTVultra.com [1280x720]
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/16440.ts
+#EXTINF:-1,USA: FIGHT SPORT  IPTVultra.com [720x576]
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/16498.ts
+#EXTINF:-1,USA: Fine Living  IPTVultra.com [720x576]
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/16461.ts
+#EXTINF:-1,USA: FOX 43  IPTVultra.com [1280x720]
+http://tv.latintvweb.com:8000/live/JulioCesar/JulioCesar/16478.ts
+#EXTINF:-1,USA: Fox SPORTS 506 HD  IPTVultra.com [1280x720]
+http://tv.latintvweb.com:8000/live/LATINTV22w/Tvhd11/16479.ts
+#EXTINF:-1,USA: FUEL HD  IPTVultra.com [1920x1088]
+http://tv.latintvweb.com:8000/live/LATINTV22w/Tvhd11/16460.ts
+#EXTINF:-1,USA: HGTV HD  IPTVultra.com [640x368]
+http://tv.latintvweb.com:8000/live/edgar/edgar/16459.ts
+#EXTINF:-1,USA: Lifetime Movie Network HD  IPTVultra.com [1920x1088]
+http://tv.latintvweb.com:8000/live/manu/manu/16438.ts
+#EXTINF:-1,USA: MLB Network HD  IPTVultra.com [960x720]
+http://tv.latintvweb.com:8000/live/LATINTV22w/Tvhd11/16481.ts
+#EXTINF:-1,USA: MSG HD  IPTVultra.com [544x480]
+http://tv.latintvweb.com:8000/live/LATINTV22w/Tvhd11/16437.ts
+#EXTINF:-1,USA: MY9 TV  IPTVultra.com [688x384]
+http://tv.latintvweb.com:8000/live/LATINTV22w/Tvhd11/16449.ts
+#EXTINF:-1,USA: NFL Network 1  IPTVultra.com [1280x720]
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/16469.ts
+#EXTINF:-1,USA: SEC Network FHD  IPTVultra.com [1280x720]
+http://tv.latintvweb.com:8000/live/LATINTV22w/Tvhd11/16490.ts
+#EXTINF:-1,USA: Smile Of A Child  IPTVultra.com [640x480]
+http://tv.latintvweb.com:8000/live/edgar/edgar/16456.ts
+#EXTINF:-1,USA: TBS HD  IPTVultra.com [1280x720]
+http://tv.latintvweb.com:8000/live/LATINTV22w/Tvhd11/16491.ts
+#EXTINF:-1,USA:CA | Sportsnet 360 HD  IPTVultra.com [1280x720]
+http://tv.latintvweb.com:8000/live/manu/manu/16492.ts
+#EXTINF:-1,USA:CA | TSN1  IPTVultra.com [960x544]
+http://tv.latintvweb.com:8000/live/LATINTV22w/Tvhd11/16493.ts
+#EXTINF:-1,USA:CA | TSN2  IPTVultra.com [1280x720]
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/16494.ts
+#EXTINF:-1,USA:CA | TSN3  IPTVultra.com [1280x720]
+http://tv.latintvweb.com:8000/live/torres1/torres1/16495.ts
+#EXTINF:-1,USA:CA | TSN5  IPTVultra.com [1280x720]
+http://tv.latintvweb.com:8000/live/torres1/torres1/16497.ts
+#EXTINF:-1,USA:BABY TV SPANISH  IPTVultra.com [1280x720]
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/11559.ts
+#EXTINF:-1,USA:BEIN ENGLISH HD  IPTVultra.com [1920x1088]
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/11610.ts
+#EXTINF:-1,USA:CHILLER  IPTVultra.com [1280x720]
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/11595.ts
+#EXTINF:-1,USA:CINE SONY  IPTVultra.com [1280x720]
+http://tv.latintvweb.com:8000/live/LATINTV22w/Tvhd11/11564.ts
+#EXTINF:-1,USA:CNBC  IPTVultra.com [1280x720]
+http://tv.latintvweb.com:8000/live/LATINTV22w/Tvhd11/11572.ts
+#EXTINF:-1,USA:CNBC WORLD  IPTVultra.com [1280x720]
+http://tv.latintvweb.com:8000/live/LATINTV22w/Tvhd11/11571.ts
+#EXTINF:-1,USA:ENTERTAINMENT  IPTVultra.com [1280x720]
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/11594.ts
+#EXTINF:-1,USA:FOX BUINESS  IPTVultra.com [1280x720]
+http://tv.latintvweb.com:8000/live/edgar/edgar/11569.ts
+#EXTINF:-1,USA:FOX NEWS  IPTVultra.com [1280x720]
+http://tv.latintvweb.com:8000/live/torres1/torres1/11570.ts
+#EXTINF:-1,USA:FOX SOCCER PLUS  IPTVultra.com [1280x720]
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/11604.ts
+#EXTINF:-1,USA:FOX SPORT 1  IPTVultra.com [1280x720]
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/11614.ts
+#EXTINF:-1,USA:FOX SPORT 2  IPTVultra.com [1280x720]
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/11613.ts
+#EXTINF:-1,USA:FUSE  IPTVultra.com [1280x720]
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/11591.ts
+#EXTINF:-1,USA:FXM  IPTVultra.com [1280x720]
+http://tv.latintvweb.com:8000/live/edgar/edgar/11589.ts
+#EXTINF:-1,USA:FYI  IPTVultra.com [1280x720]
+http://tv.latintvweb.com:8000/live/LATINTV22w/Tvhd11/11587.ts
+#EXTINF:-1,USA:HALLMARK  IPTVultra.com [1920x1088]
+http://tv.latintvweb.com:8000/live/LATINTV22w/Tvhd11/11577.ts
+#EXTINF:-1,USA:HALLMARK MOVIES MISTERIES  IPTVultra.com [1920x1088]
+http://tv.latintvweb.com:8000/live/manu/manu/11576.ts
+#EXTINF:-1,USA:HISTORY  IPTVultra.com [1280x720]
+http://tv.latintvweb.com:8000/live/JulioCesar/JulioCesar/11586.ts
+#EXTINF:-1,USA:LIFETIME MOVIE NETWROK  IPTVultra.com [1280x720]
+http://tv.latintvweb.com:8000/live/LATINTV22w/Tvhd11/11574.ts
+#EXTINF:-1,USA:MSNBC  IPTVultra.com [1280x720]
+http://tv.latintvweb.com:8000/live/JulioCesar/JulioCesar/11568.ts
+#EXTINF:-1,USA:NAT GEO MUNDO  IPTVultra.com [1280x720]
+http://tv.latintvweb.com:8000/live/LATINTV22w/Tvhd11/11584.ts
+#EXTINF:-1,USA:NAT GEO WILD  IPTVultra.com [1280x720]
+http://tv.latintvweb.com:8000/live/LATINTV22w/Tvhd11/11583.ts
+#EXTINF:-1,USA:NBC  IPTVultra.com [1280x720]
+http://tv.latintvweb.com:8000/live/LATINTV22w/Tvhd11/11626.ts
+#EXTINF:-1,USA:NBC UNIVERSO  IPTVultra.com [1280x720]
+http://tv.latintvweb.com:8000/live/manu/manu/11601.ts
+#EXTINF:-1,USA:RTP  IPTVultra.com [960x544]
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/11619.ts
+#EXTINF:-1,USA:SYFY  IPTVultra.com [1280x720]
+http://tv.latintvweb.com:8000/live/edgar/edgar/11580.ts
+#EXTINF:-1,USA:TELEXITOS  IPTVultra.com [1280x720]
+http://tv.latintvweb.com:8000/live/JulioCesar/JulioCesar/11617.ts
+#EXTINF:-1,USA:THE GOLF CHANEL  IPTVultra.com [1280x720]
+http://tv.latintvweb.com:8000/live/JulioCesar/JulioCesar/11606.ts
+#EXTINF:-1,USA:USA  IPTVultra.com [1280x720]
+http://tv.latintvweb.com:8000/live/manu/manu/11578.ts
+#EXTINF:-1,USA:VICELAND  IPTVultra.com [1280x720]
+http://tv.latintvweb.com:8000/live/JulioCesar/JulioCesar/11565.ts
+#EXTINF:-1,USA : Starz Encore  IPTVultra.com [1920x800]
+http://tv.latintvweb.com:8000/live/Grego/Grego/16400.ts
+#EXTINF:-1,USA: C Span 2  IPTVultra.com [1920x1088]
+http://teotv.ddns.net:8000/live/marcelino/marcelino/1616.ts
+#EXTINF:-1,USA: PAC 12 Net. (Bay Area)  IPTVultra.com [1920x1088]
+http://teotv.ddns.net:8000/live/marcelino/marcelino/1637.ts
+#EXTINF:-1,USA: ANN7  IPTVultra.com [1920x1088]
+http://teotv.ddns.net:8000/live/marcelino/marcelino/1627.ts
+#EXTINF:-1,USA: C Span 2  IPTVultra.com [1920x1088]
+http://teotv.ddns.net:8000/live/marcelino/marcelino/1617.ts
+#EXTINF:-1,USA: Food Network HD  IPTVultra.com [1920x1088]
+http://teotv.ddns.net:8000/live/marcelino/marcelino/1625.ts
+#EXTINF:-1,USA: C Span 3  IPTVultra.com [1920x1088]
+http://teotv.ddns.net:8000/live/marcelino/marcelino/1618.ts
+#EXTINF:-1,USA: PAC 12 Net. (Arizona)  IPTVultra.com [1920x1088]
+http://teotv.ddns.net:8000/live/marcelino/marcelino/1636.ts
+#EXTINF:-1,USA: HBO HD 1  IPTVultra.com [1920x1088]
+http://teotv.ddns.net:8000/live/marcelino/marcelino/1641.ts
+#EXTINF:-1,USA: ESPN HD  IPTVultra.com [1920x1088]
+http://teotv.ddns.net:8000/live/marcelino/marcelino/1624.ts
+#EXTINF:-1,USA: E! Entertainment  IPTVultra.com [1920x1088]
+http://teotv.ddns.net:8000/live/marcelino/marcelino/1634.ts
+#EXTINF:-1,USA: cnbc  IPTVultra.com [1920x1088]
+http://teotv.ddns.net:8000/live/marcelino/marcelino/1626.ts
+#EXTINF:-1,USA: CBS News  IPTVultra.com [1920x1088]
+http://teotv.ddns.net:8000/live/marcelino/marcelino/1619.ts
+#EXTINF:-1,USA: PAC 12 Net. (Los Angeles)  IPTVultra.com [1920x1088]
+http://teotv.ddns.net:8000/live/marcelino/marcelino/1638.ts
+#EXTINF:-1,USA: PAC 12 Net. (Oregon)  IPTVultra.com [1920x1088]
+http://teotv.ddns.net:8000/live/marcelino/marcelino/1640.ts
+#EXTINF:-1,USA: WGN News TV  IPTVultra.com [1920x1088]
+http://teotv.ddns.net:8000/live/marcelino/marcelino/1622.ts
+#EXTINF:-1,USA: beIN SPORTS HD  IPTVultra.com [1920x1088]
+http://teotv.ddns.net:8000/live/marcelino/marcelino/4161.ts
+#EXTINF:-1,USA: PAC 12 Washington  IPTVultra.com [1920x1088]
+http://teotv.ddns.net:8000/live/marcelino/marcelino/1621.ts
+#EXTINF:-1,USA: QVC Beauty IQ  IPTVultra.com [1920x1088]
+http://teotv.ddns.net:8000/live/marcelino/marcelino/4069.ts
+#EXTINF:-1,USA: NBC HD  IPTVultra.com [1920x1088]
+http://teotv.ddns.net:8000/live/marcelino/marcelino/4089.ts
+#EXTINF:-1,USA: HBO ZONE HD  IPTVultra.com [1920x1088]
+http://teotv.ddns.net:8000/live/marcelino/marcelino/4114.ts
+#EXTINF:-1,USA: DISCOVERY SHOWCASE  IPTVultra.com [1920x1088]
+http://teotv.ddns.net:8000/live/marcelino/marcelino/4138.ts
+#EXTINF:-1,USA: LIFE TIME  IPTVultra.com [1920x1088]
+http://teotv.ddns.net:8000/live/marcelino/marcelino/4109.ts
+#EXTINF:-1,USA: ESPN NEWS  IPTVultra.com [1920x1088]
+http://teotv.ddns.net:8000/live/marcelino/marcelino/4132.ts
+#EXTINF:-1,USA: WWE NETWORK HD  IPTVultra.com [1920x1088]
+http://teotv.ddns.net:8000/live/marcelino/marcelino/1614.ts
+#EXTINF:-1,USA: Showtime 2 HD  IPTVultra.com [1920x1088]
+http://teotv.ddns.net:8000/live/marcelino/marcelino/4065.ts
+#EXTINF:-1,USA: OWN HD (Oprah Winfrey TV)  IPTVultra.com [1920x1088]
+http://teotv.ddns.net:8000/live/marcelino/marcelino/4071.ts
+#EXTINF:-1,USA: PAC 12 Net. (Moutain)  IPTVultra.com [1920x1088]
+http://teotv.ddns.net:8000/live/marcelino/marcelino/1639.ts
+#EXTINF:-1,USA: NICKTOONS  IPTVultra.com [1920x1088]
+http://teotv.ddns.net:8000/live/marcelino/marcelino/4073.ts
+#EXTINF:-1,USA: Cinemax East  IPTVultra.com [1920x1088]
+http://teotv.ddns.net:8000/live/marcelino/marcelino/4150.ts
+#EXTINF:-1,USA: NHLTV NETWORK HD  IPTVultra.com [1920x1088]
+http://teotv.ddns.net:8000/live/marcelino/marcelino/4076.ts
+#EXTINF:-1,USA: NICKELODEON KIDS  IPTVultra.com [1920x1088]
+http://teotv.ddns.net:8000/live/marcelino/marcelino/4074.ts
+#EXTINF:-1,USA: NHL NETWORK HD  IPTVultra.com [1920x1088]
+http://teotv.ddns.net:8000/live/marcelino/marcelino/4077.ts
+#EXTINF:-1,USA: Starz Cinema  IPTVultra.com [1920x1088]
+http://teotv.ddns.net:8000/live/marcelino/marcelino/4059.ts
+#EXTINF:-1,USA: SYFY HD  IPTVultra.com [1920x1088]
+http://teotv.ddns.net:8000/live/marcelino/marcelino/4052.ts
+#EXTINF:-1,USA: T.N.T  IPTVultra.com [1920x1088]
+http://teotv.ddns.net:8000/live/marcelino/marcelino/4051.ts
+#EXTINF:-1,USA: Starz Encore East  IPTVultra.com [1920x1088]
+http://teotv.ddns.net:8000/live/marcelino/marcelino/4055.ts
+#EXTINF:-1,USA: Starz West  IPTVultra.com [1920x1088]
+http://teotv.ddns.net:8000/live/marcelino/marcelino/4053.ts
+#EXTINF:-1,USA: TBS HD  IPTVultra.com [1920x1088]
+http://teotv.ddns.net:8000/live/marcelino/marcelino/4049.ts
+#EXTINF:-1,USA: TRUE MOVIES  IPTVultra.com [1920x1088]
+http://teotv.ddns.net:8000/live/marcelino/marcelino/4043.ts
+#EXTINF:-1,USA: TRU TV  IPTVultra.com [1920x1080]
+http://teotv.ddns.net:8000/live/vod/vod/4044.ts
+#EXTINF:-1,USA: PAC 12 Network Live  IPTVultra.com [1920x1080]
+http://teotv.ddns.net:8000/live/vod/vod/1635.ts
+#EXTINF:-1,Movies US: MOREMAX  IPTVultra.com [1920x1080]
+http://system.fpiptv.com:8080/live/allen1/allen1/7557.ts
+#EXTINF:-1,USA Miami: 181. The MIX Radio  IPTVultra.com [1920x1080]
+http://system.fpiptv.com:8080/live/allen1/allen1/4885.ts
+#EXTINF:-1,USA Miami: Caracol 1260 AM  IPTVultra.com [1920x1080]
+http://system.fpiptv.com:8080/live/demouser/demouser/3556.ts
+#EXTINF:-1,USA PPV | CINEMAX  IPTVultra.com [640x368]
+http://system.fpiptv.com:8080/live/tony1/tony1/7999.ts
+#EXTINF:-1,USA PPV | HBO 2  IPTVultra.com [1920x1088]
+http://system.fpiptv.com:8080/live/demouser/demouser/8006.ts
+#EXTINF:-1,USA PPV | HBO COMEDY HD  IPTVultra.com [960x544]
+http://system.fpiptv.com:8080/live/demouser/demouser/8005.ts
+#EXTINF:-1,USA PPV | HBO Direct local east  IPTVultra.com [1920x1080]
+http://system.fpiptv.com:8080/live/allen1/allen1/8004.ts
+#EXTINF:-1,USA PPV | SHOWTIME 2  IPTVultra.com [1920x1080]
+http://system.fpiptv.com:8080/live/allen1/allen1/7995.ts
+#EXTINF:-1,USA PPV | SHOWTIME EXTREME  IPTVultra.com [1920x1080]
+http://system.fpiptv.com:8080/live/allen1/allen1/7994.ts
+#EXTINF:-1,USA PPV | SHOWTIME FAMILY ZONE  IPTVultra.com [1920x1080]
+http://system.fpiptv.com:8080/live/allen1/allen1/7993.ts
+#EXTINF:-1,USA PPV | SHOWTIME WEST  IPTVultra.com [1920x1080]
+http://system.fpiptv.com:8080/live/allen1/allen1/7990.ts
+#EXTINF:-1,USA PPV | STARZ CINEMA Local  IPTVultra.com [1920x1080]
+http://system.fpiptv.com:8080/live/allen1/allen1/7987.ts
+#EXTINF:-1,USA PPV | STARZ COMEDY  IPTVultra.com [1920x1080]
+http://system.fpiptv.com:8080/live/allen1/allen1/7986.ts
+#EXTINF:-1,USA PPV | CINEMAX ACTIONMAX  IPTVultra.com [1920x1080]
+http://system.fpiptv.com:8080/live/demouser/demouser/7998.ts
+#EXTINF:-1,USA PPV | CINEMAX MOREMAX  IPTVultra.com [1920x1080]
+http://system.fpiptv.com:8080/live/demouser/demouser/7997.ts
+#EXTINF:-1,USA PPV | CINEMAX THRILLERMAX HD  IPTVultra.com [1920x1080]
+http://system.fpiptv.com:8080/live/demouser/demouser/7996.ts
+#EXTINF:-1,USA PPV | HBO FAMILY HD  IPTVultra.com [1920x1080]
+http://system.fpiptv.com:8080/live/demouser/demouser/8003.ts
+#EXTINF:-1,USA PPV | HBO HD  IPTVultra.com [1920x1080]
+http://system.fpiptv.com:8080/live/demouser/demouser/8002.ts
+#EXTINF:-1,USA PPV | HBO SIGNATURE  IPTVultra.com [1920x1080]
+http://system.fpiptv.com:8080/live/demouser/demouser/8001.ts
+#EXTINF:-1,USA PPV | HBO ZONE  IPTVultra.com [1920x1080]
+http://system.fpiptv.com:8080/live/demouser/demouser/8000.ts
+#EXTINF:-1,USA PPV | SHOWTIME HD  IPTVultra.com [1920x1080]
+http://system.fpiptv.com:8080/live/demouser/demouser/7992.ts
+#EXTINF:-1,USA PPV | SHOWTIME SHOWCASE HD  IPTVultra.com [1920x1080]
+http://system.fpiptv.com:8080/live/demouser/demouser/7991.ts
+#EXTINF:-1,USA PPV | STARZ CINEMA Local  IPTVultra.com [1920x1080]
+http://system.fpiptv.com:8080/live/demouser/demouser/7989.ts
+#EXTINF:-1,USA PPV | STARZ CINEMA Local  IPTVultra.com [1920x1080]
+http://system.fpiptv.com:8080/live/demouser/demouser/7988.ts
+#EXTINF:-1,USA PPV | STARZ EDGE  IPTVultra.com [1920x1080]
+http://system.fpiptv.com:8080/live/demouser/demouser/7985.ts
+#EXTINF:-1,USA PPV | STARZ WEST  IPTVultra.com [1920x1080]
+http://system.fpiptv.com:8080/live/demouser/demouser/7984.ts
