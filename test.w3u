@@ -1,0 +1,251 @@
+
+                 
+                   "name": "Kênh RADIO",
+                   "image": "https://s11.postimg.org/thmlpy4zn/radio.png",
+               
+                   "stations": [
+ 						{
+    "name":"Đài Tiếng nói VN 1 - VOV1",
+    "url":"rtmp://210.245.60.242:1935/nghehevov1/vov1" 
+  },
+  {
+    "name":"Đài Tiếng nói VN 2 - VOV2",
+    "url":"rtmp://210.245.60.242:1935/nghehevov2/vov2" 
+
+  },
+  {
+    "name":"Đài Tiếng nói VN 3 - VOV3",
+    "url":"rtmp://210.245.60.242:1935/nghehevov3/vov3" 
+
+  },
+  {
+    "name":"XONE Radio",
+    "url":"http://118.69.80.81:8000/http://118.69.80.81:8000" 
+
+  },
+  {
+     "name":"Đài Tiếng nói VN 5",
+    "url":"rtmp://210.245.60.242/vov5/vov5" 
+  },
+  {
+    "name":"VOV 247",
+    "url":"rtmp://210.245.60.242:1935/vov247/vov247" 
+  },
+  {
+    "name":"VOV Giao thông Hà Nội",
+    "url":"http://stream2.mobiradio.vn/vovradio/vovgthn.stream/chunklist.m3u8" 
+
+  },
+  {
+    "name":"VOV Giao thông HCM",
+    "url":"rtmp://210.245.60.242:1935/vovgtsg/vovgtsg"  
+
+  },
+  {
+    "name":"Joy FM - Radio sức khỏe",
+    "url":"rtmp://radio.joyfm.vn:1935/live/RadioOnline" 
+  },
+  {
+    "name":"Tp.HCM FM 95.6MHz",
+    "url":"rtmp://221.132.38.110:1935/live/channel1" 
+
+  },
+  {
+    "name":"Tp.HCM AM 610KHz",
+    "url":"rtmp://221.132.38.110:1935/live/channel2" 
+  },
+  {
+    "name":"Tp.HCM FM 99.9MHz",
+    "url":"rtmp://221.132.38.110:1935/live/channel3"  
+
+  },
+  {
+    "name":"Đài Hà Nội (FM 90)",
+    "url":"rtmp://123.30.185.123/live/hn1audio"  
+
+  },
+  {
+    "name":"Tin tức & Giải trí (Cherry Radio)",
+    "url":"http://192.240.102.195:9055/stream.mp3" 
+
+  },
+  {
+    "name":"Nhạc trữ tình (Cherry Radio)",
+    "url":"http://68.168.101.146:8454/stream.mp3" 
+
+  },
+   {
+    "name":"VOA tiếng Việt",
+    "url":"http://voa-56.ng.akacast.akamaistream.net/7/670/322068/v1/ibb.akacast.akamaistream.net/voa-56||||http://69.22.149.199/7/670/322068/v1/ibb.akacast.akamaistream.net/voa-56" 
+
+  },
+  {
+    "name":"An Giang",
+    "url":"rtmp://113.161.212.25/live/radio" 
+
+  },
+  {
+    "name":"Bạc Liêu",
+    "url":"rtmp://118.69.205.213/livepkgr/livestream2?adbe-live-event=liveevent" 
+  },
+  {
+    "name":"Bắc Kạn",
+    "url":"http://118.107.76.15:1983/live/BKradio.stream/playlist.m3u8" 
+
+  },
+  {
+    "name":"Bến Tre",
+    "url":"rtmp://113.163.94.245/livepkgr/audiostream" 
+
+  },
+  {
+    "name":"Bình Phước",
+    "url":"http://118.69.197.145/hls/radio.m3u8" 
+
+  },
+  {
+ 
+    "name":"Cà Mau",
+    "url":"rtmp://113.161.220.254/livepkgr/livestream4" 
+  },
+  {
+    
+
+    "name":"Cần Thơ",
+    "url":"rtmp://tv.canthotv.vn/livepkgr/livestream4?adbe-live-event=liveevent" 
+
+  },
+  {
+
+    "name":"Đà Nẵng",
+    "url":"http://drtdnglive.e49a7c38.cdnviet.com/liveradio/playlist.m3u8" 
+
+  },
+  {
+   
+
+    "name":"Đắk Nông",
+    "url":"rtmp://222.255.158.22:1935/live2/phatthanh" 
+  },
+  {
+
+    "name":"Đồng Tháp",
+    "url":"rtmp://123.30.110.170:1939/thdt/radio" 
+
+  },
+  {
+
+    "name":"Gia Lai",
+    "url":"http://113.161.25.3:8134/hls-live/livepkgr/_definst_/liveevent/radio.m3u8" 
+
+  },
+  {
+
+    "name":"Hà Giang",
+    "url":"http://118.107.76.15:1983/live/HGradio.stream/playlist.m3u8" 
+  },
+   {
+
+    "name":"Hải Dương",
+    "url":"http://113.160.131.11:8000/" 
+  },
+  {
+
+    "name":"Hải Phòng",
+    "url":"http://118.107.76.15:1983/live/HPradio.stream/playlist.m3u8" 
+  },
+  {
+
+    "name":"Hậu Giang",
+    "url":"rtmp://123.30.110.170:1939/hgradio/pthg" 
+  },
+   {
+
+    "name":"Huế",
+    "url":"rtmp://118.69.176.149:1936/live/radio" 
+
+  },
+  {
+
+    "name":"Khánh Hòa",
+    "url":"http://210.245.20.94/hls/radio.m3u8" 
+  },
+  {
+
+    "name":"Kiên Giang",
+    "url":"http://tv.kgtv.vn/hls/kgaudio.m3u8" 
+
+  },
+  {
+
+    "name":"Kon Tum",
+    "url":"http://117.2.88.22/hls-live/livepkgr/_definst_/liveevent/kontumaudio.m3u8" 
+
+  },
+  {
+    
+    "name":"Long An",
+    "url":"http://113.161.229.13/hls-live/livepkgr/_definst_/liveevent/radio.m3u8" 
+
+  },
+  {
+
+    "name":"Ninh Bình",
+    "url":"http://117.6.94.35:8001/" 
+  },
+  {
+
+    "name":"Ninh Thuận",
+    "url":"rtmp://203.113.166.233/live/NTV_AUDIO" 
+
+  },
+  {
+
+    "name":"Quảng Nam",
+    "url":"rtmp://113.161.6.157:1935/live/audiostream" 
+  },
+   {
+    
+    "name":"Quảng Ninh Radio 1",
+    "url":"rtmp://123.29.68.44/hctv/vsrd001" 
+  },
+  {
+    "name":"Quảng Ninh Radio 2",
+    "url":"rtmp://123.29.68.44/hctv/vsrd004" 
+  },
+  {
+    "name":"Sóc Trăng",
+    "url":"rtmp://115.78.3.164/live/FMsoctrang" 
+
+  },
+  {
+    "name":"Sơn La",
+    "url":"http://118.107.76.15:1983/live/SLradio.stream/playlist.m3u8" 
+
+  },
+  {
+     "name":"Tiền Giang",
+    "url":"rtmp://123.30.141.4:1935/live/radio" 
+  },
+  {
+    "name":"Tuyên Quang",
+    "url":"rtmp://210.245.89.40:1935/live/liveaudiostream" 
+  },
+  {
+    
+    "name":"Vũng Tàu",
+    "url":"rtmp://113.163.216.24:80/livepkgr/livestream" 
+  },
+  {
+     "name":"Yên Bái",
+    "url":"rtmp://123.30.186.141/oflaDemo/livestream" 
+  }
+                        
+ 
+                    ]
+        },
+ 
+ 
+ 
+                ]
+}
