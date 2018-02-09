@@ -1,1268 +1,1737 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-ID="" tvg-name="♠♠♠♠ USA ♠♠♠♠" tvg-logo="" group-title="",♠♠♠♠ USA ♠♠♠♠
-http://12345.today:5555/live/axn140/Cqe4dert/34225.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | USA NETWORK HD" tvg-logo="" group-title="USA",USA | USA NETWORK HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14866.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | HGTV" tvg-logo="" group-title="USA",USA | HGTV
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14841.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | Discovery HD" tvg-logo="" group-title="USA",USA | Discovery HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14826.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | HISTORY" tvg-logo="" group-title="USA",USA | HISTORY
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14842.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | DISNEY XD HD" tvg-logo="" group-title="USA",USA | DISNEY XD HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14825.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | FX HD" tvg-logo="" group-title="USA",USA | FX HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14833.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | HallMark HD" tvg-logo="" group-title="USA",USA | HallMark HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14836.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | ID HD" tvg-logo="" group-title="USA",USA | ID HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14264.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | ADULT SWIM HD" tvg-logo="" group-title="USA",USA | ADULT SWIM HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14893.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | LIFETIME HD" tvg-logo="" group-title="USA",USA | LIFETIME HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14834.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | BRAVO HD" tvg-logo="" group-title="USA",USA | BRAVO HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/13852.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | TLC HD" tvg-logo="" group-title="USA",USA | TLC HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14863.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | FreeForm HD" tvg-logo="" group-title="USA",USA | FreeForm HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/13559.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | SPIKE HD" tvg-logo="" group-title="USA",USA | SPIKE HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14853.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | SYFY HD" tvg-logo="" group-title="USA",USA | SYFY HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14860.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | VH1 HD" tvg-logo="" group-title="USA",USA | VH1 HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14850.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | TNT_HD" tvg-logo="" group-title="USA",USA | TNT_HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14832.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | CARTOON NETWORK" tvg-logo="" group-title="USA",USA | CARTOON NETWORK
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14845.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | Cinemax 5 Star Max" tvg-logo="" group-title="USA",USA | Cinemax 5 Star Max
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14824.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | CINEMAX HD" tvg-logo="" group-title="USA",USA | CINEMAX HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14822.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | Cinemax MoreMax HD" tvg-logo="" group-title="USA",USA | Cinemax MoreMax HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14823.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | COOKING CHANNEL" tvg-logo="" group-title="USA",USA | COOKING CHANNEL
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14828.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | E!" tvg-logo="" group-title="USA",USA | E!
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14829.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | ESPN" tvg-logo="" group-title="USA",USA | ESPN
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14830.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | ESPN 2" tvg-logo="" group-title="USA",USA | ESPN 2
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14831.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | Golf HD" tvg-logo="" group-title="USA",USA | Golf HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14835.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | HBO HD 1" tvg-logo="" group-title="USA",USA | HBO HD 1
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14838.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | HBO Signature" tvg-logo="" group-title="USA",USA | HBO Signature
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14839.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | HBO Zone" tvg-logo="" group-title="USA",USA | HBO Zone
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14840.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | IFC" tvg-logo="" group-title="USA",USA | IFC
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14851.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | National Geographic-US" tvg-logo="" group-title="USA",USA | National Geographic-US
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14827.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | NBA HD" tvg-logo="" group-title="USA",USA | NBA HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14847.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | NBC Sport" tvg-logo="" group-title="USA",USA | NBC Sport
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14844.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | NHL Network" tvg-logo="" group-title="USA",USA | NHL Network
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14849.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | Red Bull TV" tvg-logo="" group-title="USA",USA | Red Bull TV
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14837.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | RT America" tvg-logo="" group-title="USA",USA | RT America
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14865.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | Showtime" tvg-logo="" group-title="USA",USA | Showtime
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14852.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | Starz Cinema HD" tvg-logo="" group-title="USA",USA | Starz Cinema HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14858.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | Starz Encore" tvg-logo="" group-title="USA",USA | Starz Encore
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14846.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | TBS" tvg-logo="" group-title="USA",USA | TBS
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14861.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | Tennis Channel HD" tvg-logo="" group-title="USA",USA | Tennis Channel HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14862.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | The Blaze" tvg-logo="" group-title="USA",USA | The Blaze
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14859.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | TSN-1" tvg-logo="" group-title="USA",USA | TSN-1
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14854.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | TSN 2" tvg-logo="" group-title="USA",USA | TSN 2
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14855.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | TSN 3" tvg-logo="" group-title="USA",USA | TSN 3
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14856.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | TSN 4" tvg-logo="" group-title="USA",USA | TSN 4
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14857.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | HBO Comedy" tvg-logo="" group-title="USA",USA | HBO Comedy
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/12224.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | HBO ESAT HD" tvg-logo="" group-title="USA",USA | HBO ESAT HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/12233.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | NBC GOLF HD" tvg-logo="" group-title="USA",USA | NBC GOLF HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/12223.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | TBS HD" tvg-logo="" group-title="USA",USA | TBS HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/12235.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | UTV IE HD" tvg-logo="" group-title="USA",USA | UTV IE HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/9530.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | Bloomberg TV HD" tvg-logo="" group-title="USA",USA | Bloomberg TV HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/9195.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | C-Span 1HD" tvg-logo="" group-title="USA",USA | C-Span 1HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/8811.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | C-Span 2HD" tvg-logo="" group-title="USA",USA | C-Span 2HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/8810.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | C-Span 3HD" tvg-logo="" group-title="USA",USA | C-Span 3HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/8809.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | COOKING CHANNEL HD" tvg-logo="" group-title="USA",USA | COOKING CHANNEL HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/13823.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | CW HD" tvg-logo="" group-title="USA",USA | CW HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/13885.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | DESTINATION AMERICA HD" tvg-logo="" group-title="USA",USA | DESTINATION AMERICA HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/13822.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | ESPN HD" tvg-logo="" group-title="USA",USA | ESPN HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/13773.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | FIGHT BOX" tvg-logo="" group-title="USA",USA | FIGHT BOX
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/13771.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | HBO Family HD" tvg-logo="" group-title="USA",USA | HBO Family HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/13878.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | ShowTime HD" tvg-logo="" group-title="USA",USA | ShowTime HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/13868.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | ShowTime 2 HD" tvg-logo="" group-title="USA",USA | ShowTime 2 HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/13866.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | TRU TV" tvg-logo="" group-title="USA",USA | TRU TV
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/13811.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | WE TV" tvg-logo="" group-title="USA",USA | WE TV
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/13801.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | Cinemax" tvg-logo="" group-title="USA",USA | Cinemax
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/13890.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | Showtime HDTV" tvg-logo="" group-title="USA",USA | Showtime HDTV
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/13865.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | ESPN2" tvg-logo="" group-title="USA",USA | ESPN2
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/13497.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | FOX 13 News HD" tvg-logo="" group-title="USA",USA | FOX 13 News HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14266.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | FS1 HD" tvg-logo="" group-title="USA",USA | FS1 HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14578.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | FS2 HD" tvg-logo="" group-title="USA",USA | FS2 HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14579.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | CBSN HD" tvg-logo="" group-title="USA",USA | CBSN HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14616.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | NASA TV HD" tvg-logo="" group-title="USA",USA | NASA TV HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14261.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | Red Bull TV HD" tvg-logo="" group-title="USA",USA | Red Bull TV HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14260.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | RT America HD" tvg-logo="" group-title="USA",USA | RT America HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14259.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | Tuff TV" tvg-logo="" group-title="USA",USA | Tuff TV
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14256.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | NICKENITO" tvg-logo="" group-title="USA",USA | NICKENITO
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/13791.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | 30A HD" tvg-logo="" group-title="USA",USA | 30A HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14273.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | Pawleys Island" tvg-logo="" group-title="USA",USA | Pawleys Island
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14271.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA |  BET" tvg-logo="" group-title="USA",USA |  BET
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/13831.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | CBSN-HD" tvg-logo="" group-title="USA",USA | CBSN-HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/13794.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | Fox Sports HD" tvg-logo="" group-title="USA",USA | Fox Sports HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/13775.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | InfoWars" tvg-logo="" group-title="USA",USA | InfoWars
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14265.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | MSNBC HD" tvg-logo="" group-title="USA",USA | MSNBC HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14262.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | NBA" tvg-logo="" group-title="USA",USA | NBA
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/7284.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | TSN 1HD B" tvg-logo="" group-title="USA",USA | TSN 1HD B
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/151.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | SyFy HD B" tvg-logo="" group-title="USA",USA | SyFy HD B
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/7273.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | ABC News 9 (Orlando)" tvg-logo="" group-title="USA",USA | ABC News 9 (Orlando)
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14275.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | Atlanta Channel" tvg-logo="" group-title="USA",USA | Atlanta Channel
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14274.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | Bloomberg TV B" tvg-logo="" group-title="USA",USA | Bloomberg TV B
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14270.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | C-SPAN" tvg-logo="" group-title="USA",USA | C-SPAN
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14269.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | FX HD B" tvg-logo="" group-title="USA",USA | FX HD B
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/12239.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | FX HD C" tvg-logo="" group-title="USA",USA | FX HD C
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/12222.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | PAC-12 Oregon" tvg-logo="" group-title="USA",USA | PAC-12 Oregon
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/12208.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | TSN 4HD B" tvg-logo="" group-title="USA",USA | TSN 4HD B
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/12245.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | AMC HD B" tvg-logo="" group-title="USA",USA | AMC HD B
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/13838.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | AMC HD" tvg-logo="" group-title="USA",USA | AMC HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/13853.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | HISTORY B" tvg-logo="" group-title="USA",USA | HISTORY B
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/13876.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | TBS HD B" tvg-logo="" group-title="USA",USA | TBS HD B
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/13857.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | TNT HD B" tvg-logo="" group-title="USA",USA | TNT HD B
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/13807.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | GRIT TV Movies" tvg-logo="" group-title="USA",USA | GRIT TV Movies
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/13869.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | HGTV B" tvg-logo="" group-title="USA",USA | HGTV B
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/13840.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | TVW-2" tvg-logo="" group-title="USA",USA | TVW-2
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14255.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USA | WWE SD" tvg-logo="" group-title="USA",USA | WWE SD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14253.ts
-#EXTINF:-1 tvg-ID="" tvg-name="♠♠♠♠ BEIN SPORTS ♠♠♠♠" tvg-logo="" group-title="",♠♠♠♠ BEIN SPORTS ♠♠♠♠
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/15017.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AR | Bein Sport News  HD-A" tvg-logo="" group-title="ARABIC",AR | Bein Sport News  HD-A
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14423.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AR | Bein Sport News  HD-B" tvg-logo="" group-title="ARABIC",AR | Bein Sport News  HD-B
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14424.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AR | Bein Sport1 HD-A" tvg-logo="" group-title="ARABIC",AR | Bein Sport1 HD-A
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14422.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AR | Bein Sport1 HD-B" tvg-logo="" group-title="ARABIC",AR | Bein Sport1 HD-B
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14421.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AR | Bein Sport2 HD-A" tvg-logo="" group-title="ARABIC",AR | Bein Sport2 HD-A
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14419.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AR | Bein Sport2 HD-B" tvg-logo="" group-title="ARABIC",AR | Bein Sport2 HD-B
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14418.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AR | Bein Sport3 HD-A" tvg-logo="" group-title="ARABIC",AR | Bein Sport3 HD-A
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14416.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AR | Bein Sport3 HD-B" tvg-logo="" group-title="ARABIC",AR | Bein Sport3 HD-B
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14415.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AR | Bein Sport4 HD-A" tvg-logo="" group-title="ARABIC",AR | Bein Sport4 HD-A
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14413.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AR | Bein Sport4 HD-B" tvg-logo="" group-title="ARABIC",AR | Bein Sport4 HD-B
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14412.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AR | Bein Sport5 HD-A" tvg-logo="" group-title="ARABIC",AR | Bein Sport5 HD-A
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14410.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AR | Bein Sport5 HD-B" tvg-logo="" group-title="ARABIC",AR | Bein Sport5 HD-B
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14409.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AR | Bein Sport6 HD-A" tvg-logo="" group-title="ARABIC",AR | Bein Sport6 HD-A
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14407.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AR | Bein Sport6 HD-B" tvg-logo="" group-title="ARABIC",AR | Bein Sport6 HD-B
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14406.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AR | Bein Sport7 HD-A" tvg-logo="" group-title="ARABIC",AR | Bein Sport7 HD-A
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14404.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AR | Bein Sport7 HD-B" tvg-logo="" group-title="ARABIC",AR | Bein Sport7 HD-B
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14403.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AR | Bein Sport8 HD-A" tvg-logo="" group-title="ARABIC",AR | Bein Sport8 HD-A
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14401.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AR | Bein Sport8 HD-B" tvg-logo="" group-title="ARABIC",AR | Bein Sport8 HD-B
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14400.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AR | Bein Sport9 HD-A" tvg-logo="" group-title="ARABIC",AR | Bein Sport9 HD-A
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14398.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AR | Bein Sport9 HD-B" tvg-logo="" group-title="ARABIC",AR | Bein Sport9 HD-B
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14397.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AR | Bein Sport10 HD-A" tvg-logo="" group-title="ARABIC",AR | Bein Sport10 HD-A
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14395.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AR | Bein Sport10 HD-B" tvg-logo="" group-title="ARABIC",AR | Bein Sport10 HD-B
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14394.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AR | Bein Sport11 HD-A" tvg-logo="" group-title="ARABIC",AR | Bein Sport11 HD-A
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14392.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AR | Bein Sport11 HD-B" tvg-logo="" group-title="ARABIC",AR | Bein Sport11 HD-B
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14391.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AR | Bein Sport12 HD-A" tvg-logo="" group-title="ARABIC",AR | Bein Sport12 HD-A
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14389.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AR | Bein Sport12 HD-B" tvg-logo="" group-title="ARABIC",AR | Bein Sport12 HD-B
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14388.ts
+#EXTINF:-1,Playboy TV tvg-logo="https://raw.githubusercontent.com/tcm21DIY/MediaIPTV/master/sport.png"
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/1278.ts
 
-
-#EXTINF:-1 tvg-ID="" tvg-name="▃ ▄ ▅ ▆ ▇ █ FRENCH █ ▇ ▆ ▅ ▄ ▃" tvg-logo="" group-title="",▃ ▄ ▅ ▆ ▇ █ FRENCH █ ▇ ▆ ▅ ▄ ▃
-http://12345.today:5555/live/axn140/Cqe4dert/34225.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: TF1 HD" tvg-logo="" group-title="FRANCE",FR: TF1 HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/313.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: C8 HD" tvg-logo="" group-title="FRANCE",FR: C8 HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/315.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: M6 HD" tvg-logo="" group-title="FRANCE",FR: M6 HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/314.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: W9" tvg-logo="" group-title="FRANCE",FR: W9
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/316.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: HD1" tvg-logo="" group-title="FRANCE",FR: HD1
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/317.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: RTL9 HD" tvg-logo="" group-title="FRANCE",FR: RTL9 HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/328.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: FRANCE O" tvg-logo="" group-title="FRANCE",FR: FRANCE O
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/324.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: FRANCE3 HD" tvg-logo="" group-title="FRANCE",FR: FRANCE3 HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/321.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: FRANCE4 HD" tvg-logo="" group-title="FRANCE",FR: FRANCE4 HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/322.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PARIS PREMIERE HD" tvg-logo="" group-title="FRANCE",PARIS PREMIERE HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14598.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Nrj12 HD" tvg-logo="" group-title="FRANCE",Nrj12 HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14599.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: FRANCE5 HD" tvg-logo="" group-title="FRANCE",FR: FRANCE5 HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/323.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: CHASSE ET PECHE" tvg-logo="" group-title="FRANCE",FR: CHASSE ET PECHE
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/8450.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: BEIN SPORTS 01HD" tvg-logo="" group-title="FRANCE",FR: BEIN SPORTS 01HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/6960.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: BEIN SPORTS 02HD" tvg-logo="" group-title="FRANCE",FR: BEIN SPORTS 02HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/6959.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: BEIN SPORTS 3HD" tvg-logo="" group-title="FRANCE",FR: BEIN SPORTS 3HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/6958.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: Bein sport 1 HD" tvg-logo="" group-title="FRANCE",FR: Bein sport 1 HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/11040.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: Bein sport 2 HD" tvg-logo="" group-title="FRANCE",FR: Bein sport 2 HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/11039.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: bein sport 3 HD" tvg-logo="" group-title="FRANCE",FR: bein sport 3 HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/11038.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: Bein Sports max 4 HD" tvg-logo="" group-title="FRANCE",FR: Bein Sports max 4 HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/11037.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: Bein Sports max 5 HD" tvg-logo="" group-title="FRANCE",FR: Bein Sports max 5 HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/11036.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: Bein Sports max 6 HD" tvg-logo="" group-title="FRANCE",FR: Bein Sports max 6 HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/11035.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: Bein Sports max 7 HD" tvg-logo="" group-title="FRANCE",FR: Bein Sports max 7 HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/11034.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: Bein Sports max 8 HD" tvg-logo="" group-title="FRANCE",FR: Bein Sports max 8 HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/11033.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: SFR SPORT 1HD" tvg-logo="" group-title="FRANCE",FR: SFR SPORT 1HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/6954.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: EURO SPORT 1HD" tvg-logo="" group-title="FRANCE",FR: EURO SPORT 1HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/8087.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: EURO SPORT 2HD" tvg-logo="" group-title="FRANCE",FR: EURO SPORT 2HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/8088.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: EQUIDIA- Live HD" tvg-logo="" group-title="FRANCE",FR: EQUIDIA- Live HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/2235.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: LEQUIPE 21HD" tvg-logo="" group-title="FRANCE",FR: LEQUIPE 21HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/8086.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: D17" tvg-logo="" group-title="FRANCE",FR: D17
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/318.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: ACTION HD" tvg-logo="" group-title="FRANCE",FR: ACTION HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/2239.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: NAT GEO WILD HD" tvg-logo="" group-title="FRANCE",FR: NAT GEO WILD HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/1057.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: USHUAIA TV HD" tvg-logo="" group-title="FRANCE",FR: USHUAIA TV HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/2252.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: SERIE CLUB HD" tvg-logo="" group-title="FRANCE",FR: SERIE CLUB HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/2228.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: VOYAGE HD 1280" tvg-logo="" group-title="FRANCE",FR: VOYAGE HD 1280
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/8391.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: TEVA HD" tvg-logo="" group-title="FRANCE",FR: TEVA HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/8389.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: SCIENCE & VIE HD" tvg-logo="" group-title="FRANCE",FR: SCIENCE & VIE HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/8390.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: RTS UN HD" tvg-logo="" group-title="FRANCE",FR: RTS UN HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/8373.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: BFMTV HD" tvg-logo="" group-title="FRANCE",FR: BFMTV HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/8382.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: AB1 HD" tvg-logo="" group-title="FRANCE",FR: AB1 HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/8395.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: AB3 HD" tvg-logo="" group-title="FRANCE",FR: AB3 HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/8396.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: Planete CI" tvg-logo="" group-title="FRANCE",FR: Planete CI
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/8060.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: RTL-TVI" tvg-logo="" group-title="FRANCE",FR: RTL-TVI
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/8442.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: CSTAR" tvg-logo="" group-title="FRANCE",FR: CSTAR
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/8448.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: COMEDIE+" tvg-logo="" group-title="FRANCE",FR: COMEDIE+
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/8449.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: ANIMAUX" tvg-logo="" group-title="FRANCE",FR: ANIMAUX
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/8452.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: TREK HD" tvg-logo="" group-title="FRANCE",FR: TREK HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/8785.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: GULLI HD" tvg-logo="" group-title="FRANCE",FR: GULLI HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/4221.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: PIWI" tvg-logo="" group-title="FRANCE",FR: PIWI
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/4222.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: BOOMERANG" tvg-logo="" group-title="FRANCE",FR: BOOMERANG
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/1052.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: TELETOON HD" tvg-logo="" group-title="FRANCE",FR: TELETOON HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/8386.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: DISNEY XD" tvg-logo="" group-title="FRANCE",FR: DISNEY XD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/8058.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: TIJI HD" tvg-logo="" group-title="FRANCE",FR: TIJI HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/8788.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: A_LA_CARTE_1" tvg-logo="" group-title="FRANCE",FR: A_LA_CARTE_1
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/11525.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: A_LA_CARTE_3" tvg-logo="" group-title="FRANCE",FR: A_LA_CARTE_3
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/11527.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: M6-HD+" tvg-logo="" group-title="FRANCE",FR: M6-HD+
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/11490.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: OCS MAX HD" tvg-logo="" group-title="FRANCE",FR: OCS MAX HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/12154.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: PARAMOUNT CHANNEL HD" tvg-logo="" group-title="FRANCE",FR: PARAMOUNT CHANNEL HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/12156.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: TCM" tvg-logo="" group-title="FRANCE",FR: TCM
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/12158.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: CINE EMOTION" tvg-logo="" group-title="FRANCE",FR: CINE EMOTION
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/2237.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: CINE CLASSIC HD" tvg-logo="" group-title="FRANCE",FR: CINE CLASSIC HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/1051.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: CANAL CINEMA HD" tvg-logo="" group-title="FRANCE",FR: CANAL CINEMA HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/336.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: CANAL DECALE HD" tvg-logo="" group-title="FRANCE",FR: CANAL DECALE HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/335.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: CANAL SERIES" tvg-logo="" group-title="FRANCE",FR: CANAL SERIES
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/1041.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: CANAL J" tvg-logo="" group-title="FRANCE",FR: CANAL J
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/8435.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: BOX OFFICE 1" tvg-logo="" group-title="FRANCE",FR: BOX OFFICE 1
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/11016.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: BOX OFFICE 2" tvg-logo="" group-title="FRANCE",FR: BOX OFFICE 2
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/11015.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: BOX OFFICE 5" tvg-logo="" group-title="FRANCE",FR: BOX OFFICE 5
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/11012.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: CANAL PLAY 2" tvg-logo="" group-title="FRANCE",FR: CANAL PLAY 2
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/4430.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: CANAL PLAY 6" tvg-logo="" group-title="FRANCE",FR: CANAL PLAY 6
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/4434.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: CANAL PLAY 7" tvg-logo="" group-title="FRANCE",FR: CANAL PLAY 7
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/4435.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: CANAL PLAY 8" tvg-logo="" group-title="FRANCE",FR: CANAL PLAY 8
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/4436.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: CANAL PLAY 9" tvg-logo="" group-title="FRANCE",FR: CANAL PLAY 9
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/4437.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: CANAL PLAY 10" tvg-logo="" group-title="FRANCE",FR: CANAL PLAY 10
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/4443.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: A_LA_CARTE_4" tvg-logo="" group-title="FRANCE",FR: A_LA_CARTE_4
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/1246.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: A_LA_CARTE_5" tvg-logo="" group-title="FRANCE",FR: A_LA_CARTE_5
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/1247.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: A_LA_CARTE_7" tvg-logo="" group-title="FRANCE",FR: A_LA_CARTE_7
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/1249.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR_Canal_Series_HD" tvg-logo="" group-title="FRANCE",FR_Canal_Series_HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/12850.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR_Cine_Premier" tvg-logo="" group-title="FRANCE",FR_Cine_Premier
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/12847.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR_DISNEY_CINEMA_HD" tvg-logo="" group-title="FRANCE",FR_DISNEY_CINEMA_HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/12846.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR_NATIONAL_GEOGRAPHIC" tvg-logo="" group-title="FRANCE",FR_NATIONAL_GEOGRAPHIC
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/12840.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR-NATIONALGEO-WILD-HD" tvg-logo="" group-title="FRANCE",FR-NATIONALGEO-WILD-HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/12839.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: 13eme Rue HQ" tvg-logo="" group-title="FRANCE",FR: 13eme Rue HQ
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/12871.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: Canal_Sport_HD" tvg-logo="" group-title="FRANCE",FR: Canal_Sport_HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/12849.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: CHERIE 25 HD" tvg-logo="" group-title="FRANCE",FR: CHERIE 25 HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/12848.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: CINE FX HD" tvg-logo="" group-title="FRANCE",FR: CINE FX HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/12837.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: DISNEY_JUNIOR_HD" tvg-logo="" group-title="FRANCE",FR: DISNEY_JUNIOR_HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/12845.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: 6TER" tvg-logo="" group-title="FRANCE",FR: 6TER
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14543.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: BOING" tvg-logo="" group-title="FRANCE",FR: BOING
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14570.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: CARTON NETWORK" tvg-logo="" group-title="FRANCE",FR: CARTON NETWORK
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14574.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: DISCOVERY HD" tvg-logo="" group-title="FRANCE",FR: DISCOVERY HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14545.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: DiSCOVERY-SCIENCE HD" tvg-logo="" group-title="FRANCE",FR: DiSCOVERY-SCIENCE HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14571.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: DISNEY CINEMA" tvg-logo="" group-title="FRANCE",FR: DISNEY CINEMA
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14572.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: E!" tvg-logo="" group-title="FRANCE",FR: E!
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14573.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: LCI" tvg-logo="" group-title="FRANCE",FR: LCI
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14575.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: LCP" tvg-logo="" group-title="FRANCE",FR: LCP
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14576.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: NICKELEDEON HD" tvg-logo="" group-title="FRANCE",FR: NICKELEDEON HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14544.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: NUMERO 23" tvg-logo="" group-title="FRANCE",FR: NUMERO 23
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14567.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: SFR SPORT 2" tvg-logo="" group-title="FRANCE",FR: SFR SPORT 2
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14577.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: SFR SPORT 3" tvg-logo="" group-title="FRANCE",FR: SFR SPORT 3
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14581.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: L'Equipe 21" tvg-logo="" group-title="FRANCE",FR: L'Equipe 21
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/12842.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: M6 Music" tvg-logo="" group-title="FRANCE",FR: M6 Music
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/12841.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: PLANETE A&E HD" tvg-logo="" group-title="FRANCE",FR: PLANETE A&E HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/12838.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR:EURONEWS" tvg-logo="" group-title="FRANCE",FR:EURONEWS
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/12844.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: Canal+ HD" tvg-logo="" group-title="FRANCE",FR: Canal+ HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/15112.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: CANAL+_FAMILY_HD" tvg-logo="" group-title="FRANCE",FR: CANAL+_FAMILY_HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/15113.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: BFM TV" tvg-logo="" group-title="FRANCE",FR: BFM TV
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14587.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: CHERIE 25" tvg-logo="" group-title="FRANCE",FR: CHERIE 25
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14588.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: EQUIDIA LIVE HD" tvg-logo="" group-title="FRANCE",FR: EQUIDIA LIVE HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14589.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: Fashion TV" tvg-logo="" group-title="FRANCE",FR: Fashion TV
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14590.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: GAME ONE" tvg-logo="" group-title="FRANCE",FR: GAME ONE
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14591.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: HISTOIRE" tvg-logo="" group-title="FRANCE",FR: HISTOIRE
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14592.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: Kombat Sport HD" tvg-logo="" group-title="FRANCE",FR: Kombat Sport HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14602.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: L EQUIPE 21 HD" tvg-logo="" group-title="FRANCE",FR: L EQUIPE 21 HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14593.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: Motorsport.tv" tvg-logo="" group-title="FRANCE",FR: Motorsport.tv
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14594.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="FRANCE",FR: NATIONAL GEOGRAPHIC HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14601.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: NT1" tvg-logo="" group-title="FRANCE",FR: NT1
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14600.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: SFR SPORT 5" tvg-logo="" group-title="FRANCE",FR: SFR SPORT 5
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14597.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: TOONAMI" tvg-logo="" group-title="FRANCE",FR: TOONAMI
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14596.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR:Foot 24" tvg-logo="" group-title="FRANCE",FR:Foot 24
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/12843.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR:MCM_POP_HD" tvg-logo="" group-title="FRANCE",FR:MCM_POP_HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/12875.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR:Orange_Premium_4" tvg-logo="" group-title="FRANCE",FR:Orange_Premium_4
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/12861.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR:Orange_Premium_5" tvg-logo="" group-title="FRANCE",FR:Orange_Premium_5
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/12862.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR:Orange_Premium_6" tvg-logo="" group-title="FRANCE",FR:Orange_Premium_6
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/12863.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR:VIRGIN_HD" tvg-logo="" group-title="FRANCE",FR:VIRGIN_HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/12874.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="▃ ▄ ▅ ▆ ▇ █ UK-CH █ ▇ ▆ ▅ ▄ ▃" tvg-logo="" group-title="",▃ ▄ ▅ ▆ ▇ █ UK-CH █ ▇ ▆ ▅ ▄ ▃
-http://12345.today:5555/live/axn140/Cqe4dert/34225.ts
-#EXTINF:-1 tvg-ID="" tvg-name="VIP|UK| Sky Sports premier league" tvg-logo="" group-title="UK",VIP|UK| Sky Sports premier league
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14761.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: BBC NEWS" tvg-logo="" group-title="UK",UK: BBC NEWS
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/3856.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: ITV2" tvg-logo="" group-title="UK",UK: ITV2
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/7917.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: ITV3" tvg-logo="" group-title="UK",UK: ITV3
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/7918.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: ITV4" tvg-logo="" group-title="UK",UK: ITV4
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/7916.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: ITV BE" tvg-logo="" group-title="UK",UK: ITV BE
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/8855.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: E!" tvg-logo="" group-title="UK",UK: E!
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/5136.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: Alibi" tvg-logo="" group-title="UK",UK: Alibi
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/5145.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: TLC" tvg-logo="" group-title="UK",UK: TLC
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/4994.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: FOX" tvg-logo="" group-title="UK",UK: FOX
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/8463.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: Dmax" tvg-logo="" group-title="UK",UK: Dmax
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/3861.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: Home" tvg-logo="" group-title="UK",UK: Home
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/4422.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: Quest" tvg-logo="" group-title="UK",UK: Quest
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/5131.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: ComedyCentral" tvg-logo="" group-title="UK",UK: ComedyCentral
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/4958.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: Rte one HD" tvg-logo="" group-title="UK",UK: Rte one HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/4404.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: E4 UK" tvg-logo="" group-title="UK",UK: E4 UK
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/5150.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: More4" tvg-logo="" group-title="UK",UK: More4
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/4412.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: Really" tvg-logo="" group-title="UK",UK: Really
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/4413.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: LiverPool TV" tvg-logo="" group-title="UK",UK: LiverPool TV
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/4417.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: DRAMA" tvg-logo="" group-title="UK",UK: DRAMA
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/8462.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: UTV" tvg-logo="" group-title="UK",UK: UTV
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/4962.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: BBC 4 HD" tvg-logo="" group-title="UK",UK: BBC 4 HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/3857.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: SKY 1HD" tvg-logo="" group-title="UK",UK: SKY 1HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/8289.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: SKY 2HD" tvg-logo="" group-title="UK",UK: SKY 2HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/8503.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: SKY LIVING" tvg-logo="" group-title="UK",UK: SKY LIVING
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/6895.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: SKY ARTS" tvg-logo="" group-title="UK",UK: SKY ARTS
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/8458.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: SKY ATLANTIC HD" tvg-logo="" group-title="UK",UK: SKY ATLANTIC HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/6896.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: SKY GOOD FOOD" tvg-logo="" group-title="UK",UK: SKY GOOD FOOD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/8857.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: FOOD NETWORK" tvg-logo="" group-title="UK",UK: FOOD NETWORK
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/8598.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: SKY SPORT NEWS HQ" tvg-logo="" group-title="UK",UK: SKY SPORT NEWS HQ
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/4963.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: SKY SPORTS 1HD" tvg-logo="" group-title="UK",UK: SKY SPORTS 1HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/4972.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: SKY SPORTS 2HD" tvg-logo="" group-title="UK",UK: SKY SPORTS 2HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/4970.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: SKY SPORTS 2SD" tvg-logo="" group-title="UK",UK: SKY SPORTS 2SD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/4971.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: SKY SPORTS 3HD" tvg-logo="" group-title="UK",UK: SKY SPORTS 3HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/4968.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: |VIP| SKY SPORTS 4HD" tvg-logo="" group-title="UK",UK: |VIP| SKY SPORTS 4HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/9561.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: SKY SPORTS 4HD" tvg-logo="" group-title="UK",UK: SKY SPORTS 4HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/4967.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: SKY SPORTS 5HD" tvg-logo="" group-title="UK",UK: SKY SPORTS 5HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/4965.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: SKY SPORTS F1 HD" tvg-logo="" group-title="UK",UK: SKY SPORTS F1 HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/8755.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: |VIP| BT SPORT 1HD 1080P" tvg-logo="" group-title="UK",UK: |VIP| BT SPORT 1HD 1080P
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/9522.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: BT Sport 1 HD" tvg-logo="" group-title="UK",UK: BT Sport 1 HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/4991.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: |VIP| BT SPORT 2HD 1080P" tvg-logo="" group-title="UK",UK: |VIP| BT SPORT 2HD 1080P
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/9523.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: BT Sport 2 HD" tvg-logo="" group-title="UK",UK: BT Sport 2 HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/4990.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: |VIP| BT SPORT 3HD 1080P" tvg-logo="" group-title="UK",UK: |VIP| BT SPORT 3HD 1080P
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/9524.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: BT Sport 3 HD" tvg-logo="" group-title="UK",UK: BT Sport 3 HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/8459.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: MUTV" tvg-logo="" group-title="UK",UK: MUTV
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/7129.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: RACING" tvg-logo="" group-title="UK",UK: RACING
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/7128.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: At The Races UK" tvg-logo="" group-title="UK",UK: At The Races UK
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/8505.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: Motors TV UK" tvg-logo="" group-title="UK",UK: Motors TV UK
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/8279.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: Chelsea TV" tvg-logo="" group-title="UK",UK: Chelsea TV
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/4988.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: ID" tvg-logo="" group-title="UK",UK: ID
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/8859.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: Discovery Investigation" tvg-logo="" group-title="UK",UK: Discovery Investigation
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/5151.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: Discovery" tvg-logo="" group-title="UK",UK: Discovery
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/8067.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: Discovery history" tvg-logo="" group-title="UK",UK: Discovery history
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/4987.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: National_Geographic" tvg-logo="" group-title="UK",UK: National_Geographic
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/6900.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: NATGEO WILD" tvg-logo="" group-title="UK",UK: NATGEO WILD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/7143.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: Animal Planet" tvg-logo="" group-title="UK",UK: Animal Planet
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/8284.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Sci-Fi" tvg-logo="" group-title="UK",UK: Sky Sci-Fi
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/8065.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: TRUE MOVIES 02" tvg-logo="" group-title="UK",UK: TRUE MOVIES 02
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/5142.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky_Movies_Premiere" tvg-logo="" group-title="UK",UK: Sky_Movies_Premiere
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/6891.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky-movies-Thriller" tvg-logo="" group-title="UK",UK: Sky-movies-Thriller
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/4956.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky_Movies_Comedy" tvg-logo="" group-title="UK",UK: Sky_Movies_Comedy
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/6893.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky_Movies_ScFi-Horror" tvg-logo="" group-title="UK",UK: Sky_Movies_ScFi-Horror
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/6890.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky_Movies_Modern_Greats" tvg-logo="" group-title="UK",UK: Sky_Movies_Modern_Greats
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/6892.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky_Movies_Action&Adventure" tvg-logo="" group-title="UK",UK: Sky_Movies_Action&Adventure
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/6894.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: CBS Reality UK" tvg-logo="" group-title="UK",UK: CBS Reality UK
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/5137.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK_BOX_OFFICE_2" tvg-logo="" group-title="UK",UK_BOX_OFFICE_2
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/13758.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK_BOX_OFFICE_3" tvg-logo="" group-title="UK",UK_BOX_OFFICE_3
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/13757.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK_BOX_OFFICE_3D_2" tvg-logo="" group-title="UK",UK_BOX_OFFICE_3D_2
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/13755.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK_BOX_OFFICE_3D_3" tvg-logo="" group-title="UK",UK_BOX_OFFICE_3D_3
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/13754.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK_BOX_OFFICE_4" tvg-logo="" group-title="UK",UK_BOX_OFFICE_4
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/13760.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: CHANNEL 5 HD" tvg-logo="" group-title="UK",UK: CHANNEL 5 HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/13993.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: CRIME INVESTIGATION HD" tvg-logo="" group-title="UK",UK: CRIME INVESTIGATION HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/13643.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: SKY SPORTS MAIN EVENT SD" tvg-logo="" group-title="UK",UK: SKY SPORTS MAIN EVENT SD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14096.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: SYFY" tvg-logo="" group-title="UK",UK: SYFY
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/13649.ts
-#EXTINF:-1 tvg-ID="" tvg-name="VIP : SKY SPORTS ACTION FHD" tvg-logo="" group-title="UK",VIP : SKY SPORTS ACTION FHD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14100.ts
-#EXTINF:-1 tvg-ID="" tvg-name="VIP : SKY SPORTS CRICKET1080P" tvg-logo="" group-title="UK",VIP : SKY SPORTS CRICKET1080P
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14099.ts
-#EXTINF:-1 tvg-ID="" tvg-name="VIP :SKY SPORTS MAIN EVENT  1080 P" tvg-logo="" group-title="UK",VIP :SKY SPORTS MAIN EVENT  1080 P
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14097.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: CBS_Action" tvg-logo="" group-title="UK",UK: CBS_Action
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/8473.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: CBS DRAMA" tvg-logo="" group-title="UK",UK: CBS DRAMA
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/8472.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: The Vault" tvg-logo="" group-title="UK",UK: The Vault
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/10013.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: Movies4Men" tvg-logo="" group-title="UK",UK: Movies4Men
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/8599.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: Film 4 HD" tvg-logo="" group-title="UK",UK: Film 4 HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/4411.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: BABY TV" tvg-logo="" group-title="UK",UK: BABY TV
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/5138.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: Nickelodeon" tvg-logo="" group-title="UK",UK: Nickelodeon
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/4975.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: Disney XD" tvg-logo="" group-title="UK",UK: Disney XD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/3862.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: Disney Junior" tvg-logo="" group-title="UK",UK: Disney Junior
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/3863.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: 3E HD" tvg-logo="" group-title="UK",UK: 3E HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14887.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: BBC 1HD" tvg-logo="" group-title="UK",UK: BBC 1HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14881.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: BBC 2HD" tvg-logo="" group-title="UK",UK: BBC 2HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14882.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: Channel 4HD" tvg-logo="" group-title="UK",UK: Channel 4HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14883.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: Discovery Turbo" tvg-logo="" group-title="UK",UK: Discovery Turbo
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14885.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: EIR 2HD" tvg-logo="" group-title="UK",UK: EIR 2HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14891.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: EURO SPORT 1HD" tvg-logo="" group-title="UK",UK: EURO SPORT 1HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14889.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: Premier Sports HD" tvg-logo="" group-title="UK",UK: Premier Sports HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14892.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: RTE 2HD" tvg-logo="" group-title="UK",UK: RTE 2HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14886.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: SETANTA HD" tvg-logo="" group-title="UK",UK: SETANTA HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14890.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK | TRT WORLD HD" tvg-logo="" group-title="UK",UK | TRT WORLD HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14894.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky NEWS 1080p" tvg-logo="" group-title="UK",UK: Sky NEWS 1080p
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14884.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: UNIVERSAL CHANNELS" tvg-logo="" group-title="UK",UK: UNIVERSAL CHANNELS
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14888.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: Disney Channel" tvg-logo="" group-title="UK",UK: Disney Channel
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/3864.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: Nicktoons" tvg-logo="" group-title="UK",UK: Nicktoons
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/6899.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: BOOMERANG" tvg-logo="" group-title="UK",UK: BOOMERANG
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/5130.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: Disnep Channel UK" tvg-logo="" group-title="UK",UK: Disnep Channel UK
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/8283.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: TG 4" tvg-logo="" group-title="UK",UK: TG 4
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/4421.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: MTV_ROCKS" tvg-logo="" group-title="UK",UK: MTV_ROCKS
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/5133.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: MTV" tvg-logo="" group-title="UK",UK: MTV
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/12192.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky News Arabia" tvg-logo="" group-title="UK",UK: Sky News Arabia
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/12193.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK | MTV Base HD" tvg-logo="" group-title="UK",UK | MTV Base HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/12877.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK | MTV Rocks HD" tvg-logo="" group-title="UK",UK | MTV Rocks HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/12876.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK=ABC-News-HD" tvg-logo="" group-title="UK",UK=ABC-News-HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/12880.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: MTV_HITS" tvg-logo="" group-title="UK",UK: MTV_HITS
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/5134.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: CARTOONITO" tvg-logo="" group-title="UK",UK: CARTOONITO
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/10487.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: CBBC" tvg-logo="" group-title="UK",UK: CBBC
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/10488.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: CHALANGE" tvg-logo="" group-title="UK",UK: CHALANGE
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/10489.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: CNBC" tvg-logo="" group-title="UK",UK: CNBC
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/10490.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: Discovery Shed" tvg-logo="" group-title="UK",UK: Discovery Shed
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/10491.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: GOLD" tvg-logo="" group-title="UK",UK: GOLD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/12185.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: Movies24+" tvg-logo="" group-title="UK",UK: Movies24+
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/12190.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: TCM HD" tvg-logo="" group-title="UK",UK: TCM HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/12186.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: Universal" tvg-logo="" group-title="UK",UK: Universal
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/12189.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: PICK" tvg-logo="" group-title="UK",UK: PICK
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/10494.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: TV5 Monde" tvg-logo="" group-title="UK",UK: TV5 Monde
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/10496.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 01" tvg-logo="" group-title="EX-YU",ARENA SPORT 01
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/9083.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 02" tvg-logo="" group-title="EX-YU",ARENA SPORT 02
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/9084.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 03" tvg-logo="" group-title="EX-YU",ARENA SPORT 03
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/9085.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 04" tvg-logo="" group-title="EX-YU",ARENA SPORT 04
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/9086.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ARENA SPORT 05" tvg-logo="" group-title="EX-YU",ARENA SPORT 05
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/9087.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="Shabbi Mahal" tvg-logo="" group-title="SONGS",Shabbi Mahal
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/12922.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Star sports HD2 local" tvg-logo="" group-title="INDIA",Star sports HD2 local
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/13639.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Akhil Feat Adah Sharma" tvg-logo="" group-title="SONGS",Akhil Feat Adah Sharma
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/12930.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DOORIYAN" tvg-logo="" group-title="SONGS",DOORIYAN
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/12927.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Gabru" tvg-logo="" group-title="SONGS",Gabru
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/12924.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Gujarati Colors" tvg-logo="" group-title="INDIA",Gujarati Colors
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/13375.ts
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI Nation Geographic India" tvg-logo="" group-title="INDIA",HINDI Nation Geographic India
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/13071.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Ik Vaar" tvg-logo="" group-title="SONGS",Ik Vaar
-https://youtu.be/mvkvXrEV6-8?list=RDdonHc46Ls1k
-#EXTINF:-1 tvg-ID="" tvg-name="IN: Asianet News" tvg-logo="" group-title="INDIA",IN: Asianet News
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14140.ts
-#EXTINF:-1 tvg-ID="" tvg-name="♣♣♣♣♣Punjabi♣♣♣♣♣" tvg-logo="" group-title="",♣♣♣♣♣Punjabi♣♣♣♣♣
-http://portal.softclientarea.com:9900/live/axn140/lfWbuT6HfU/25899.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PUJABI ZEE PUNJABI INDIA" tvg-logo="" group-title="INDIA",PUJABI ZEE PUNJABI INDIA
-http://dittotvnews.live-s.cdn.bitgravity.com/cdn-live/_definst_/dittotvnews/secure/zee_phhp_iwpl.smil/chunklist_w838489030_b864000.m3u8?e=1516576620&h=917491cf204b4802b27cedb37e730e64
-#EXTINF:-1 tvg-ID="" tvg-name="PUJABI Zee Punjabi uk" tvg-logo="" group-title="INDIA",PUJABI Zee Punjabi uk
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/12623.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PUNJABI | MH1 MUSIC" tvg-logo="" group-title="INDIA",PUNJABI | MH1 MUSIC
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/15088.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PUNJABI 9xTashan" tvg-logo="" group-title="INDIA",PUNJABI 9xTashan
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/12622.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Punjab: 5aab TV" tvg-logo="" group-title="INDIA",Punjab: 5aab TV
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14900.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Punjab: Desi TV" tvg-logo="" group-title="INDIA",Punjab: Desi TV
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14898.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Punjab: Garv Punjab" tvg-logo="" group-title="INDIA",Punjab: Garv Punjab
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14896.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Punjab: Garv Punjab Gurbani" tvg-logo="" group-title="INDIA",Punjab: Garv Punjab Gurbani
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14897.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Punjab: PTC Punjabi UK" tvg-logo="" group-title="INDIA",Punjab: PTC Punjabi UK
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14895.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PUNJABI A One Pujabi" tvg-logo="" group-title="INDIA",PUNJABI A One Pujabi
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/12621.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Punjabi Chakde TV" tvg-logo="" group-title="INDIA",Punjabi Chakde TV
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/12618.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PUNJABI HAMDARD TV" tvg-logo="" group-title="INDIA",PUNJABI HAMDARD TV
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/12611.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PUNJABI JUS One TV" tvg-logo="" group-title="INDIA",PUNJABI JUS One TV
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/12610.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PUNJABI PTC" tvg-logo="" group-title="INDIA",PUNJABI PTC
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/12607.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PUNJABI PTC News" tvg-logo="" group-title="INDIA",PUNJABI PTC News
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/12605.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PUNJABI SIKH TV" tvg-logo="" group-title="INDIA",PUNJABI SIKH TV
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/12601.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Punjab: 9xTashan" tvg-logo="" group-title="INDIA",Punjab: 9xTashan
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14903.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Punjab: JUS Punjabi TV" tvg-logo="" group-title="INDIA",Punjab: JUS Punjabi TV
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14902.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Punjab: PTC Chak De" tvg-logo="" group-title="INDIA",Punjab: PTC Chak De
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14901.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Punjabi -Cine voice Punjabi" tvg-logo="" group-title="INDIA",Punjabi -Cine voice Punjabi
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14990.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Punjabi -DD PUNJAB" tvg-logo="" group-title="INDIA",Punjabi -DD PUNJAB
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14969.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Punjabi -DPD punjabi HD" tvg-logo="" group-title="INDIA",Punjabi -DPD punjabi HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14991.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Punjabi -Gurbani tv" tvg-logo="" group-title="INDIA",Punjabi -Gurbani tv
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14970.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Punjabi -PBN MUSIC" tvg-logo="" group-title="INDIA",Punjabi -PBN MUSIC
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14992.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Punjabi -PRIME ASIA" tvg-logo="" group-title="INDIA",Punjabi -PRIME ASIA
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14971.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Punjabi -PTC NEWS" tvg-logo="" group-title="INDIA",Punjabi -PTC NEWS
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14993.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Punjabi -SAHIB TV" tvg-logo="" group-title="INDIA",Punjabi -SAHIB TV
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14972.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Punjabi -Sanjha Punjab" tvg-logo="" group-title="INDIA",Punjabi -Sanjha Punjab
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14994.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Punjabi -SIKH CHANNEL" tvg-logo="" group-title="INDIA",Punjabi -SIKH CHANNEL
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14995.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Punjabi -Akaal uk" tvg-logo="" group-title="INDIA",Punjabi -Akaal uk
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/15116.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Punjabi -Chandrika tv" tvg-logo="" group-title="INDIA",Punjabi -Chandrika tv
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/15118.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Punjabi -sangat channel uk" tvg-logo="" group-title="INDIA",Punjabi -sangat channel uk
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/15117.ts
-#EXTINF:-1 tvg-ID="" tvg-name="♣♣♣♣♣english♣♣♣♣♣" tvg-logo="" group-title="",♣♣♣♣♣english♣♣♣♣♣
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14968.ts
-#EXTINF:-1 tvg-ID="" tvg-name="English: ETNow" tvg-logo="" group-title="INDIA",English: ETNow
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14967.ts
-#EXTINF:-1 tvg-ID="" tvg-name="English: India Today News" tvg-logo="" group-title="INDIA",English: India Today News
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14966.ts
-#EXTINF:-1 tvg-ID="" tvg-name="English: NDTV 24x7" tvg-logo="" group-title="INDIA",English: NDTV 24x7
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14965.ts
-#EXTINF:-1 tvg-ID="" tvg-name="English: NDTV GoodTimes" tvg-logo="" group-title="INDIA",English: NDTV GoodTimes
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14964.ts
-#EXTINF:-1 tvg-ID="" tvg-name="English: NDTV Profit" tvg-logo="" group-title="INDIA",English: NDTV Profit
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14963.ts
-#EXTINF:-1 tvg-ID="" tvg-name="English: News18 INDIA" tvg-logo="" group-title="INDIA",English: News18 INDIA
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14962.ts
-#EXTINF:-1 tvg-ID="" tvg-name="♣♣♣♣♣Bengali♣♣♣♣♣" tvg-logo="" group-title="",♣♣♣♣♣Bengali♣♣♣♣♣
-http://portal.softclientarea.com:9900/live/axn140/lfWbuT6HfU/25898.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BANG CHANNEL 9" tvg-logo="" group-title="INDIA",BANG CHANNEL 9
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/15077.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BANG CHANNEL I EU" tvg-logo="" group-title="INDIA",BANG CHANNEL I EU
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/15076.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BANG-A  DEEPTO HD" tvg-logo="" group-title="INDIA",BANG-A  DEEPTO HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/15074.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BANG-A  iTV" tvg-logo="" group-title="INDIA",BANG-A  iTV
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/15073.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BANG-A  NEWS 24 HD" tvg-logo="" group-title="INDIA",BANG-A  NEWS 24 HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/15072.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BANG-A AAKASH BANGLA" tvg-logo="" group-title="INDIA",BANG-A AAKASH BANGLA
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/15071.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BANG-A zee bangla cinema" tvg-logo="" group-title="INDIA",BANG-A zee bangla cinema
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/15019.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BANG-A asian tv" tvg-logo="" group-title="INDIA",BANG-A asian tv
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/15068.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BANG-A atn bangla" tvg-logo="" group-title="INDIA",BANG-A atn bangla
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/15067.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BANG-A btv" tvg-logo="" group-title="INDIA",BANG-A btv
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/15061.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BANG-A btv world" tvg-logo="" group-title="INDIA",BANG-A btv world
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/15060.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BANG-A channel 99" tvg-logo="" group-title="INDIA",BANG-A channel 99
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/15058.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BANG-A COLORS BANGLA" tvg-logo="" group-title="INDIA",BANG-A COLORS BANGLA
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/15056.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BANG-A DBC NEWS" tvg-logo="" group-title="INDIA",BANG-A DBC NEWS
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/15055.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BANG-A deshtv" tvg-logo="" group-title="INDIA",BANG-A deshtv
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/15051.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BANG-A DHOOM MUSIC" tvg-logo="" group-title="INDIA",BANG-A DHOOM MUSIC
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/15050.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BANG-A DOOM MUSIC" tvg-logo="" group-title="INDIA",BANG-A DOOM MUSIC
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/15049.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BANG-A etv" tvg-logo="" group-title="INDIA",BANG-A etv
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/15047.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BANG-A G TV" tvg-logo="" group-title="INDIA",BANG-A G TV
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/15046.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BANG-A gaan bangla" tvg-logo="" group-title="INDIA",BANG-A gaan bangla
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/15045.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BANG-A independent" tvg-logo="" group-title="INDIA",BANG-A independent
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/15044.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BANG-A JAMUNA TV" tvg-logo="" group-title="INDIA",BANG-A JAMUNA TV
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/15043.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BANG-A MOVIE BANGLA" tvg-logo="" group-title="INDIA",BANG-A MOVIE BANGLA
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/15038.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BANG-A MUSIC BANGLA" tvg-logo="" group-title="INDIA",BANG-A MUSIC BANGLA
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/15037.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BANG-A NRB TV" tvg-logo="" group-title="INDIA",BANG-A NRB TV
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/15034.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BANG-A R PLUS NEWS" tvg-logo="" group-title="INDIA",BANG-A R PLUS NEWS
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/15031.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BANG-A rtv" tvg-logo="" group-title="INDIA",BANG-A rtv
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/15030.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BANG-A RUPOSHI BANGLA" tvg-logo="" group-title="INDIA",BANG-A RUPOSHI BANGLA
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/15029.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BANG-A SANGEET BANGLA" tvg-logo="" group-title="INDIA",BANG-A SANGEET BANGLA
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/15028.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BANG-A satv" tvg-logo="" group-title="INDIA",BANG-A satv
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/15027.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BANG-A TIME TELEVISION" tvg-logo="" group-title="INDIA",BANG-A TIME TELEVISION
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/15021.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Bangla: Asian TV" tvg-logo="" group-title="INDIA",Bangla: Asian TV
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14961.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Bangla: ATN Bangla" tvg-logo="" group-title="INDIA",Bangla: ATN Bangla
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14960.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Bangla: ATN News" tvg-logo="" group-title="INDIA",Bangla: ATN News
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14959.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Bangla: BTV World" tvg-logo="" group-title="INDIA",Bangla: BTV World
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14958.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Bangla: Channel i" tvg-logo="" group-title="INDIA",Bangla: Channel i
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14957.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Bangla: Ekushey TV" tvg-logo="" group-title="INDIA",Bangla: Ekushey TV
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14956.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Bangla: Independent TV" tvg-logo="" group-title="INDIA",Bangla: Independent TV
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14955.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Bangla: RTV Bangla" tvg-logo="" group-title="INDIA",Bangla: RTV Bangla
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14954.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Bangla | DISCOVERY CHANNEL BANGLA" tvg-logo="" group-title="INDIA",Bangla | DISCOVERY CHANNEL BANGLA
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/15086.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Bangla: SA TV" tvg-logo="" group-title="INDIA",Bangla: SA TV
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14953.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Bangla: Sangsad Bangladesh" tvg-logo="" group-title="INDIA",Bangla: Sangsad Bangladesh
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14952.ts
-#EXTINF:-1 tvg-ID="" tvg-name="♣♣♣♣♣Gujrati♣♣♣♣♣" tvg-logo="" group-title="",♣♣♣♣♣Gujrati♣♣♣♣♣
-http://portal.softclientarea.com:9900/live/axn140/lfWbuT6HfU/25897.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Gujrati |  Garv Shri Swaminarayan" tvg-logo="" group-title="INDIA",Gujrati |  Garv Shri Swaminarayan
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14999.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Gujrati |  Lakshya TV gujarati" tvg-logo="" group-title="INDIA",Gujrati |  Lakshya TV gujarati
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14997.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Gujrati |  TV9 GUJRATI" tvg-logo="" group-title="INDIA",Gujrati |  TV9 GUJRATI
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/15002.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Gujrati | Colors_Gujarati" tvg-logo="" group-title="INDIA",Gujrati | Colors_Gujarati
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14998.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Gujrati | GUJRATI BHAJAN" tvg-logo="" group-title="INDIA",Gujrati | GUJRATI BHAJAN
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/15000.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Gujrati | GUJRATI NATAK" tvg-logo="" group-title="INDIA",Gujrati | GUJRATI NATAK
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/15001.ts
-#EXTINF:-1 tvg-ID="" tvg-name="♠♠♠♠Kannada♠♠♠♠" tvg-logo="" group-title="",♠♠♠♠Kannada♠♠♠♠
-http://portal.softclientarea.com:9900/live/axn140/lfWbuT6HfU/11529.ts
-#EXTINF:-1 tvg-ID="" tvg-name="♠♠♠♠Malayalam♠♠♠♠" tvg-logo="" group-title="",♠♠♠♠Malayalam♠♠♠♠
-http://portal.softclientarea.com:9900/live/axn140/lfWbuT6HfU/11527.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Mala Kairali We" tvg-logo="" group-title="INDIA",Mala Kairali We
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/13361.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Mala Mala People" tvg-logo="" group-title="INDIA",Mala Mala People
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/13344.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Malayalam: MBO" tvg-logo="" group-title="INDIA",Malayalam: MBO
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14941.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Malayalam: People TV" tvg-logo="" group-title="INDIA",Malayalam: People TV
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14940.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Malayalam: Power Vision TV" tvg-logo="" group-title="INDIA",Malayalam: Power Vision TV
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14939.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Malayalam: Surya Movies" tvg-logo="" group-title="INDIA",Malayalam: Surya Movies
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14938.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Malayalam: Surya TV" tvg-logo="" group-title="INDIA",Malayalam: Surya TV
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14937.ts
-#EXTINF:-1 tvg-ID="" tvg-name="♣♣♣♣♣Marathi♣♣♣♣♣" tvg-logo="" group-title="",♣♣♣♣♣Marathi♣♣♣♣♣
-http://portal.softclientarea.com:9900/live/axn140/lfWbuT6HfU/25900.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Marathi: 9xJhakaas" tvg-logo="" group-title="INDIA",Marathi: 9xJhakaas
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14936.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Marathi: Colors Marathi" tvg-logo="" group-title="INDIA",Marathi: Colors Marathi
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14935.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Marathi: Saam TV" tvg-logo="" group-title="INDIA",Marathi: Saam TV
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14934.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Marathi: Star Pravah" tvg-logo="" group-title="INDIA",Marathi: Star Pravah
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14933.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Marathi: Zee Marathi" tvg-logo="" group-title="INDIA",Marathi: Zee Marathi
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14932.ts
-#EXTINF:-1 tvg-ID="" tvg-name="♣♣♣♣Tamil♣♣♣♣" tvg-logo="" group-title="",♣♣♣♣Tamil♣♣♣♣
-http://portal.softclientarea.com:9900/live/axn140/lfWbuT6HfU/7436.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Tamil: Jaya Movies" tvg-logo="" group-title="INDIA",Tamil: Jaya Movies
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14909.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Tamil: Jaya Movies UK" tvg-logo="" group-title="INDIA",Tamil: Jaya Movies UK
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14908.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Tamil Jaya Max" tvg-logo="" group-title="INDIA",Tamil Jaya Max
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/13451.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Tamil Polimer" tvg-logo="" group-title="INDIA",Tamil Polimer
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/13432.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Tamil: Jaya Plus Tamil" tvg-logo="" group-title="INDIA",Tamil: Jaya Plus Tamil
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14907.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Tamil: Jaya TV" tvg-logo="" group-title="INDIA",Tamil: Jaya TV
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14906.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Tamil: Jaya TV UK" tvg-logo="" group-title="INDIA",Tamil: Jaya TV UK
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14905.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Tamil: KBO" tvg-logo="" group-title="INDIA",Tamil: KBO
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14904.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Tamil: KTV" tvg-logo="" group-title="INDIA",Tamil: KTV
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14916.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Tamil: Raj Digital Plus" tvg-logo="" group-title="INDIA",Tamil: Raj Digital Plus
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14915.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Tamil: Raj TV" tvg-logo="" group-title="INDIA",Tamil: Raj TV
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14914.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Tamil: Raj TV UK" tvg-logo="" group-title="INDIA",Tamil: Raj TV UK
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14913.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Tamil: Star Vijay" tvg-logo="" group-title="INDIA",Tamil: Star Vijay
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14912.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Tamil: Sun Music" tvg-logo="" group-title="INDIA",Tamil: Sun Music
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14911.ts
-#EXTINF:-1 tvg-ID="" tvg-name="♠♠♠♠Telugu♠♠♠♠" tvg-logo="" group-title="",♠♠♠♠Telugu♠♠♠♠
-http://portal.softclientarea.com:9900/live/axn140/lfWbuT6HfU/11524.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Telugu: Aradana TV" tvg-logo="" group-title="INDIA",Telugu: Aradana TV
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14931.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Telugu: Bharat Today" tvg-logo="" group-title="INDIA",Telugu: Bharat Today
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14930.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Telugu: ETV Telugu" tvg-logo="" group-title="INDIA",Telugu: ETV Telugu
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14929.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Telugu: Gemini Comedy" tvg-logo="" group-title="INDIA",Telugu: Gemini Comedy
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14928.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Telugu: Gemini Movies" tvg-logo="" group-title="INDIA",Telugu: Gemini Movies
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14927.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Telugu: Id TV" tvg-logo="" group-title="INDIA",Telugu: Id TV
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14926.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Telugu: Maa Gold" tvg-logo="" group-title="INDIA",Telugu: Maa Gold
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14925.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Telugu: Maa Movies" tvg-logo="" group-title="INDIA",Telugu: Maa Movies
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14924.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Telugu: Maa TV" tvg-logo="" group-title="INDIA",Telugu: Maa TV
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14923.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Telugu: PoojaTV" tvg-logo="" group-title="INDIA",Telugu: PoojaTV
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14922.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Telugu: StudioN" tvg-logo="" group-title="INDIA",Telugu: StudioN
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14920.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Telugu: Tollywood TV" tvg-logo="" group-title="INDIA",Telugu: Tollywood TV
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14919.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Telugu: TV5" tvg-logo="" group-title="INDIA",Telugu: TV5
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14918.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Telugu: Zee Telugu" tvg-logo="" group-title="INDIA",Telugu: Zee Telugu
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14917.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Teleugu ETV UK" tvg-logo="" group-title="INDIA",Teleugu ETV UK
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/13746.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Telugu Gemini Comedy" tvg-logo="" group-title="INDIA",Telugu Gemini Comedy
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/13741.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Telugu Gemini Movies" tvg-logo="" group-title="INDIA",Telugu Gemini Movies
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/13740.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Telugu Maa Gold" tvg-logo="" group-title="INDIA",Telugu Maa Gold
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/13737.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Telugu Maa Movies UK" tvg-logo="" group-title="INDIA",Telugu Maa Movies UK
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/13735.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Telugu Maa TV UK" tvg-logo="" group-title="INDIA",Telugu Maa TV UK
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/13732.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Telugu Mana TV" tvg-logo="" group-title="INDIA",Telugu Mana TV
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/13731.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Telugu Tollywood TV" tvg-logo="" group-title="INDIA",Telugu Tollywood TV
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/13726.ts
-#EXTINF:-1 tvg-ID="" tvg-name="▃ ▄ ▅ ▆ ▇ █ AFRICAN █ ▇ ▆ ▅ ▄ ▃" tvg-logo="" group-title="",▃ ▄ ▅ ▆ ▇ █ AFRICAN █ ▇ ▆ ▅ ▄ ▃
-http://12345.today:5555/live/axn140/Cqe4dert/34225.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AF: Congo TV" tvg-logo="" group-title="AFRICA",AF: Congo TV
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/12042.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AF: DABANGA SUDAN" tvg-logo="" group-title="AFRICA",AF: DABANGA SUDAN
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/12043.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AF: EBC ETHIOPIA" tvg-logo="" group-title="AFRICA",AF: EBC ETHIOPIA
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/12044.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AF: NollyWood TV" tvg-logo="" group-title="AFRICA",AF: NollyWood TV
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/12082.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AF: Ortb TV" tvg-logo="" group-title="AFRICA",AF: Ortb TV
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/12049.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AF: Rave TV (Nigeria)" tvg-logo="" group-title="AFRICA",AF: Rave TV (Nigeria)
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/12052.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AF: RTS2 (SN2) (Senegal)" tvg-logo="" group-title="AFRICA",AF: RTS2 (SN2) (Senegal)
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/12059.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AF: SNTV" tvg-logo="" group-title="AFRICA",AF: SNTV
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/12063.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AF: SOMALI CABLE" tvg-logo="" group-title="AFRICA",AF: SOMALI CABLE
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/12064.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AF: TV Continental Nigeria" tvg-logo="" group-title="AFRICA",AF: TV Continental Nigeria
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/12070.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AF: Vox Africa" tvg-logo="" group-title="AFRICA",AF: Vox Africa
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/12074.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AF: Walf TV" tvg-logo="" group-title="AFRICA",AF: Walf TV
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/12075.ts
-#EXTINF:-1 tvg-ID="" tvg-name="▃ ▄ ▅ ▆ ▇ █ Kurdish █ ▇ ▆ ▅ ▄ ▃" tvg-logo="" group-title="",▃ ▄ ▅ ▆ ▇ █ Kurdish █ ▇ ▆ ▅ ▄ ▃
-http://sadatek57.dyndns.tv:8000/live/axn140/skype/241.ts
-#EXTINF:-1 tvg-ID="" tvg-name="KR: Newline HD" tvg-logo="" group-title="KURD",KR: Newline HD
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/8944.ts
-#EXTINF:-1 tvg-ID="" tvg-name="KR: Peace TV" tvg-logo="" group-title="KURD",KR: Peace TV
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/8943.ts
-#EXTINF:-1 tvg-ID="" tvg-name="KR: Speda TV" tvg-logo="" group-title="KURD",KR: Speda TV
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/8947.ts
-#EXTINF:-1 tvg-ID="" tvg-name="KR: UTV HAWLER" tvg-logo="" group-title="KURD",KR: UTV HAWLER
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/8946.ts
-#EXTINF:-1 tvg-ID="" tvg-name="KR: Waar TV" tvg-logo="" group-title="KURD",KR: Waar TV
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/8942.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Independence Day: Resurgence (2016)" tvg-logo="http://4k.paksatonline.com:5210/images/1628841.jpg" group-title="",Independence Day: Resurgence (2016)
-http://s1.smartview.live:80/movie/alswarxz/rb5FO6la02/8411.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="Jalaibee 2015" tvg-logo="http://4k.paksatonline.com:5210/images/3460084.jpg" group-title="MOVIES",Jalaibee 2015
-http://s1.smartview.live:80/movie/alswarxz/rb5FO6la02/8357.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="K2: The Ultimate High (1991)" tvg-logo="http://4k.paksatonline.com:5210/images/0102178.jpg" group-title="",K2: The Ultimate High (1991)
-http://s1.smartview.live:80/movie/alswarxz/rb5FO6la02/8453.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="Kingsglaive: Final Fantasy XV (2016)" tvg-logo="http://4k.paksatonline.com:5210/images/5595168.jpg" group-title="",Kingsglaive: Final Fantasy XV (2016)
-http://s1.smartview.live:80/movie/alswarxz/rb5FO6la02/8412.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="Laal Rang (2016)" tvg-logo="http://4k.paksatonline.com:5210/images/5600714.jpg" group-title="MOVIES",Laal Rang (2016)
-http://s1.smartview.live:80/movie/alswarxz/rb5FO6la02/8366.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="Lights Out (2016)" tvg-logo="http://4k.paksatonline.com:5210/images/4786282.jpg" group-title="",Lights Out (2016)
-http://s1.smartview.live:80/movie/alswarxz/rb5FO6la02/8413.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="Madaari 2016" tvg-logo="http://4k.paksatonline.com:5210/images/5713232.jpg" group-title="MOVIES",Madaari 2016
-http://s1.smartview.live:80/movie/alswarxz/rb5FO6la02/8356.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="Mohenjo Daro 2016" tvg-logo="http://4k.paksatonline.com:5210/images/3859980.jpg" group-title="MOVIES",Mohenjo Daro 2016
-http://s1.smartview.live:80/movie/alswarxz/rb5FO6la02/8358.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="Nerve (2016)" tvg-logo="http://4k.paksatonline.com:5210/images/3531824.jpg" group-title="",Nerve (2016)
-http://s1.smartview.live:80/movie/alswarxz/rb5FO6la02/8407.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="Nine Lives (2016)" tvg-logo="http://4k.paksatonline.com:5210/images/4383594.jpg" group-title="",Nine Lives (2016)
-http://s1.smartview.live:80/movie/alswarxz/rb5FO6la02/8476.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="Rustom 2016" tvg-logo="http://4k.paksatonline.com:5210/images/5165344.jpg" group-title="MOVIES",Rustom 2016
-http://s1.smartview.live:80/movie/alswarxz/rb5FO6la02/8364.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="Saat Uchakkey (2016)" tvg-logo="http://4k.paksatonline.com:5210/images/5637188.jpg" group-title="",Saat Uchakkey (2016)
-http://s1.smartview.live:80/movie/alswarxz/rb5FO6la02/8422.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="Skiptrace (2016)" tvg-logo="http://4k.paksatonline.com:5210/images/2238032.jpg" group-title="",Skiptrace (2016)
-http://s1.smartview.live:80/movie/alswarxz/rb5FO6la02/8420.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="Star Trek Beyond (2016)" tvg-logo="http://4k.paksatonline.com:5210/images/2660888.jpg" group-title="",Star Trek Beyond (2016)
-http://s1.smartview.live:80/movie/alswarxz/rb5FO6la02/8464.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="Sultan 2016" tvg-logo="http://4k.paksatonline.com:5210/images/4832640.jpg" group-title="MOVIES",Sultan 2016
-http://s1.smartview.live:80/movie/alswarxz/rb5FO6la02/8363.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="The Conjuring 2 (2016)" tvg-logo="http://4k.paksatonline.com:5210/images/3065204.jpg" group-title="",The Conjuring 2 (2016)
-http://s1.smartview.live:80/movie/alswarxz/rb5FO6la02/8425.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="The First Avenger: Civil War (2016)" tvg-logo="http://4k.paksatonline.com:5210/images/3498820.jpg" group-title="",The First Avenger: Civil War (2016)
-http://s1.smartview.live:80/movie/alswarxz/rb5FO6la02/8409.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="The Jungle Book (2016)" tvg-logo="http://4k.paksatonline.com:5210/images/3040964.jpg" group-title="",The Jungle Book (2016)
-http://s1.smartview.live:80/movie/alswarxz/rb5FO6la02/8415.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="The Legend of Tarzan (2016)" tvg-logo="http://4k.paksatonline.com:5210/images/0918940.jpg" group-title="",The Legend of Tarzan (2016)
-http://s1.smartview.live:80/movie/alswarxz/rb5FO6la02/8406.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="Warcraft: The Beginning (2016)" tvg-logo="http://4k.paksatonline.com:5210/images/0803096.jpg" group-title="",Warcraft: The Beginning (2016)
-http://s1.smartview.live:80/movie/alswarxz/rb5FO6la02/8416.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="X-Men: Apocalypse (2016)" tvg-logo="http://4k.paksatonline.com:5210/images/3385516.jpg" group-title="",X-Men: Apocalypse (2016)
-http://s1.smartview.live:80/movie/alswarxz/rb5FO6la02/8417.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="Zootopia (2016)" tvg-logo="http://4k.paksatonline.com:5210/images/2948356.jpg" group-title="",Zootopia (2016)
-http://s1.smartview.live:80/movie/alswarxz/rb5FO6la02/8418.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="Alice Through the Looking Glass  (2016)" tvg-logo="http://4k.paksatonline.com:5210/images/2567026.jpg" group-title="",Alice Through the Looking Glass  (2016)
-http://s1.smartview.live:80/movie/alswarxz/rb5FO6la02/8408.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="Angry Birds (2016)" tvg-logo="http://4k.paksatonline.com:5210/images/5751564.jpg" group-title="",Angry Birds (2016)
-http://s1.smartview.live:80/movie/alswarxz/rb5FO6la02/8424.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="Bad Moms (2016)" tvg-logo="http://4k.paksatonline.com:5210/images/4651520.jpg" group-title="",Bad Moms (2016)
-http://s1.smartview.live:80/movie/alswarxz/rb5FO6la02/8475.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="Beiimaan Love (2016)" tvg-logo="http://4k.paksatonline.com:5210/images/5227468.jpg" group-title="",Beiimaan Love (2016)
-http://s1.smartview.live:80/movie/alswarxz/rb5FO6la02/8421.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="Blood Father (2016)" tvg-logo="http://4k.paksatonline.com:5210/images/3647498.jpg" group-title="",Blood Father (2016)
-http://s1.smartview.live:80/movie/alswarxz/rb5FO6la02/8428.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="Budhia Singh: Born to Run (2016)" tvg-logo="http://4k.paksatonline.com:5210/images/5805252.jpg" group-title="MOVIES",Budhia Singh: Born to Run (2016)
-http://s1.smartview.live:80/movie/alswarxz/rb5FO6la02/8361.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="Captain Fantastic (2016)" tvg-logo="http://4k.paksatonline.com:5210/images/3553976.jpg" group-title="",Captain Fantastic (2016)
-http://s1.smartview.live:80/movie/alswarxz/rb5FO6la02/8423.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="Deadpool (2016)" tvg-logo="http://4k.paksatonline.com:5210/images/1431045.jpg" group-title="",Deadpool (2016)
-http://s1.smartview.live:80/movie/alswarxz/rb5FO6la02/8410.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="Dishoom (2016)" tvg-logo="http://4k.paksatonline.com:5210/images/3679060.jpg" group-title="",Dishoom (2016)
-http://s1.smartview.live:80/movie/alswarxz/rb5FO6la02/8465.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="Ghayal Once Again (2016)" tvg-logo="http://4k.paksatonline.com:5210/images/1258197.jpg" group-title="",Ghayal Once Again (2016)
-http://s1.smartview.live:80/movie/alswarxz/rb5FO6la02/8477.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="Happy Bhaag Jayegi (2016)" tvg-logo="http://4k.paksatonline.com:5210/images/5472758.jpg" group-title="",Happy Bhaag Jayegi (2016)
-http://s1.smartview.live:80/movie/alswarxz/rb5FO6la02/8466.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="Housefull 3 (2016)" tvg-logo="http://4k.paksatonline.com:5210/images/4559046.jpg" group-title="MOVIES",Housefull 3 (2016)
-http://s1.smartview.live:80/movie/alswarxz/rb5FO6la02/8365.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="Ice Age: Collision Course (2016)" tvg-logo="http://4k.paksatonline.com:5210/images/3416828.jpg" group-title="",Ice Age: Collision Course (2016)
-http://s1.smartview.live:80/movie/alswarxz/rb5FO6la02/8419.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="Imperium (2016)" tvg-logo="http://4k.paksatonline.com:5210/images/4781612.jpg" group-title="",Imperium (2016)
-http://s1.smartview.live:80/movie/alswarxz/rb5FO6la02/8468.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="Teenage Mutant Ninja Turtles: Out of the Shadows (2016)" tvg-logo="http://4k.paksatonline.com:5210/images/3949660.jpg" group-title="",Teenage Mutant Ninja Turtles: Out of the Shadows (2016)
-http://s1.smartview.live:80/movie/alswarxz/rb5FO6la02/8414.mp4
-
-#EXTINF:-1 tvg-ID="" tvg-name="▃ ▄ ▅ ▆ ▇ █ ADULTS █ ▇ ▆ ▅ ▄ ▃" tvg-logo="" group-title="",▃ ▄ ▅ ▆ ▇ █ ADULTS █ ▇ ▆ ▅ ▄ ▃
-http://12345.today:5555/live/axn140/Cqe4dert/34225.ts
-#EXTINF:-1 tvg-ID="" tvg-name="18+ CH-01" tvg-logo="" group-title="ADULT",18+ CH-01
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14869.ts
-#EXTINF:-1 tvg-ID="" tvg-name="18+ CH-02" tvg-logo="" group-title="ADULT",18+ CH-02
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14870.ts
-#EXTINF:-1 tvg-ID="" tvg-name="18+ CH-03" tvg-logo="" group-title="ADULT",18+ CH-03
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14871.ts
-#EXTINF:-1 tvg-ID="" tvg-name="18+ CH-04" tvg-logo="" group-title="ADULT",18+ CH-04
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14872.ts
-#EXTINF:-1 tvg-ID="" tvg-name="18+ CH-05" tvg-logo="" group-title="ADULT",18+ CH-05
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14873.ts
-#EXTINF:-1 tvg-ID="" tvg-name="18+ CH-06" tvg-logo="" group-title="ADULT",18+ CH-06
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14874.ts
-#EXTINF:-1 tvg-ID="" tvg-name="18+ CH-07" tvg-logo="" group-title="ADULT",18+ CH-07
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14875.ts
-#EXTINF:-1 tvg-ID="" tvg-name="18+ CH-08" tvg-logo="" group-title="ADULT",18+ CH-08
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14876.ts
-#EXTINF:-1 tvg-ID="" tvg-name="18+ CH-09" tvg-logo="" group-title="ADULT",18+ CH-09
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14877.ts
-#EXTINF:-1 tvg-ID="" tvg-name="18+ CH-10" tvg-logo="" group-title="ADULT",18+ CH-10
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14878.ts
-#EXTINF:-1 tvg-ID="" tvg-name="18+ CH-11" tvg-logo="" group-title="ADULT",18+ CH-11
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14879.ts
-#EXTINF:-1 tvg-ID="" tvg-name="18+ CH-12" tvg-logo="" group-title="ADULT",18+ CH-12
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/14880.ts
-#EXTINF:-1 tvg-ID="" tvg-name="18: LA FRANCE A POIL 1" tvg-logo="" group-title="ADULT",18: LA FRANCE A POIL 1
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/9977.ts
-#EXTINF:-1 tvg-ID="" tvg-name="18: LA FRANCE A POIL 2" tvg-logo="" group-title="ADULT",18: LA FRANCE A POIL 2
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/9976.ts
-#EXTINF:-1 tvg-ID="" tvg-name="18: LA FRANCE A POIL 3" tvg-logo="" group-title="ADULT",18: LA FRANCE A POIL 3
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/9975.ts
-#EXTINF:-1 tvg-ID="" tvg-name="18: LA FRANCE A POIL 5" tvg-logo="" group-title="ADULT",18: LA FRANCE A POIL 5
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/9973.ts
-#EXTINF:-1 tvg-ID="" tvg-name="18: LA FRANCE A POIL 6" tvg-logo="" group-title="ADULT",18: LA FRANCE A POIL 6
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/9972.ts
-#EXTINF:-1 tvg-ID="" tvg-name="18: LA FRANCE A POIL 8" tvg-logo="" group-title="ADULT",18: LA FRANCE A POIL 8
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/9970.ts
-#EXTINF:-1 tvg-ID="" tvg-name="18: LA FRANCE A POIL 9" tvg-logo="" group-title="ADULT",18: LA FRANCE A POIL 9
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/9969.ts
-#EXTINF:-1 tvg-ID="" tvg-name="18: LA FRANCE A POIL 10" tvg-logo="" group-title="ADULT",18: LA FRANCE A POIL 10
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/9968.ts
-#EXTINF:-1 tvg-ID="" tvg-name="18: LA FRANCE A POIL 11" tvg-logo="" group-title="ADULT",18: LA FRANCE A POIL 11
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/9967.ts
-#EXTINF:-1 tvg-ID="" tvg-name="18: LA FRANCE A POIL 12" tvg-logo="" group-title="ADULT",18: LA FRANCE A POIL 12
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/9966.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Adult S FULL HD 13" tvg-logo="" group-title="ADULT",Adult S FULL HD 13
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/9965.ts
-#EXTINF:-1 tvg-ID="" tvg-name="18 4K CH-1" tvg-logo="" group-title="ADULT",18 4K CH-1
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/8056.ts
-#EXTINF:-1 tvg-ID="" tvg-name="18 4K CH-18" tvg-logo="" group-title="ADULT",18 4K CH-18
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/7518.ts
-#EXTINF:-1 tvg-ID="" tvg-name="18 4K CH-26" tvg-logo="" group-title="ADULT",18 4K CH-26
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/5449.ts
-#EXTINF:-1 tvg-ID="" tvg-name="18 4K CH-30" tvg-logo="" group-title="ADULT",18 4K CH-30
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/7527.ts
-#EXTINF:-1 tvg-ID="" tvg-name="18 4K CH-33" tvg-logo="" group-title="ADULT",18 4K CH-33
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/7523.ts
-#EXTINF:-1 tvg-ID="" tvg-name="18 4K CH-37" tvg-logo="" group-title="ADULT",18 4K CH-37
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/7526.ts
-#EXTINF:-1 tvg-ID="" tvg-name="18 4K CH-40" tvg-logo="" group-title="ADULT",18 4K CH-40
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/136.ts
-#EXTINF:-1 tvg-ID="" tvg-name="18 4K CH-41" tvg-logo="" group-title="ADULT",18 4K CH-41
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/137.ts
-#EXTINF:-1 tvg-ID="" tvg-name="18 4K CH-42" tvg-logo="" group-title="ADULT",18 4K CH-42
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/138.ts
-#EXTINF:-1 tvg-ID="" tvg-name="18 4K CH-44" tvg-logo="" group-title="ADULT",18 4K CH-44
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/140.ts
-#EXTINF:-1 tvg-ID="" tvg-name="18 4K CH-47" tvg-logo="" group-title="ADULT",18 4K CH-47
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/5454.ts
-#EXTINF:-1 tvg-ID="" tvg-name="18 4K CH-48" tvg-logo="" group-title="ADULT",18 4K CH-48
-http://s1.smartview.live:80/live/alswarxz/rb5FO6la02/594.ts
+#EXTINF:-1,Sextreme
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/1258.ts
+#EXTINF:-1,Sexy Hot
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/1257.ts
+#EXTINF:-1,TBS
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/1249.ts
+#EXTINF:-1,TBS HD
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/1366.ts
+#EXTINF:-1,Telecine Action
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/1247.ts
+#EXTINF:-1,Telecine Action HD
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/1365.ts
+#EXTINF:-1,Telecine Cult
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/1246.ts
+#EXTINF:-1,Telecine Pipoca
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/1244.ts
+#EXTINF:-1,Telecine Pipoca HD
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/1363.ts
+#EXTINF:-1,Telecine Fun
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/1245.ts
+#EXTINF:-1,Telecine Fun HD
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/1364.ts
+#EXTINF:-1,Telecine Premium
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/1243.ts
+#EXTINF:-1,Telecine Premium HD
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/1362.ts
+#EXTINF:-1,Telecine Touch
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/1242.ts
+#EXTINF:-1,Telecine Touch HD
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/1361.ts
+#EXTINF:-1,TCM
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/1248.ts
+#EXTINF:-1,Terra Viva
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/1241.ts
+#EXTINF:-1,TLC
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/1239.ts
+#EXTINF:-1,TNT
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/1238.ts
+#EXTINF:-1,TNT HD
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/1360.ts
+#EXTINF:-1,TNT Series
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/1237.ts
+#EXTINF:-1,TNT Series HD
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/1359.ts
+#EXTINF:-1,Tooncast
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/1236.ts
+#EXTINF:-1,TruTV
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/1235.ts
+#EXTINF:-1,TV Brasil
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/1234.ts
+#EXTINF:-1,TV Cultura
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/1233.ts
+#EXTINF:-1,TV Clima
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/1944.ts
+#EXTINF:-1,TV Ra tim bum
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/1232.ts
+#EXTINF:-1,TV LIBERAL BELEM
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/2186.ts
+#EXTINF:-1,Globo Bauru
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/2185.ts
+#EXTINF:-1,TV BAHIA
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/2189.ts
+#EXTINF:-1,TVE
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/1231.ts
+#EXTINF:-1,TVE Bahia
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/2130.ts
+#EXTINF:-1,TV BR NEWS
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/1216.ts
+#EXTINF:-1,TV Diário
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/1119.ts
+#EXTINF:-1,TV Master Joao Pessoa
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/1837.ts
+#EXTINF:-1,TV Gideoes HD
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/2339.ts
+#EXTINF:-1,TV Plenitude
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/2342.ts
+#EXTINF:-1,Universal
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/2341.ts
+#EXTINF:-1,Universal Channel
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/1230.ts
+#EXTINF:-1,Universal Channels HD
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/1358.ts
+#EXTINF:-1,VH1 Megahits
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/1229.ts
+#EXTINF:-1,VIVA HD
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/1357.ts
+#EXTINF:-1,Viva
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/1228.ts
+#EXTINF:-1,Warner Channel HD
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/1355.ts
+#EXTINF:-1,Warner Channel
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/1227.ts
+#EXTINF:-1,Woohoo
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/1226.ts
+#EXTINF:-1,Globo RJ
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/2338.ts
+#EXTINF:-1,Brasileirinhas - As Mina Pira 1
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2305.mp4
+#EXTINF:-1,Brasileirinhas - As Mina Pira 2
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2306.mp4
+#EXTINF:-1,Brasileirinhas - Baile Proibido
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2303.mp4
+#EXTINF:-1,Brasileirinhas - Big Bundas Brasil
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2302.mp4
+#EXTINF:-1,Brasileirinhas - Brasibelezas
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2304.mp4
+#EXTINF:-1,Brasileirinhas - Derretendo de Tesao 1
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2299.mp4
+#EXTINF:-1,Brasileirinhas - Derretendo de Tesao 2
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2298.mp4
+#EXTINF:-1,Brasileirinhas - Lambuzadas 1
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2327.mp4
+#EXTINF:-1,Brasileirinhas - Lambuzadas 2
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2328.mp4
+#EXTINF:-1,Brasileirinhas - Lambuzadas 3
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2329.mp4
+#EXTINF:-1,Brasileirinhas - Lambuzadas 4
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2330.mp4
+#EXTINF:-1,Brasileirinhas - Novinhas 1
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2309.mp4
+#EXTINF:-1,Brasileirinhas - Novinhas 2
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2310.mp4
+#EXTINF:-1,Brasileirinhas - Novinhas 3
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2311.mp4
+#EXTINF:-1,Brasileirinhas - Novinhas 4
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2312.mp4
+#EXTINF:-1,Brasileirinhas - Novinhas 5
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2313.mp4
+#EXTINF:-1,Brasileirinhas - Operação Leva-Jato 1
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2314.mp4
+#EXTINF:-1,Brasileirinhas - Operacao Leva-Jato 2
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2315.mp4
+#EXTINF:-1,Brasileirinhas - Operacao Leva-Jato 3
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2316.mp4
+#EXTINF:-1,Brasileirinhas - Operacao Leva-Jato 4
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2317.mp4
+#EXTINF:-1,Brasileirinhas - Operacao Leva-Jato 5
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2318.mp4
+#EXTINF:-1,Brasileirinhas Historias de uma Gueixa
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2294.mp4
+#EXTINF:-1,Brazzers TV HD
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/2363.ts
+#EXTINF:-1,Venus
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/2649.ts
+#EXTINF:-1,Mosaico Move
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/2080.ts
+#EXTINF:-1,Food Network HD
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/2657.ts
+#EXTINF:-1,Gloob HD
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/2661.ts
+#EXTINF:-1,Hot HD
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/2770.ts
+#EXTINF:-1,Hustler HD
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/2769.ts
+#EXTINF:-1,Passie XXX
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/2772.ts
+#EXTINF:-1,PentHouse HD
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/2771.ts
+#EXTINF:-1,SexZone
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/2773.ts
+#EXTINF:-1,XxxxXXX
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/2768.ts
+#EXTINF:-1,Globo MG
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/3497.ts
+#EXTINF:-1,Globo RJ HD [Alter]
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/3118.ts
+#EXTINF:-1,Lifetime HD
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/2662.ts
+#EXTINF:-1,Mais Globo Sat HD
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/3490.ts
+#EXTINF:-1,NatGeo Kids HD
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/3489.ts
+#EXTINF:-1,Nickelodeon HD
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/3488.ts
+#EXTINF:-1,PREMIERE CLUBES HD [Alter2]
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/3105.ts
+#EXTINF:-1,Record  HD [Alter]
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/3104.ts
+#EXTINF:-1,SBT HD [Alter]
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/3103.ts
+#EXTINF:-1,SPORTV [Alter]
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/3102.ts
+#EXTINF:-1,SPORTV 2 [Alter]
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/3101.ts
+#EXTINF:-1,SPORTV 2 HD [Alter]
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/3100.ts
+#EXTINF:-1,SPORTV 2 HD [Alter2]
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/3099.ts
+#EXTINF:-1,SPORTV 3 [Alter]
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/3098.ts
+#EXTINF:-1,SPORTV 3 HD [Alter]
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/3097.ts
+#EXTINF:-1,SPORTV 3 HD [Alter2]
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/3096.ts
+#EXTINF:-1,SPORTV HD [Alter]
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/3095.ts
+#EXTINF:-1,SPORTV HD [Alter2]
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/3094.ts
+#EXTINF:-1,Syfy HD
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/3487.ts
+#EXTINF:-1,TLC HD
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/3486.ts
+#EXTINF:-1,TV Cult HD
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/3485.ts
+#EXTINF:-1,PREMIER 1 [Alter]
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/3116.ts
+#EXTINF:-1,PREMIER 10 [Alter]
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/3115.ts
+#EXTINF:-1,PREMIER 2 [Alter]
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/3114.ts
+#EXTINF:-1,PREMIER 24HS [Alter]
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/3113.ts
+#EXTINF:-1,PREMIER 3 [Alter]
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/3112.ts
+#EXTINF:-1,PREMIER 4 [Alter]
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/3111.ts
+#EXTINF:-1,PREMIER 5 [Alter]
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/3110.ts
+#EXTINF:-1,PREMIER 6 [Alter]
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/3109.ts
+#EXTINF:-1,PREMIER 7 [Alter]
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/3108.ts
+#EXTINF:-1,PREMIER 8 [Alter]
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/3107.ts
+#EXTINF:-1,PREMIER 9 [Alter]
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/3106.ts
+#EXTINF:-1,FOX SPORTS [Alter]
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/3124.ts
+#EXTINF:-1,FOX SPORTS 2 [Alter]
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/3123.ts
+#EXTINF:-1,FOX SPORTS 2 HD [Alter]
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/3122.ts
+#EXTINF:-1,FOX SPORTS 2 HD [Alter2]
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/3121.ts
+#EXTINF:-1,FOX SPORTS HD [Alter]
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/3120.ts
+#EXTINF:-1,FOX SPORTS HD [Alter2]
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/3119.ts
+#EXTINF:-1,Discovery Channel HD [Alter]
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/2747.ts
+#EXTINF:-1,Discovery Civilization HD
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/3493.ts
+#EXTINF:-1,Discovery Science HD
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/3492.ts
+#EXTINF:-1,Disney Channel HD
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/3491.ts
+#EXTINF:-1,A cabana
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1938.mp4
+#EXTINF:-1,A Mumia 2017
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1667.mp4
+#EXTINF:-1,A Vigilante do Amanhã: Ghost in the Shell
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1800.mp4
+#EXTINF:-1,Assassin's Creed
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1805.mp4
+#EXTINF:-1,Deadpool
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1696.mp4
+#EXTINF:-1,Doutor Estranho
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1804.mp4
+#EXTINF:-1,Era de Ultron
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1801.mp4
+#EXTINF:-1,Guardioes da Galaxia 2
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1808.mp4
+#EXTINF:-1,Kong A Ilha da Caveira
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1799.mp4
+#EXTINF:-1,Logan
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1797.mp4
+#EXTINF:-1,Meu Malvado Favorito 3
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1697.mp4
+#EXTINF:-1,O Culto de Chucky
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1806.mp4
+#EXTINF:-1,O Poderoso Chefinho
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1803.mp4
+#EXTINF:-1,Pirates of the Caribbean: Dead Men Tell No Tales
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1666.mp4
+#EXTINF:-1,Transformers O Último Cavaleiro
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1664.mp4
+#EXTINF:-1,Lego Dc Super Girls
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1668.mp4
+#EXTINF:-1,Silencio
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1672.mp4
+#EXTINF:-1,Power Rangers
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1798.mp4
+#EXTINF:-1,Assalto Sobre Trilhos
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1836.mp4
+#EXTINF:-1,Churchil
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2319.mp4
+#EXTINF:-1,Como Treinar O Seu Dragão 2
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1674.mp4
+#EXTINF:-1,Corra!
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1845.mp4
+#EXTINF:-1,Eu Fico louco
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1841.mp4
+#EXTINF:-1,Menina Ma.com
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1851.mp4
+#EXTINF:-1,Meu Malvado Favorito 2
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1683.mp4
+#EXTINF:-1,Minions
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1684.mp4
+#EXTINF:-1,Nu
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1843.mp4
+#EXTINF:-1,Nunca Diga Seu Nome
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1846.mp4
+#EXTINF:-1,O Bom Dinossauro
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1685.mp4
+#EXTINF:-1,O Contrato
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1852.mp4
+#EXTINF:-1,O Ritual
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1850.mp4
+#EXTINF:-1,Os Pinguins De Madagascar
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1689.mp4
+#EXTINF:-1,Paixão Obsessiva
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1844.mp4
+#EXTINF:-1,Passageiros
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1848.mp4
+#EXTINF:-1,Pets A Vida Secreta Dos Bichos
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1690.mp4
+#EXTINF:-1,Pixels
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1691.mp4
+#EXTINF:-1,Punhos de Sangue
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1849.mp4
+#EXTINF:-1,Rei Arthur
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1840.mp4
+#EXTINF:-1,Valente*
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1694.mp4
+#EXTINF:-1,Vida
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1839.mp4
+#EXTINF:-1,Cine Move
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/1420.ts
+#EXTINF:-1,Cine Move 2
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/1813.ts
+#EXTINF:-1,Cine Move 3
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/1814.ts
+#EXTINF:-1,Cine Move 4
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/1815.ts
+#EXTINF:-1,Cine Move 5
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/1861.ts
+#EXTINF:-1,Cine Move 6
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/1862.ts
+#EXTINF:-1,Cine Move 7
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/1863.ts
+#EXTINF:-1,Cine Move 8
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/1864.ts
+#EXTINF:-1,Cine Move 9
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/1865.ts
+#EXTINF:-1,Cine Move 10
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/1866.ts
+#EXTINF:-1,A Fabulosa Gilly Hopkins
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1959.mp4
+#EXTINF:-1,A Lei da Noite
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1960.mp4
+#EXTINF:-1,A Peregrinacao
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1962.mp4
+#EXTINF:-1,A Promessa
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1963.mp4
+#EXTINF:-1,Andron
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1965.mp4
+#EXTINF:-1,Animais Noturnos
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1966.mp4
+#EXTINF:-1,Anjos da Noite - Guerras de Sangue
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1967.mp4
+#EXTINF:-1,Antes Que Eu Va
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1968.mp4
+#EXTINF:-1,Armas Na Mesa
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1969.mp4
+#EXTINF:-1,As Aventuras de Ozzy
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1970.mp4
+#EXTINF:-1,Beyond the Call to Duty
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1974.mp4
+#EXTINF:-1,Busca Sem Limites
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1973.mp4
+#EXTINF:-1,Campo Minado
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1975.mp4
+#EXTINF:-1,Cao Selvagem
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1976.mp4
+#EXTINF:-1,Get the Girl
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1972.mp4
+#EXTINF:-1,Hacksaw Ridge
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1971.mp4
+#EXTINF:-1,A Filha do Patrao
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2066.mp4
+#EXTINF:-1,Alice - O Lado Negro do Espelho
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2065.mp4
+#EXTINF:-1,Estrelas Alem do tempo
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2069.mp4
+#EXTINF:-1,Filha de Deus
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2070.mp4
+#EXTINF:-1,Frank e Lola - Amor Obsessivo
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2071.mp4
+#EXTINF:-1,MonsterTrucks
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2075.mp4
+#EXTINF:-1,Mulheres do Seculo 20
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2074.mp4
+#EXTINF:-1,Rei Arthur: A Lenda da Espada
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2073.mp4
+#EXTINF:-1,TOC - Transtornada Compulsiva Obseciva
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2072.mp4
+#EXTINF:-1,Complete Unknown
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2067.mp4
+#EXTINF:-1,Drone
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2068.mp4
+#EXTINF:-1,Hard Sell CO
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2083.mp4
+#EXTINF:-1,Colossal
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2084.mp4
+#EXTINF:-1,Jackie
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2086.mp4
+#EXTINF:-1,Free Fire
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2085.mp4
+#EXTINF:-1,Lion - Uma Jornada Para Casa
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2088.mp4
+#EXTINF:-1,Patriots Day
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2089.mp4
+#EXTINF:-1,La La Land
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2087.mp4
+#EXTINF:-1,Nina Simone
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2090.mp4
+#EXTINF:-1,Warcraft
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2093.mp4
+#EXTINF:-1,Max Steel
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2092.mp4
+#EXTINF:-1,Alien: Covenant
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2094.mp4
+#EXTINF:-1,Minha Vida De Abobrinha
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2101.mp4
+#EXTINF:-1,Amantes
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2102.mp4
+#EXTINF:-1,The Good Neighbor
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2103.mp4
+#EXTINF:-1,Um Limite Entre Nos
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2104.mp4
+#EXTINF:-1,Raze
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2105.mp4
+#EXTINF:-1,Moonlight: Sob a Luz do Luar
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2113.mp4
+#EXTINF:-1,Mr. Right
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2115.mp4
+#EXTINF:-1,Natal as Escuras
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2114.mp4
+#EXTINF:-1,The Diary of Anne Frank
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2117.mp4
+#EXTINF:-1,O Chamado 3
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2116.mp4
+#EXTINF:-1,O Homem da Meia Noite
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2119.mp4
+#EXTINF:-1,Planeta dos Macacos - A Guerra
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2131.mp4
+#EXTINF:-1,Sem Perdao
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2142.mp4
+#EXTINF:-1,Triple 9
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2143.mp4
+#EXTINF:-1,A Noite e Delas
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2136.mp4
+#EXTINF:-1,American Romance
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2137.mp4
+#EXTINF:-1,Warrior's Gate
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2150.mp4
+#EXTINF:-1,Resident Evil 6
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2152.mp4
+#EXTINF:-1,Sangue Pela Gloria
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2153.mp4
+#EXTINF:-1,Te Pego na Saida
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2154.mp4
+#EXTINF:-1,Snowden - Heroi ou Traidor
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2155.mp4
+#EXTINF:-1,Um Homem Chamado Ove
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2156.mp4
+#EXTINF:-1,Onde Esta Segunda
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2157.mp4
+#EXTINF:-1,Uma Historia de Vinganca
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2158.mp4
+#EXTINF:-1,Resident Evil: Vendetta
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2164.mp4
+#EXTINF:-1,xXx: Return of Xander Cage
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2161.mp4
+#EXTINF:-1,Um Mergulho No Passado
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2163.mp4
+#EXTINF:-1,A Kind of Murder
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2162.mp4
+#EXTINF:-1,Paris Pode Esperar
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2169.mp4
+#EXTINF:-1,50 Tons Mais Escuros
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1991.mp4
+#EXTINF:-1,A Ultima Ressaca do Ano
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2095.mp4
+#EXTINF:-1,As aventuras Do Capitao Cueca
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2165.mp4
+#EXTINF:-1,Descendentes 2
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1675.mp4
+#EXTINF:-1,Don't Think Twice
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2118.mp4
+#EXTINF:-1,Forsaken
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2151.mp4
+#EXTINF:-1,Fragmentado
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1830.mp4
+#EXTINF:-1,Galinha Pintadinha 1
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1676.mp4
+#EXTINF:-1,Galinha Pintadinha 2
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1677.mp4
+#EXTINF:-1,Galinha Pintadinha 3
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1678.mp4
+#EXTINF:-1,Galinha Pintadinha 4
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1679.mp4
+#EXTINF:-1,Laid In America
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1994.mp4
+#EXTINF:-1,Limitless 2
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1842.mp4
+#EXTINF:-1,Lucas Formigueiro
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1681.mp4
+#EXTINF:-1,Mune - Guardiao da Lua
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2167.mp4
+#EXTINF:-1,My Pet Dinossauro
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2168.mp4
+#EXTINF:-1,Os Croods
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1688.mp4
+#EXTINF:-1,Red Sky
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1990.mp4
+#EXTINF:-1,Rock Dog
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2097.mp4
+#EXTINF:-1,Shepherds and Butchers
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1992.mp4
+#EXTINF:-1,Tempos de Violencia
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1853.mp4
+#EXTINF:-1,The Nut Job 2 Nutty by Nature
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2177.mp4
+#EXTINF:-1,The Model
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2096.mp4
+#EXTINF:-1,Tinha Que Ser Ele
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2098.mp4
+#EXTINF:-1,Carros 3
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2166.mp4
+#EXTINF:-1,Castelo de Areia
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1989.mp4
+#EXTINF:-1,6 Below Miracle on the Mountain
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2170.mp4
+#EXTINF:-1,Jackals
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2172.mp4
+#EXTINF:-1,Logan Lucky
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2173.mp4
+#EXTINF:-1,Uma Verdade Mais Inconveniente
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2178.mp4
+#EXTINF:-1,Valerian and the City of a Thousand Planets
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2179.mp4
+#EXTINF:-1,kingsman: O Circulo Dourado
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2278.mp4
+#EXTINF:-1,O Assassino: o Primeiro Alvo
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2280.mp4
+#EXTINF:-1,Her Dark Past / The Many Faces of Alice
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2279.mp4
+#EXTINF:-1,Storm: Letters van Vuur
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2276.mp4
+#EXTINF:-1,Una
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2321.mp4
+#EXTINF:-1,Eu Daniel Blake
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2320.mp4
+#EXTINF:-1,A Baba
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2323.mp4
+#EXTINF:-1,Olaf Em Uma Aventura Congelante
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2332.mp4
+#EXTINF:-1,Bruxarias
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2331.mp4
+#EXTINF:-1,Ghost Patrol
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2333.mp4
+#EXTINF:-1,Tá Chovendo Hamburger
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2334.mp4
+#EXTINF:-1,Tá Chovendo Hamburger 2
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2335.mp4
+#EXTINF:-1,Frozen
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2336.mp4
+#EXTINF:-1,BEN 10 24HRS
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/2369.ts
+#EXTINF:-1,CAVALEIROS ZODIACO 24HRS
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/2370.ts
+#EXTINF:-1,O MASCARA 24HRS
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/2371.ts
+#EXTINF:-1,OS SIMPSONS 24HRS
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/2368.ts
+#EXTINF:-1,Feito Na America
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2646.mp4
+#EXTINF:-1,Bright
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2733.mp4
+#EXTINF:-1,Mr. Bean
+http://painel.iptvmove.com:25461/live/danielxx/danielxx/2647.ts
+#EXTINF:-1,GOTS01E01
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2742.mp4
+#EXTINF:-1,GOTS01E010
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2745.mp4
+#EXTINF:-1,GOTS01E02
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2738.mp4
+#EXTINF:-1,GOTS01E03
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2739.mp4
+#EXTINF:-1,GOTS01E05
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2736.mp4
+#EXTINF:-1,GOTS01E06
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2743.mp4
+#EXTINF:-1,GOTS01E07
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2741.mp4
+#EXTINF:-1,GOTS01E08
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2737.mp4
+#EXTINF:-1,GOTS01E09
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2744.mp4
+#EXTINF:-1,GOTS01E04
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2740.mp4
+#EXTINF:-1,GOTS02E01
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2753.mp4
+#EXTINF:-1,GOTS02E02
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2755.mp4
+#EXTINF:-1,GOTS02E03
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2756.mp4
+#EXTINF:-1,GOTS02E04
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2757.mp4
+#EXTINF:-1,GOTS02E05
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2752.mp4
+#EXTINF:-1,GOTS02E06
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2750.mp4
+#EXTINF:-1,GOTS02E07
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2748.mp4
+#EXTINF:-1,GOTS02E08
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2754.mp4
+#EXTINF:-1,GOTS02E09
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2749.mp4
+#EXTINF:-1,GOTS02E10
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2751.mp4
+#EXTINF:-1,Emoji
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2277.mp4
+#EXTINF:-1,Realive
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2281.mp4
+#EXTINF:-1,GOTS03E01
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2763.mp4
+#EXTINF:-1,GOTS03E02
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2758.mp4
+#EXTINF:-1,GOTS03E03
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2760.mp4
+#EXTINF:-1,GOTS03E04
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2764.mp4
+#EXTINF:-1,GOTS03E05
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2766.mp4
+#EXTINF:-1,GOTS03E06
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2762.mp4
+#EXTINF:-1,GOTS03E07
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2759.mp4
+#EXTINF:-1,GOTS03E08
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2761.mp4
+#EXTINF:-1,GOTS03E09
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2765.mp4
+#EXTINF:-1,GOTS03E10
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2767.mp4
+#EXTINF:-1,GOTS04E01
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2783.mp4
+#EXTINF:-1,GOTS04E02
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2777.mp4
+#EXTINF:-1,GOTS04E03
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2782.mp4
+#EXTINF:-1,GOTS04E04
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2779.mp4
+#EXTINF:-1,GOTS04E05
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2780.mp4
+#EXTINF:-1,GOTS04E06
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2774.mp4
+#EXTINF:-1,GOTS04E07
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2775.mp4
+#EXTINF:-1,GOTS04E08
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2776.mp4
+#EXTINF:-1,GOTS04E09
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2781.mp4
+#EXTINF:-1,GOTS04E10
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2778.mp4
+#EXTINF:-1,GOTS05E01
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2790.mp4
+#EXTINF:-1,GOTS05E010
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2787.mp4
+#EXTINF:-1,GOTS05E02
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2791.mp4
+#EXTINF:-1,GOTS05E03
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2792.mp4
+#EXTINF:-1,GOTS05E04
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2788.mp4
+#EXTINF:-1,GOTS05E05
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2786.mp4
+#EXTINF:-1,GOTS05E06
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2784.mp4
+#EXTINF:-1,GOTS05E07
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2793.mp4
+#EXTINF:-1,GOTS05E08
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2789.mp4
+#EXTINF:-1,GOTS05E09
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2785.mp4
+#EXTINF:-1,GOTS06E01
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2802.mp4
+#EXTINF:-1,GOTS06E010
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2797.mp4
+#EXTINF:-1,GOTS06E02
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2796.mp4
+#EXTINF:-1,GOTS06E03
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2798.mp4
+#EXTINF:-1,GOTS06E04
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2795.mp4
+#EXTINF:-1,GOTS06E05
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2799.mp4
+#EXTINF:-1,GOTS06E06
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2794.mp4
+#EXTINF:-1,GOTS06E07
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2801.mp4
+#EXTINF:-1,GOTS06E08
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2803.mp4
+#EXTINF:-1,GOTS06E09
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2800.mp4
+#EXTINF:-1,GOTS07E01
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2809.mp4
+#EXTINF:-1,GOTS07E02
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2805.mp4
+#EXTINF:-1,GOTS07E03
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2807.mp4
+#EXTINF:-1,GOTS07E04
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2804.mp4
+#EXTINF:-1,GOTS07E05
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2810.mp4
+#EXTINF:-1,GOTS07E06
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2806.mp4
+#EXTINF:-1,GOTS07E07
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2808.mp4
+#EXTINF:-1,Pica-Pau: O filme
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2822.mp4
+#EXTINF:-1,6 DIAS
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2823.mp4
+#EXTINF:-1,A Ilha dos Monstros
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2825.mp4
+#EXTINF:-1,American Made
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2826.mp4
+#EXTINF:-1,As Irmas Vampiras
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2827.mp4
+#EXTINF:-1,Assassino Profissional
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2828.mp4
+#EXTINF:-1,Assassinos Multiplos
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2829.mp4
+#EXTINF:-1,Batman e Arlequina: Pancadas e Risadas
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2830.mp4
+#EXTINF:-1,Blade Runner 2049
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2831.mp4
+#EXTINF:-1,Boyka: O Imbativel
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2832.mp4
+#EXTINF:-1,Dunkirk
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2824.mp4
+#EXTINF:-1,Fronteira.S01E01
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2835.mp4
+#EXTINF:-1,Fronteira.S01E02
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2836.mp4
+#EXTINF:-1,Fronteira.S01E03
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2837.mp4
+#EXTINF:-1,Fronteira.S01E04
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2833.mp4
+#EXTINF:-1,Fronteira.S01E05
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2838.mp4
+#EXTINF:-1,Fronteira.S01E06
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2834.mp4
+#EXTINF:-1,Mr. Robot S01E01
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2857.mp4
+#EXTINF:-1,Mr. Robot S01E02
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2858.mp4
+#EXTINF:-1,Mr. Robot S01E03
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2856.mp4
+#EXTINF:-1,Mr. Robot S01E04
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2860.mp4
+#EXTINF:-1,Mr. Robot S01E05
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2855.mp4
+#EXTINF:-1,Mr. Robot S01E06
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2854.mp4
+#EXTINF:-1,Mr. Robot S01E07
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2861.mp4
+#EXTINF:-1,Mr. Robot S01E08
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2859.mp4
+#EXTINF:-1,Mr. Robot S01E09
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2853.mp4
+#EXTINF:-1,Mr. Robot S01E10
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2852.mp4
+#EXTINF:-1,Manhunt.Unabomber.S01E01
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2868.mp4
+#EXTINF:-1,Manhunt.Unabomber.S01E02
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2862.mp4
+#EXTINF:-1,Manhunt.Unabomber.S01E03
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2866.mp4
+#EXTINF:-1,Manhunt.Unabomber.S01E04
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2869.mp4
+#EXTINF:-1,Manhunt.Unabomber.S01E05
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2867.mp4
+#EXTINF:-1,Manhunt.Unabomber.S01E06
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2864.mp4
+#EXTINF:-1,Manhunt.Unabomber.S01E07
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2865.mp4
+#EXTINF:-1,Manhunt.Unabomber.S01E08
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2863.mp4
+#EXTINF:-1,WestworldS01E01
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2879.mp4
+#EXTINF:-1,WestworldS01E02
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2878.mp4
+#EXTINF:-1,WestworldS01E03
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2872.mp4
+#EXTINF:-1,WestworldS01E04
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2874.mp4
+#EXTINF:-1,WestworldS01E05
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2870.mp4
+#EXTINF:-1,WestworldS01E06
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2875.mp4
+#EXTINF:-1,WestworldS01E07
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2876.mp4
+#EXTINF:-1,WestworldS01E08
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2873.mp4
+#EXTINF:-1,WestworldS01E09
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2871.mp4
+#EXTINF:-1,WestworldS01E10
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2877.mp4
+#EXTINF:-1,12.Monkeys.S01E01
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2881.mp4
+#EXTINF:-1,12.Monkeys.S01E02
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2889.mp4
+#EXTINF:-1,12.Monkeys.S01E03
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2890.mp4
+#EXTINF:-1,12.Monkeys.S01E04
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2888.mp4
+#EXTINF:-1,12.Monkeys.S01E05
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2883.mp4
+#EXTINF:-1,12.Monkeys.S01E06
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2885.mp4
+#EXTINF:-1,12.Monkeys.S01E07
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2880.mp4
+#EXTINF:-1,12.Monkeys.S01E08
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2884.mp4
+#EXTINF:-1,12.Monkeys.S01E09
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2892.mp4
+#EXTINF:-1,12.Monkeys.S01E10
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2887.mp4
+#EXTINF:-1,12.Monkeys.S01E11
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2882.mp4
+#EXTINF:-1,12.Monkeys.S01E12
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2886.mp4
+#EXTINF:-1,12.Monkeys.S01E13
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2891.mp4
+#EXTINF:-1,T01E01 - Piloto
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2901.mp4
+#EXTINF:-1,T01E02 - É Tudo Culpa Dela
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2905.mp4
+#EXTINF:-1,T01E03 - Sorria, ou vá Para a Cadeia
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2907.mp4
+#EXTINF:-1,T01E04 - Iremos para Scooping
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2902.mp4
+#EXTINF:-1,T01E05 - Nós Não Somos Amigos
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2903.mp4
+#EXTINF:-1,T01E06 - Maldito Esconde-Esconde
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2900.mp4
+#EXTINF:-1,T01E07 - Ele Mereceu Morrer
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2898.mp4
+#EXTINF:-1,T01E08 - Ele Tem uma Esposa
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2906.mp4
+#EXTINF:-1,T01E09 - Me Mate, Me Mate, Me Mate
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2899.mp4
+#EXTINF:-1,T01E10 - Olá Raskolnikov
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2896.mp4
+#EXTINF:-1,T01E11 - Melhor Natal de Todos
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2893.mp4
+#EXTINF:-1,T01E12 - Ela é um Assassino
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2894.mp4
+#EXTINF:-1,T01E13 - Mamãe está aqui agora
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2897.mp4
+#EXTINF:-1,T01E14 - A noite Lila Morreu
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2895.mp4
+#EXTINF:-1,T01E15 -  tudo culpa minha
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2904.mp4
+#EXTINF:-1,T02E01 - É hora de seguir em frente
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2909.mp4
+#EXTINF:-1,T02E02 - Ela está morrendo
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2922.mp4
+#EXTINF:-1,T02E03 - É o chamado Octopus
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2920.mp4
+#EXTINF:-1,T02E04 - Skanks Obter Shanked
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2921.mp4
+#EXTINF:-1,T02E05 - Conheça a Bonnie
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2915.mp4
+#EXTINF:-1,T02E06 - Dois pássaros, uma pedra d
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2918.mp4
+#EXTINF:-1,T02E07 - Eu quero que você morra
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2911.mp4
+#EXTINF:-1,T02E08 - Oi, eu sou Philip
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2919.mp4
+#EXTINF:-1,T02E09 - O que nós fizemos
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2917.mp4
+#EXTINF:-1,T02E10 - O que aconteceu com você, Annalise
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2914.mp4
+#EXTINF:-1,T02E11 - Ela nos Odeia
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2912.mp4
+#EXTINF:-1,T02E12 - É uma armadilha
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2916.mp4
+#EXTINF:-1,T02E13 - Algo ruím aconteceu
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2913.mp4
+#EXTINF:-1,T02E14 - Meu Bebê
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2908.mp4
+#EXTINF:-1,T02E15 - Anna Mae
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2910.mp4
+#EXTINF:-1,Lucifer.s02e01
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2965.mp4
+#EXTINF:-1,Lucifer.s02e02
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2957.mp4
+#EXTINF:-1,Lucifer.s02e03
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2951.mp4
+#EXTINF:-1,Lucifer.s02e04
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2952.mp4
+#EXTINF:-1,Lucifer.s02e05
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2953.mp4
+#EXTINF:-1,Lucifer.s02e06
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2950.mp4
+#EXTINF:-1,Lucifer.s02e07
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2964.mp4
+#EXTINF:-1,Lucifer.S02E08
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2956.mp4
+#EXTINF:-1,Lucifer.S02E09
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2960.mp4
+#EXTINF:-1,Lucifer.s02e10
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2954.mp4
+#EXTINF:-1,Lucifer.s02e11
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2967.mp4
+#EXTINF:-1,Lucifer.s02e12
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2966.mp4
+#EXTINF:-1,Lucifer.s02e13
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2962.mp4
+#EXTINF:-1,Lucifer.s02e14
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2961.mp4
+#EXTINF:-1,Lucifer.s02e15
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2963.mp4
+#EXTINF:-1,Lucifer.s02e16
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2958.mp4
+#EXTINF:-1,Lucifer.s02e17
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2959.mp4
+#EXTINF:-1,Lucifer.s02e18
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2955.mp4
+#EXTINF:-1,Pokemon O Filme 20: Eu Escolho Voce!
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2969.mp4
+#EXTINF:-1,Your Name
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2968.mp4
+#EXTINF:-1,breakingbads1e1-Piloto
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3035.mp4
+#EXTINF:-1,breakingbads1e2 - Ressurreicao
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3032.mp4
+#EXTINF:-1,breakingbads1e3 - Duvida
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3036.mp4
+#EXTINF:-1,breakingbads1e4 - Homem com Câncer
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3034.mp4
+#EXTINF:-1,breakingbads1e5 - Matéria Cinzenta
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3038.mp4
+#EXTINF:-1,breakingbads1e6 -  O Grande Blefe
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3037.mp4
+#EXTINF:-1,breakingbads1e7 - Um Trato Sem Dificuldades
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3033.mp4
+#EXTINF:-1,breakingbads2e1 - Seven Thirty-Seven
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3049.mp4
+#EXTINF:-1,breakingbads2e10 - Over
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3040.mp4
+#EXTINF:-1,breakingbads2e11 - Mandala
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3046.mp4
+#EXTINF:-1,breakingbads2e12 - Phoenix
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3039.mp4
+#EXTINF:-1,breakingbads2e13 - ABQ
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3051.mp4
+#EXTINF:-1,breakingbads2e2 - Grilled
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3047.mp4
+#EXTINF:-1,breakingbads2e3 - Bit by a Dead Bee
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3044.mp4
+#EXTINF:-1,breakingbads2e4 - Down
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3043.mp4
+#EXTINF:-1,breakingbads2e5 - Breakage
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3045.mp4
+#EXTINF:-1,breakingbads2e6 - Peekaboo
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3042.mp4
+#EXTINF:-1,breakingbads2e7 - Negro y Azul
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3050.mp4
+#EXTINF:-1,breakingbads2e8 - Better Call Saul
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3048.mp4
+#EXTINF:-1,breakingbads2e9 - 4 Days Out
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3041.mp4
+#EXTINF:-1,breakingbads3e1 - No Más
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3061.mp4
+#EXTINF:-1,breakingbads3e10 - Fly
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3059.mp4
+#EXTINF:-1,breakingbads3e11 - Abiquiu
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3055.mp4
+#EXTINF:-1,breakingbads3e12 - Half Measures
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3054.mp4
+#EXTINF:-1,breakingbads3e13 - Full Measure
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3064.mp4
+#EXTINF:-1,breakingbads3e2 - Caballo sin Nombre
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3060.mp4
+#EXTINF:-1,breakingbads3e3 - I.F.T.
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3056.mp4
+#EXTINF:-1,breakingbads3e4 - Green Light
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3063.mp4
+#EXTINF:-1,breakingbads3e5 - Más
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3058.mp4
+#EXTINF:-1,breakingbads3e6 - Sunset
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3052.mp4
+#EXTINF:-1,breakingbads3e7 - One Minute
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3057.mp4
+#EXTINF:-1,breakingbads3e8 - I See You
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3053.mp4
+#EXTINF:-1,breakingbads3e9 - Kafkaesque
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3062.mp4
+#EXTINF:-1,breakingbads4e1 - Box Cutter
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3065.mp4
+#EXTINF:-1,breakingbads4e10 - Salud
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3072.mp4
+#EXTINF:-1,breakingbads4e11 - Crawl Space
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3066.mp4
+#EXTINF:-1,breakingbads4e12 - End Times
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3074.mp4
+#EXTINF:-1,breakingbads4e13 - Face Off
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3075.mp4
+#EXTINF:-1,breakingbads4e2 - Thirty-Eight Snub
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3070.mp4
+#EXTINF:-1,breakingbads4e3 - Open House
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3073.mp4
+#EXTINF:-1,breakingbads4e4 - Bullet Points
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3067.mp4
+#EXTINF:-1,breakingbads4e5 - Shotgun
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3076.mp4
+#EXTINF:-1,breakingbads4e6 - Cornered
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3069.mp4
+#EXTINF:-1,breakingbads4e7 - Problem Dog
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3077.mp4
+#EXTINF:-1,breakingbads4e8 - Hermanos
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3068.mp4
+#EXTINF:-1,breakingbads4e9 - Bug
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3071.mp4
+#EXTINF:-1,breakingbads5e1 - Live Free or Die
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3082.mp4
+#EXTINF:-1,breakingbads5e10 - Buried
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3079.mp4
+#EXTINF:-1,breakingbads5e11 - Confessions
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3089.mp4
+#EXTINF:-1,breakingbads5e12 - Rabid Dog
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3092.mp4
+#EXTINF:-1,breakingbads5e13 - To'hajiilee
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3078.mp4
+#EXTINF:-1,breakingbads5e14 - Ozymandias
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3084.mp4
+#EXTINF:-1,breakingbads5e15 - Granite State
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3083.mp4
+#EXTINF:-1,breakingbads5e16 - Felina
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3088.mp4
+#EXTINF:-1,breakingbads5e2 - Madrigal
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3087.mp4
+#EXTINF:-1,breakingbads5e3 - Hazard Pay
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3093.mp4
+#EXTINF:-1,breakingbads5e4 - Fifty-One
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3085.mp4
+#EXTINF:-1,breakingbads5e5 - Dead Freight
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3081.mp4
+#EXTINF:-1,breakingbads5e6 - Buyout
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3080.mp4
+#EXTINF:-1,breakingbads5e7 - Say My Name
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3086.mp4
+#EXTINF:-1,breakingbads5e8 - Gliding Over All
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3091.mp4
+#EXTINF:-1,breakingbads5e9 - Blood Money
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3090.mp4
+#EXTINF:-1,100.Code.S01E01
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3132.mp4
+#EXTINF:-1,100.Code.S01E02
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3136.mp4
+#EXTINF:-1,100.Code.S01E03
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3140.mp4
+#EXTINF:-1,100.Code.S01E04
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3139.mp4
+#EXTINF:-1,100.Code.S01E05
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3135.mp4
+#EXTINF:-1,100.Code.S01E06
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3134.mp4
+#EXTINF:-1,100.Code.S01E07
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3138.mp4
+#EXTINF:-1,100.Code.S01E08
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3129.mp4
+#EXTINF:-1,100.Code.S01E09
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3137.mp4
+#EXTINF:-1,100.Code.S01E10
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3133.mp4
+#EXTINF:-1,100.Code.S01E11
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3130.mp4
+#EXTINF:-1,100.Code.S01E12
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3131.mp4
+#EXTINF:-1,Anne.S01E01
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3147.mp4
+#EXTINF:-1,Anne.S01E02
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3143.mp4
+#EXTINF:-1,Anne.S01E03
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3146.mp4
+#EXTINF:-1,Anne.S01E04
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3142.mp4
+#EXTINF:-1,Anne.S01E05
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3144.mp4
+#EXTINF:-1,Anne.S01E06
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3145.mp4
+#EXTINF:-1,Anne.S01E07
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3141.mp4
+#EXTINF:-1,Ash.vs. Evil.Dead.S02E01
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3153.mp4
+#EXTINF:-1,Ash.vs. Evil.Dead.S02E02
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3157.mp4
+#EXTINF:-1,Ash.vs. Evil.Dead.S02E03
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3150.mp4
+#EXTINF:-1,Ash.vs. Evil.Dead.S02E04
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3149.mp4
+#EXTINF:-1,Ash.vs. Evil.Dead.S02E05
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3154.mp4
+#EXTINF:-1,Ash.vs. Evil.Dead.S02E06
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3155.mp4
+#EXTINF:-1,Ash.vs. Evil.Dead.S02E07
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3151.mp4
+#EXTINF:-1,Ash.vs. Evil.Dead.S02E08
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3148.mp4
+#EXTINF:-1,Ash.vs. Evil.Dead.S02E09
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3156.mp4
+#EXTINF:-1,Ash.vs. Evil.Dead.S02E10
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3152.mp4
+#EXTINF:-1,BandofBrothers1 - Currahee
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3163.mp4
+#EXTINF:-1,BandofBrothers10 - Pontos
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3161.mp4
+#EXTINF:-1,BandofBrothers2 - Dia dos Dias
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3160.mp4
+#EXTINF:-1,BandofBrothers3 - Carentan
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3166.mp4
+#EXTINF:-1,BandofBrothers4 - Substitutos
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3167.mp4
+#EXTINF:-1,BandofBrothers5 - Encruzilhada
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3158.mp4
+#EXTINF:-1,BandofBrothers6 - Bastogne
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3162.mp4
+#EXTINF:-1,BandofBrothers7 - O Ponto de Ruptura
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3159.mp4
+#EXTINF:-1,BandofBrothers8 - A Última Patrulha
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3165.mp4
+#EXTINF:-1,BandofBrothers9 - Por Isso Nós Lutamos
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3164.mp4
+#EXTINF:-1,BlacklistS01E01
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3172.mp4
+#EXTINF:-1,BlacklistS01E02
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3170.mp4
+#EXTINF:-1,BlacklistS01E03
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3168.mp4
+#EXTINF:-1,BlacklistS01E04
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3169.mp4
+#EXTINF:-1,BlacklistS01E05
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3173.mp4
+#EXTINF:-1,BlacklistS01E06
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3171.mp4
+#EXTINF:-1,BlacklistS01E07
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3175.mp4
+#EXTINF:-1,BlacklistS01E08
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3174.mp4
+#EXTINF:-1,CalifornicationT01E01
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3179.mp4
+#EXTINF:-1,CalifornicationT01E02
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3177.mp4
+#EXTINF:-1,CalifornicationT01E03
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3182.mp4
+#EXTINF:-1,CalifornicationT01E04
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3180.mp4
+#EXTINF:-1,CalifornicationT01E05
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3185.mp4
+#EXTINF:-1,CalifornicationT01E06
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3183.mp4
+#EXTINF:-1,CalifornicationT01E07
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3184.mp4
+#EXTINF:-1,CalifornicationT01E08
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3176.mp4
+#EXTINF:-1,CalifornicationT01E09
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3178.mp4
+#EXTINF:-1,CalifornicationT01E10
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3186.mp4
+#EXTINF:-1,CalifornicationT01E11
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3187.mp4
+#EXTINF:-1,CalifornicationT01E12
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3181.mp4
+#EXTINF:-1,El.Chapo.S01E01
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3194.mp4
+#EXTINF:-1,El.Chapo.S01E02
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3190.mp4
+#EXTINF:-1,El.Chapo.S01E03
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3193.mp4
+#EXTINF:-1,El.Chapo.S01E04
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3191.mp4
+#EXTINF:-1,El.Chapo.S01E05
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3192.mp4
+#EXTINF:-1,El.Chapo.S01E06
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3188.mp4
+#EXTINF:-1,El.Chapo.S01E07
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3196.mp4
+#EXTINF:-1,El.Chapo.S01E08
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3189.mp4
+#EXTINF:-1,El.Chapo.S01E09
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3195.mp4
+#EXTINF:-1,GoG.S01E00
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3214.mp4
+#EXTINF:-1,GoG.S01E01
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3215.mp4
+#EXTINF:-1,GoG.S01E02
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3210.mp4
+#EXTINF:-1,GoG.S01E03
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3208.mp4
+#EXTINF:-1,GoG.S01E04
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3204.mp4
+#EXTINF:-1,GoG.S01E05
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3200.mp4
+#EXTINF:-1,GoG.S01E06
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3209.mp4
+#EXTINF:-1,GoG.S01E07
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3222.mp4
+#EXTINF:-1,GoG.S01E08
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3216.mp4
+#EXTINF:-1,GoG.S01E09
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3207.mp4
+#EXTINF:-1,GoG.S01E10
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3202.mp4
+#EXTINF:-1,GoG.S01E11
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3197.mp4
+#EXTINF:-1,GoG.S01E12
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3206.mp4
+#EXTINF:-1,GoG.S01E13
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3221.mp4
+#EXTINF:-1,GoG.S01E14
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3203.mp4
+#EXTINF:-1,GoG.S01E15
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3198.mp4
+#EXTINF:-1,GoG.S01E16
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3217.mp4
+#EXTINF:-1,GoG.S01E17
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3212.mp4
+#EXTINF:-1,GoG.S01E18
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3211.mp4
+#EXTINF:-1,GoG.S01E19
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3220.mp4
+#EXTINF:-1,GoG.S01E20
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3219.mp4
+#EXTINF:-1,GoG.S01E21
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3218.mp4
+#EXTINF:-1,GoG.S01E22
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3205.mp4
+#EXTINF:-1,GoG.S01E23
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3201.mp4
+#EXTINF:-1,GoG.S01E24
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3213.mp4
+#EXTINF:-1,GoG.S01E25
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3199.mp4
+#EXTINF:-1,Humans.01x01
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3228.mp4
+#EXTINF:-1,Humans.01x02
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3230.mp4
+#EXTINF:-1,Humans.01x03
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3226.mp4
+#EXTINF:-1,Humans.01x04
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3229.mp4
+#EXTINF:-1,Humans.01x05
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3224.mp4
+#EXTINF:-1,Humans.01x06
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3223.mp4
+#EXTINF:-1,Humans.01x07
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3227.mp4
+#EXTINF:-1,Humans.01x08
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3225.mp4
+#EXTINF:-1,Jane.The.Virgin.S01E01
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3245.mp4
+#EXTINF:-1,Jane.The.Virgin.S01E02
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3252.mp4
+#EXTINF:-1,Jane.The.Virgin.S01E03
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3235.mp4
+#EXTINF:-1,Jane.The.Virgin.S01E04
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3244.mp4
+#EXTINF:-1,Jane.The.Virgin.S01E05
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3232.mp4
+#EXTINF:-1,Jane.The.Virgin.S01E06
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3234.mp4
+#EXTINF:-1,Jane.The.Virgin.S01E07
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3239.mp4
+#EXTINF:-1,Jane.The.Virgin.S01E08
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3247.mp4
+#EXTINF:-1,Jane.The.Virgin.S01E09
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3241.mp4
+#EXTINF:-1,Jane.The.Virgin.S01E10
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3237.mp4
+#EXTINF:-1,Jane.The.Virgin.S01E11
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3231.mp4
+#EXTINF:-1,Jane.The.Virgin.S01E12
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3248.mp4
+#EXTINF:-1,Jane.The.Virgin.S01E13
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3236.mp4
+#EXTINF:-1,Jane.The.Virgin.S01E14
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3242.mp4
+#EXTINF:-1,Jane.The.Virgin.S01E15
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3243.mp4
+#EXTINF:-1,Jane.The.Virgin.S01E16
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3249.mp4
+#EXTINF:-1,Jane.The.Virgin.S01E17
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3238.mp4
+#EXTINF:-1,Jane.The.Virgin.S01E18
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3246.mp4
+#EXTINF:-1,Jane.The.Virgin.S01E19
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3240.mp4
+#EXTINF:-1,Jane.The.Virgin.S01E20
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3250.mp4
+#EXTINF:-1,Jane.The.Virgin.S01E21
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3251.mp4
+#EXTINF:-1,Jane.The.Virgin.S01E22
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3233.mp4
+#EXTINF:-1,jcvj.S01E01
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3256.mp4
+#EXTINF:-1,jcvj.S01E02
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3253.mp4
+#EXTINF:-1,jcvj.S01E03
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3255.mp4
+#EXTINF:-1,jcvj.S01E04
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3254.mp4
+#EXTINF:-1,jcvj.S01E05
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3257.mp4
+#EXTINF:-1,jcvj.S01E06
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3258.mp4
+#EXTINF:-1,Marvels.Inhumans.S01E01
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3265.mp4
+#EXTINF:-1,Marvels.Inhumans.S01E02
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3259.mp4
+#EXTINF:-1,Marvels.Inhumans.S01E03
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3261.mp4
+#EXTINF:-1,Marvels.Inhumans.S01E04
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3266.mp4
+#EXTINF:-1,Marvels.Inhumans.S01E05
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3262.mp4
+#EXTINF:-1,Marvels.Inhumans.S01E06
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3260.mp4
+#EXTINF:-1,Marvels.Inhumans.S01E07
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3264.mp4
+#EXTINF:-1,Marvels.Inhumans.S01E08
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3263.mp4
+#EXTINF:-1,Por.Treze.Razões.S01E01
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3275.mp4
+#EXTINF:-1,Por.Treze.Razões.S01E02
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3277.mp4
+#EXTINF:-1,Por.Treze.Razões.S01E03
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3270.mp4
+#EXTINF:-1,Por.Treze.Razões.S01E04
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3269.mp4
+#EXTINF:-1,Por.Treze.Razões.S01E05
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3267.mp4
+#EXTINF:-1,Por.Treze.Razões.S01E06
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3272.mp4
+#EXTINF:-1,Por.Treze.Razões.S01E07
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3278.mp4
+#EXTINF:-1,Por.Treze.Razões.S01E08
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3274.mp4
+#EXTINF:-1,Por.Treze.Razões.S01E09
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3271.mp4
+#EXTINF:-1,Por.Treze.Razões.S01E10
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3268.mp4
+#EXTINF:-1,Por.Treze.Razões.S01E11
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3279.mp4
+#EXTINF:-1,Por.Treze.Razões.S01E12
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3276.mp4
+#EXTINF:-1,Por.Treze.Razões.S01E13
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3273.mp4
+#EXTINF:-1,RAY - T01E02
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3291.mp4
+#EXTINF:-1,RAY - T01E03
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3286.mp4
+#EXTINF:-1,RAY - T01E04
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3289.mp4
+#EXTINF:-1,RAY - T01E05
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3288.mp4
+#EXTINF:-1,RAY - T01E06
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3280.mp4
+#EXTINF:-1,RAY - T01E07
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3285.mp4
+#EXTINF:-1,RAY - T01E08
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3282.mp4
+#EXTINF:-1,RAY - T01E09
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3284.mp4
+#EXTINF:-1,RAY - T01E10
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3283.mp4
+#EXTINF:-1,RAY - T01E11
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3281.mp4
+#EXTINF:-1,RAY - T01E12
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3287.mp4
+#EXTINF:-1,RAY-T01E01
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3290.mp4
+#EXTINF:-1,Ray.S02E01
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3300.mp4
+#EXTINF:-1,Ray.S02E02
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3296.mp4
+#EXTINF:-1,Ray.S02E03
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3302.mp4
+#EXTINF:-1,Ray.S02E05
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3295.mp4
+#EXTINF:-1,Ray.S02E06.
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3299.mp4
+#EXTINF:-1,Ray.S02E07
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3293.mp4
+#EXTINF:-1,Ray.S02E08
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3297.mp4
+#EXTINF:-1,Ray.S02E09
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3294.mp4
+#EXTINF:-1,Ray.S02E10
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3298.mp4
+#EXTINF:-1,Ray.S02E11
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3303.mp4
+#EXTINF:-1,Ray.S02E12
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3301.mp4
+#EXTINF:-1,RayS02E04
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3292.mp4
+#EXTINF:-1,Ray.S03E01
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3307.mp4
+#EXTINF:-1,Ray.S03E02
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3313.mp4
+#EXTINF:-1,Ray.S03E03
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3308.mp4
+#EXTINF:-1,Ray.S03E04
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3312.mp4
+#EXTINF:-1,Ray.S03E05
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3305.mp4
+#EXTINF:-1,Ray.S03E07
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3309.mp4
+#EXTINF:-1,Ray.S03E08
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3315.mp4
+#EXTINF:-1,Ray.S03E09
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3310.mp4
+#EXTINF:-1,Ray.S03E10
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3306.mp4
+#EXTINF:-1,Ray.S03E11
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3304.mp4
+#EXTINF:-1,Ray.S03E12
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3311.mp4
+#EXTINF:-1,RayS03E06
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3314.mp4
+#EXTINF:-1,Agent Carter S01E01
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3319.mp4
+#EXTINF:-1,Agent Carter S01E02
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3323.mp4
+#EXTINF:-1,Agent Carter S01E03
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3320.mp4
+#EXTINF:-1,Agent Carter S01E04
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3317.mp4
+#EXTINF:-1,Agent Carter S01E05
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3318.mp4
+#EXTINF:-1,Agent Carter S01E06
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3322.mp4
+#EXTINF:-1,Agent Carter S01E07
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3316.mp4
+#EXTINF:-1,Agent Carter S01E08
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3321.mp4
+#EXTINF:-1,Spartacus1TAE1 - Past Transgressions
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3341.mp4
+#EXTINF:-1,Spartacus1TAE2 - Missio
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3340.mp4
+#EXTINF:-1,Spartacus1TAE3 - Paterfamilias
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3337.mp4
+#EXTINF:-1,Spartacus1TAE4 - Beneath the Mask
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3339.mp4
+#EXTINF:-1,Spartacus1TAE5 - Reckoning
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3342.mp4
+#EXTINF:-1,Spartacus1TAE6 - The Bitter End
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3338.mp4
+#EXTINF:-1,Spartacus1TE1 - A Serpente Vermelha
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3326.mp4
+#EXTINF:-1,Spartacus1TE10 - Partido de favores
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3330.mp4
+#EXTINF:-1,Spartacus1TE11 - Velhas feridas
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3334.mp4
+#EXTINF:-1,Spartacus1TE12 - Apocalipse
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3324.mp4
+#EXTINF:-1,Spartacus1TE13 - Mate a todos
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3327.mp4
+#EXTINF:-1,Spartacus1TE2 - Juramento do Gladiador
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3333.mp4
+#EXTINF:-1,Spartacus1TE3 - Lendas
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3331.mp4
+#EXTINF:-1,Spartacus1TE4 - A coisa no poço
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3332.mp4
+#EXTINF:-1,Spartacus1TE5 - Sombra de Jogos
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3325.mp4
+#EXTINF:-1,Spartacus1TE6 - Coisas Delicadas
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3329.mp4
+#EXTINF:-1,Spartacus1TE7 - Grandes Infelicidades
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3336.mp4
+#EXTINF:-1,Spartacus1TE8 - Marca da Fraternidade
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3335.mp4
+#EXTINF:-1,Spartacus1TE9 - Prostituta
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3328.mp4
+#EXTINF:-1,Spartacus2TE01 - Fugitivus
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3347.mp4
+#EXTINF:-1,Spartacus2TE02 - A Place in This World
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3350.mp4
+#EXTINF:-1,Spartacus2TE03 - The Greater Good
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3343.mp4
+#EXTINF:-1,Spartacus2TE04 - Empty Hands
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3344.mp4
+#EXTINF:-1,Spartacus2TE05 - Libertus
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3346.mp4
+#EXTINF:-1,Spartacus2TE06 - Chosen Path
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3351.mp4
+#EXTINF:-1,Spartacus2TE07 - Sacramentum
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3352.mp4
+#EXTINF:-1,Spartacus2TE08 - Balance
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3349.mp4
+#EXTINF:-1,Spartacus2TE09 - Monsters
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3345.mp4
+#EXTINF:-1,Spartacus2TE10 - Wrath of the Gods
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3348.mp4
+#EXTINF:-1,SpartacusS03E01 - Enemies of Rome
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3354.mp4
+#EXTINF:-1,SpartacusS03E02 - Wolves At The Gate
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3360.mp4
+#EXTINF:-1,SpartacusS03E03 - Men of Honor
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3355.mp4
+#EXTINF:-1,SpartacusS03E04 - Decimation
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3356.mp4
+#EXTINF:-1,SpartacusS03E05 - Blood Brothers
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3362.mp4
+#EXTINF:-1,SpartacusS03E06 - Spoils of War
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3359.mp4
+#EXTINF:-1,SpartacusS03E07 - Mors Indecepta
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3358.mp4
+#EXTINF:-1,SpartacusS03E08 - Separate Paths
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3357.mp4
+#EXTINF:-1,SpartacusS03E09 - The Dead and the Dying
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3353.mp4
+#EXTINF:-1,SpartacusS03E10 - Victory
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3361.mp4
+#EXTINF:-1,Simpsons S26E01
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3374.mp4
+#EXTINF:-1,Simpsons S26E02
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3380.mp4
+#EXTINF:-1,Simpsons S26E03
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3368.mp4
+#EXTINF:-1,Simpsons S26E04
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3370.mp4
+#EXTINF:-1,Simpsons S26E05
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3372.mp4
+#EXTINF:-1,Simpsons S26E06
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3365.mp4
+#EXTINF:-1,Simpsons S26E07
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3378.mp4
+#EXTINF:-1,Simpsons S26E08
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3381.mp4
+#EXTINF:-1,Simpsons S26E09
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3383.mp4
+#EXTINF:-1,Simpsons S26E10
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3363.mp4
+#EXTINF:-1,Simpsons S26E11
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3366.mp4
+#EXTINF:-1,Simpsons S26E12
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3369.mp4
+#EXTINF:-1,Simpsons S26E13
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3379.mp4
+#EXTINF:-1,Simpsons S26E14
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3376.mp4
+#EXTINF:-1,Simpsons S26E15
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3375.mp4
+#EXTINF:-1,Simpsons S26E16
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3364.mp4
+#EXTINF:-1,Simpsons S26E17
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3377.mp4
+#EXTINF:-1,Simpsons S26E18
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3371.mp4
+#EXTINF:-1,Simpsons S26E19
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3373.mp4
+#EXTINF:-1,Simpsons S26E20
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3384.mp4
+#EXTINF:-1,Simpsons S26E21
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3367.mp4
+#EXTINF:-1,Simpsons S26E22
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3382.mp4
+#EXTINF:-1,VKT1E1
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3395.mp4
+#EXTINF:-1,VKT1E2
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3396.mp4
+#EXTINF:-1,VKT1E3
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3394.mp4
+#EXTINF:-1,VKT1E4
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3391.mp4
+#EXTINF:-1,VKT1E5
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3392.mp4
+#EXTINF:-1,VKT1E6
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3389.mp4
+#EXTINF:-1,VKT1E7
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3388.mp4
+#EXTINF:-1,VKT1E8
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3390.mp4
+#EXTINF:-1,VKT1E9
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3393.mp4
+#EXTINF:-1,VKT2E1 Brother's War
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3404.mp4
+#EXTINF:-1,VKT2E10The Lord's Prayer
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3402.mp4
+#EXTINF:-1,VKT2E2 Invasion
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3399.mp4
+#EXTINF:-1,VKT2E3 Treachery
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3398.mp4
+#EXTINF:-1,VKT2E4Eye for an Eye
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3406.mp4
+#EXTINF:-1,VKT2E5 Answers in Blood
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3400.mp4
+#EXTINF:-1,VKT2E6Unforgiven
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3403.mp4
+#EXTINF:-1,VKT2E7Blood Eagle
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3397.mp4
+#EXTINF:-1,VKT2E8Boneless
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3405.mp4
+#EXTINF:-1,VKT2E9The Choice
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3401.mp4
+#EXTINF:-1,T.I.U.S01E01
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3421.mp4
+#EXTINF:-1,T.I.U.S01E02
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3410.mp4
+#EXTINF:-1,T.I.U.S01E03
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3414.mp4
+#EXTINF:-1,T.I.U.S01E04
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3416.mp4
+#EXTINF:-1,T.I.U.S01E05
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3418.mp4
+#EXTINF:-1,T.I.U.S01E06
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3407.mp4
+#EXTINF:-1,T.I.U.S01E07
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3411.mp4
+#EXTINF:-1,T.I.U.S01E08
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3422.mp4
+#EXTINF:-1,T.I.U.S01E09
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3423.mp4
+#EXTINF:-1,T.I.U.S01E10
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3415.mp4
+#EXTINF:-1,T.I.U.S01E11
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3413.mp4
+#EXTINF:-1,T.I.U.S01E12
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3419.mp4
+#EXTINF:-1,T.I.U.S01E13
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3420.mp4
+#EXTINF:-1,T.I.U.S01E14
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3412.mp4
+#EXTINF:-1,T.I.U.S01E15
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3409.mp4
+#EXTINF:-1,T.I.U.S01E16
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3424.mp4
+#EXTINF:-1,T.I.U.S01E17
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3408.mp4
+#EXTINF:-1,T.I.U.S01E18
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3417.mp4
+#EXTINF:-1,Riverdale.S01E01
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3431.mp4
+#EXTINF:-1,Riverdale.S01E03
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3433.mp4
+#EXTINF:-1,Riverdale.S01E04
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3430.mp4
+#EXTINF:-1,Riverdale.S01E05
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3425.mp4
+#EXTINF:-1,Riverdale.S01E06
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3429.mp4
+#EXTINF:-1,Riverdale.S01E07
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3427.mp4
+#EXTINF:-1,Riverdale.S01E08.
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3432.mp4
+#EXTINF:-1,Riverdale.S01E09
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3435.mp4
+#EXTINF:-1,Riverdale.S01E10
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3428.mp4
+#EXTINF:-1,Riverdale.S01E11
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3436.mp4
+#EXTINF:-1,Riverdale.S01E12
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3434.mp4
+#EXTINF:-1,Riverdale.S01E13
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3426.mp4
+#EXTINF:-1,Taken - 01 - Beyond The Sky
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3444.mp4
+#EXTINF:-1,Taken - 02 - Jacob and Jesse
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3443.mp4
+#EXTINF:-1,Taken - 03 - High Hopes
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3445.mp4
+#EXTINF:-1,Taken - 04 - Acid Tests
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3438.mp4
+#EXTINF:-1,Taken - 05 - Maintenance
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3441.mp4
+#EXTINF:-1,Taken - 06 - Charlie and Lisa
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3446.mp4
+#EXTINF:-1,Taken - 07 - God's Equation
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3442.mp4
+#EXTINF:-1,Taken - 08 - Dropping the Dishes
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3437.mp4
+#EXTINF:-1,Taken - 09 - John
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3439.mp4
+#EXTINF:-1,Taken - 10 - Taken
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3440.mp4
+#EXTINF:-1,The.OA.S01E01
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3452.mp4
+#EXTINF:-1,The.OA.S01E02
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3453.mp4
+#EXTINF:-1,The.OA.S01E03
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3450.mp4
+#EXTINF:-1,The.OA.S01E04
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3449.mp4
+#EXTINF:-1,The.OA.S01E05
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3451.mp4
+#EXTINF:-1,The.OA.S01E06
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3454.mp4
+#EXTINF:-1,The.OA.S01E07
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3447.mp4
+#EXTINF:-1,The.OA.S01E08
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3448.mp4
+#EXTINF:-1,Lucifer.S01E01
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3480.mp4
+#EXTINF:-1,Lucifer.S01E02
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3482.mp4
+#EXTINF:-1,Lucifer.S01E03
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3481.mp4
+#EXTINF:-1,Lucifer.S01E04
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3473.mp4
+#EXTINF:-1,Lucifer.S01E05
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3478.mp4
+#EXTINF:-1,Lucifer.S01E06
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3483.mp4
+#EXTINF:-1,Lucifer.S01E07
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3476.mp4
+#EXTINF:-1,Lucifer.S01E08
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3477.mp4
+#EXTINF:-1,Lucifer.S01E09
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3472.mp4
+#EXTINF:-1,Lucifer.S01E10
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3479.mp4
+#EXTINF:-1,Lucifer.S01E11
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3484.mp4
+#EXTINF:-1,Lucifer.S01E12
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3475.mp4
+#EXTINF:-1,Lucifer.S01E13
+http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3474.mp4
