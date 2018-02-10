@@ -1,1592 +1,520 @@
-#EXTM3U
-
-#EXTINF:-1,Playboy TV tvg-logo="https://raw.githubusercontent.com/tcm21DIY/MediaIPTV/master/sport.png"
-http://painel.iptvmove.com:25461/live/danielxx/danielxx/1278.ts
-
-#EXTINF:-1,Sextreme
-http://painel.iptvmove.com:25461/live/danielxx/danielxx/1258.ts
-#EXTINF:-1,Sexy Hot
-http://painel.iptvmove.com:25461/live/danielxx/danielxx/1257.ts
-
-#EXTINF:-1,Hot HD
-http://painel.iptvmove.com:25461/live/danielxx/danielxx/2770.ts
-#EXTINF:-1,Hustler HD
-http://painel.iptvmove.com:25461/live/danielxx/danielxx/2769.ts
-#EXTINF:-1,Passie XXX
-http://painel.iptvmove.com:25461/live/danielxx/danielxx/2772.ts
-#EXTINF:-1,PentHouse HD
-http://painel.iptvmove.com:25461/live/danielxx/danielxx/2771.ts
-#EXTINF:-1,SexZone
-http://painel.iptvmove.com:25461/live/danielxx/danielxx/2773.ts
-#EXTINF:-1,XxxxXXX
-http://painel.iptvmove.com:25461/live/danielxx/danielxx/2768.ts
-#EXTINF:-1,Globo MG
-http://painel.iptvmove.com:25461/live/danielxx/danielxx/3497.ts
-#EXTINF:-1,Globo RJ HD [Alter]
-http://painel.iptvmove.com:25461/live/danielxx/danielxx/3118.ts
-#EXTINF:-1,Lifetime HD
-http://painel.iptvmove.com:25461/live/danielxx/danielxx/2662.ts
-#EXTINF:-1,Mais Globo Sat HD
-http://painel.iptvmove.com:25461/live/danielxx/danielxx/3490.ts
-#EXTINF:-1,NatGeo Kids HD
-http://painel.iptvmove.com:25461/live/danielxx/danielxx/3489.ts
-#EXTINF:-1,Nickelodeon HD
-http://painel.iptvmove.com:25461/live/danielxx/danielxx/3488.ts
-#EXTINF:-1,PREMIERE CLUBES HD [Alter2]
-http://painel.iptvmove.com:25461/live/danielxx/danielxx/3105.ts
-#EXTINF:-1,Record  HD [Alter]
-http://painel.iptvmove.com:25461/live/danielxx/danielxx/3104.ts
-#EXTINF:-1,SBT HD [Alter]
-http://painel.iptvmove.com:25461/live/danielxx/danielxx/3103.ts
-#EXTINF:-1,SPORTV [Alter]
-http://painel.iptvmove.com:25461/live/danielxx/danielxx/3102.ts
-#EXTINF:-1,SPORTV 2 [Alter]
-http://painel.iptvmove.com:25461/live/danielxx/danielxx/3101.ts
-#EXTINF:-1,SPORTV 2 HD [Alter]
-http://painel.iptvmove.com:25461/live/danielxx/danielxx/3100.ts
-#EXTINF:-1,SPORTV 2 HD [Alter2]
-http://painel.iptvmove.com:25461/live/danielxx/danielxx/3099.ts
-#EXTINF:-1,SPORTV 3 [Alter]
-http://painel.iptvmove.com:25461/live/danielxx/danielxx/3098.ts
-#EXTINF:-1,SPORTV 3 HD [Alter]
-http://painel.iptvmove.com:25461/live/danielxx/danielxx/3097.ts
-#EXTINF:-1,SPORTV 3 HD [Alter2]
-http://painel.iptvmove.com:25461/live/danielxx/danielxx/3096.ts
-#EXTINF:-1,SPORTV HD [Alter]
-http://painel.iptvmove.com:25461/live/danielxx/danielxx/3095.ts
-#EXTINF:-1,SPORTV HD [Alter2]
-http://painel.iptvmove.com:25461/live/danielxx/danielxx/3094.ts
-#EXTINF:-1,Syfy HD
-http://painel.iptvmove.com:25461/live/danielxx/danielxx/3487.ts
-#EXTINF:-1,TLC HD
-http://painel.iptvmove.com:25461/live/danielxx/danielxx/3486.ts
-#EXTINF:-1,TV Cult HD
-http://painel.iptvmove.com:25461/live/danielxx/danielxx/3485.ts
-#EXTINF:-1,PREMIER 1 [Alter]
-http://painel.iptvmove.com:25461/live/danielxx/danielxx/3116.ts
-#EXTINF:-1,PREMIER 10 [Alter]
-http://painel.iptvmove.com:25461/live/danielxx/danielxx/3115.ts
-#EXTINF:-1,PREMIER 2 [Alter]
-http://painel.iptvmove.com:25461/live/danielxx/danielxx/3114.ts
-#EXTINF:-1,PREMIER 24HS [Alter]
-http://painel.iptvmove.com:25461/live/danielxx/danielxx/3113.ts
-#EXTINF:-1,PREMIER 3 [Alter]
-http://painel.iptvmove.com:25461/live/danielxx/danielxx/3112.ts
-#EXTINF:-1,PREMIER 4 [Alter]
-http://painel.iptvmove.com:25461/live/danielxx/danielxx/3111.ts
-#EXTINF:-1,PREMIER 5 [Alter]
-http://painel.iptvmove.com:25461/live/danielxx/danielxx/3110.ts
-#EXTINF:-1,PREMIER 6 [Alter]
-http://painel.iptvmove.com:25461/live/danielxx/danielxx/3109.ts
-#EXTINF:-1,PREMIER 7 [Alter]
-http://painel.iptvmove.com:25461/live/danielxx/danielxx/3108.ts
-#EXTINF:-1,PREMIER 8 [Alter]
-http://painel.iptvmove.com:25461/live/danielxx/danielxx/3107.ts
-#EXTINF:-1,PREMIER 9 [Alter]
-http://painel.iptvmove.com:25461/live/danielxx/danielxx/3106.ts
-#EXTINF:-1,FOX SPORTS [Alter]
-http://painel.iptvmove.com:25461/live/danielxx/danielxx/3124.ts
-#EXTINF:-1,FOX SPORTS 2 [Alter]
-http://painel.iptvmove.com:25461/live/danielxx/danielxx/3123.ts
-#EXTINF:-1,FOX SPORTS 2 HD [Alter]
-http://painel.iptvmove.com:25461/live/danielxx/danielxx/3122.ts
-#EXTINF:-1,FOX SPORTS 2 HD [Alter2]
-http://painel.iptvmove.com:25461/live/danielxx/danielxx/3121.ts
-#EXTINF:-1,FOX SPORTS HD [Alter]
-http://painel.iptvmove.com:25461/live/danielxx/danielxx/3120.ts
-#EXTINF:-1,FOX SPORTS HD [Alter2]
-http://painel.iptvmove.com:25461/live/danielxx/danielxx/3119.ts
-#EXTINF:-1,Discovery Channel HD [Alter]
-http://painel.iptvmove.com:25461/live/danielxx/danielxx/2747.ts
-#EXTINF:-1,Discovery Civilization HD
-http://painel.iptvmove.com:25461/live/danielxx/danielxx/3493.ts
-#EXTINF:-1,Discovery Science HD
-http://painel.iptvmove.com:25461/live/danielxx/danielxx/3492.ts
-#EXTINF:-1,Disney Channel HD
-http://painel.iptvmove.com:25461/live/danielxx/danielxx/3491.ts
-#EXTINF:-1,A cabana
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1938.mp4
-#EXTINF:-1,A Mumia 2017
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1667.mp4
-#EXTINF:-1,A Vigilante do Amanhã: Ghost in the Shell
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1800.mp4
-#EXTINF:-1,Assassin's Creed
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1805.mp4
-#EXTINF:-1,Deadpool
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1696.mp4
-#EXTINF:-1,Doutor Estranho
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1804.mp4
-#EXTINF:-1,Era de Ultron
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1801.mp4
-#EXTINF:-1,Guardioes da Galaxia 2
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1808.mp4
-#EXTINF:-1,Kong A Ilha da Caveira
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1799.mp4
-#EXTINF:-1,Logan
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1797.mp4
-#EXTINF:-1,Meu Malvado Favorito 3
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1697.mp4
-#EXTINF:-1,O Culto de Chucky
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1806.mp4
-#EXTINF:-1,O Poderoso Chefinho
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1803.mp4
-#EXTINF:-1,Pirates of the Caribbean: Dead Men Tell No Tales
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1666.mp4
-#EXTINF:-1,Transformers O Último Cavaleiro
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1664.mp4
-#EXTINF:-1,Lego Dc Super Girls
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1668.mp4
-#EXTINF:-1,Silencio
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1672.mp4
-#EXTINF:-1,Power Rangers
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1798.mp4
-#EXTINF:-1,Assalto Sobre Trilhos
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1836.mp4
-#EXTINF:-1,Churchil
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2319.mp4
-#EXTINF:-1,Como Treinar O Seu Dragão 2
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1674.mp4
-#EXTINF:-1,Corra!
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1845.mp4
-#EXTINF:-1,Eu Fico louco
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1841.mp4
-#EXTINF:-1,Menina Ma.com
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1851.mp4
-#EXTINF:-1,Meu Malvado Favorito 2
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1683.mp4
-#EXTINF:-1,Minions
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1684.mp4
-#EXTINF:-1,Nu
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1843.mp4
-#EXTINF:-1,Nunca Diga Seu Nome
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1846.mp4
-#EXTINF:-1,O Bom Dinossauro
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1685.mp4
-#EXTINF:-1,O Contrato
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1852.mp4
-#EXTINF:-1,O Ritual
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1850.mp4
-#EXTINF:-1,Os Pinguins De Madagascar
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1689.mp4
-#EXTINF:-1,Paixão Obsessiva
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1844.mp4
-#EXTINF:-1,Passageiros
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1848.mp4
-#EXTINF:-1,Pets A Vida Secreta Dos Bichos
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1690.mp4
-#EXTINF:-1,Pixels
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1691.mp4
-#EXTINF:-1,Punhos de Sangue
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1849.mp4
-#EXTINF:-1,Rei Arthur
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1840.mp4
-#EXTINF:-1,Valente*
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1694.mp4
-#EXTINF:-1,Vida
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1839.mp4
-#EXTINF:-1,Cine Move
-http://painel.iptvmove.com:25461/live/danielxx/danielxx/1420.ts
-#EXTINF:-1,Cine Move 2
-http://painel.iptvmove.com:25461/live/danielxx/danielxx/1813.ts
-#EXTINF:-1,Cine Move 3
-http://painel.iptvmove.com:25461/live/danielxx/danielxx/1814.ts
-#EXTINF:-1,Cine Move 4
-http://painel.iptvmove.com:25461/live/danielxx/danielxx/1815.ts
-#EXTINF:-1,Cine Move 5
-http://painel.iptvmove.com:25461/live/danielxx/danielxx/1861.ts
-#EXTINF:-1,Cine Move 6
-http://painel.iptvmove.com:25461/live/danielxx/danielxx/1862.ts
-#EXTINF:-1,Cine Move 7
-http://painel.iptvmove.com:25461/live/danielxx/danielxx/1863.ts
-#EXTINF:-1,Cine Move 8
-http://painel.iptvmove.com:25461/live/danielxx/danielxx/1864.ts
-#EXTINF:-1,Cine Move 9
-http://painel.iptvmove.com:25461/live/danielxx/danielxx/1865.ts
-#EXTINF:-1,Cine Move 10
-http://painel.iptvmove.com:25461/live/danielxx/danielxx/1866.ts
-#EXTINF:-1,A Fabulosa Gilly Hopkins
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1959.mp4
-#EXTINF:-1,A Lei da Noite
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1960.mp4
-#EXTINF:-1,A Peregrinacao
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1962.mp4
-#EXTINF:-1,A Promessa
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1963.mp4
-#EXTINF:-1,Andron
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1965.mp4
-#EXTINF:-1,Animais Noturnos
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1966.mp4
-#EXTINF:-1,Anjos da Noite - Guerras de Sangue
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1967.mp4
-#EXTINF:-1,Antes Que Eu Va
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1968.mp4
-#EXTINF:-1,Armas Na Mesa
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1969.mp4
-#EXTINF:-1,As Aventuras de Ozzy
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1970.mp4
-#EXTINF:-1,Beyond the Call to Duty
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1974.mp4
-#EXTINF:-1,Busca Sem Limites
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1973.mp4
-#EXTINF:-1,Campo Minado
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1975.mp4
-#EXTINF:-1,Cao Selvagem
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1976.mp4
-#EXTINF:-1,Get the Girl
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1972.mp4
-#EXTINF:-1,Hacksaw Ridge
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1971.mp4
-#EXTINF:-1,A Filha do Patrao
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2066.mp4
-#EXTINF:-1,Alice - O Lado Negro do Espelho
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2065.mp4
-#EXTINF:-1,Estrelas Alem do tempo
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2069.mp4
-#EXTINF:-1,Filha de Deus
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2070.mp4
-#EXTINF:-1,Frank e Lola - Amor Obsessivo
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2071.mp4
-#EXTINF:-1,MonsterTrucks
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2075.mp4
-#EXTINF:-1,Mulheres do Seculo 20
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2074.mp4
-#EXTINF:-1,Rei Arthur: A Lenda da Espada
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2073.mp4
-#EXTINF:-1,TOC - Transtornada Compulsiva Obseciva
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2072.mp4
-#EXTINF:-1,Complete Unknown
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2067.mp4
-#EXTINF:-1,Drone
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2068.mp4
-#EXTINF:-1,Hard Sell CO
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2083.mp4
-#EXTINF:-1,Colossal
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2084.mp4
-#EXTINF:-1,Jackie
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2086.mp4
-#EXTINF:-1,Free Fire
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2085.mp4
-#EXTINF:-1,Lion - Uma Jornada Para Casa
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2088.mp4
-#EXTINF:-1,Patriots Day
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2089.mp4
-#EXTINF:-1,La La Land
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2087.mp4
-#EXTINF:-1,Nina Simone
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2090.mp4
-#EXTINF:-1,Warcraft
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2093.mp4
-#EXTINF:-1,Max Steel
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2092.mp4
-#EXTINF:-1,Alien: Covenant
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2094.mp4
-#EXTINF:-1,Minha Vida De Abobrinha
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2101.mp4
-#EXTINF:-1,Amantes
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2102.mp4
-#EXTINF:-1,The Good Neighbor
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2103.mp4
-#EXTINF:-1,Um Limite Entre Nos
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2104.mp4
-#EXTINF:-1,Raze
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2105.mp4
-#EXTINF:-1,Moonlight: Sob a Luz do Luar
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2113.mp4
-#EXTINF:-1,Mr. Right
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2115.mp4
-#EXTINF:-1,Natal as Escuras
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2114.mp4
-#EXTINF:-1,The Diary of Anne Frank
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2117.mp4
-#EXTINF:-1,O Chamado 3
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2116.mp4
-#EXTINF:-1,O Homem da Meia Noite
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2119.mp4
-#EXTINF:-1,Planeta dos Macacos - A Guerra
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2131.mp4
-#EXTINF:-1,Sem Perdao
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2142.mp4
-#EXTINF:-1,Triple 9
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2143.mp4
-#EXTINF:-1,A Noite e Delas
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2136.mp4
-#EXTINF:-1,American Romance
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2137.mp4
-#EXTINF:-1,Warrior's Gate
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2150.mp4
-#EXTINF:-1,Resident Evil 6
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2152.mp4
-#EXTINF:-1,Sangue Pela Gloria
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2153.mp4
-#EXTINF:-1,Te Pego na Saida
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2154.mp4
-#EXTINF:-1,Snowden - Heroi ou Traidor
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2155.mp4
-#EXTINF:-1,Um Homem Chamado Ove
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2156.mp4
-#EXTINF:-1,Onde Esta Segunda
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2157.mp4
-#EXTINF:-1,Uma Historia de Vinganca
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2158.mp4
-#EXTINF:-1,Resident Evil: Vendetta
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2164.mp4
-#EXTINF:-1,xXx: Return of Xander Cage
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2161.mp4
-#EXTINF:-1,Um Mergulho No Passado
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2163.mp4
-#EXTINF:-1,A Kind of Murder
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2162.mp4
-#EXTINF:-1,Paris Pode Esperar
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2169.mp4
-#EXTINF:-1,50 Tons Mais Escuros
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1991.mp4
-#EXTINF:-1,A Ultima Ressaca do Ano
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2095.mp4
-#EXTINF:-1,As aventuras Do Capitao Cueca
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2165.mp4
-#EXTINF:-1,Descendentes 2
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1675.mp4
-#EXTINF:-1,Don't Think Twice
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2118.mp4
-#EXTINF:-1,Forsaken
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2151.mp4
-#EXTINF:-1,Fragmentado
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1830.mp4
-#EXTINF:-1,Galinha Pintadinha 1
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1676.mp4
-#EXTINF:-1,Galinha Pintadinha 2
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1677.mp4
-#EXTINF:-1,Galinha Pintadinha 3
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1678.mp4
-#EXTINF:-1,Galinha Pintadinha 4
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1679.mp4
-#EXTINF:-1,Laid In America
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1994.mp4
-#EXTINF:-1,Limitless 2
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1842.mp4
-#EXTINF:-1,Lucas Formigueiro
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1681.mp4
-#EXTINF:-1,Mune - Guardiao da Lua
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2167.mp4
-#EXTINF:-1,My Pet Dinossauro
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2168.mp4
-#EXTINF:-1,Os Croods
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1688.mp4
-#EXTINF:-1,Red Sky
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1990.mp4
-#EXTINF:-1,Rock Dog
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2097.mp4
-#EXTINF:-1,Shepherds and Butchers
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1992.mp4
-#EXTINF:-1,Tempos de Violencia
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1853.mp4
-#EXTINF:-1,The Nut Job 2 Nutty by Nature
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2177.mp4
-#EXTINF:-1,The Model
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2096.mp4
-#EXTINF:-1,Tinha Que Ser Ele
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2098.mp4
-#EXTINF:-1,Carros 3
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2166.mp4
-#EXTINF:-1,Castelo de Areia
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/1989.mp4
-#EXTINF:-1,6 Below Miracle on the Mountain
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2170.mp4
-#EXTINF:-1,Jackals
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2172.mp4
-#EXTINF:-1,Logan Lucky
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2173.mp4
-#EXTINF:-1,Uma Verdade Mais Inconveniente
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2178.mp4
-#EXTINF:-1,Valerian and the City of a Thousand Planets
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2179.mp4
-#EXTINF:-1,kingsman: O Circulo Dourado
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2278.mp4
-#EXTINF:-1,O Assassino: o Primeiro Alvo
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2280.mp4
-#EXTINF:-1,Her Dark Past / The Many Faces of Alice
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2279.mp4
-#EXTINF:-1,Storm: Letters van Vuur
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2276.mp4
-#EXTINF:-1,Una
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2321.mp4
-#EXTINF:-1,Eu Daniel Blake
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2320.mp4
-#EXTINF:-1,A Baba
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2323.mp4
-#EXTINF:-1,Olaf Em Uma Aventura Congelante
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2332.mp4
-#EXTINF:-1,Bruxarias
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2331.mp4
-#EXTINF:-1,Ghost Patrol
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2333.mp4
-#EXTINF:-1,Tá Chovendo Hamburger
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2334.mp4
-#EXTINF:-1,Tá Chovendo Hamburger 2
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2335.mp4
-#EXTINF:-1,Frozen
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2336.mp4
-#EXTINF:-1,BEN 10 24HRS
-http://painel.iptvmove.com:25461/live/danielxx/danielxx/2369.ts
-#EXTINF:-1,CAVALEIROS ZODIACO 24HRS
-http://painel.iptvmove.com:25461/live/danielxx/danielxx/2370.ts
-#EXTINF:-1,O MASCARA 24HRS
-http://painel.iptvmove.com:25461/live/danielxx/danielxx/2371.ts
-#EXTINF:-1,OS SIMPSONS 24HRS
-http://painel.iptvmove.com:25461/live/danielxx/danielxx/2368.ts
-#EXTINF:-1,Feito Na America
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2646.mp4
-#EXTINF:-1,Bright
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2733.mp4
-#EXTINF:-1,Mr. Bean
-http://painel.iptvmove.com:25461/live/danielxx/danielxx/2647.ts
-#EXTINF:-1,GOTS01E01
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2742.mp4
-#EXTINF:-1,GOTS01E010
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2745.mp4
-#EXTINF:-1,GOTS01E02
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2738.mp4
-#EXTINF:-1,GOTS01E03
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2739.mp4
-#EXTINF:-1,GOTS01E05
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2736.mp4
-#EXTINF:-1,GOTS01E06
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2743.mp4
-#EXTINF:-1,GOTS01E07
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2741.mp4
-#EXTINF:-1,GOTS01E08
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2737.mp4
-#EXTINF:-1,GOTS01E09
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2744.mp4
-#EXTINF:-1,GOTS01E04
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2740.mp4
-#EXTINF:-1,GOTS02E01
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2753.mp4
-#EXTINF:-1,GOTS02E02
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2755.mp4
-#EXTINF:-1,GOTS02E03
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2756.mp4
-#EXTINF:-1,GOTS02E04
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2757.mp4
-#EXTINF:-1,GOTS02E05
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2752.mp4
-#EXTINF:-1,GOTS02E06
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2750.mp4
-#EXTINF:-1,GOTS02E07
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2748.mp4
-#EXTINF:-1,GOTS02E08
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2754.mp4
-#EXTINF:-1,GOTS02E09
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2749.mp4
-#EXTINF:-1,GOTS02E10
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2751.mp4
-#EXTINF:-1,Emoji
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2277.mp4
-#EXTINF:-1,Realive
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2281.mp4
-#EXTINF:-1,GOTS03E01
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2763.mp4
-#EXTINF:-1,GOTS03E02
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2758.mp4
-#EXTINF:-1,GOTS03E03
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2760.mp4
-#EXTINF:-1,GOTS03E04
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2764.mp4
-#EXTINF:-1,GOTS03E05
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2766.mp4
-#EXTINF:-1,GOTS03E06
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2762.mp4
-#EXTINF:-1,GOTS03E07
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2759.mp4
-#EXTINF:-1,GOTS03E08
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2761.mp4
-#EXTINF:-1,GOTS03E09
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2765.mp4
-#EXTINF:-1,GOTS03E10
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2767.mp4
-#EXTINF:-1,GOTS04E01
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2783.mp4
-#EXTINF:-1,GOTS04E02
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2777.mp4
-#EXTINF:-1,GOTS04E03
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2782.mp4
-#EXTINF:-1,GOTS04E04
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2779.mp4
-#EXTINF:-1,GOTS04E05
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2780.mp4
-#EXTINF:-1,GOTS04E06
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2774.mp4
-#EXTINF:-1,GOTS04E07
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2775.mp4
-#EXTINF:-1,GOTS04E08
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2776.mp4
-#EXTINF:-1,GOTS04E09
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2781.mp4
-#EXTINF:-1,GOTS04E10
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2778.mp4
-#EXTINF:-1,GOTS05E01
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2790.mp4
-#EXTINF:-1,GOTS05E010
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2787.mp4
-#EXTINF:-1,GOTS05E02
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2791.mp4
-#EXTINF:-1,GOTS05E03
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2792.mp4
-#EXTINF:-1,GOTS05E04
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2788.mp4
-#EXTINF:-1,GOTS05E05
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2786.mp4
-#EXTINF:-1,GOTS05E06
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2784.mp4
-#EXTINF:-1,GOTS05E07
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2793.mp4
-#EXTINF:-1,GOTS05E08
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2789.mp4
-#EXTINF:-1,GOTS05E09
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2785.mp4
-#EXTINF:-1,GOTS06E01
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2802.mp4
-#EXTINF:-1,GOTS06E010
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2797.mp4
-#EXTINF:-1,GOTS06E02
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2796.mp4
-#EXTINF:-1,GOTS06E03
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2798.mp4
-#EXTINF:-1,GOTS06E04
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2795.mp4
-#EXTINF:-1,GOTS06E05
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2799.mp4
-#EXTINF:-1,GOTS06E06
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2794.mp4
-#EXTINF:-1,GOTS06E07
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2801.mp4
-#EXTINF:-1,GOTS06E08
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2803.mp4
-#EXTINF:-1,GOTS06E09
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2800.mp4
-#EXTINF:-1,GOTS07E01
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2809.mp4
-#EXTINF:-1,GOTS07E02
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2805.mp4
-#EXTINF:-1,GOTS07E03
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2807.mp4
-#EXTINF:-1,GOTS07E04
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2804.mp4
-#EXTINF:-1,GOTS07E05
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2810.mp4
-#EXTINF:-1,GOTS07E06
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2806.mp4
-#EXTINF:-1,GOTS07E07
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2808.mp4
-#EXTINF:-1,Pica-Pau: O filme
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2822.mp4
-#EXTINF:-1,6 DIAS
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2823.mp4
-#EXTINF:-1,A Ilha dos Monstros
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2825.mp4
-#EXTINF:-1,American Made
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2826.mp4
-#EXTINF:-1,As Irmas Vampiras
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2827.mp4
-#EXTINF:-1,Assassino Profissional
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2828.mp4
-#EXTINF:-1,Assassinos Multiplos
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2829.mp4
-#EXTINF:-1,Batman e Arlequina: Pancadas e Risadas
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2830.mp4
-#EXTINF:-1,Blade Runner 2049
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2831.mp4
-#EXTINF:-1,Boyka: O Imbativel
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2832.mp4
-#EXTINF:-1,Dunkirk
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2824.mp4
-#EXTINF:-1,Fronteira.S01E01
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2835.mp4
-#EXTINF:-1,Fronteira.S01E02
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2836.mp4
-#EXTINF:-1,Fronteira.S01E03
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2837.mp4
-#EXTINF:-1,Fronteira.S01E04
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2833.mp4
-#EXTINF:-1,Fronteira.S01E05
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2838.mp4
-#EXTINF:-1,Fronteira.S01E06
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2834.mp4
-#EXTINF:-1,Mr. Robot S01E01
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2857.mp4
-#EXTINF:-1,Mr. Robot S01E02
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2858.mp4
-#EXTINF:-1,Mr. Robot S01E03
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2856.mp4
-#EXTINF:-1,Mr. Robot S01E04
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2860.mp4
-#EXTINF:-1,Mr. Robot S01E05
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2855.mp4
-#EXTINF:-1,Mr. Robot S01E06
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2854.mp4
-#EXTINF:-1,Mr. Robot S01E07
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2861.mp4
-#EXTINF:-1,Mr. Robot S01E08
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2859.mp4
-#EXTINF:-1,Mr. Robot S01E09
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2853.mp4
-#EXTINF:-1,Mr. Robot S01E10
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2852.mp4
-#EXTINF:-1,Manhunt.Unabomber.S01E01
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2868.mp4
-#EXTINF:-1,Manhunt.Unabomber.S01E02
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2862.mp4
-#EXTINF:-1,Manhunt.Unabomber.S01E03
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2866.mp4
-#EXTINF:-1,Manhunt.Unabomber.S01E04
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2869.mp4
-#EXTINF:-1,Manhunt.Unabomber.S01E05
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2867.mp4
-#EXTINF:-1,Manhunt.Unabomber.S01E06
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2864.mp4
-#EXTINF:-1,Manhunt.Unabomber.S01E07
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2865.mp4
-#EXTINF:-1,Manhunt.Unabomber.S01E08
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2863.mp4
-#EXTINF:-1,WestworldS01E01
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2879.mp4
-#EXTINF:-1,WestworldS01E02
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2878.mp4
-#EXTINF:-1,WestworldS01E03
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2872.mp4
-#EXTINF:-1,WestworldS01E04
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2874.mp4
-#EXTINF:-1,WestworldS01E05
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2870.mp4
-#EXTINF:-1,WestworldS01E06
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2875.mp4
-#EXTINF:-1,WestworldS01E07
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2876.mp4
-#EXTINF:-1,WestworldS01E08
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2873.mp4
-#EXTINF:-1,WestworldS01E09
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2871.mp4
-#EXTINF:-1,WestworldS01E10
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2877.mp4
-#EXTINF:-1,12.Monkeys.S01E01
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2881.mp4
-#EXTINF:-1,12.Monkeys.S01E02
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2889.mp4
-#EXTINF:-1,12.Monkeys.S01E03
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2890.mp4
-#EXTINF:-1,12.Monkeys.S01E04
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2888.mp4
-#EXTINF:-1,12.Monkeys.S01E05
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2883.mp4
-#EXTINF:-1,12.Monkeys.S01E06
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2885.mp4
-#EXTINF:-1,12.Monkeys.S01E07
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2880.mp4
-#EXTINF:-1,12.Monkeys.S01E08
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2884.mp4
-#EXTINF:-1,12.Monkeys.S01E09
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2892.mp4
-#EXTINF:-1,12.Monkeys.S01E10
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2887.mp4
-#EXTINF:-1,12.Monkeys.S01E11
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2882.mp4
-#EXTINF:-1,12.Monkeys.S01E12
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2886.mp4
-#EXTINF:-1,12.Monkeys.S01E13
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2891.mp4
-#EXTINF:-1,T01E01 - Piloto
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2901.mp4
-#EXTINF:-1,T01E02 - É Tudo Culpa Dela
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2905.mp4
-#EXTINF:-1,T01E03 - Sorria, ou vá Para a Cadeia
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2907.mp4
-#EXTINF:-1,T01E04 - Iremos para Scooping
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2902.mp4
-#EXTINF:-1,T01E05 - Nós Não Somos Amigos
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2903.mp4
-#EXTINF:-1,T01E06 - Maldito Esconde-Esconde
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2900.mp4
-#EXTINF:-1,T01E07 - Ele Mereceu Morrer
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2898.mp4
-#EXTINF:-1,T01E08 - Ele Tem uma Esposa
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2906.mp4
-#EXTINF:-1,T01E09 - Me Mate, Me Mate, Me Mate
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2899.mp4
-#EXTINF:-1,T01E10 - Olá Raskolnikov
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2896.mp4
-#EXTINF:-1,T01E11 - Melhor Natal de Todos
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2893.mp4
-#EXTINF:-1,T01E12 - Ela é um Assassino
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2894.mp4
-#EXTINF:-1,T01E13 - Mamãe está aqui agora
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2897.mp4
-#EXTINF:-1,T01E14 - A noite Lila Morreu
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2895.mp4
-#EXTINF:-1,T01E15 -  tudo culpa minha
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2904.mp4
-#EXTINF:-1,T02E01 - É hora de seguir em frente
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2909.mp4
-#EXTINF:-1,T02E02 - Ela está morrendo
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2922.mp4
-#EXTINF:-1,T02E03 - É o chamado Octopus
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2920.mp4
-#EXTINF:-1,T02E04 - Skanks Obter Shanked
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2921.mp4
-#EXTINF:-1,T02E05 - Conheça a Bonnie
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2915.mp4
-#EXTINF:-1,T02E06 - Dois pássaros, uma pedra d
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2918.mp4
-#EXTINF:-1,T02E07 - Eu quero que você morra
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2911.mp4
-#EXTINF:-1,T02E08 - Oi, eu sou Philip
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2919.mp4
-#EXTINF:-1,T02E09 - O que nós fizemos
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2917.mp4
-#EXTINF:-1,T02E10 - O que aconteceu com você, Annalise
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2914.mp4
-#EXTINF:-1,T02E11 - Ela nos Odeia
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2912.mp4
-#EXTINF:-1,T02E12 - É uma armadilha
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2916.mp4
-#EXTINF:-1,T02E13 - Algo ruím aconteceu
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2913.mp4
-#EXTINF:-1,T02E14 - Meu Bebê
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2908.mp4
-#EXTINF:-1,T02E15 - Anna Mae
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2910.mp4
-#EXTINF:-1,Lucifer.s02e01
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2965.mp4
-#EXTINF:-1,Lucifer.s02e02
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2957.mp4
-#EXTINF:-1,Lucifer.s02e03
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2951.mp4
-#EXTINF:-1,Lucifer.s02e04
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2952.mp4
-#EXTINF:-1,Lucifer.s02e05
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2953.mp4
-#EXTINF:-1,Lucifer.s02e06
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2950.mp4
-#EXTINF:-1,Lucifer.s02e07
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2964.mp4
-#EXTINF:-1,Lucifer.S02E08
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2956.mp4
-#EXTINF:-1,Lucifer.S02E09
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2960.mp4
-#EXTINF:-1,Lucifer.s02e10
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2954.mp4
-#EXTINF:-1,Lucifer.s02e11
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2967.mp4
-#EXTINF:-1,Lucifer.s02e12
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2966.mp4
-#EXTINF:-1,Lucifer.s02e13
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2962.mp4
-#EXTINF:-1,Lucifer.s02e14
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2961.mp4
-#EXTINF:-1,Lucifer.s02e15
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2963.mp4
-#EXTINF:-1,Lucifer.s02e16
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2958.mp4
-#EXTINF:-1,Lucifer.s02e17
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2959.mp4
-#EXTINF:-1,Lucifer.s02e18
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2955.mp4
-#EXTINF:-1,Pokemon O Filme 20: Eu Escolho Voce!
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2969.mp4
-#EXTINF:-1,Your Name
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/2968.mp4
-#EXTINF:-1,breakingbads1e1-Piloto
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3035.mp4
-#EXTINF:-1,breakingbads1e2 - Ressurreicao
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3032.mp4
-#EXTINF:-1,breakingbads1e3 - Duvida
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3036.mp4
-#EXTINF:-1,breakingbads1e4 - Homem com Câncer
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3034.mp4
-#EXTINF:-1,breakingbads1e5 - Matéria Cinzenta
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3038.mp4
-#EXTINF:-1,breakingbads1e6 -  O Grande Blefe
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3037.mp4
-#EXTINF:-1,breakingbads1e7 - Um Trato Sem Dificuldades
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3033.mp4
-#EXTINF:-1,breakingbads2e1 - Seven Thirty-Seven
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3049.mp4
-#EXTINF:-1,breakingbads2e10 - Over
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3040.mp4
-#EXTINF:-1,breakingbads2e11 - Mandala
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3046.mp4
-#EXTINF:-1,breakingbads2e12 - Phoenix
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3039.mp4
-#EXTINF:-1,breakingbads2e13 - ABQ
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3051.mp4
-#EXTINF:-1,breakingbads2e2 - Grilled
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3047.mp4
-#EXTINF:-1,breakingbads2e3 - Bit by a Dead Bee
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3044.mp4
-#EXTINF:-1,breakingbads2e4 - Down
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3043.mp4
-#EXTINF:-1,breakingbads2e5 - Breakage
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3045.mp4
-#EXTINF:-1,breakingbads2e6 - Peekaboo
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3042.mp4
-#EXTINF:-1,breakingbads2e7 - Negro y Azul
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3050.mp4
-#EXTINF:-1,breakingbads2e8 - Better Call Saul
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3048.mp4
-#EXTINF:-1,breakingbads2e9 - 4 Days Out
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3041.mp4
-#EXTINF:-1,breakingbads3e1 - No Más
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3061.mp4
-#EXTINF:-1,breakingbads3e10 - Fly
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3059.mp4
-#EXTINF:-1,breakingbads3e11 - Abiquiu
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3055.mp4
-#EXTINF:-1,breakingbads3e12 - Half Measures
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3054.mp4
-#EXTINF:-1,breakingbads3e13 - Full Measure
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3064.mp4
-#EXTINF:-1,breakingbads3e2 - Caballo sin Nombre
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3060.mp4
-#EXTINF:-1,breakingbads3e3 - I.F.T.
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3056.mp4
-#EXTINF:-1,breakingbads3e4 - Green Light
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3063.mp4
-#EXTINF:-1,breakingbads3e5 - Más
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3058.mp4
-#EXTINF:-1,breakingbads3e6 - Sunset
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3052.mp4
-#EXTINF:-1,breakingbads3e7 - One Minute
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3057.mp4
-#EXTINF:-1,breakingbads3e8 - I See You
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3053.mp4
-#EXTINF:-1,breakingbads3e9 - Kafkaesque
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3062.mp4
-#EXTINF:-1,breakingbads4e1 - Box Cutter
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3065.mp4
-#EXTINF:-1,breakingbads4e10 - Salud
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3072.mp4
-#EXTINF:-1,breakingbads4e11 - Crawl Space
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3066.mp4
-#EXTINF:-1,breakingbads4e12 - End Times
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3074.mp4
-#EXTINF:-1,breakingbads4e13 - Face Off
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3075.mp4
-#EXTINF:-1,breakingbads4e2 - Thirty-Eight Snub
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3070.mp4
-#EXTINF:-1,breakingbads4e3 - Open House
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3073.mp4
-#EXTINF:-1,breakingbads4e4 - Bullet Points
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3067.mp4
-#EXTINF:-1,breakingbads4e5 - Shotgun
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3076.mp4
-#EXTINF:-1,breakingbads4e6 - Cornered
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3069.mp4
-#EXTINF:-1,breakingbads4e7 - Problem Dog
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3077.mp4
-#EXTINF:-1,breakingbads4e8 - Hermanos
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3068.mp4
-#EXTINF:-1,breakingbads4e9 - Bug
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3071.mp4
-#EXTINF:-1,breakingbads5e1 - Live Free or Die
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3082.mp4
-#EXTINF:-1,breakingbads5e10 - Buried
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3079.mp4
-#EXTINF:-1,breakingbads5e11 - Confessions
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3089.mp4
-#EXTINF:-1,breakingbads5e12 - Rabid Dog
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3092.mp4
-#EXTINF:-1,breakingbads5e13 - To'hajiilee
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3078.mp4
-#EXTINF:-1,breakingbads5e14 - Ozymandias
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3084.mp4
-#EXTINF:-1,breakingbads5e15 - Granite State
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3083.mp4
-#EXTINF:-1,breakingbads5e16 - Felina
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3088.mp4
-#EXTINF:-1,breakingbads5e2 - Madrigal
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3087.mp4
-#EXTINF:-1,breakingbads5e3 - Hazard Pay
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3093.mp4
-#EXTINF:-1,breakingbads5e4 - Fifty-One
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3085.mp4
-#EXTINF:-1,breakingbads5e5 - Dead Freight
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3081.mp4
-#EXTINF:-1,breakingbads5e6 - Buyout
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3080.mp4
-#EXTINF:-1,breakingbads5e7 - Say My Name
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3086.mp4
-#EXTINF:-1,breakingbads5e8 - Gliding Over All
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3091.mp4
-#EXTINF:-1,breakingbads5e9 - Blood Money
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3090.mp4
-#EXTINF:-1,100.Code.S01E01
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3132.mp4
-#EXTINF:-1,100.Code.S01E02
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3136.mp4
-#EXTINF:-1,100.Code.S01E03
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3140.mp4
-#EXTINF:-1,100.Code.S01E04
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3139.mp4
-#EXTINF:-1,100.Code.S01E05
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3135.mp4
-#EXTINF:-1,100.Code.S01E06
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3134.mp4
-#EXTINF:-1,100.Code.S01E07
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3138.mp4
-#EXTINF:-1,100.Code.S01E08
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3129.mp4
-#EXTINF:-1,100.Code.S01E09
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3137.mp4
-#EXTINF:-1,100.Code.S01E10
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3133.mp4
-#EXTINF:-1,100.Code.S01E11
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3130.mp4
-#EXTINF:-1,100.Code.S01E12
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3131.mp4
-#EXTINF:-1,Anne.S01E01
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3147.mp4
-#EXTINF:-1,Anne.S01E02
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3143.mp4
-#EXTINF:-1,Anne.S01E03
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3146.mp4
-#EXTINF:-1,Anne.S01E04
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3142.mp4
-#EXTINF:-1,Anne.S01E05
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3144.mp4
-#EXTINF:-1,Anne.S01E06
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3145.mp4
-#EXTINF:-1,Anne.S01E07
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3141.mp4
-#EXTINF:-1,Ash.vs. Evil.Dead.S02E01
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3153.mp4
-#EXTINF:-1,Ash.vs. Evil.Dead.S02E02
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3157.mp4
-#EXTINF:-1,Ash.vs. Evil.Dead.S02E03
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3150.mp4
-#EXTINF:-1,Ash.vs. Evil.Dead.S02E04
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3149.mp4
-#EXTINF:-1,Ash.vs. Evil.Dead.S02E05
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3154.mp4
-#EXTINF:-1,Ash.vs. Evil.Dead.S02E06
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3155.mp4
-#EXTINF:-1,Ash.vs. Evil.Dead.S02E07
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3151.mp4
-#EXTINF:-1,Ash.vs. Evil.Dead.S02E08
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3148.mp4
-#EXTINF:-1,Ash.vs. Evil.Dead.S02E09
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3156.mp4
-#EXTINF:-1,Ash.vs. Evil.Dead.S02E10
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3152.mp4
-#EXTINF:-1,BandofBrothers1 - Currahee
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3163.mp4
-#EXTINF:-1,BandofBrothers10 - Pontos
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3161.mp4
-#EXTINF:-1,BandofBrothers2 - Dia dos Dias
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3160.mp4
-#EXTINF:-1,BandofBrothers3 - Carentan
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3166.mp4
-#EXTINF:-1,BandofBrothers4 - Substitutos
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3167.mp4
-#EXTINF:-1,BandofBrothers5 - Encruzilhada
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3158.mp4
-#EXTINF:-1,BandofBrothers6 - Bastogne
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3162.mp4
-#EXTINF:-1,BandofBrothers7 - O Ponto de Ruptura
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3159.mp4
-#EXTINF:-1,BandofBrothers8 - A Última Patrulha
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3165.mp4
-#EXTINF:-1,BandofBrothers9 - Por Isso Nós Lutamos
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3164.mp4
-#EXTINF:-1,BlacklistS01E01
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3172.mp4
-#EXTINF:-1,BlacklistS01E02
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3170.mp4
-#EXTINF:-1,BlacklistS01E03
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3168.mp4
-#EXTINF:-1,BlacklistS01E04
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3169.mp4
-#EXTINF:-1,BlacklistS01E05
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3173.mp4
-#EXTINF:-1,BlacklistS01E06
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3171.mp4
-#EXTINF:-1,BlacklistS01E07
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3175.mp4
-#EXTINF:-1,BlacklistS01E08
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3174.mp4
-#EXTINF:-1,CalifornicationT01E01
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3179.mp4
-#EXTINF:-1,CalifornicationT01E02
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3177.mp4
-#EXTINF:-1,CalifornicationT01E03
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3182.mp4
-#EXTINF:-1,CalifornicationT01E04
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3180.mp4
-#EXTINF:-1,CalifornicationT01E05
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3185.mp4
-#EXTINF:-1,CalifornicationT01E06
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3183.mp4
-#EXTINF:-1,CalifornicationT01E07
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3184.mp4
-#EXTINF:-1,CalifornicationT01E08
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3176.mp4
-#EXTINF:-1,CalifornicationT01E09
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3178.mp4
-#EXTINF:-1,CalifornicationT01E10
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3186.mp4
-#EXTINF:-1,CalifornicationT01E11
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3187.mp4
-#EXTINF:-1,CalifornicationT01E12
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3181.mp4
-#EXTINF:-1,El.Chapo.S01E01
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3194.mp4
-#EXTINF:-1,El.Chapo.S01E02
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3190.mp4
-#EXTINF:-1,El.Chapo.S01E03
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3193.mp4
-#EXTINF:-1,El.Chapo.S01E04
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3191.mp4
-#EXTINF:-1,El.Chapo.S01E05
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3192.mp4
-#EXTINF:-1,El.Chapo.S01E06
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3188.mp4
-#EXTINF:-1,El.Chapo.S01E07
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3196.mp4
-#EXTINF:-1,El.Chapo.S01E08
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3189.mp4
-#EXTINF:-1,El.Chapo.S01E09
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3195.mp4
-#EXTINF:-1,GoG.S01E00
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3214.mp4
-#EXTINF:-1,GoG.S01E01
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3215.mp4
-#EXTINF:-1,GoG.S01E02
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3210.mp4
-#EXTINF:-1,GoG.S01E03
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3208.mp4
-#EXTINF:-1,GoG.S01E04
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3204.mp4
-#EXTINF:-1,GoG.S01E05
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3200.mp4
-#EXTINF:-1,GoG.S01E06
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3209.mp4
-#EXTINF:-1,GoG.S01E07
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3222.mp4
-#EXTINF:-1,GoG.S01E08
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3216.mp4
-#EXTINF:-1,GoG.S01E09
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3207.mp4
-#EXTINF:-1,GoG.S01E10
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3202.mp4
-#EXTINF:-1,GoG.S01E11
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3197.mp4
-#EXTINF:-1,GoG.S01E12
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3206.mp4
-#EXTINF:-1,GoG.S01E13
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3221.mp4
-#EXTINF:-1,GoG.S01E14
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3203.mp4
-#EXTINF:-1,GoG.S01E15
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3198.mp4
-#EXTINF:-1,GoG.S01E16
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3217.mp4
-#EXTINF:-1,GoG.S01E17
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3212.mp4
-#EXTINF:-1,GoG.S01E18
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3211.mp4
-#EXTINF:-1,GoG.S01E19
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3220.mp4
-#EXTINF:-1,GoG.S01E20
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3219.mp4
-#EXTINF:-1,GoG.S01E21
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3218.mp4
-#EXTINF:-1,GoG.S01E22
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3205.mp4
-#EXTINF:-1,GoG.S01E23
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3201.mp4
-#EXTINF:-1,GoG.S01E24
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3213.mp4
-#EXTINF:-1,GoG.S01E25
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3199.mp4
-#EXTINF:-1,Humans.01x01
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3228.mp4
-#EXTINF:-1,Humans.01x02
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3230.mp4
-#EXTINF:-1,Humans.01x03
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3226.mp4
-#EXTINF:-1,Humans.01x04
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3229.mp4
-#EXTINF:-1,Humans.01x05
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3224.mp4
-#EXTINF:-1,Humans.01x06
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3223.mp4
-#EXTINF:-1,Humans.01x07
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3227.mp4
-#EXTINF:-1,Humans.01x08
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3225.mp4
-#EXTINF:-1,Jane.The.Virgin.S01E01
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3245.mp4
-#EXTINF:-1,Jane.The.Virgin.S01E02
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3252.mp4
-#EXTINF:-1,Jane.The.Virgin.S01E03
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3235.mp4
-#EXTINF:-1,Jane.The.Virgin.S01E04
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3244.mp4
-#EXTINF:-1,Jane.The.Virgin.S01E05
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3232.mp4
-#EXTINF:-1,Jane.The.Virgin.S01E06
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3234.mp4
-#EXTINF:-1,Jane.The.Virgin.S01E07
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3239.mp4
-#EXTINF:-1,Jane.The.Virgin.S01E08
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3247.mp4
-#EXTINF:-1,Jane.The.Virgin.S01E09
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3241.mp4
-#EXTINF:-1,Jane.The.Virgin.S01E10
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3237.mp4
-#EXTINF:-1,Jane.The.Virgin.S01E11
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3231.mp4
-#EXTINF:-1,Jane.The.Virgin.S01E12
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3248.mp4
-#EXTINF:-1,Jane.The.Virgin.S01E13
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3236.mp4
-#EXTINF:-1,Jane.The.Virgin.S01E14
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3242.mp4
-#EXTINF:-1,Jane.The.Virgin.S01E15
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3243.mp4
-#EXTINF:-1,Jane.The.Virgin.S01E16
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3249.mp4
-#EXTINF:-1,Jane.The.Virgin.S01E17
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3238.mp4
-#EXTINF:-1,Jane.The.Virgin.S01E18
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3246.mp4
-#EXTINF:-1,Jane.The.Virgin.S01E19
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3240.mp4
-#EXTINF:-1,Jane.The.Virgin.S01E20
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3250.mp4
-#EXTINF:-1,Jane.The.Virgin.S01E21
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3251.mp4
-#EXTINF:-1,Jane.The.Virgin.S01E22
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3233.mp4
-#EXTINF:-1,jcvj.S01E01
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3256.mp4
-#EXTINF:-1,jcvj.S01E02
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3253.mp4
-#EXTINF:-1,jcvj.S01E03
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3255.mp4
-#EXTINF:-1,jcvj.S01E04
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3254.mp4
-#EXTINF:-1,jcvj.S01E05
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3257.mp4
-#EXTINF:-1,jcvj.S01E06
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3258.mp4
-#EXTINF:-1,Marvels.Inhumans.S01E01
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3265.mp4
-#EXTINF:-1,Marvels.Inhumans.S01E02
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3259.mp4
-#EXTINF:-1,Marvels.Inhumans.S01E03
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3261.mp4
-#EXTINF:-1,Marvels.Inhumans.S01E04
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3266.mp4
-#EXTINF:-1,Marvels.Inhumans.S01E05
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3262.mp4
-#EXTINF:-1,Marvels.Inhumans.S01E06
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3260.mp4
-#EXTINF:-1,Marvels.Inhumans.S01E07
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3264.mp4
-#EXTINF:-1,Marvels.Inhumans.S01E08
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3263.mp4
-#EXTINF:-1,Por.Treze.Razões.S01E01
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3275.mp4
-#EXTINF:-1,Por.Treze.Razões.S01E02
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3277.mp4
-#EXTINF:-1,Por.Treze.Razões.S01E03
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3270.mp4
-#EXTINF:-1,Por.Treze.Razões.S01E04
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3269.mp4
-#EXTINF:-1,Por.Treze.Razões.S01E05
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3267.mp4
-#EXTINF:-1,Por.Treze.Razões.S01E06
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3272.mp4
-#EXTINF:-1,Por.Treze.Razões.S01E07
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3278.mp4
-#EXTINF:-1,Por.Treze.Razões.S01E08
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3274.mp4
-#EXTINF:-1,Por.Treze.Razões.S01E09
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3271.mp4
-#EXTINF:-1,Por.Treze.Razões.S01E10
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3268.mp4
-#EXTINF:-1,Por.Treze.Razões.S01E11
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3279.mp4
-#EXTINF:-1,Por.Treze.Razões.S01E12
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3276.mp4
-#EXTINF:-1,Por.Treze.Razões.S01E13
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3273.mp4
-#EXTINF:-1,RAY - T01E02
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3291.mp4
-#EXTINF:-1,RAY - T01E03
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3286.mp4
-#EXTINF:-1,RAY - T01E04
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3289.mp4
-#EXTINF:-1,RAY - T01E05
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3288.mp4
-#EXTINF:-1,RAY - T01E06
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3280.mp4
-#EXTINF:-1,RAY - T01E07
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3285.mp4
-#EXTINF:-1,RAY - T01E08
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3282.mp4
-#EXTINF:-1,RAY - T01E09
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3284.mp4
-#EXTINF:-1,RAY - T01E10
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3283.mp4
-#EXTINF:-1,RAY - T01E11
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3281.mp4
-#EXTINF:-1,RAY - T01E12
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3287.mp4
-#EXTINF:-1,RAY-T01E01
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3290.mp4
-#EXTINF:-1,Ray.S02E01
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3300.mp4
-#EXTINF:-1,Ray.S02E02
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3296.mp4
-#EXTINF:-1,Ray.S02E03
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3302.mp4
-#EXTINF:-1,Ray.S02E05
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3295.mp4
-#EXTINF:-1,Ray.S02E06.
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3299.mp4
-#EXTINF:-1,Ray.S02E07
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3293.mp4
-#EXTINF:-1,Ray.S02E08
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3297.mp4
-#EXTINF:-1,Ray.S02E09
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3294.mp4
-#EXTINF:-1,Ray.S02E10
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3298.mp4
-#EXTINF:-1,Ray.S02E11
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3303.mp4
-#EXTINF:-1,Ray.S02E12
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3301.mp4
-#EXTINF:-1,RayS02E04
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3292.mp4
-#EXTINF:-1,Ray.S03E01
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3307.mp4
-#EXTINF:-1,Ray.S03E02
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3313.mp4
-#EXTINF:-1,Ray.S03E03
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3308.mp4
-#EXTINF:-1,Ray.S03E04
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3312.mp4
-#EXTINF:-1,Ray.S03E05
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3305.mp4
-#EXTINF:-1,Ray.S03E07
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3309.mp4
-#EXTINF:-1,Ray.S03E08
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3315.mp4
-#EXTINF:-1,Ray.S03E09
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3310.mp4
-#EXTINF:-1,Ray.S03E10
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3306.mp4
-#EXTINF:-1,Ray.S03E11
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3304.mp4
-#EXTINF:-1,Ray.S03E12
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3311.mp4
-#EXTINF:-1,RayS03E06
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3314.mp4
-#EXTINF:-1,Agent Carter S01E01
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3319.mp4
-#EXTINF:-1,Agent Carter S01E02
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3323.mp4
-#EXTINF:-1,Agent Carter S01E03
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3320.mp4
-#EXTINF:-1,Agent Carter S01E04
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3317.mp4
-#EXTINF:-1,Agent Carter S01E05
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3318.mp4
-#EXTINF:-1,Agent Carter S01E06
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3322.mp4
-#EXTINF:-1,Agent Carter S01E07
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3316.mp4
-#EXTINF:-1,Agent Carter S01E08
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3321.mp4
-#EXTINF:-1,Spartacus1TAE1 - Past Transgressions
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3341.mp4
-#EXTINF:-1,Spartacus1TAE2 - Missio
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3340.mp4
-#EXTINF:-1,Spartacus1TAE3 - Paterfamilias
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3337.mp4
-#EXTINF:-1,Spartacus1TAE4 - Beneath the Mask
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3339.mp4
-#EXTINF:-1,Spartacus1TAE5 - Reckoning
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3342.mp4
-#EXTINF:-1,Spartacus1TAE6 - The Bitter End
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3338.mp4
-#EXTINF:-1,Spartacus1TE1 - A Serpente Vermelha
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3326.mp4
-#EXTINF:-1,Spartacus1TE10 - Partido de favores
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3330.mp4
-#EXTINF:-1,Spartacus1TE11 - Velhas feridas
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3334.mp4
-#EXTINF:-1,Spartacus1TE12 - Apocalipse
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3324.mp4
-#EXTINF:-1,Spartacus1TE13 - Mate a todos
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3327.mp4
-#EXTINF:-1,Spartacus1TE2 - Juramento do Gladiador
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3333.mp4
-#EXTINF:-1,Spartacus1TE3 - Lendas
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3331.mp4
-#EXTINF:-1,Spartacus1TE4 - A coisa no poço
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3332.mp4
-#EXTINF:-1,Spartacus1TE5 - Sombra de Jogos
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3325.mp4
-#EXTINF:-1,Spartacus1TE6 - Coisas Delicadas
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3329.mp4
-#EXTINF:-1,Spartacus1TE7 - Grandes Infelicidades
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3336.mp4
-#EXTINF:-1,Spartacus1TE8 - Marca da Fraternidade
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3335.mp4
-#EXTINF:-1,Spartacus1TE9 - Prostituta
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3328.mp4
-#EXTINF:-1,Spartacus2TE01 - Fugitivus
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3347.mp4
-#EXTINF:-1,Spartacus2TE02 - A Place in This World
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3350.mp4
-#EXTINF:-1,Spartacus2TE03 - The Greater Good
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3343.mp4
-#EXTINF:-1,Spartacus2TE04 - Empty Hands
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3344.mp4
-#EXTINF:-1,Spartacus2TE05 - Libertus
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3346.mp4
-#EXTINF:-1,Spartacus2TE06 - Chosen Path
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3351.mp4
-#EXTINF:-1,Spartacus2TE07 - Sacramentum
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3352.mp4
-#EXTINF:-1,Spartacus2TE08 - Balance
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3349.mp4
-#EXTINF:-1,Spartacus2TE09 - Monsters
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3345.mp4
-#EXTINF:-1,Spartacus2TE10 - Wrath of the Gods
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3348.mp4
-#EXTINF:-1,SpartacusS03E01 - Enemies of Rome
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3354.mp4
-#EXTINF:-1,SpartacusS03E02 - Wolves At The Gate
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3360.mp4
-#EXTINF:-1,SpartacusS03E03 - Men of Honor
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3355.mp4
-#EXTINF:-1,SpartacusS03E04 - Decimation
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3356.mp4
-#EXTINF:-1,SpartacusS03E05 - Blood Brothers
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3362.mp4
-#EXTINF:-1,SpartacusS03E06 - Spoils of War
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3359.mp4
-#EXTINF:-1,SpartacusS03E07 - Mors Indecepta
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3358.mp4
-#EXTINF:-1,SpartacusS03E08 - Separate Paths
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3357.mp4
-#EXTINF:-1,SpartacusS03E09 - The Dead and the Dying
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3353.mp4
-#EXTINF:-1,SpartacusS03E10 - Victory
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3361.mp4
-#EXTINF:-1,Simpsons S26E01
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3374.mp4
-#EXTINF:-1,Simpsons S26E02
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3380.mp4
-#EXTINF:-1,Simpsons S26E03
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3368.mp4
-#EXTINF:-1,Simpsons S26E04
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3370.mp4
-#EXTINF:-1,Simpsons S26E05
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3372.mp4
-#EXTINF:-1,Simpsons S26E06
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3365.mp4
-#EXTINF:-1,Simpsons S26E07
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3378.mp4
-#EXTINF:-1,Simpsons S26E08
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3381.mp4
-#EXTINF:-1,Simpsons S26E09
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3383.mp4
-#EXTINF:-1,Simpsons S26E10
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3363.mp4
-#EXTINF:-1,Simpsons S26E11
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3366.mp4
-#EXTINF:-1,Simpsons S26E12
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3369.mp4
-#EXTINF:-1,Simpsons S26E13
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3379.mp4
-#EXTINF:-1,Simpsons S26E14
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3376.mp4
-#EXTINF:-1,Simpsons S26E15
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3375.mp4
-#EXTINF:-1,Simpsons S26E16
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3364.mp4
-#EXTINF:-1,Simpsons S26E17
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3377.mp4
-#EXTINF:-1,Simpsons S26E18
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3371.mp4
-#EXTINF:-1,Simpsons S26E19
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3373.mp4
-#EXTINF:-1,Simpsons S26E20
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3384.mp4
-#EXTINF:-1,Simpsons S26E21
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3367.mp4
-#EXTINF:-1,Simpsons S26E22
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3382.mp4
-#EXTINF:-1,VKT1E1
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3395.mp4
-#EXTINF:-1,VKT1E2
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3396.mp4
-#EXTINF:-1,VKT1E3
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3394.mp4
-#EXTINF:-1,VKT1E4
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3391.mp4
-#EXTINF:-1,VKT1E5
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3392.mp4
-#EXTINF:-1,VKT1E6
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3389.mp4
-#EXTINF:-1,VKT1E7
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3388.mp4
-#EXTINF:-1,VKT1E8
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3390.mp4
-#EXTINF:-1,VKT1E9
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3393.mp4
-#EXTINF:-1,VKT2E1 Brother's War
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3404.mp4
-#EXTINF:-1,VKT2E10The Lord's Prayer
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3402.mp4
-#EXTINF:-1,VKT2E2 Invasion
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3399.mp4
-#EXTINF:-1,VKT2E3 Treachery
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3398.mp4
-#EXTINF:-1,VKT2E4Eye for an Eye
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3406.mp4
-#EXTINF:-1,VKT2E5 Answers in Blood
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3400.mp4
-#EXTINF:-1,VKT2E6Unforgiven
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3403.mp4
-#EXTINF:-1,VKT2E7Blood Eagle
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3397.mp4
-#EXTINF:-1,VKT2E8Boneless
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3405.mp4
-#EXTINF:-1,VKT2E9The Choice
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3401.mp4
-#EXTINF:-1,T.I.U.S01E01
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3421.mp4
-#EXTINF:-1,T.I.U.S01E02
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3410.mp4
-#EXTINF:-1,T.I.U.S01E03
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3414.mp4
-#EXTINF:-1,T.I.U.S01E04
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3416.mp4
-#EXTINF:-1,T.I.U.S01E05
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3418.mp4
-#EXTINF:-1,T.I.U.S01E06
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3407.mp4
-#EXTINF:-1,T.I.U.S01E07
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3411.mp4
-#EXTINF:-1,T.I.U.S01E08
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3422.mp4
-#EXTINF:-1,T.I.U.S01E09
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3423.mp4
-#EXTINF:-1,T.I.U.S01E10
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3415.mp4
-#EXTINF:-1,T.I.U.S01E11
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3413.mp4
-#EXTINF:-1,T.I.U.S01E12
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3419.mp4
-#EXTINF:-1,T.I.U.S01E13
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3420.mp4
-#EXTINF:-1,T.I.U.S01E14
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3412.mp4
-#EXTINF:-1,T.I.U.S01E15
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3409.mp4
-#EXTINF:-1,T.I.U.S01E16
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3424.mp4
-#EXTINF:-1,T.I.U.S01E17
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3408.mp4
-#EXTINF:-1,T.I.U.S01E18
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3417.mp4
-#EXTINF:-1,Riverdale.S01E01
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3431.mp4
-#EXTINF:-1,Riverdale.S01E03
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3433.mp4
-#EXTINF:-1,Riverdale.S01E04
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3430.mp4
-#EXTINF:-1,Riverdale.S01E05
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3425.mp4
-#EXTINF:-1,Riverdale.S01E06
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3429.mp4
-#EXTINF:-1,Riverdale.S01E07
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3427.mp4
-#EXTINF:-1,Riverdale.S01E08.
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3432.mp4
-#EXTINF:-1,Riverdale.S01E09
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3435.mp4
-#EXTINF:-1,Riverdale.S01E10
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3428.mp4
-#EXTINF:-1,Riverdale.S01E11
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3436.mp4
-#EXTINF:-1,Riverdale.S01E12
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3434.mp4
-#EXTINF:-1,Riverdale.S01E13
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3426.mp4
-#EXTINF:-1,Taken - 01 - Beyond The Sky
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3444.mp4
-#EXTINF:-1,Taken - 02 - Jacob and Jesse
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3443.mp4
-#EXTINF:-1,Taken - 03 - High Hopes
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3445.mp4
-#EXTINF:-1,Taken - 04 - Acid Tests
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3438.mp4
-#EXTINF:-1,Taken - 05 - Maintenance
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3441.mp4
-#EXTINF:-1,Taken - 06 - Charlie and Lisa
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3446.mp4
-#EXTINF:-1,Taken - 07 - God's Equation
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3442.mp4
-#EXTINF:-1,Taken - 08 - Dropping the Dishes
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3437.mp4
-#EXTINF:-1,Taken - 09 - John
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3439.mp4
-#EXTINF:-1,Taken - 10 - Taken
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3440.mp4
-#EXTINF:-1,The.OA.S01E01
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3452.mp4
-#EXTINF:-1,The.OA.S01E02
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3453.mp4
-#EXTINF:-1,The.OA.S01E03
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3450.mp4
-#EXTINF:-1,The.OA.S01E04
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3449.mp4
-#EXTINF:-1,The.OA.S01E05
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3451.mp4
-#EXTINF:-1,The.OA.S01E06
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3454.mp4
-#EXTINF:-1,The.OA.S01E07
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3447.mp4
-#EXTINF:-1,The.OA.S01E08
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3448.mp4
-#EXTINF:-1,Lucifer.S01E01
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3480.mp4
-#EXTINF:-1,Lucifer.S01E02
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3482.mp4
-#EXTINF:-1,Lucifer.S01E03
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3481.mp4
-#EXTINF:-1,Lucifer.S01E04
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3473.mp4
-#EXTINF:-1,Lucifer.S01E05
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3478.mp4
-#EXTINF:-1,Lucifer.S01E06
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3483.mp4
-#EXTINF:-1,Lucifer.S01E07
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3476.mp4
-#EXTINF:-1,Lucifer.S01E08
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3477.mp4
-#EXTINF:-1,Lucifer.S01E09
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3472.mp4
-#EXTINF:-1,Lucifer.S01E10
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3479.mp4
-#EXTINF:-1,Lucifer.S01E11
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3484.mp4
-#EXTINF:-1,Lucifer.S01E12
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3475.mp4
-#EXTINF:-1,Lucifer.S01E13
-http://painel.iptvmove.com:25461/movie/danielxx/danielxx/3474.mp4
+#EXTINF:-1,VTV1
+http://14.239.247.174:4022/rtp/232.84.1.27:8136
+#EXTINF:-1,VTV1 HD
+http://14.239.247.174:4022/rtp/232.84.1.117:10254
+#EXTINF:-1,VTV2
+http://14.239.247.174:4022/rtp/232.84.1.39:8208
+#EXTINF:-1,VTV3
+http://14.239.247.174:4022/rtp/232.84.1.28:8142
+#EXTINF:-1,VTV3 HD
+http://14.239.247.174:4022/rtp/232.84.1.118:10260
+#EXTINF:-1,VTV4
+http://14.239.247.174:4022/rtp/232.84.1.40:8214
+#EXTINF:-1,VTV5
+http://14.239.247.174:4022/rtp/232.84.1.41:8220
+#EXTINF:-1,VTV6
+http://14.239.247.174:4022/rtp/232.84.1.42:8226
+#EXTINF:-1,VTV6 HD
+http://14.239.247.174:4022/rtp/232.84.1.119:10266
+#EXTINF:-1,VTV8
+http://14.239.247.174:4022/rtp/232.84.1.148:8862
+#EXTINF:-1,VTV9
+http://14.239.247.174:4022/rtp/232.84.1.241:9420
+#EXTINF:-1,HTV Thể thao
+http://14.239.247.174:4022/rtp/232.84.1.24:8118
+#EXTINF:-1,HTV1
+http://14.239.247.174:4022/rtp/232.84.1.35:8184
+#EXTINF:-1,HTV2
+http://14.239.247.174:4022/rtp/232.84.1.36:8190
+#EXTINF:-1,HTV2 HD
+http://14.239.247.174:4022/rtp/232.84.1.222:9306
+#EXTINF:-1,HTV3
+http://14.239.247.174:4022/rtp/232.84.1.104:8598
+#EXTINF:-1,HTV4
+http://14.239.247.174:4022/rtp/232.84.1.25:8124
+#EXTINF:-1,HTV7
+http://14.239.247.174:4022/rtp/232.84.1.21:8100
+#EXTINF:-1,HTV7 HD https://iptv.zone
+http://14.239.247.174:4022/rtp/232.84.1.223:9312
+#EXTINF:-1,HTV9
+http://14.239.247.174:4022/rtp/232.84.1.31:8160
+#EXTINF:-1,HTV9 HD
+http://14.239.247.174:4022/rtp/232.84.1.224:9318
+#EXTINF:-1,VTVCab-MTV
+http://14.239.247.174:4022/rtp/232.84.1.82:8466
+#EXTINF:-1,VTVCab-MTV HD
+http://14.239.247.174:4022/rtp/232.84.1.75:8424
+#EXTINF:-1,VTVCab1-Giải trí TV
+http://14.239.247.174:4022/rtp/232.84.1.143:8832
+#EXTINF:-1,VTVCab10-O2TV
+http://14.239.247.174:4022/rtp/232.84.1.26:8130
+#EXTINF:-1,VTVCab12-Style TV
+http://14.239.247.174:4022/rtp/232.84.1.244:9438
+#EXTINF:-1,VTVCab14-Lotte
+http://14.239.247.174:4022/rtp/232.84.1.140:10356
+#EXTINF:-1,VTVCab16-Bóng đá TV
+http://14.239.247.174:4022/rtp/232.84.1.138:8802
+#EXTINF:-1,VTVCab16-Bóng đá TV HD
+http://14.239.247.174:4022/rtp/232.84.1.210:9234
+#EXTINF:-1,VTVCab17-yeah1 TV
+http://14.239.247.174:4022/rtp/232.84.1.217:9276
+#EXTINF:-1,VTVCab2-Phim Việt
+http://14.239.247.174:4022/rtp/232.84.1.168:8982
+#EXTINF:-1,VTVCab20-VFamily
+http://14.239.247.174:4022/rtp/232.84.1.245:10344
+#EXTINF:-1,VTVCab3-Thể thao TV
+http://14.239.247.174:4022/rtp/232.84.1.208:9222
+#EXTINF:-1,VTVCab3-Thể thao TV HD
+http://14.239.247.174:4022/rtp/232.84.1.207:9216
+#EXTINF:-1,VTVCab4-Văn hóa
+http://14.239.247.174:4022/rtp/232.84.1.169:8988
+#EXTINF:-1,VTVCab5-E Channel
+http://14.239.247.174:4022/rtp/232.84.1.193:9132
+#EXTINF:-1,VTVCab6-Hay TV
+http://14.239.247.174:4022/rtp/232.84.1.220:9294
+#EXTINF:-1,VTVCab7-Dramas
+http://14.239.247.174:4022/rtp/232.84.1.205:9204
+#EXTINF:-1,VTVCab8-BiBi
+http://14.239.247.174:4022/rtp/232.84.1.206:9210
+#EXTINF:-1,VTVCap13-HYUNDAI
+http://14.239.247.174:4022/rtp/232.84.1.142:10386
+#EXTINF:-1,HTVC-Ca nhạc
+http://14.239.247.174:4022/rtp/232.84.1.126:8730
+#EXTINF:-1,HTVC-Du lịch & Cuộc sống
+http://14.239.247.174:4022/rtp/232.84.1.221:9300
+#EXTINF:-1,HTVC-Gia đình
+http://14.239.247.174:4022/rtp/232.84.1.170:8994
+#EXTINF:-1,HTVC-Mua sắm tiêu dùng
+http://14.239.247.174:4022/rtp/232.84.1.229:9348
+#EXTINF:-1,HTVC-Paramount HD
+http://14.239.247.174:4022/rtp/232.84.2.133:9594
+#EXTINF:-1,HTVC-Phim
+http://14.239.247.174:4022/rtp/232.84.1.105:8604
+#EXTINF:-1,HTVC-Phụ nữ
+http://14.239.247.174:4022/rtp/232.84.1.127:8736
+#EXTINF:-1,HTVC-Thuần Việt
+http://14.239.247.174:4022/rtp/232.84.1.22:8106
+#EXTINF:-1,HTVC-Thuần Việt HD
+http://14.239.247.174:4022/rtp/232.84.2.134:9600
+#EXTINF:-1,VTC1 HD
+http://14.239.247.174:4022/rtp/232.84.1.71:8400
+#EXTINF:-1,VTC10-Nét Việt
+http://14.239.247.174:4022/rtp/232.84.1.214:9258
+#EXTINF:-1,VTC11-kids TV
+http://14.239.247.174:4022/rtp/232.84.1.61:8340
+#EXTINF:-1,VTC12
+http://14.239.247.174:4022/rtp/232.84.1.202:9186
+#EXTINF:-1,VTC13-iTV
+http://14.239.247.174:4022/rtp/232.84.1.62:8346
+#EXTINF:-1,VTC13-iTV HD https://iptv.zone
+http://14.239.247.174:4022/rtp/232.84.1.74:8418
+#EXTINF:-1,VTC14
+http://14.239.247.174:4022/rtp/232.84.1.216:9270
+#EXTINF:-1,VTC16-3NTV
+http://14.239.247.174:4022/rtp/232.84.1.215:9264
+#EXTINF:-1,VTC2
+http://14.239.247.174:4022/rtp/232.84.1.57:8322
+#EXTINF:-1,VTC3
+http://14.239.247.174:4022/rtp/232.84.1.60:8232
+#EXTINF:-1,VTC3 HD
+http://14.239.247.174:4022/rtp/232.84.1.81:8460
+#EXTINF:-1,VTC3 PIP VNPT
+http://14.239.247.174:4022/rtp/232.84.1.86:8490
+#EXTINF:-1,VTC6
+http://14.239.247.174:4022/rtp/232.84.1.58:8328
+#EXTINF:-1,VTC7-Today TV
+http://14.239.247.174:4022/rtp/232.84.1.213:9252
+#EXTINF:-1,VTC8
+http://14.239.247.174:4022/rtp/232.84.1.32:8166
+#EXTINF:-1,VTC9-Let's Việt
+http://14.239.247.174:4022/rtp/232.84.1.59:8334
+#EXTINF:-1,Thông tấn xã Việt Nam
+http://14.239.247.174:4022/rtp/232.84.1.52:8292
+#EXTINF:-1,An ninh TV
+http://14.239.247.174:4022/rtp/232.84.1.212:9246
+#EXTINF:-1,Nhân dân HD
+http://14.239.247.174:4022/rtp/232.84.1.235:10350
+#EXTINF:-1,Quốc hội HD
+http://14.239.247.174:4022/rtp/232.84.1.234:10290
+#EXTINF:-1,Quốc phòng Việt Nam
+http://14.239.247.174:4022/rtp/232.84.1.228:9342
+#EXTINF:-1,Quốc phòng Việt Nam HD
+http://14.239.247.174:4022/rtp/232.84.1.219:10332
+#EXTINF:-1,Xổ số
+http://14.239.247.174:4022/rtp/232.84.1.211:9240
+#EXTINF:-1,HCaTV-HITV
+http://14.239.247.174:4022/rtp/232.84.1.55:8310
+#EXTINF:-1,Animal Planet
+http://14.239.247.174:4022/rtp/232.84.1.48:8268
+#EXTINF:-1,arirang
+http://14.239.247.174:4022/rtp/232.84.1.43:8238
+#EXTINF:-1,Asian Food Channel
+http://14.239.247.174:4022/rtp/232.84.1.115:10236
+#EXTINF:-1,Asian Food Channel HD
+http://14.239.247.174:4022/rtp/232.84.2.129:9570
+#EXTINF:-1,AXN
+http://14.239.247.174:4022/rtp/232.84.1.14:8058
+#EXTINF:-1,Bloomberg
+http://14.239.247.174:4022/rtp/232.84.1.7:8016
+#EXTINF:-1,CARTOON NETWORK
+http://14.239.247.174:4022/rtp/232.84.1.16:8070
+#EXTINF:-1,CCTV4-Tiếng Trung
+http://14.239.247.174:4022/rtp/232.84.1.3:7992
+#EXTINF:-1,CINEMAX
+http://14.239.247.174:4022/rtp/232.84.1.20:8094
+#EXTINF:-1,CNN
+http://14.239.247.174:4022/rtp/232.84.2.126:8076
+#EXTINF:-1,Channel V
+http://14.239.247.174:4022/rtp/232.84.1.13:8052
+#EXTINF:-1,Channel V HD
+http://14.239.247.174:4022/rtp/232.84.2.132:9588
+#EXTINF:-1,Da Vinci Learning
+http://14.239.247.174:4022/rtp/232.84.1.108:10224
+#EXTINF:-1,Da Vinci Learning HD
+http://14.239.247.174:4022/rtp/232.84.2.131:9582
+#EXTINF:-1,DISCOVERY
+http://14.239.247.174:4022/rtp/232.84.1.47:8262
+#EXTINF:-1,DISNEY
+http://14.239.247.174:4022/rtp/232.84.1.18:8082
+#EXTINF:-1,Disney Junior
+http://14.239.247.174:4022/rtp/232.84.1.90:10398
+#EXTINF:-1,Diva Universal
+http://14.239.247.174:4022/rtp/232.84.1.109:10230
+#EXTINF:-1,Diva Universal HD
+http://14.239.247.174:4022/rtp/232.84.2.130:9576
+#EXTINF:-1,DW-TV
+http://14.239.247.174:4022/rtp/232.84.1.6:8010
+#EXTINF:-1,DW-TV HD
+http://14.239.247.174:4022/rtp/232.84.2.233:10416
+#EXTINF:-1,FASHION
+http://14.239.247.174:4022/rtp/232.84.1.2:7986
+#EXTINF:-1,FOX
+http://14.239.247.174:4022/rtp/232.84.1.66:8370
+#EXTINF:-1,FOX HD
+http://14.239.247.174:4022/rtp/232.84.2.120:8448
+#EXTINF:-1,FOX SPORTS
+http://14.239.247.174:4022/rtp/232.84.1.11:8040
+#EXTINF:-1,FOX SPORTS 2
+http://14.239.247.174:4022/rtp/232.84.1.12:8046
+#EXTINF:-1,France 24
+http://14.239.247.174:4022/rtp/232.84.2.135:9606
+#EXTINF:-1,GEM
+http://14.239.247.174:4022/rtp/232.84.1.84:10392
+#EXTINF:-1,HBO
+http://14.239.247.174:4022/rtp/232.84.1.19:8088
+#EXTINF:-1,KBS World
+http://14.239.247.174:4022/rtp/232.84.2.136:9612
+#EXTINF:-1,MEDIACORP
+http://14.239.247.174:4022/rtp/232.84.1.5:8004
+#EXTINF:-1,Nat Geo People
+http://14.239.247.174:4022/rtp/232.84.2.121:8376
+#EXTINF:-1,Nat Geo People HD
+http://14.239.247.174:4022/rtp/232.84.1.76:8430
+#EXTINF:-1,Nat Geo Wild HD
+http://14.239.247.174:4022/rtp/232.84.2.123:8454
+#EXTINF:-1,Nat Geo Wild HD
+http://14.239.247.174:4022/rtp/232.84.1.80:8454
+#EXTINF:-1,National Geographic
+http://14.239.247.174:4022/rtp/232.84.2.122:8364
+#EXTINF:-1,National Geographic HD
+http://14.239.247.174:4022/rtp/232.84.1.1:7980
+#EXTINF:-1,NHK WORLD
+http://14.239.247.174:4022/rtp/232.84.1.8:8022
+#EXTINF:-1,NHK WORLD HD
+http://14.239.247.174:4022/rtp/232.84.1.72:8406
+#EXTINF:-1,OPT 1-Tiếng Nga
+http://14.239.247.174:4022/rtp/232.84.1.63:8352
+#EXTINF:-1,Outdoor Channel HD
+http://14.239.247.174:4022/rtp/232.84.1.107:10218
+#EXTINF:-1,POCCNR PTP-Tiếng Nga
+http://14.239.247.174:4022/rtp/232.84.2.127:8544
+#EXTINF:-1,Rai Italia
+http://14.239.247.174:4022/rtp/232.84.2.124:8358
+#EXTINF:-1,Red By HBO
+http://14.239.247.174:4022/rtp/232.84.1.44:8244
+#EXTINF:-1,Red By HBO HD
+http://14.239.247.174:4022/rtp/232.84.1.9:8028
+#EXTINF:-1,RTTiếng Nga
+http://14.239.247.174:4022/rtp/232.84.2.125:8538
+#EXTINF:-1,STAR MOVIES
+http://14.239.247.174:4022/rtp/232.84.1.10:8034
+#EXTINF:-1,Star Movies HD
+http://14.239.247.174:4022/rtp/232.84.1.77:8436
+#EXTINF:-1,Star World
+http://14.239.247.174:4022/rtp/232.84.2.119:8382
+#EXTINF:-1,Star World HD
+http://14.239.247.174:4022/rtp/232.84.1.78:8442
+#EXTINF:-1,TOONAMI
+http://14.239.247.174:4022/rtp/232.84.1.91:10404
+#EXTINF:-1,TV5MONDE
+http://14.239.247.174:4022/rtp/232.84.1.45:8250
+#EXTINF:-1,Travel & Living
+http://14.239.247.174:4022/rtp/232.84.1.49:8274
+#EXTINF:-1,SCTV10-Az Shop
+http://14.239.247.174:4022/rtp/232.84.1.233:10284
+#EXTINF:-1,SCTV5-SCJ Shopping
+http://14.239.247.174:4022/rtp/232.84.1.227:10338
+#EXTINF:-1,An Giang
+http://14.239.247.174:4022/rtp/232.84.2.110:8742
+#EXTINF:-1,Bà Rịa
+http://14.239.247.174:4022/rtp/232.84.2.73:8748
+#EXTINF:-1,Bạc Liêu
+http://14.239.247.174:4022/rtp/232.84.2.116:8766
+#EXTINF:-1,Bắc Giang
+http://14.239.247.174:4022/rtp/232.84.2.89:8754
+#EXTINF:-1,Bắc Kạn
+http://14.239.247.174:4022/rtp/232.84.2.92:8760
+#EXTINF:-1,Bắc Ninh
+http://14.239.247.174:4022/rtp/232.84.1.133:8772
+#EXTINF:-1,Bến Tre
+http://14.239.247.174:4022/rtp/232.84.2.115:8778
+#EXTINF:-1,Bình Dương 1
+http://14.239.247.174:4022/rtp/232.84.1.136:8790
+#EXTINF:-1,Bình Dương 2
+http://14.239.247.174:4022/rtp/232.84.1.137:8796
+#EXTINF:-1,Bình Dương 4-iMovie TV
+http://14.239.247.174:4022/rtp/232.84.1.139:8808
+#EXTINF:-1,Bình Định
+http://14.239.247.174:4022/rtp/232.84.2.88:8784
+#EXTINF:-1,Bình Phước
+http://14.239.247.174:4022/rtp/232.84.2.90:8814
+#EXTINF:-1,Bình Thuận
+http://14.239.247.174:4022/rtp/232.84.2.77:8820
+#EXTINF:-1,Cà Mau
+http://14.239.247.174:4022/rtp/232.84.2.117:8826
+#EXTINF:-1,Cao Bằng
+http://14.239.247.174:4022/rtp/232.84.2.109:8844
+#EXTINF:-1,Cần Thơ
+http://14.239.247.174:4022/rtp/232.84.1.144:8838
+#EXTINF:-1,Đà Nẳng 1
+http://14.239.247.174:4022/rtp/232.84.1.146:8850
+#EXTINF:-1,Đà Nẵng 2
+http://14.239.247.174:4022/rtp/232.84.2.114:8856
+#EXTINF:-1,Đắk Lắk
+http://14.239.247.174:4022/rtp/232.84.2.86:8868
+#EXTINF:-1,Đắk Nông
+http://14.239.247.174:4022/rtp/232.84.2.72:8874
+#EXTINF:-1,Điện Biên
+http://14.239.247.174:4022/rtp/232.84.2.76:8880
+#EXTINF:-1,Đồng Nai 1
+http://14.239.247.174:4022/rtp/232.84.1.152:8886
+#EXTINF:-1,Đồng Nai 2
+http://14.239.247.174:4022/rtp/232.84.1.153:8892
+#EXTINF:-1,Đồng Tháp
+http://14.239.247.174:4022/rtp/232.84.1.154:8898
+#EXTINF:-1,Gia Lai
+http://14.239.247.174:4022/rtp/232.84.2.68:8904
+#EXTINF:-1,Hà Giang
+http://14.239.247.174:4022/rtp/232.84.2.85:8910
+#EXTINF:-1,Hà Nam
+http://14.239.247.174:4022/rtp/232.84.2.82:8916
+#EXTINF:-1,Hà Nội 1
+http://14.239.247.174:4022/rtp/232.84.1.29:8148
+#EXTINF:-1,Hà Nội 2
+http://14.239.247.174:4022/rtp/232.84.1.23:8112
+#EXTINF:-1,Hà Tĩnh
+http://14.239.247.174:4022/rtp/232.84.2.96:8922
+#EXTINF:-1,Hải Dương
+http://14.239.247.174:4022/rtp/232.84.2.79:8928
+#EXTINF:-1,Hải Phòng
+http://14.239.247.174:4022/rtp/232.84.2.104:8934
+#EXTINF:-1,Hậu Giang
+http://14.239.247.174:4022/rtp/232.84.2.112:8940
+#EXTINF:-1,Hòa Bình
+http://14.239.247.174:4022/rtp/232.84.2.71:8946
+#EXTINF:-1,Hưng Yên
+http://14.239.247.174:4022/rtp/232.84.2.84:8952
+#EXTINF:-1,Kiên Giang
+http://14.239.247.174:4022/rtp/232.84.2.113:8964
+#EXTINF:-1,Kon Tum
+http://14.239.247.174:4022/rtp/232.84.2.66:8970
+#EXTINF:-1,Khánh Hoà
+http://14.239.247.174:4022/rtp/232.84.2.99:8958
+#EXTINF:-1,Lai Châu
+http://14.239.247.174:4022/rtp/232.84.2.67:9174
+#EXTINF:-1,Lạng Sơn
+http://14.239.247.174:4022/rtp/232.84.2.107:8646
+#EXTINF:-1,Lào Cai
+http://14.239.247.174:4022/rtp/232.84.2.93:8718
+#EXTINF:-1,Lâm Đồng
+http://14.239.247.174:4022/rtp/232.84.2.78:8976
+#EXTINF:-1,Long An 34
+http://14.239.247.174:4022/rtp/232.84.1.171:9000
+#EXTINF:-1,Nam Định
+http://14.239.247.174:4022/rtp/232.84.2.69:9006
+#EXTINF:-1,Ninh Bình
+http://14.239.247.174:4022/rtp/232.84.2.80:9018
+#EXTINF:-1,Ninh Thuận
+http://14.239.247.174:4022/rtp/232.84.2.74:9024
+#EXTINF:-1,Nghệ An
+http://14.239.247.174:4022/rtp/232.84.2.101:9012
+#EXTINF:-1,Phú Thọ
+http://14.239.247.174:4022/rtp/232.84.2.95:9030
+#EXTINF:-1,Phú Yên
+http://14.239.247.174:4022/rtp/232.84.1.161:10362
+#EXTINF:-1,Quãng Bình
+http://14.239.247.174:4022/rtp/232.84.2.98:9042
+#EXTINF:-1,Quảng Nam
+http://14.239.247.174:4022/rtp/232.84.2.81:9048
+#EXTINF:-1,Quảng Ninh
+http://14.239.247.174:4022/rtp/232.84.1.181:9060
+#EXTINF:-1,Quảng Ngãi
+http://14.239.247.174:4022/rtp/232.84.2.108:9054
+#EXTINF:-1,Quảng Trị
+http://14.239.247.174:4022/rtp/232.84.2.105:9066
+#EXTINF:-1,Sóc Trăng
+http://14.239.247.174:4022/rtp/232.84.2.103:9072
+#EXTINF:-1,Sơn La
+http://14.239.247.174:4022/rtp/232.84.1.184:9078
+#EXTINF:-1,Tây Ninh 11
+http://14.239.247.174:4022/rtp/232.84.2.97:9084
+#EXTINF:-1,Tiền Giang
+http://14.239.247.174:4022/rtp/232.84.1.189:9108
+#EXTINF:-1,Tuyên Quang
+http://14.239.247.174:4022/rtp/232.84.2.91:9138
+#EXTINF:-1,Thái Bình
+http://14.239.247.174:4022/rtp/232.84.2.100:9090
+#EXTINF:-1,Thái Nguyên 1
+http://14.239.247.174:4022/rtp/232.84.2.87:9096
+#EXTINF:-1,Thái Nguyên 2
+http://14.239.247.174:4022/rtp/232.84.2.70:9168
+#EXTINF:-1,Thanh Hoá
+http://14.239.247.174:4022/rtp/232.84.2.111:9102
+#EXTINF:-1,Thừa Thiên Huế
+http://14.239.247.174:4022/rtp/232.84.2.106:9042
+#EXTINF:-1,Trà Vinh
+http://14.239.247.174:4022/rtp/232.84.2.102:8472
+#EXTINF:-1,Vĩnh Long 1
+http://14.239.247.174:4022/rtp/232.84.1.195:9144
+#EXTINF:-1,Vĩnh Long 2
+http://14.239.247.174:4022/rtp/232.84.1.196:9150
+#EXTINF:-1,Vĩnh Phúc
+http://14.239.247.174:4022/rtp/232.84.2.83:9156
+#EXTINF:-1,Yên Bái
+http://14.239.247.174:4022/rtp/232.84.2.75:8790
+#EXTINF:-1,VOV Giao thông
+http://14.239.247.174:4022/rtp/232.84.1.38:8202
+#EXTINF:-1,VOV TV
+http://14.239.247.174:4022/rtp/232.84.1.46:8256
+#EXTINF:-1,VOV1
+http://14.239.247.174:4022/rtp/232.84.1.33:8172
+#EXTINF:-1,VOV2
+http://14.239.247.174:4022/rtp/232.84.1.37:8196
+#EXTINF:-1,VOV3
+http://14.239.247.174:4022/rtp/232.84.1.34:8178
+#EXTINF:-1,VTC1
+http://14.239.247.174:4022/rtp/232.84.1.30:8154
+#EXTINF:-1,K+1
+http://14.239.247.174:4022/rtp/232.84.1.96:8550
+#EXTINF:-1,K+1 HD
+http://14.239.247.174:4022/rtp/232.84.1.122:10314
+#EXTINF:-1,K+NS
+http://14.239.247.174:4022/rtp/232.84.1.97:8556
+#EXTINF:-1,K+NS HD
+http://14.239.247.174:4022/rtp/232.84.1.123:10320
+#EXTINF:-1,K+PM
+http://14.239.247.174:4022/rtp/232.84.1.98:8562
+#EXTINF:-1,K+PM HD
+http://14.239.247.174:4022/rtp/232.84.1.125:10326
+#EXTINF:-1,K+PC
+http://14.239.247.174:4022/rtp/232.84.1.131:10368
+#EXTINF:-1,K+PC HD
+http://14.239.247.174:4022/rtp/232.84.1.176:10374
+#EXTINF:-1,Bóng đá 801 HD
+http://14.239.247.174:4022/rtp/232.84.1.50:8280
+#EXTINF:-1,Bóng đá 802 HD
+http://14.239.247.174:4022/rtp/232.84.1.51:8286
+#EXTINF:-1,Bóng đá 803 HD
+http://14.239.247.174:4022/rtp/232.84.1.56:8316
+#EXTINF:-1,Mosaic 1
+http://14.239.247.174:4022/rtp/232.84.1.242:9426
+#EXTINF:-1,Mosaic 2
+http://14.239.247.174:4022/rtp/232.84.1.243:9432
+#EXTINF:-1,Ha Noi 1 PIP
+http://14.239.247.174:4022/rtp/232.84.1.110:8634
+#EXTINF:-1,FOX Sports 2 PIP
+http://14.239.247.174:4022/rtp/232.84.1.249:9468
+#EXTINF:-1,VTV3 PIP
+http://14.239.247.174:4022/rtp/232.84.1.111:8640
+#EXTINF:-1,VTC13 PIP
+http://14.239.247.174:4022/rtp/232.84.1.236:9390
+#EXTINF:-1,TLC PIP
+http://14.239.247.174:4022/rtp/232.84.1.237:9396
+#EXTINF:-1,Star Movies PIP
+http://14.239.247.174:4022/rtp/232.84.1.93:8532
+#EXTINF:-1,HBO SD PIP
+http://14.239.247.174:4022/rtp/232.84.1.102:8586
+#EXTINF:-1,RAI-Italia
+http://14.239.247.174:4022/rtp/232.84.1.64:8358
+#EXTINF:-1,POCCNR PTP-Tieng Nga
+http://14.239.247.174:4022/rtp/232.84.1.95:8544
+#EXTINF:-1,RTTieng Nga
+http://14.239.247.174:4022/rtp/232.84.1.94:8538
+#EXTINF:-1,Bac Lieu
+http://14.239.247.174:4022/rtp/232.84.1.132:8766
+#EXTINF:-1,Binh Dinh 2
+http://14.239.247.174:4022/rtp/232.84.1.135:8784
+#EXTINF:-1,Can Tho
+http://14.239.247.174:4022/rtp/232.84.2.118:8838
+#EXTINF:-1,Da Nang 2
+http://14.239.247.174:4022/rtp/232.84.1.147:8856
+#EXTINF:-1,Dak Lak
+http://14.239.247.174:4022/rtp/232.84.1.149:8868
+#EXTINF:-1,DN9-AZShop
+http://14.239.247.174:4022/rtp/232.84.2.243:10476
+#EXTINF:-1,Thua Thien Hue
+http://14.239.247.174:4022/rtp/232.84.2.106:9120
+#EXTINF:-1,Tra Vinh
+http://14.239.247.174:4022/rtp/232.84.2.102:9114
+#EXTINF:-1,Yen Bai
+http://14.239.247.174:4022/rtp/232.84.2.75:9162
+#EXTINF:-1,VTVCap13-HYUNDAI
+http://14.239.247.174:4022/rtp/232.84.2.237:10446
+#EXTINF:-1,Thong tan xa Viet Nam
+http://14.239.247.174:4022/rtp/232.84.2.238:10434
+#EXTINF:-1,Ha Noi 2 PIP
+http://14.239.247.174:4022/rtp/232.84.1.106:8610
+#EXTINF:-1,NHK World PIP
+http://14.239.247.174:4022/rtp/232.84.1.247:9456
+#EXTINF:-1,Red by HBO PIP
+http://14.239.247.174:4022/rtp/232.84.1.85:8484
+#EXTINF:-1,FOX life PIP
+http://14.239.247.174:4022/rtp/232.84.1.248:9462
+#EXTINF:-1,MAX by HBO PIP
+http://14.239.247.174:4022/rtp/232.84.1.103:8592
+#EXTINF:-1,FOX life PIP
+http://14.239.247.174:4022/rtp/232.84.1.253:9492
+#EXTINF:-1,FOX Sports PIP
+http://14.239.247.174:4022/rtp/232.84.1.116:8670
+#EXTINF:-1,FashionTV PIP
+http://14.239.247.174:4022/rtp/232.84.1.114:8658
+#EXTINF:-1,Disney Channel PIP
+http://14.239.247.174:4022/rtp/232.84.1.101:8580
+#EXTINF:-1,Adtec 1
+http://14.239.247.174:4022/rtp/232.84.2.239:10452
+#EXTINF:-1,CCTV2
+http://14.239.247.174:4022/rtp/232.84.2.240:10458
+#EXTINF:-1,SCTV8-VITV PIP
+http://14.239.247.174:4022/rtp/232.84.1.87:8496
+#EXTINF:-1,A
+http://14.239.247.174:4022/rtp/232.84.2.244:10482
+#EXTINF:-1,VTV3 HD
+http://14.239.247.174:4022/rtp/232.84.2.242:10470
+#EXTINF:-1,Hanoicab5
+http://14.239.247.174:4022/rtp/232.84.2.241:10464
+#EXTINF:-1,N/A
+http://14.239.247.174:4022/rtp/232.84.1.201:9180
+#EXTINF:-1,Discovery Asia HD
+http://14.239.247.174:4022/rtp/232.84.2.53:10528
+#EXTINF:-1,FASHION TV HD
+http://14.239.247.174:4022/rtp/232.84.2.52:10522
+#EXTINF:-1,Warner Bros
+http://14.239.247.174:4022/rtp/232.84.2.50:10510
+#EXTINF:-1,Warner Bros HD
+http://14.239.247.174:4022/rtp/232.84.2.51:10516
+#EXTINF:-1,Bắc Ninh HD
+http://14.239.247.174:4022/rtp/232.84.2.245:10506
+#EXTINF:-1,PIP MTV SD
+http://14.239.247.174:4022/rtp/232.84.1.226:9330
+#EXTINF:-1,PIP Cartoon Network
+http://14.239.247.174:4022/rtp/232.84.1.99:8568
