@@ -22,7 +22,7 @@ sheet_headers  = {
 }
 
 def GetSheetIDFromSettings():
-	sid = "12_WhMHe_FmmQZ6V4Ll6GFMJNR5wbrNJfmC5JNQRjL2A"
+	sid = "1PWajv67U3By-SHlp1flJbPKOV-8iXyrH2_yzH6Kjwrc"
 	resp, content = http.request(plugin.get_setting("GSheetURL"),"HEAD")
 	try:
 		sid = re.compile("/d/(.+?)/").findall(resp["content-location"])[0]
@@ -168,7 +168,7 @@ def getItems(url_path="0", tq="select A,B,C,D,E"):
 			item["path"] = pluginrootpath + "/executebuiltin/-"
 		else:
 			if "spreadsheets/d/" in item["path"]:
-				# https://docs.google.com/spreadsheets/d/12_WhMHe_FmmQZ6V4Ll6GFMJNR5wbrNJfmC5JNQRjL2A/edit#gid=0
+				# https://docs.google.com/spreadsheets/d/1PWajv67U3By-SHlp1flJbPKOV-8iXyrH2_yzH6Kjwrc/edit#gid=0
 				match_cache = re.search('cache=(.+?)($|&)',item["path"])
 				match_passw = re.search('passw=(.+?)($|&)',item["path"])
 
