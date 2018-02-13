@@ -21,3 +21,69 @@ http://p4.giffy.be:8080/live/toby1/toby1/31311.ts
 http://p4.giffy.be:8080/live/toby1/toby1/31310.ts
 #EXTINF:-1,AR: BEIN SPORTS 11HD
 http://p4.giffy.be:8080/live/toby1/toby1/31309.ts
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Tring Sport 1 HD" tvg-logo="" group-title="Sport",Tring Sport 1 HD
+http://tv.smartal.net:25461/live/rtv21/21rtvv/1003.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tring Sport 2 HD" tvg-logo="" group-title="Sport",Tring Sport 2 HD
+http://tv.smartal.net:25461/live/rtv21/21rtvv/1002.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tring Sport 3 HD" tvg-logo="" group-title="Sport",Tring Sport 3 HD
+http://tv.smartal.net:25461/live/rtv21/21rtvv/1001.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tring Sport 4 HD" tvg-logo="" group-title="Sport",Tring Sport 4 HD
+http://tv.smartal.net:25461/live/rtv21/21rtvv/1000.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tring Sport News HD" tvg-logo="" group-title="Sport",Tring Sport News HD
+http://tv.smartal.net:25461/live/rtv21/21rtvv/1004.ts
+
+
+
+
+
+#EXTINF:-1,ESPN
+http://painel.ebanonet.com.br:25461/live/areia/areia/4381.ts
+#EXTINF:-1,ESPN  HD
+http://painel.ebanonet.com.br:25461/live/areia/areia/6127.ts
+#EXTINF:-1,ESPN + HD
+http://painel.ebanonet.com.br:25461/live/areia/areia/6143.ts
+#EXTINF:-1,ESPN  Brasil
+http://painel.ebanonet.com.br:25461/live/areia/areia/6124.ts
+#EXTINF:-1,ESPN Brasil HD
+http://painel.ebanonet.com.br:25461/live/areia/areia/4380.ts
+#EXTINF:-1,ESPN Extra [Manutencao]
+http://painel.ebanonet.com.br:25461/live/areia/areia/6954.ts
+#EXTINF:-1,Esporte Interativo
+http://painel.ebanonet.com.br:25461/live/areia/areia/6960.ts
+#EXTINF:-1,Esporte Interativo HD
+http://painel.ebanonet.com.br:25461/live/areia/areia/6123.ts
+#EXTINF:-1,Esporte Interativo 2
+http://painel.ebanonet.com.br:25461/live/areia/areia/4378.ts
+#EXTINF:-1,Esporte Interativo 2 HD
+http://painel.ebanonet.com.br:25461/live/areia/areia/6125.ts
+#EXTINF:-1,Esporte Interativo BR HD
+http://painel.ebanonet.com.br:25461/live/areia/areia/7902.ts
+#EXTINF:-1,Fox Sports
+http://painel.ebanonet.com.br:25461/live/areia/areia/4373.ts
+#EXTINF:-1,Fox Sport HD
+http://painel.ebanonet.com.br:25461/live/areia/areia/6118.ts
+#EXTINF:-1,Fox Sports 2
+http://painel.ebanonet.com.br:25461/live/areia/areia/4372.ts
+#EXTINF:-1,FOX Sports 2 HD
+http://painel.ebanonet.com.br:25461/live/areia/areia/6117.ts
+
+
+
+
+#EXTINF:-1,DTV Sports H265
+http://s1.iptv61w.com:25461/live/Linda/123/7343.ts
+#EXTINF:-1,DTV Sports H264
+http://s1.iptv61w.com:25461/live/Linda/123/11383.ts
+#EXTINF:-1,DTV Sports 2 HD
+http://s1.iptv61w.com:25461/live/Linda/123/9290.ts
+#EXTINF:-1,DirecTV Sports (Opc 2)
+http://s1.iptv61w.com:25461/live/Linda/123/8657.ts
+#EXTINF:-1,CNT Sports HD
+http://s1.iptv61w.com:25461/live/Linda/123/4739.ts
+#EXTINF:-1,Fox Sports HD Sur (OPC 2)
+http://s1.iptv61w.com:25461/live/Linda/123/5764.ts
