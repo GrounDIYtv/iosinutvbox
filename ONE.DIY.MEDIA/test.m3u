@@ -1,0 +1,75 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Tring Comedy" tvg-logo="" group-title="ALB",Tring Comedy
+http://tv.smartal.net:25461/live/rtv21/21rtvv/1039.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tring Fantasy" tvg-logo="" group-title="ALB",Tring Fantasy
+http://tv.smartal.net:25461/live/rtv21/21rtvv/1037.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tring History" tvg-logo="" group-title="ALB",Tring History
+http://tv.smartal.net:25461/live/rtv21/21rtvv/1028.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tring Kids" tvg-logo="" group-title="ALB",Tring Kids
+http://tv.smartal.net:25461/live/rtv21/21rtvv/978.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tring Life" tvg-logo="" group-title="ALB",Tring Life
+http://tv.smartal.net:25461/live/rtv21/21rtvv/1035.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tring Max" tvg-logo="" group-title="ALB",Tring Max
+http://tv.smartal.net:25461/live/rtv21/21rtvv/1036.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tring Planet" tvg-logo="" group-title="ALB",Tring Planet
+http://tv.smartal.net:25461/live/rtv21/21rtvv/1026.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tring Shqip" tvg-logo="" group-title="ALB",Tring Shqip
+http://tv.smartal.net:25461/live/rtv21/21rtvv/1034.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tring Smile" tvg-logo="" group-title="ALB",Tring Smile
+http://tv.smartal.net:25461/live/rtv21/21rtvv/1033.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tring Sport 1 HD" tvg-logo="" group-title="Sport",Tring Sport 1 HD
+http://tv.smartal.net:25461/live/rtv21/21rtvv/1003.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tring Sport 2 HD" tvg-logo="" group-title="Sport",Tring Sport 2 HD
+http://tv.smartal.net:25461/live/rtv21/21rtvv/1002.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tring Sport 3 HD" tvg-logo="" group-title="Sport",Tring Sport 3 HD
+http://tv.smartal.net:25461/live/rtv21/21rtvv/1001.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tring Sport 4 HD" tvg-logo="" group-title="Sport",Tring Sport 4 HD
+http://tv.smartal.net:25461/live/rtv21/21rtvv/1000.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tring Sport News HD" tvg-logo="" group-title="Sport",Tring Sport News HD
+http://tv.smartal.net:25461/live/rtv21/21rtvv/1004.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tring Super" tvg-logo="" group-title="ALB",Tring Super
+http://tv.smartal.net:25461/live/rtv21/21rtvv/1038.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tring Tring" tvg-logo="" group-title="ALB",Tring Tring
+http://tv.smartal.net:25461/live/rtv21/21rtvv/1009.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tring World" tvg-logo="" group-title="ALB",Tring World
+http://tv.smartal.net:25461/live/rtv21/21rtvv/1027.ts
+#EXTINF:-1 tvg-id="" tvg-name="Jolly HD" tvg-logo="" group-title="ALB",Jolly HD
+http://tv.smartal.net:25461/live/rtv21/21rtvv/1042.ts
+#EXTINF:-1 tvg-id="" tvg-name="Jolly SD" tvg-logo="" group-title="ALB",Jolly SD
+http://tv.smartal.net:25461/live/rtv21/21rtvv/3266.ts
+#EXTINF:-1 tvg-id="" tvg-name="Living HD" tvg-logo="" group-title="ALB",Living HD
+http://tv.smartal.net:25461/live/rtv21/21rtvv/1040.ts
+#EXTINF:-1 tvg-id="" tvg-name="Living SD" tvg-logo="" group-title="ALB",Living SD
+http://tv.smartal.net:25461/live/rtv21/21rtvv/3265.ts
+#EXTINF:-1 tvg-id="" tvg-name="21 MK USA TIME" tvg-logo="" group-title="ALB",21 MK USA TIME
+http://tv.smartal.net:25461/live/rtv21/21rtvv/1012.ts
+#EXTINF:-1 tvg-id="7-RTV21" tvg-name="RTV 21 HD" tvg-logo="" group-title="ALB",RTV 21 HD
+http://tv.smartal.net:25461/live/rtv21/21rtvv/1079.ts
+#EXTINF:-1 tvg-id="3110-RTV 21 M" tvg-name="RTV 21 MAQEDONIA HD" tvg-logo="" group-title="ALB",RTV 21 MAQEDONIA HD
+http://tv.smartal.net:25461/live/rtv21/21rtvv/1077.ts
+#EXTINF:-1 tvg-id="3110-RTV 21 M" tvg-name="RTV 21 Mix" tvg-logo="" group-title="ALB",RTV 21 Mix
+http://tv.smartal.net:25461/live/rtv21/21rtvv/1078.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTV 21 Mix HD" tvg-logo="" group-title="ALB",RTV 21 Mix HD
+http://tv.smartal.net:25461/live/rtv21/21rtvv/3277.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTV 21 Plus HD" tvg-logo="" group-title="ALB",RTV 21 Plus HD
+http://tv.smartal.net:25461/live/rtv21/21rtvv/3276.ts
+#EXTINF:-1 tvg-id="7-RTV21" tvg-name="RTV21" tvg-logo="" group-title="ALB",RTV21
+http://tv.smartal.net:25461/live/rtv21/21rtvv/1080.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTV21 USA TIME" tvg-logo="" group-title="ALB",RTV21 USA TIME
+http://tv.smartal.net:25461/live/rtv21/21rtvv/1018.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALSAT M HD" tvg-logo="" group-title="ALB",ALSAT M HD
+http://tv.smartal.net:25461/live/rtv21/21rtvv/2251.ts
+#EXTINF:-1 tvg-id="" tvg-name="21 popullore" tvg-logo="" group-title="Sport",21 popullore
+http://tv.smartal.net:25461/live/rtv21/21rtvv/5771.ts
+#EXTINF:-1 tvg-id="" tvg-name="21biZ" tvg-logo="" group-title="Sport",21biZ
+http://tv.smartal.net:25461/live/rtv21/21rtvv/5772.ts
+#EXTINF:-1 tvg-id="" tvg-name="21jun" tvg-logo="" group-title="Sport",21jun
+http://tv.smartal.net:25461/live/rtv21/21rtvv/5773.ts
+#EXTINF:-1 tvg-id="" tvg-name="Luxe TV" tvg-logo="" group-title="ALB",Luxe TV
+http://tv.smartal.net:25461/live/rtv21/21rtvv/2187.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTK1" tvg-logo="" group-title="ALB",RTK1
+http://tv.smartal.net:25461/live/rtv21/21rtvv/8568.ts
+#EXTINF:-1 tvg-id="" tvg-name="KLAN KOSOVA HD" tvg-logo="" group-title="ALB",KLAN KOSOVA HD
+http://tv.smartal.net:25461/live/rtv21/21rtvv/2258.ts
+#EXTINF:-1 tvg-id="" tvg-name="*KLAN KOSOVA HD" tvg-logo="" group-title="ALB +",*KLAN KOSOVA HD
+http://tv.smartal.net:25461/live/rtv21/21rtvv/8552.ts
