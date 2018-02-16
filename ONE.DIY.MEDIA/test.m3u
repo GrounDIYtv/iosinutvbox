@@ -1,94 +1,3 @@
-#EXTM3U
-
-#EXTINF:-1 group-title="SPORT",SPORT 1 | SD (BT)
-http://p2.iptvprivateserver.tv:80/live/1dCt2yvVu8/JDecAEDGKN/259.ts
-#EXTINF:-1 group-title="SPORT",SPORT 1 | SD (BT)
-http://p3.iptvprivateserver.tv:80/live/1dCt2yvVu8/JDecAEDGKN/259.ts
-#EXTINF:-1 group-title="SPORT",SPORT 2 | SD (BT)
-http://p2.iptvprivateserver.tv:80/live/1dCt2yvVu8/JDecAEDGKN/260.ts
-#EXTINF:-1 group-title="SPORT",SPORT 2 | SD (BT)
-http://p3.iptvprivateserver.tv:80/live/1dCt2yvVu8/JDecAEDGKN/260.ts
-#EXTINF:-1 group-title="SPORT",SPORT 3 | SD (BT)
-http://p2.iptvprivateserver.tv:80/live/1dCt2yvVu8/JDecAEDGKN/404.ts
-#EXTINF:-1 group-title="SPORT",SPORT 3 | SD (BT)
-http://p3.iptvprivateserver.tv:80/live/1dCt2yvVu8/JDecAEDGKN/404.ts
-#EXTINF:-1 group-title="SPORT",SPORT ESPN | SD (BT)
-http://p4.giffy.be:8080/live/toby1/toby1/21731.ts
-#EXTINF:-1 group-title="SPORT",SPORT ESPN | SD (BT)
-http://p4.giffy.be:8080/live/dennis/dennis/21731.ts
-#EXTINF:-1 group-title="SPORT",SPORT EXTRA | SD (BT)
-http://p4.giffy.be:8080/live/toby1/toby1/21730.ts
-#EXTINF:-1 group-title="SPORT",SPORT EXTRA | SD (BT)
-http://p4.giffy.be:8080/live/dennis/dennis/21730.ts
-#EXTINF:-1 group-title="SPORT",SPORT MOSAIC | SD (BT)
-http://p4.giffy.be:8080/live/toby1/toby1/21729.ts
-#EXTINF:-1 group-title="SPORT",SPORT MOSAIC | SD (BT)
-http://p4.giffy.be:8080/live/dennis/dennis/21729.ts
-#EXTINF:-1 group-title="SPORT",SPORTS 1 | HD (BT)
-http://p4.giffy.be:8080/live/toby1/toby1/21736.ts
-#EXTINF:-1 group-title="SPORT",SPORTS 1 | HD (BT)
-http://p4.giffy.be:8080/live/dennis/dennis/21736.ts
-#EXTINF:-1 group-title="SPORT",SPORTS 2 | HD (BT)
-http://p4.giffy.be:8080/live/toby1/toby1/21735.ts
-#EXTINF:-1 group-title="SPORT",SPORTS 2 | HD (BT)
-http://p4.giffy.be:8080/live/dennis/dennis/21735.ts
-#EXTINF:-1 group-title="SPORT",SPORTS 3 | HD (BT)
-http://p4.giffy.be:8080/live/toby1/toby1/21734.ts
-#EXTINF:-1 group-title="SPORT",SPORTS 3 | HD (BT)
-http://p4.giffy.be:8080/live/dennis/dennis/21734.ts
-
-
-
-#EXTINF:-1 group-title="SPORT",SKY FOX SPORTS | HD (IT)
-http://bb1.qat5.ru:80/live/tdk07/e80ym3cQo9/152.ts
-#EXTINF:-1 group-title="SPORT",SKY FOX SPORTS B | HD (IT)
-http://bb1.qat5.ru:80/live/tdk07/e80ym3cQo9/4716.ts
-#EXTINF:-1 group-title="SPORT",SKY SPORT 1 | HD (IT)
-http://bb1.qat5.ru:80/live/tdk07/e80ym3cQo9/82.ts
-#EXTINF:-1 group-title="SPORT",SKY SPORT 1 B | HD (IT)
-http://bb1.qat5.ru:80/live/tdk07/e80ym3cQo9/4720.ts
-#EXTINF:-1 group-title="SPORT",SKY SPORT 1 FHD | SD (IT)
-http://bb1.qat5.ru:80/live/tdk07/e80ym3cQo9/13794.ts
-#EXTINF:-1 group-title="SPORT",SKY SPORT 2 | HD (IT)
-http://bb1.qat5.ru:80/live/tdk07/e80ym3cQo9/83.ts
-#EXTINF:-1 group-title="SPORT",SKY SPORT 2 B | HD (IT)
-http://bb1.qat5.ru:80/live/tdk07/e80ym3cQo9/4719.ts
-#EXTINF:-1 group-title="SPORT",SKY SPORT 3 | HD (IT)
-http://bb1.qat5.ru:80/live/tdk07/e80ym3cQo9/151.ts
-#EXTINF:-1 group-title="SPORT",SKY SPORT 3 B | HD (IT)
-http://bb1.qat5.ru:80/live/tdk07/e80ym3cQo9/4718.ts
-#EXTINF:-1 group-title="SPORT",SKY SPORT F1 | HD (IT)
-http://bb1.qat5.ru:80/live/tdk07/e80ym3cQo9/153.ts
-#EXTINF:-1 group-title="SPORT",SKY SPORT F1 B | HD (IT)
-http://bb1.qat5.ru:80/live/tdk07/e80ym3cQo9/4715.ts
-#EXTINF:-1 group-title="SPORT",SKY SPORT MOTO GP | HD (IT)
-http://bb1.qat5.ru:80/live/tdk07/e80ym3cQo9/242.ts
-#EXTINF:-1 group-title="SPORT",SKY SPORT MOTO GP B | HD (IT)
-http://bb1.qat5.ru:80/live/tdk07/e80ym3cQo9/4714.ts
-#EXTINF:-1 group-title="SPORT",SKY SPORTS 24 | HD (IT)
-http://bb1.qat5.ru:80/live/tdk07/e80ym3cQo9/94.ts
-#EXTINF:-1 group-title="SPORT",SKY SPORTS 24 B | HD (IT)
-http://bb1.qat5.ru:80/live/tdk07/e80ym3cQo9/4721.ts
-#EXTINF:-1 group-title="SPORT",SKY SPORTS MIX | SD (IT)
-http://bb1.qat5.ru:80/live/tdk07/e80ym3cQo9/11287.ts
-#EXTINF:-1 group-title="SPORT",SKY SPORTS PLUS | HD (IT)
-http://bb1.qat5.ru:80/live/tdk07/e80ym3cQo9/298.ts
-#EXTINF:-1 group-title="SPORT",SKY SPORTS PLUS B | HD (IT)
-http://bb1.qat5.ru:80/live/tdk07/e80ym3cQo9/4717.ts
-#EXTINF:-1 group-title="SPORT",SKY SUPER CALCIO | HD (IT)
-http://bb1.qat5.ru:80/live/tdk07/e80ym3cQo9/95.ts
-#EXTINF:-1 group-title="SPORT",SKY SUPER CALCIO B | SD (IT)
-http://bb1.qat5.ru:80/live/tdk07/e80ym3cQo9/4713.ts
-#EXTINF:-1 group-title="SPORT",SKY UNO | HD (IT)
-http://bb1.qat5.ru:80/live/tdk07/e80ym3cQo9/544.ts
-#EXTINF:-1 group-title="SPORT",SKY UNO | HD (IT)
-http://bb1.qat5.ru:80/live/tdk07/e80ym3cQo9/11653.ts
-#EXTINF:-1 group-title="SPORT",SKY UNO +1 | HD (IT)
-http://bb1.qat5.ru:80/live/tdk07/e80ym3cQo9/545.ts
-
-
-
-
 
 
 
@@ -1362,48 +1271,8 @@ http://51.255.76.200:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/2352.ts
 http://51.255.76.200:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/2432.ts
 #EXTINF:-1 group-title="(_) _No Group",ON SPORT | HD (_)
 http://51.255.76.200:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/2431.ts
-#EXTINF:-1 group-title="(_) _No Group",ONT TUNISIA | SD (_)
-http://51.255.76.200:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/2430.ts
-#EXTINF:-1 group-title="(_) _No Group",OSN ANIMAL PLANET | SD (_)
-http://51.255.76.200:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/2323.ts
-#EXTINF:-1 group-title="(_) _No Group",OSN CINEMA 1 | SD (_)
-http://51.255.76.200:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/2322.ts
-#EXTINF:-1 group-title="(_) _No Group",OSN CINEMA 2 | SD (_)
-http://51.255.76.200:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/2321.ts
-#EXTINF:-1 group-title="(_) _No Group",OSN DEMAND EXTRA | HD (_)
-http://51.255.76.200:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/2320.ts
-#EXTINF:-1 group-title="(_) _No Group",OSN DISCOVERY | SD (_)
-http://51.255.76.200:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/2319.ts
-#EXTINF:-1 group-title="(_) _No Group",OSN DISNEY | SD (_)
-http://51.255.76.200:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/2317.ts
-#EXTINF:-1 group-title="(_) _No Group",OSN FIRST COMEDY | SD (_)
-http://51.255.76.200:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/2316.ts
-#EXTINF:-1 group-title="(_) _No Group",OSN MOVIE BOX OFFICE 1 | SD (_)
-http://51.255.76.200:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/2315.ts
-#EXTINF:-1 group-title="(_) _No Group",OSN MOVIE KIDS | HD (_)
-http://51.255.76.200:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/2314.ts
-#EXTINF:-1 group-title="(_) _No Group",OSN MOVIE PREMIERE | HD (_)
-http://51.255.76.200:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/2313.ts
-#EXTINF:-1 group-title="(_) _No Group",OSN MOVIES | HD (_)
-http://51.255.76.200:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/2307.ts
-#EXTINF:-1 group-title="(_) _No Group",OSN MOVIES ACTION | HD (_)
-http://51.255.76.200:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/2311.ts
-#EXTINF:-1 group-title="(_) _No Group",OSN MOVIES ACTION 2 | HD (_)
-http://51.255.76.200:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/2312.ts
-#EXTINF:-1 group-title="(_) _No Group",OSN MOVIES DRAMA | SD (_)
-http://51.255.76.200:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/2310.ts
-#EXTINF:-1 group-title="(_) _No Group",OSN MOVIES FESTIVAL | SD (_)
-http://51.255.76.200:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/2309.ts
-#EXTINF:-1 group-title="(_) _No Group",OSN MOVIES FIRST MORE | HD (_)
-http://51.255.76.200:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/2308.ts
-#EXTINF:-1 group-title="(_) _No Group",OSN MOVIES PREMIERE | SD (_)
-http://51.255.76.200:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/2306.ts
-#EXTINF:-1 group-title="(_) _No Group",OSN STAR MOVIES | HD (_)
-http://51.255.76.200:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/2305.ts
-#EXTINF:-1 group-title="(_) _No Group",OSN YA HALA DRAMA | SD (_)
-http://51.255.76.200:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/2303.ts
-#EXTINF:-1 group-title="(_) _No Group",OSN YAHALA | HD (_)
-http://51.255.76.200:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/2302.ts
+
+
 #EXTINF:-1 group-title="(_) _No Group",OTV | SD (_)
 http://51.255.76.200:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/2429.ts
 #EXTINF:-1 group-title="(_) _No Group",OVATION | HD (_)
@@ -1892,84 +1761,7 @@ http://p3.iptvprivateserver.tv:80/live/1dCt2yvVu8/JDecAEDGKN/139.ts
 http://p3.iptvprivateserver.tv:80/live/1dCt2yvVu8/JDecAEDGKN/73.ts
 #EXTINF:-1 group-title="(_) _No Group",SUNDANCE TV | SD (_)
 http://p3.iptvprivateserver.tv:80/live/1dCt2yvVu8/JDecAEDGKN/5980.ts
-#EXTINF:-1 group-title="(_) _No Group",SYFY | HD (_)
-http://p3.iptvprivateserver.tv:80/live/1dCt2yvVu8/JDecAEDGKN/361.ts
-#EXTINF:-1 group-title="(_) _No Group",SYFY LATINOAMERICA | SD (_)
-http://p3.iptvprivateserver.tv:80/live/1dCt2yvVu8/JDecAEDGKN/62.ts
-#EXTINF:-1 group-title="(_) _No Group",SYRIA SATELLITE TV | SD (_)
-http://51.255.76.200:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/2396.ts
-#EXTINF:-1 group-title="(_) _No Group",SYRIAN DRAMA TV | SD (_)
-http://51.255.76.200:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/2395.ts
-#EXTINF:-1 group-title="(_) _No Group",TAHA | SD (_)
-http://51.255.76.200:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/2394.ts
-#EXTINF:-1 group-title="(_) _No Group",TAMAZIGHT | SD (_)
-http://51.255.76.200:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/2393.ts
-#EXTINF:-1 group-title="(_) _No Group",TARTEEL TV | SD (_)
-http://51.255.76.200:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/2392.ts
-#EXTINF:-1 group-title="(_) _No Group",TBS AMERICA LATINA | SD (_)
-http://p3.iptvprivateserver.tv:80/live/1dCt2yvVu8/JDecAEDGKN/67.ts
-#EXTINF:-1 group-title="(_) _No Group",TBS EAST | HD (_)
-http://p3.iptvprivateserver.tv:80/live/1dCt2yvVu8/JDecAEDGKN/131.ts
-#EXTINF:-1 group-title="(_) _No Group",TCM AMERICA LATINA | SD (_)
-http://p3.iptvprivateserver.tv:80/live/1dCt2yvVu8/JDecAEDGKN/100.ts
-#EXTINF:-1 group-title="(_) _No Group",TEEN NICK | SD (_)
-http://p3.iptvprivateserver.tv:80/live/1dCt2yvVu8/JDecAEDGKN/316.ts
-#EXTINF:-1 group-title="(_) _No Group",TELE AMIGA | SD (_)
-http://api.new.livestream.com/accounts/18971084/events/6841479/live.m3u8
-#EXTINF:-1 group-title="(_) _No Group",TELE ANTILLAS | SD (_)
-http://69.64.69.92:1935/hita-tv-ch02app/studio/chunklist.m3u8
-#EXTINF:-1 group-title="(_) _No Group",TELE ISLAS | SD (_)
-http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8
-#EXTINF:-1 group-title="(_) _No Group",TELE MAROC | SD (_)
-http://51.255.76.200:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/2391.ts
-#EXTINF:-1 group-title="(_) _No Group",TELE SONDRIO NEWS | SD (_)
-http://wms.shared.streamshow.it:1935/tsn/tsn/live.m3u8
-#EXTINF:-1 group-title="(_) _No Group",TELEANTIOQUIA | SD (_)
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8?
-#EXTINF:-1 group-title="(_) _No Group",TELEARUBA | SD (_)
-http://201.229.0.51:1935/Telearuba/telearuba/playlist.m3u8
-#EXTINF:-1 group-title="(_) _No Group",TELEB | SD (_)
-http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/t/gaudIWTPWrpJe6yJmHI9vA/index-s32.m3u8
-#EXTINF:-1 group-title="(_) _No Group",TELECAF | SD (_)
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8?
-#EXTINF:-1 group-title="(_) _No Group",TELECARIBE | SD (_)
-http://w4.cdn.anvato.net/live/ephemeral/wn8OlVM3UEoOvIGQtw2NOruJRMBAdXQm/telecaribehd/2164k/index.m3u8
-#EXTINF:-1 group-title="(_) _No Group",TELECENTRO CANAL 13 | SD (_)
-http://p3.iptvprivateserver.tv:80/live/1dCt2yvVu8/JDecAEDGKN/398.ts
-#EXTINF:-1 group-title="(_) _No Group",TELEELX | SD (_)
-http://teledifusion.tv:1935/teleelx/teleelxlive/playlist.m3u8
-#EXTINF:-1 group-title="(_) _No Group",TELEFORMULA | SD (_)
-http://p3.iptvprivateserver.tv:80/live/1dCt2yvVu8/JDecAEDGKN/435.ts
-#EXTINF:-1 group-title="(_) _No Group",TELEISLA PUERTO RICO | SD (_)
-http://p3.iptvprivateserver.tv:80/live/1dCt2yvVu8/JDecAEDGKN/407.ts
-#EXTINF:-1 group-title="(_) _No Group",TELEMADRID | SD (_)
-http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8
-#EXTINF:-1 group-title="(_) _No Group",TELEMEDELLIN | SD (_)
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8
-#EXTINF:-1 group-title="(_) _No Group",TELEMETRO | SD (_)
-http://p3.iptvprivateserver.tv:80/live/1dCt2yvVu8/JDecAEDGKN/444.ts
-#EXTINF:-1 group-title="(_) _No Group",TELEMETRO RADIO | SD (_)
-http://live.medcom.com.pa/live/tmradio.stream_live/playlist.m3u8
-#EXTINF:-1 group-title="(_) _No Group",TELEMICRO CANAL 5 | SD (_)
-http://p3.iptvprivateserver.tv:80/live/1dCt2yvVu8/JDecAEDGKN/120.ts
-#EXTINF:-1 group-title="(_) _No Group",TELEMUNDO | SD (_)
-http://p3.iptvprivateserver.tv:80/live/1dCt2yvVu8/JDecAEDGKN/180.ts
-#EXTINF:-1 group-title="(_) _No Group",TELEMUNDO | SD (_)
-http://p3.iptvprivateserver.tv:80/live/1dCt2yvVu8/JDecAEDGKN/8077.ts
-#EXTINF:-1 group-title="(_) _No Group",TELEMUNDO INTERNACIONAL | SD (_)
-http://p3.iptvprivateserver.tv:80/live/1dCt2yvVu8/JDecAEDGKN/373.ts
-#EXTINF:-1 group-title="(_) _No Group",TELEMUNDO MIAMI | SD (_)
-http://p3.iptvprivateserver.tv:80/live/1dCt2yvVu8/JDecAEDGKN/6914.ts
-#EXTINF:-1 group-title="(_) _No Group",TELEMUNDO PUERTO RICO | SD (_)
-http://p3.iptvprivateserver.tv:80/live/1dCt2yvVu8/JDecAEDGKN/354.ts
-#EXTINF:-1 group-title="(_) _No Group",TELESISTEMA CANAL 11 | SD (_)
-http://69.64.69.92:1935/hits-tv-ch11app/studio/chunklist.m3u8
-#EXTINF:-1 group-title="(_) _No Group",TELESUR | SD (_)
-http://cdna.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
-#EXTINF:-1 group-title="(_) _No Group",TELEVISA CANAL 5 | SD (_)
-http://p3.iptvprivateserver.tv:80/live/1dCt2yvVu8/JDecAEDGKN/201.ts
-#EXTINF:-1 group-title="(_) _No Group",TELVZA TV | SD (_)
-http://51.255.76.200:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/2389.ts
+
 #EXTINF:-1 group-title="(_) _No Group",TENNIS CHANNEL | HD (_)
 http://p3.iptvprivateserver.tv:80/live/1dCt2yvVu8/JDecAEDGKN/310.ts
 #EXTINF:-1 group-title="(_) _No Group",TEST3 | SD (_)
@@ -2040,94 +1832,7 @@ http://p3.iptvprivateserver.tv:80/live/1dCt2yvVu8/JDecAEDGKN/377.ts
 http://p3.iptvprivateserver.tv:80/live/1dCt2yvVu8/JDecAEDGKN/378.ts
 #EXTINF:-1 group-title="(_) _No Group",TSN 5 | SD (_)
 http://p3.iptvprivateserver.tv:80/live/1dCt2yvVu8/JDecAEDGKN/379.ts
-#EXTINF:-1 group-title="(_) _No Group",TUNIS TV NAT 2 | SD (_)
-http://51.255.76.200:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/2385.ts
-#EXTINF:-1 group-title="(_) _No Group",TUNISIA | SD (_)
-http://51.255.76.200:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/2605.ts
-#EXTINF:-1 group-title="(_) _No Group",TUNISIA NAT 1 | SD (_)
-http://51.255.76.200:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/2384.ts
-#EXTINF:-1 group-title="(_) _No Group",TUNISNA | SD (_)
-http://51.255.76.200:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/2383.ts
-#EXTINF:-1 group-title="(_) _No Group",TV 2 ZULU | SD (_)
-http://tv2danmark-tv2zulu-live.hls.adaptive.level3.net/tv2danmark/tv2zulu/master3200kbps.m3u8?
-#EXTINF:-1 group-title="(_) _No Group",TV 3 | SD (_)
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_tv/playlist.m3u8
-#EXTINF:-1 group-title="(_) _No Group",TV 4 | SD (_)
-http://51.255.76.200:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/2382.ts
-#EXTINF:-1 group-title="(_) _No Group",TV 5 | SD (_)
-http://51.255.76.200:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/2381.ts
-#EXTINF:-1 group-title="(_) _No Group",TV 5 MONDE LATINOAMERICA | SD (_)
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_manifest.m3u8
-#EXTINF:-1 group-title="(_) _No Group",TV AGRO | SD (_)
-http://190.248.81.11:1938/live/myStream22/playlist.m3u8
-#EXTINF:-1 group-title="(_) _No Group",TV AZTECA HONDURAS | SD (_)
-http://aztecalive-lh.akamaihd.net/i/0dcqjxkgx_1@502208/master.m3u8
-#EXTINF:-1 group-title="(_) _No Group",TV BRASIL | SD (_)
-http://ebctvbrasil-live.hls.adaptive.level3.net/hls-live/ebcremuxlive-ebctvbrasil/_definst_/live.m3u8
-#EXTINF:-1 group-title="(_) _No Group",TV CATVE | SD (_)
-http://wowza4.catve.com.br:1935/live/smil:catve.smil/playlist.m3u8
-#EXTINF:-1 group-title="(_) _No Group",TV CENTRO | HD (_)
-http://servicioamerica.net:1935/8276/8276/playlist.m3u8
-#EXTINF:-1 group-title="(_) _No Group",TV CHILE | SD (_)
-http://p3.iptvprivateserver.tv:80/live/1dCt2yvVu8/JDecAEDGKN/437.ts
-#EXTINF:-1 group-title="(_) _No Group",TV CHOSUN | SD (_)
-http://live.chosun.gscdn.com/live/tvchosun1.stream/playlist.m3u8
-#EXTINF:-1 group-title="(_) _No Group",TV COSMOS | SD (_)
-http://wowzaserver.net:1935/tvcosmos15/tvcosmos15/playlist.m3u8
-#EXTINF:-1 group-title="(_) _No Group",TV CULTURA | SD (_)
-http://177.73.84.49/hls/live/live.m3u8
-#EXTINF:-1 group-title="(_) _No Group",TV KIT | SD (_)
-http://webmobile.xdev.ro:81/tv9/playlist.m3u8
-#EXTINF:-1 group-title="(_) _No Group",TV LAND | HD (_)
-http://p3.iptvprivateserver.tv:80/live/1dCt2yvVu8/JDecAEDGKN/360.ts
-#EXTINF:-1 group-title="(_) _No Group",TV MAN | SD (_)
-http://195.22.11.11:1935/tvmana/tvmana1/chunklist.m3u8
-#EXTINF:-1 group-title="(_) _No Group",TV MAX | SD (_)
-http://p3.iptvprivateserver.tv:80/live/1dCt2yvVu8/JDecAEDGKN/443.ts
-#EXTINF:-1 group-title="(_) _No Group",TV MCJ | SD (_)
-http://wse5.player.tv.br:1935/tvmcj/tvmcj/playlist.m3u8
-#EXTINF:-1 group-title="(_) _No Group",TV OBERFRANKEN | SD (_)
-http://tvoberfranken.iptv-playoutcenter.de:1935/tvoberfranken/tvoberfranken.stream_1/chunklist_w1654226206.m3u8
-#EXTINF:-1 group-title="(_) _No Group",TV ONE | SD (_)
-http://p3.iptvprivateserver.tv:80/live/1dCt2yvVu8/JDecAEDGKN/491.ts
-#EXTINF:-1 group-title="(_) _No Group",TV PO | SD (_)
-http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8
-#EXTINF:-1 group-title="(_) _No Group",TV SYD | SD (_)
-http://cdn-lt-live.tvsyd.dk/dc-1/live/hls/p/1956351/e/0_e9slj9wh/t/ut3_n5VQ1FqzlqMhwbQmJg/index-s32.m3u8
-#EXTINF:-1 group-title="(_) _No Group",TV TSENTR | SD (_)
-http://tvc.cdnvideo.ru/tvc-p212/rtmp_p11_hq/playlist.m3u8
-#EXTINF:-1 group-title="(_) _No Group",TV UNIVERSAL | SD (_)
-http://api.new.livestream.com/accounts/4486152/events/2780306/live.m3u8
-#EXTINF:-1 group-title="(_) _No Group",TV5 MONDE MAGHREB ORIENT | HD (_)
-http://51.255.76.200:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/2380.ts
-#EXTINF:-1 group-title="(_) _No Group",TV7 BORDEAUX | SD (_)
-http://62.210.204.108:1935/livtv7vo/mystream700.sdp/f1tv.m3u8
-#EXTINF:-1 group-title="(_) _No Group",TV9 GUJARATI | SD (_)
-http://p3.iptvprivateserver.tv:80/live/1dCt2yvVu8/JDecAEDGKN/489.ts
-#EXTINF:-1 group-title="(_) _No Group",TVA OSTBAYERN | SD (_)
-http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/chunklist_w639935191.m3u8
-#EXTINF:-1 group-title="(_) _No Group",TVC | SD (_)
-http://p3.iptvprivateserver.tv:80/live/1dCt2yvVu8/JDecAEDGKN/433.ts
-#EXTINF:-1 group-title="(_) _No Group",TVE 24 HORAS | SD (_)
-http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
-#EXTINF:-1 group-title="(_) _No Group",TVE1 | SD (_)
-http://p3.iptvprivateserver.tv:80/live/1dCt2yvVu8/JDecAEDGKN/374.ts
-#EXTINF:-1 group-title="(_) _No Group",TVES CANAL 10 | SD (_)
-http://198.24.135.42/canal10/canal10/playlist.m3u8
-#EXTINF:-1 group-title="(_) _No Group",TVG2 | SD (_)
-http://cultural-crtvg.flumotion.com/chunks.m3u8
-#EXTINF:-1 group-title="(_) _No Group",TVI 24 | SD (_)
-https://video-auth8.iol.pt/live_tvi24/live_tvi24/playlist.m3u8?wmsAuthSign=
-#EXTINF:-1 group-title="(_) _No Group",TVN | SD (_)
-http://p3.iptvprivateserver.tv:80/live/1dCt2yvVu8/JDecAEDGKN/440.ts
-#EXTINF:-1 group-title="(_) _No Group",TVO CANAL 23 | SD (_)
-http://xtvocanal23x.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:-1 group-title="(_) _No Group",TVS SATELITAL | SD (_)
-http://181.198.10.23:1935/live2/smil:teradek.smil/playlist.m3u8
-#EXTINF:-1 group-title="(_) _No Group",TVU EL SALVADOR | SD (_)
-http://uvodscp-lh.akamaihd.net/i/mgvtvurtmp_1@460469/index_600_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="(_) _No Group",TVX EL SALVADOR | SD (_)
-http://cdn.elsalvadordigital.com:1935/canal23/canal23/playlist.m3u8
+
 #EXTINF:-1 group-title="(_) _No Group",U TV | SD (_)
 http://82.76.40.76:80/utvedge/utvlive/playlist.m3u8
 #EXTINF:-1 group-title="(_) _No Group",ULTIMATE EVENTS & SPORTS 1 | SD (_)
@@ -2146,20 +1851,7 @@ http://p3.iptvprivateserver.tv:80/live/1dCt2yvVu8/JDecAEDGKN/6280.ts
 http://p2.iptvprivateserver.tv:80/live/1dCt2yvVu8/JDecAEDGKN/6287.ts
 #EXTINF:-1 group-title="(_) _No Group",ULTIMATE EVENTS & SPORTS 4 | SD (_)
 http://p3.iptvprivateserver.tv:80/live/1dCt2yvVu8/JDecAEDGKN/6287.ts
-#EXTINF:-1 group-title="(_) _No Group",UNICABLE | HD (_)
-http://p3.iptvprivateserver.tv:80/live/1dCt2yvVu8/JDecAEDGKN/267.ts
-#EXTINF:-1 group-title="(_) _No Group",UNICANAL | SD (_)
-http://strm.unicanal.com.py/live/unicanal.m3u8
-#EXTINF:-1 group-title="(_) _No Group",UNIMAS | HD (_)
-http://p3.iptvprivateserver.tv:80/live/1dCt2yvVu8/JDecAEDGKN/43.ts
-#EXTINF:-1 group-title="(_) _No Group",UNIVERSAL CHANNEL | SD (_)
-http://p3.iptvprivateserver.tv:80/live/1dCt2yvVu8/JDecAEDGKN/405.ts
-#EXTINF:-1 group-title="(_) _No Group",UNIVERSAL CHANNEL AMERICA LATINA | SD (_)
-http://p3.iptvprivateserver.tv:80/live/1dCt2yvVu8/JDecAEDGKN/93.ts
-#EXTINF:-1 group-title="(_) _No Group",UNIVISION | HD (_)
-http://p3.iptvprivateserver.tv:80/live/1dCt2yvVu8/JDecAEDGKN/46.ts
-#EXTINF:-1 group-title="(_) _No Group",UNIVISION | HD (_)
-http://p3.iptvprivateserver.tv:80/live/1dCt2yvVu8/JDecAEDGKN/8076.ts
+
 #EXTINF:-1 group-title="(_) _No Group",UNIVISION DEPORTES | HD (_)
 http://p3.iptvprivateserver.tv:80/live/1dCt2yvVu8/JDecAEDGKN/364.ts
 #EXTINF:-1 group-title="(_) _No Group",UNIVISION MIAMI | SD (_)
