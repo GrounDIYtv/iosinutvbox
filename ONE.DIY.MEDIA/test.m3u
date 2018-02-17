@@ -1,48 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,**** KOMBETARE ****
-http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/829.ts
-#EXTINF:-1,AL: RTK SAT
-http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1345.ts
-#EXTINF:-1,AL: RTK 1
-http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1042.ts
-#EXTINF:-1,AL: RTK 1 HD
-http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1304.ts
-#EXTINF:-1,AL: RTK 2
-http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1043.ts
-#EXTINF:-1,AL: RTK 3
-http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1044.ts
-#EXTINF:-1,AL: RTK 4
-http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1045.ts
-#EXTINF:-1,AL: RTK Serial
-http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/12355.ts
-#EXTINF:-1,AL: RTV 21 Toksor
-http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1319.ts
-#EXTINF:-1,AL: RTV 21 HD
-http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1052.ts
-#EXTINF:-1,AL: KTV HD
-http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/979.ts
-#EXTINF:-1,AL: KTV Toksor
-http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1308.ts
-#EXTINF:-1,AL: Klan Kosova Tokesor
-http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/2706.ts
-#EXTINF:-1,AL: KLAN Kosova HD
-http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1307.ts
-#EXTINF:-1,AL: TV Dukagjini HD
-http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1873.ts
-#EXTINF:-1,AL: Tribuna Channel
-http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1572.ts
-#EXTINF:-1,AL: TOP Channel HD
-http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1310.ts
-#EXTINF:-1,AL: TOP Channel
-http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1161.ts
-#EXTINF:-1,AL: KLAN HD
-http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/976.ts
-
-
-
-
-
 #EXTINF:-1 group-title="SPORT",SPORT 1 | SD (BT)
 http://p2.iptvprivateserver.tv:80/live/1dCt2yvVu8/JDecAEDGKN/259.ts
 #EXTINF:-1 group-title="SPORT",SPORT 1 | SD (BT)
@@ -370,7 +327,6 @@ http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/678.ts
 http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/679.ts
 #EXTINF:-1 group-title="SPORT",FR : BeIN SPORTS MAX 10
 http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/680.ts
-
 #EXTINF:-1 group-title="SPORT",BEiN SPORT-1 HD  (720P)
 http://championtv.dyndns.tv:2016/live/viphdiptv/sn4ks62na/1.ts
 #EXTINF:-1 group-title="SPORT",BEiN SPORT-2 HD  (720P)
@@ -395,7 +351,6 @@ http://championtv.dyndns.tv:2016/live/viphdiptv/sn4ks62na/94.ts
 http://championtv.dyndns.tv:2016/live/viphdiptv/sn4ks62na/95.ts
 #EXTINF:-1 group-title="SPORT",TIVIBUSPOR-4 HD
 http://championtv.dyndns.tv:2016/live/viphdiptv/sn4ks62na/96.ts
-
 #EXTINF:-1 group-title="SPORT",125 - B-T-SPORTS 1 HD
 http://93.190.142.128:80/live/user2/user2/27994.ts
 #EXTINF:-1 group-title="SPORT",126 - B-T-SPORTS 1
@@ -587,288 +542,6 @@ http://93.190.142.128:80/live/user2/user2/27880.ts
 #EXTINF:-1 group-title="SPORT",261 - SKY-NET-SPORTS 6
 http://93.190.142.128:80/live/user2/user2/27879.ts
 
-#EXTINF:-1 group-title="SPORT",TR:Bein SPORT 1
-http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/323.ts
-#EXTINF:-1 group-title="SPORT",TR:Bein SPORT 1+
-http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/327.ts
-#EXTINF:-1 group-title="SPORT",TR:Bein SPORT 2
-http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/324.ts
-#EXTINF:-1 group-title="SPORT",TR:Bein SPORT 2+
-http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/328.ts
-#EXTINF:-1 group-title="SPORT",TR:Bein SPORT 3
-http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/325.ts
-#EXTINF:-1 group-title="SPORT",TR:Bein SPORT 3+
-http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/329.ts
-#EXTINF:-1 group-title="SPORT",TR:Bein SPORT 4
-http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/326.ts
-#EXTINF:-1 group-title="SPORT",TR:Bein SPORT 4+
-http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/330.ts
-#EXTINF:-1 group-title="SPORT",TR:Bein Haber
-http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/5006.ts
-#EXTINF:-1 group-title="SPORT",TR:Bein SPORT MAX
-http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/3292.ts
-#EXTINF:-1 group-title="SPORT",TR:Bein SPORT MAX2
-http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/3294.ts
-#EXTINF:-1 group-title="SPORT",TR:SMARTSPOR
-http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/339.ts
-#EXTINF:-1 group-title="SPORT",TR:SMARTSPOR (ALTERNAT?F)
-http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/3303.ts
-#EXTINF:-1 group-title="SPORT",TR:S Sport
-http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/2068.ts
-#EXTINF:-1 group-title="SPORT",TR:TVBUSPOR 1
-http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/331.ts
-#EXTINF:-1 group-title="SPORT",TR:TVBUSPOR 1 HD+
-http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/335.ts
-#EXTINF:-1 group-title="SPORT",TR:TVBUSPOR 2
-http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/332.ts
-#EXTINF:-1 group-title="SPORT",TR:TVBUSPOR 2 HD+
-http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/336.ts
-#EXTINF:-1 group-title="SPORT",TR:TVBUSPOR 3
-http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/333.ts
-#EXTINF:-1 group-title="SPORT",TR:TVBUSPOR 3 HD+
-http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/337.ts
-#EXTINF:-1 group-title="SPORT",TR:TVBUSPOR 4
-http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/334.ts
-#EXTINF:-1 group-title="SPORT",TR:TVBUSPOR 4 HD+
-http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/338.ts
-#EXTINF:-1 group-title="SPORT",TR:TVBUSPOR 82
-http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/3986.ts
-#EXTINF:-1 group-title="SPORT",TR:EUROSPORT 1
-http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/1501.ts
-#EXTINF:-1 group-title="SPORT",TR:EUROSPORT 2
-http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/1502.ts
-#EXTINF:-1 group-title="SPORT",DE:SKY SPORT 1
-http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/106.ts
-#EXTINF:-1 group-title="SPORT",DE:SKY SPORT 1 HD+
-http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/3551.ts
-#EXTINF:-1 group-title="SPORT",DE:SKY SPORT 2
-http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/107.ts
-#EXTINF:-1 group-title="SPORT",DE:SKY SPORT 3 (Matchday)
-http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/2423.ts
-#EXTINF:-1 group-title="SPORT",DE:SKY SPORT 4 (Matchday)
-http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/2424.ts
-#EXTINF:-1 group-title="SPORT",DE:SKY SPORT 5 (Matchday)
-http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/2425.ts
-#EXTINF:-1 group-title="SPORT",DE:SKY SPORT 6 (Matchday)
-http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/3546.ts
-#EXTINF:-1 group-title="SPORT",DE:SKY SPORT 7 (Matchday)
-http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/3547.ts
-#EXTINF:-1 group-title="SPORT",DE:SKY SPORT 8 (Matchday)
-http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/3549.ts
-#EXTINF:-1 group-title="SPORT",DE:SKY SPORT 9 (Matchday)
-http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/3550.ts
-#EXTINF:-1 group-title="SPORT",DE:SKY SPORT AUSTRIA
-http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/109.ts
-#EXTINF:-1 group-title="SPORT",DE:SKY SPORT NEWS
-http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/108.ts
-#EXTINF:-1 group-title="SPORT",DE:SPORT1 + HD
-http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/2980.ts
-#EXTINF:-1 group-title="SPORT",DE:EUROSPORT
-http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/162.ts
-#EXTINF:-1 group-title="SPORT",DE:EUROSPORT 2
-http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/3301.ts
-#EXTINF:-1 group-title="SPORT",DE:EUROSPORT 2XTRA
-http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/3403.ts
-#EXTINF:-1 group-title="SPORT",DE:SKY BUNDESLIGA 1
-http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/3567.ts
-#EXTINF:-1 group-title="SPORT",DE:SKY BUNDESLIGA 1 +
-http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/105.ts
-#EXTINF:-1 group-title="SPORT",DE:SKY BUNDESLIGA 2
-http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/1947.ts
-#EXTINF:-1 group-title="SPORT",DE:SKY BUNDESLIGA 3 (Matchday)
-http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/1946.ts
-#EXTINF:-1 group-title="SPORT",DE:SKY BUNDESLIGA 4 (Matchday)
-http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/1945.ts
-#EXTINF:-1 group-title="SPORT",DE:SKY BUNDESLIGA 5 (Matchday)
-http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/1944.ts
-#EXTINF:-1 group-title="SPORT",DE:SKY BUNDESLIGA 6 (Matchday)
-http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/1943.ts
-#EXTINF:-1 group-title="SPORT",DE:SKY BUNDESLIGA 7 (Matchday)
-http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/1942.ts
-#EXTINF:-1 group-title="SPORT",DE:SKY BUNDESLIGA 8 (Matchday)
-http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/1941.ts
-#EXTINF:-1 group-title="SPORT",NL:FOX SPORT 1
-http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/79.ts
-#EXTINF:-1 group-title="SPORT",NL:FOX SPORT 2
-http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/80.ts
-#EXTINF:-1 group-title="SPORT",NL:FOX SPORT 3
-http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/81.ts
-#EXTINF:-1 group-title="SPORT",NL:FOX SPORT 4
-http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/82.ts
-#EXTINF:-1 group-title="SPORT",NL:FOX SPORT 5
-http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/83.ts
-#EXTINF:-1 group-title="SPORT",NL:FOX SPORT-6
-http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/84.ts
-#EXTINF:-1 group-title="SPORT",NL:ZIGGO  RACING
-http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/98.ts
-#EXTINF:-1 group-title="SPORT",NL:ZIGGO  VOETBAL
-http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/99.ts
-#EXTINF:-1 group-title="SPORT",NL:ZIGGO GOLF
-http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/100.ts
-#EXTINF:-1 group-title="SPORT",NL:ZIGGO SELECT
-http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/101.ts
-#EXTINF:-1 group-title="SPORT",EX-YOU:SPORT KLUP 1 HD
-http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/1922.ts
-#EXTINF:-1 group-title="SPORT",EX-YOU:SPORT KLUP 2 HD
-http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/1923.ts
-#EXTINF:-1 group-title="SPORT",EX-YOU:SPORT KLUP 3 HD
-http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/1924.ts
-#EXTINF:-1 group-title="SPORT",AR:Bein SPORT 1
-http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/19.ts
-#EXTINF:-1 group-title="SPORT",AR:Bein SPORT 2
-http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/20.ts
-#EXTINF:-1 group-title="SPORT",AR:Bein SPORT 3
-http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/21.ts
-#EXTINF:-1 group-title="SPORT",AR:Bein SPORT 4
-http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/22.ts
-#EXTINF:-1 group-title="SPORT",AR:Bein SPORT 5
-http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/23.ts
-#EXTINF:-1 group-title="SPORT",AR:Bein SPORT 6
-http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/24.ts
-#EXTINF:-1 group-title="SPORT",AR:Bein SPORT 7
-http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/25.ts
-#EXTINF:-1 group-title="SPORT",AR:Bein SPORT 8
-http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/26.ts
-#EXTINF:-1 group-title="SPORT",AR:Bein SPORT 9
-http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/27.ts
-#EXTINF:-1 group-title="SPORT",AR:Bein SPORT 10
-http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/1507.ts
-#EXTINF:-1 group-title="SPORT",AR:Bein SPORT 11
-http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/3407.ts
-#EXTINF:-1 group-title="SPORT",AR:Bein SPORT 12 (ENG)
-http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/3408.ts
-#EXTINF:-1 group-title="SPORT",FR:BEIN SPORT 1 HD
-http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/2946.ts
-#EXTINF:-1 group-title="SPORT",FR:BEIN SPORT 2 HD
-http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/2945.ts
-#EXTINF:-1 group-title="SPORT",FR:BEIN SPORT 3 HD
-http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/2944.ts
-#EXTINF:-1 group-title="SPORT",FR:EUROSPORT 1 HD
-http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/2939.ts
-#EXTINF:-1 group-title="SPORT",FR:EUROSPORT 2 HD
-http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/2938.ts
-#EXTINF:-1 group-title="SPORT",FR:CANAL+ SPORT
-http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/3017.ts
-#EXTINF:-1 group-title="SPORT",FR:FOOT+ 24
-http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/3018.ts
-
-#EXTINF:-1 group-title="SPORT",FOX SPORTS 1
-http://p4.giffy.be:8080/live/dennis/dennis/13878.ts
-#EXTINF:-1 group-title="SPORT",FOX SPORTS 2
-http://p4.giffy.be:8080/live/dennis/dennis/13879.ts
-#EXTINF:-1 group-title="SPORT",CBS SPORTS NETWORK US
-http://p4.giffy.be:8080/live/dennis/dennis/20948.ts
-#EXTINF:-1 group-title="SPORT",SPORTSNET WORLD
-http://p4.giffy.be:8080/live/dennis/dennis/13884.ts
-#EXTINF:-1 group-title="SPORT",SPORTSNET ONTARIO
-http://p4.giffy.be:8080/live/dennis/dennis/13880.ts
-#EXTINF:-1 group-title="SPORT",SPORTSNET ONE HD
-http://p4.giffy.be:8080/live/dennis/dennis/20721.ts
-#EXTINF:-1 group-title="SPORT",SPORTSNET 360.
-http://p4.giffy.be:8080/live/dennis/dennis/14215.ts
-#EXTINF:-1 group-title="SPORT",SPORTSNET WEST HD
-http://p4.giffy.be:8080/live/dennis/dennis/21527.ts
-#EXTINF:-1 group-title="SPORT",SPORTSNET EAST HD
-http://p4.giffy.be:8080/live/dennis/dennis/22575.ts
-#EXTINF:-1 group-title="SPORT",SPORTSNET PACIFIC
-http://p4.giffy.be:8080/live/dennis/dennis/21526.ts
-#EXTINF:-1 group-title="SPORT",WWE HD
-http://p4.giffy.be:8080/live/dennis/dennis/20913.ts
-#EXTINF:-1 group-title="SPORT",UKR: FUTBOL 2HD
-http://p4.giffy.be:8080/live/dennis/dennis/26589.ts
-#EXTINF:-1 group-title="SPORT",UKR: FUTBOL 1HD
-http://p4.giffy.be:8080/live/dennis/dennis/29621.ts
-#EXTINF:-1 group-title="SPORT",UKR: SPORT 1
-http://p4.giffy.be:8080/live/dennis/dennis/26588.ts
-#EXTINF:-1 group-title="SPORT",UKR: SPORT 2
-http://p4.giffy.be:8080/live/dennis/dennis/26587.ts
-#EXTINF:-1 group-title="SPORT",EUROSPORT 2 HD
-http://p4.giffy.be:8080/live/dennis/dennis/27826.ts
-#EXTINF:-1 group-title="SPORT",EUROSPORT 1 HD
-http://p4.giffy.be:8080/live/dennis/dennis/21727.ts
-#EXTINF:-1 group-title="SPORT",SKY SPORTS BOX OFFICE PPV
-http://p4.giffy.be:8080/live/dennis/dennis/27770.ts
-#EXTINF:-1 group-title="SPORT",SKY SPORT MAIN EVENT
-http://p4.giffy.be:8080/live/dennis/dennis/21743.ts
-#EXTINF:-1 group-title="SPORT",SKY SPORTS CRICKET
-http://p4.giffy.be:8080/live/dennis/dennis/21742.ts
-#EXTINF:-1 group-title="SPORT",SKY SPORTS ACTION
-http://p4.giffy.be:8080/live/dennis/dennis/21741.ts
-#EXTINF:-1 group-title="SPORT",SKY SPORTS GOLF
-http://p4.giffy.be:8080/live/dennis/dennis/21740.ts
-#EXTINF:-1 group-title="SPORT",SKY SPORT SKY PREMIER LEAGUE
-http://p4.giffy.be:8080/live/dennis/dennis/21739.ts
-#EXTINF:-1 group-title="SPORT",SKY SPORT F1 HD
-http://p4.giffy.be:8080/live/dennis/dennis/21738.ts
-#EXTINF:-1 group-title="SPORT",SKY SPORT NEWS
-http://p4.giffy.be:8080/live/dennis/dennis/21732.ts
-#EXTINF:-1 group-title="SPORT",SKY SPORTS MIX
-http://p4.giffy.be:8080/live/dennis/dennis/21728.ts
-#EXTINF:-1 group-title="SPORT",SKY SPORTS NEWS HD
-http://p4.giffy.be:8080/live/dennis/dennis/21737.ts
-#EXTINF:-1 group-title="SPORT",SKY SPORTS HD ARENA
-http://p4.giffy.be:8080/live/dennis/dennis/27769.ts
-#EXTINF:-1 group-title="SPORT",SKY SPORT 1 HD
-http://p4.giffy.be:8080/live/dennis/dennis/30065.ts
-#EXTINF:-1 group-title="SPORT",SKY SPORT 2 HD
-http://p4.giffy.be:8080/live/dennis/dennis/30066.ts
-#EXTINF:-1 group-title="SPORT",SKY SPORT NEWS.
-http://p4.giffy.be:8080/live/dennis/dennis/30075.ts
-#EXTINF:-1 group-title="SPORT",SKY FOOTBALL ( NEW HD )
-http://p4.giffy.be:8080/live/dennis/dennis/28297.ts
-#EXTINF:-1 group-title="SPORT",BT SPORTS 1 HD
-http://p4.giffy.be:8080/live/dennis/dennis/21736.ts
-#EXTINF:-1 group-title="SPORT",BT SPORTS 2 HD
-http://p4.giffy.be:8080/live/dennis/dennis/21735.ts
-#EXTINF:-1 group-title="SPORT",BT SPORTS 3 HD
-http://p4.giffy.be:8080/live/dennis/dennis/21734.ts
-#EXTINF:-1 group-title="SPORT",BT SPORT ESPN
-http://p4.giffy.be:8080/live/dennis/dennis/21731.ts
-#EXTINF:-1 group-title="SPORT",BT SPORT MOSAIC
-http://p4.giffy.be:8080/live/dennis/dennis/21729.ts
-#EXTINF:-1 group-title="SPORT",BT SPORT EXTRA
-http://p4.giffy.be:8080/live/dennis/dennis/21730.ts
-#EXTINF:-1 group-title="SPORT",RUS: MATCH APEHA HD
-http://p4.giffy.be:8080/live/dennis/dennis/26592.ts
-#EXTINF:-1 group-title="SPORT",RUS: MATCH FUTBOL 1 HD
-http://p4.giffy.be:8080/live/dennis/dennis/26595.ts
-#EXTINF:-1 group-title="SPORT",RUS: MATCH FUTBOL 2 HD
-http://p4.giffy.be:8080/live/dennis/dennis/26594.ts
-#EXTINF:-1 group-title="SPORT",RUS: MATCH FUTBOL 3 HD
-http://p4.giffy.be:8080/live/dennis/dennis/26593.ts
-#EXTINF:-1 group-title="SPORT",RUS: MATCH GAME
-http://p4.giffy.be:8080/live/dennis/dennis/26571.ts
-#EXTINF:-1 group-title="SPORT",RUS: MATCH OUR SPORTS
-http://p4.giffy.be:8080/live/dennis/dennis/26585.ts
-#EXTINF:-1 group-title="SPORT",RUS: MATCH PLANET
-http://p4.giffy.be:8080/live/dennis/dennis/26586.ts
-#EXTINF:-1 group-title="SPORT",RUS: MATCH SPORTS
-http://p4.giffy.be:8080/live/dennis/dennis/26596.ts
-#EXTINF:-1 group-title="SPORT",RUS: MATCH TV
-http://p4.giffy.be:8080/live/dennis/dennis/26597.ts
-#EXTINF:-1 group-title="SPORT",AR_ON_SPORT
-http://p4.giffy.be:8080/live/dennis/dennis/27080.ts
-#EXTINF:-1 group-title="SPORT",Digi Sport 1
-http://p4.giffy.be:8080/live/dennis/dennis/30163.ts
-#EXTINF:-1 group-title="SPORT",Digi Sport 2
-http://p4.giffy.be:8080/live/dennis/dennis/30162.ts
-#EXTINF:-1 group-title="SPORT",Digi Sport 3
-http://p4.giffy.be:8080/live/dennis/dennis/30161.ts
-#EXTINF:-1 group-title="SPORT",Digi Sport 4
-http://p4.giffy.be:8080/live/dennis/dennis/30160.ts
-#EXTINF:-1 group-title="SPORT",BR: Sport Tv
-http://p4.giffy.be:8080/live/dennis/dennis/30569.ts
-#EXTINF:-1 group-title="SPORT",BR: SPORT TV 1
-http://p4.giffy.be:8080/live/dennis/dennis/30568.ts
-#EXTINF:-1 group-title="SPORT",BR: SPORT TV 2
-http://p4.giffy.be:8080/live/dennis/dennis/30567.ts
-#EXTINF:-1 group-title="SPORT",BR: SPORT TV 3
-http://p4.giffy.be:8080/live/dennis/dennis/30566.ts
-#EXTINF:-1 group-title="SPORT",BR: Sport Tv2
-http://p4.giffy.be:8080/live/dennis/dennis/30565.ts
-
-
-
 #EXTINF:-1 group-title="SPORT",SKY FOX SPORTS | HD (IT)
 http://bb1.qat5.ru:80/live/tdk07/e80ym3cQo9/152.ts
 #EXTINF:-1 group-title="SPORT",SKY FOX SPORTS B | HD (IT)
@@ -921,237 +594,237 @@ http://bb1.qat5.ru:80/live/tdk07/e80ym3cQo9/545.ts
 
 
 
-#EXTINF:-1 group-title="18+": KS XXX TV 1 HD
+#EXTINF:-1 group-title="18+", KS XXX TV 1 HD
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/9286.ts
-#EXTINF:-1 group-title="18+": KS XXX TV 2 HD
+#EXTINF:-1 group-title="18+", KS XXX TV 2 HD
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/9288.ts
-#EXTINF:-1 group-title="18+": KS XXX TV 3 HD
+#EXTINF:-1 group-title="18+", KS XXX TV 3 HD
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/9299.ts
-#EXTINF:-1 group-title="18+": Adult 4K: VOD1
+#EXTINF:-1 group-title="18+", Adult 4K: VOD1
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/5177.ts
-#EXTINF:-1 group-title="18+": Adult 4K: VOD2
+#EXTINF:-1 group-title="18+", Adult 4K: VOD2
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/5180.ts
-#EXTINF:-1 group-title="18+": Adult 4K: VOD3
+#EXTINF:-1 group-title="18+", Adult 4K: VOD3
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/5181.ts
-#EXTINF:-1 group-title="18+": Adult 4K: VOD4
+#EXTINF:-1 group-title="18+", Adult 4K: VOD4
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/5182.ts
-#EXTINF:-1 group-title="18+": Adult 4K: VOD5
+#EXTINF:-1 group-title="18+", Adult 4K: VOD5
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/5183.ts
-#EXTINF:-1 group-title="18+": Adult 4K: VOD6
+#EXTINF:-1 group-title="18+", Adult 4K: VOD6
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/5184.ts
-#EXTINF:-1 group-title="18+": Adult 4K: VOD7
+#EXTINF:-1 group-title="18+", Adult 4K: VOD7
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/5185.ts
-#EXTINF:-1 group-title="18+": Adult 4K: VOD8
+#EXTINF:-1 group-title="18+", Adult 4K: VOD8
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/5186.ts
-#EXTINF:-1 group-title="18+": Adult 4K: VOD9
+#EXTINF:-1 group-title="18+", Adult 4K: VOD9
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/5187.ts
-#EXTINF:-1 group-title="18+": Adult 4K: VOD10
+#EXTINF:-1 group-title="18+", Adult 4K: VOD10
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/5178.ts
-#EXTINF:-1 group-title="18+": Adult 4K: VOD11
+#EXTINF:-1 group-title="18+", Adult 4K: VOD11
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/5179.ts
-#EXTINF:-1 group-title="18+": PRIVATE HD
+#EXTINF:-1 group-title="18+", PRIVATE HD
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/5229.ts
-#EXTINF:-1 group-title="18+": ADULT HOTCLUB 1 HD
+#EXTINF:-1 group-title="18+", ADULT HOTCLUB 1 HD
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/5230.ts
-#EXTINF:-1 group-title="18+": ADULT HOTCLUB 2 HD
+#EXTINF:-1 group-title="18+", ADULT HOTCLUB 2 HD
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/5231.ts
-#EXTINF:-1 group-title="18+": ADULT HOTCLUB 3 HD
+#EXTINF:-1 group-title="18+", ADULT HOTCLUB 3 HD
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/5232.ts
-#EXTINF:-1 group-title="18+": ADULT HOTCLUB 4 HD
+#EXTINF:-1 group-title="18+", ADULT HOTCLUB 4 HD
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/5233.ts
-#EXTINF:-1 group-title="18+": ADULT HOTCLUB 5 HD
+#EXTINF:-1 group-title="18+", ADULT HOTCLUB 5 HD
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/5234.ts
-#EXTINF:-1 group-title="18+": ADULT HOTCLUB 6 HD
+#EXTINF:-1 group-title="18+", ADULT HOTCLUB 6 HD
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/5235.ts
-#EXTINF:-1 group-title="18+": ADULT HOTCLUB 7 HD
+#EXTINF:-1 group-title="18+", ADULT HOTCLUB 7 HD
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/5236.ts
-#EXTINF:-1 group-title="18+": ADULT HOTCLUB 8 HD
+#EXTINF:-1 group-title="18+", ADULT HOTCLUB 8 HD
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/5237.ts
-#EXTINF:-1 group-title="18+": ADULT HOTCLUB 9 HD
+#EXTINF:-1 group-title="18+", ADULT HOTCLUB 9 HD
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/5238.ts
-#EXTINF:-1 group-title="18+": ADULT HOTCLUB 10 HD
+#EXTINF:-1 group-title="18+", ADULT HOTCLUB 10 HD
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/5239.ts
-#EXTINF:-1 group-title="18+": BRAZZERS
+#EXTINF:-1 group-title="18+", BRAZZERS
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/5240.ts
-#EXTINF:-1 group-title="18+": SCT
+#EXTINF:-1 group-title="18+", SCT
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/5228.ts
-#EXTINF:-1 group-title="18+": AnySex
+#EXTINF:-1 group-title="18+", AnySex
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1701.ts
-#EXTINF:-1 group-title="18+": Babes 1
+#EXTINF:-1 group-title="18+", Babes 1
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/5188.ts
-#EXTINF:-1 group-title="18+": Babes 2
+#EXTINF:-1 group-title="18+", Babes 2
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/5198.ts
-#EXTINF:-1 group-title="18+": Babes 3
+#EXTINF:-1 group-title="18+", Babes 3
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/5200.ts
-#EXTINF:-1 group-title="18+": Babes 4
+#EXTINF:-1 group-title="18+", Babes 4
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/5201.ts
-#EXTINF:-1 group-title="18+": Babes 5
+#EXTINF:-1 group-title="18+", Babes 5
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/5202.ts
-#EXTINF:-1 group-title="18+": Babes 6
+#EXTINF:-1 group-title="18+", Babes 6
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/5203.ts
-#EXTINF:-1 group-title="18+": Babes 7
+#EXTINF:-1 group-title="18+", Babes 7
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/5204.ts
-#EXTINF:-1 group-title="18+": Babes 8
+#EXTINF:-1 group-title="18+", Babes 8
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/5205.ts
-#EXTINF:-1 group-title="18+": Babes 9
+#EXTINF:-1 group-title="18+", Babes 9
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/5206.ts
-#EXTINF:-1 group-title="18+": Babes 10
+#EXTINF:-1 group-title="18+", Babes 10
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/5189.ts
-#EXTINF:-1 group-title="18+": Babes 11
+#EXTINF:-1 group-title="18+", Babes 11
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/5190.ts
-#EXTINF:-1 group-title="18+": Babes 12
+#EXTINF:-1 group-title="18+", Babes 12
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/5191.ts
-#EXTINF:-1 group-title="18+": Babes 13
+#EXTINF:-1 group-title="18+", Babes 13
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/5192.ts
-#EXTINF:-1 group-title="18+": Babes 14
+#EXTINF:-1 group-title="18+", Babes 14
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/5193.ts
-#EXTINF:-1 group-title="18+": Babes 15
+#EXTINF:-1 group-title="18+", Babes 15
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/5194.ts
-#EXTINF:-1 group-title="18+": Babes 16
+#EXTINF:-1 group-title="18+", Babes 16
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/5195.ts
-#EXTINF:-1 group-title="18+": Babes 17
+#EXTINF:-1 group-title="18+", Babes 17
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/5196.ts
-#EXTINF:-1 group-title="18+": Babes 18
+#EXTINF:-1 group-title="18+", Babes 18
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/8600.ts
-#EXTINF:-1 group-title="18+": Babes 19
+#EXTINF:-1 group-title="18+", Babes 19
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/5197.ts
-#EXTINF:-1 group-title="18+": Babes 20
+#EXTINF:-1 group-title="18+", Babes 20
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/5199.ts
-#EXTINF:-1 group-title="18+": Maiden van Holland
+#EXTINF:-1 group-title="18+", Maiden van Holland
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/5241.ts
-#EXTINF:-1 group-title="18+": ORGY CHANNEL
+#EXTINF:-1 group-title="18+", ORGY CHANNEL
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/4614.ts
-#EXTINF:-1 group-title="18+": BRAZZERS TV EUROPE
+#EXTINF:-1 group-title="18+", BRAZZERS TV EUROPE
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/3473.ts
-#EXTINF:-1 group-title="18+": ButGo
+#EXTINF:-1 group-title="18+", ButGo
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/4615.ts
-#EXTINF:-1 group-title="18+": CENTOXCENTO TV
+#EXTINF:-1 group-title="18+", CENTOXCENTO TV
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/4610.ts
-#EXTINF:-1 group-title="18+": CHANNEL X 1 (digitalb)
+#EXTINF:-1 group-title="18+", CHANNEL X 1 (digitalb)
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/5168.ts
-#EXTINF:-1 group-title="18+": CHANNEL X 2 (digitalb)
+#EXTINF:-1 group-title="18+", CHANNEL X 2 (digitalb)
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/5169.ts
-#EXTINF:-1 group-title="18+": CHANNEL X 3 (digitalb)
+#EXTINF:-1 group-title="18+", CHANNEL X 3 (digitalb)
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/5170.ts
-#EXTINF:-1 group-title="18+": BIZARE TRING
+#EXTINF:-1 group-title="18+", BIZARE TRING
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/7282.ts
-#EXTINF:-1 group-title="18+": DAUGHTER SWAP
+#EXTINF:-1 group-title="18+", DAUGHTER SWAP
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/5216.ts
-#EXTINF:-1 group-title="18+": DORCEL
+#EXTINF:-1 group-title="18+", DORCEL
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/4609.ts
-#EXTINF:-1 group-title="18+": DUSK
+#EXTINF:-1 group-title="18+", DUSK
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/5214.ts
-#EXTINF:-1 group-title="18+": ENJOY PREMIUM
+#EXTINF:-1 group-title="18+", ENJOY PREMIUM
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/3472.ts
-#EXTINF:-1 group-title="18+": ORGY CHANNELX
+#EXTINF:-1 group-title="18+", ORGY CHANNELX
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/5224.ts
-#EXTINF:-1 group-title="18+": EROTIC 1
+#EXTINF:-1 group-title="18+", EROTIC 1
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/5176.ts
-#EXTINF:-1 group-title="18+": EROTIC 2
+#EXTINF:-1 group-title="18+", EROTIC 2
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/5172.ts
-#EXTINF:-1 group-title="18+": EROTIC 3
+#EXTINF:-1 group-title="18+", EROTIC 3
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1713.ts
-#EXTINF:-1 group-title="18+": EROTIC 4
+#EXTINF:-1 group-title="18+", EROTIC 4
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/4607.ts
-#EXTINF:-1 group-title="18+": EROTIC 5
+#EXTINF:-1 group-title="18+", EROTIC 5
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/3475.ts
-#EXTINF:-1 group-title="18+": EROTIC 6
+#EXTINF:-1 group-title="18+", EROTIC 6
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/5173.ts
-#EXTINF:-1 group-title="18+": EROTIC 7
+#EXTINF:-1 group-title="18+", EROTIC 7
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/5174.ts
-#EXTINF:-1 group-title="18+": EROTIC 8
+#EXTINF:-1 group-title="18+", EROTIC 8
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/5175.ts
-#EXTINF:-1 group-title="18+": EROXXX
+#EXTINF:-1 group-title="18+", EROXXX
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/5225.ts
-#EXTINF:-1 group-title="18+": EXOTICA TV
+#EXTINF:-1 group-title="18+", EXOTICA TV
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/4606.ts
-#EXTINF:-1 group-title="18+": RUSSKAYA NOCH
+#EXTINF:-1 group-title="18+", RUSSKAYA NOCH
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/5220.ts
-#EXTINF:-1 group-title="18+": PlayBoy.Tv
+#EXTINF:-1 group-title="18+", PlayBoy.Tv
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/4613.ts
-#EXTINF:-1 group-title="18+": HONEY HOT HD
+#EXTINF:-1 group-title="18+", HONEY HOT HD
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/5248.ts
-#EXTINF:-1 group-title="18+": HUSTLER TV
+#EXTINF:-1 group-title="18+", HUSTLER TV
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/4608.ts
-#EXTINF:-1 group-title="18+": HUSTLERXXX
+#EXTINF:-1 group-title="18+", HUSTLERXXX
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/5218.ts
-#EXTINF:-1 group-title="18+": JASMIN.TV HD
+#EXTINF:-1 group-title="18+", JASMIN.TV HD
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/4700.ts
-#EXTINF:-1 group-title="18+": Lethal Hardcore
+#EXTINF:-1 group-title="18+", Lethal Hardcore
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/4611.ts
-#EXTINF:-1 group-title="18+": MOFOS
+#EXTINF:-1 group-title="18+", MOFOS
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/5219.ts
-#EXTINF:-1 group-title="18+": SEX STATION
+#EXTINF:-1 group-title="18+", SEX STATION
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/5217.ts
-#EXTINF:-1 group-title="18+": XXL
+#EXTINF:-1 group-title="18+", XXL
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/5221.ts
-#EXTINF:-1 group-title="18+": PASSIEXXX
+#EXTINF:-1 group-title="18+", PASSIEXXX
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/4605.ts
-#EXTINF:-1 group-title="18+": FAKE TAXI
+#EXTINF:-1 group-title="18+", FAKE TAXI
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/8121.ts
-#EXTINF:-1 group-title="18+": PENTHOUSE EUROPE
+#EXTINF:-1 group-title="18+", PENTHOUSE EUROPE
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/8122.ts
-#EXTINF:-1 group-title="18+": PENTHOUSE.
+#EXTINF:-1 group-title="18+", PENTHOUSE.
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/8123.ts
-#EXTINF:-1 group-title="18+": PENTHOUSE HD
+#EXTINF:-1 group-title="18+", PENTHOUSE HD
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/5247.ts
-#EXTINF:-1 group-title="18+": FRENCHLOVER
+#EXTINF:-1 group-title="18+", FRENCHLOVER
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/5210.ts
-#EXTINF:-1 group-title="18+": PlayBoy TV
+#EXTINF:-1 group-title="18+", PlayBoy TV
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/4612.ts
-#EXTINF:-1 group-title="18+": PLAYBOY TV HD +18
+#EXTINF:-1 group-title="18+", PLAYBOY TV HD +18
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1700.ts
-#EXTINF:-1 group-title="18+": PLEASURE
+#EXTINF:-1 group-title="18+", PLEASURE
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/4604.ts
-#EXTINF:-1 group-title="18+": CANDY
+#EXTINF:-1 group-title="18+", CANDY
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/5227.ts
-#EXTINF:-1 group-title="18+": PRIVATE
+#EXTINF:-1 group-title="18+", PRIVATE
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/5211.ts
-#EXTINF:-1 group-title="18+": Reality Sex
+#EXTINF:-1 group-title="18+", Reality Sex
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1698.ts
-#EXTINF:-1 group-title="18+": SUPERONE
+#EXTINF:-1 group-title="18+", SUPERONE
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/5212.ts
-#EXTINF:-1 group-title="18+": RETRO X
+#EXTINF:-1 group-title="18+", RETRO X
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/5213.ts
-#EXTINF:-1 group-title="18+": RK HD
+#EXTINF:-1 group-title="18+", RK HD
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/5246.ts
-#EXTINF:-1 group-title="18+": HONEY TV
+#EXTINF:-1 group-title="18+", HONEY TV
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/9085.ts
-#EXTINF:-1 group-title="18+": Okadai TV
+#EXTINF:-1 group-title="18+", Okadai TV
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/9083.ts
-#EXTINF:-1 group-title="18+": PlayBoy Chinese
+#EXTINF:-1 group-title="18+", PlayBoy Chinese
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/9084.ts
-#EXTINF:-1 group-title="18+": VIKI TV.
+#EXTINF:-1 group-title="18+", VIKI TV.
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/9086.ts
-#EXTINF:-1 group-title="18+": Blue Hustler TV
+#EXTINF:-1 group-title="18+", Blue Hustler TV
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/3474.ts
-#EXTINF:-1 group-title="18+": SExTO SENSO
+#EXTINF:-1 group-title="18+", SExTO SENSO
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/5209.ts
-#EXTINF:-1 group-title="18+": Sex Channel
+#EXTINF:-1 group-title="18+", Sex Channel
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1699.ts
-#EXTINF:-1 group-title="18+": SEX SEX HD
+#EXTINF:-1 group-title="18+", SEX SEX HD
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/3476.ts
-#EXTINF:-1 group-title="18+": B HOT HD
+#EXTINF:-1 group-title="18+", B HOT HD
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/5242.ts
-#EXTINF:-1 group-title="18+": SIRINA
+#EXTINF:-1 group-title="18+", SIRINA
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/5222.ts
-#EXTINF:-1 group-title="18+": PINK O
+#EXTINF:-1 group-title="18+", PINK O
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/5223.ts
-#EXTINF:-1 group-title="18+": SPICE TV
+#EXTINF:-1 group-title="18+", SPICE TV
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/5226.ts
-#EXTINF:-1 group-title="18+": VENUS HD
+#EXTINF:-1 group-title="18+", VENUS HD
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/3477.ts
-#EXTINF:-1 group-title="18+": XXL HD
+#EXTINF:-1 group-title="18+", XXL HD
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/5250.ts
-#EXTINF:-1 group-title="18+": Hot Channex
+#EXTINF:-1 group-title="18+", Hot Channex
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/9279.ts
-#EXTINF:-1 group-title="18+": XXX STARS
+#EXTINF:-1 group-title="18+", XXX STARS
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/5215.ts
-#EXTINF:-1 group-title="18+": SIRINA 1
+#EXTINF:-1 group-title="18+", SIRINA 1
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/5243.ts
-#EXTINF:-1 group-title="18+": SIRINA 2
+#EXTINF:-1 group-title="18+", SIRINA 2
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/5244.ts
-#EXTINF:-1 group-title="18+": SIRINA 3
+#EXTINF:-1 group-title="18+", SIRINA 3
 http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/5245.ts
 
 
