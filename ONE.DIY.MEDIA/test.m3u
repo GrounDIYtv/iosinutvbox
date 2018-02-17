@@ -1,5 +1,48 @@
 #EXTM3U
 
+#EXTINF:-1,**** KOMBETARE ****
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/829.ts
+#EXTINF:-1,AL: RTK SAT
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1345.ts
+#EXTINF:-1,AL: RTK 1
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1042.ts
+#EXTINF:-1,AL: RTK 1 HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1304.ts
+#EXTINF:-1,AL: RTK 2
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1043.ts
+#EXTINF:-1,AL: RTK 3
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1044.ts
+#EXTINF:-1,AL: RTK 4
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1045.ts
+#EXTINF:-1,AL: RTK Serial
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/12355.ts
+#EXTINF:-1,AL: RTV 21 Toksor
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1319.ts
+#EXTINF:-1,AL: RTV 21 HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1052.ts
+#EXTINF:-1,AL: KTV HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/979.ts
+#EXTINF:-1,AL: KTV Toksor
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1308.ts
+#EXTINF:-1,AL: Klan Kosova Tokesor
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/2706.ts
+#EXTINF:-1,AL: KLAN Kosova HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1307.ts
+#EXTINF:-1,AL: TV Dukagjini HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1873.ts
+#EXTINF:-1,AL: Tribuna Channel
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1572.ts
+#EXTINF:-1,AL: TOP Channel HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1310.ts
+#EXTINF:-1,AL: TOP Channel
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/1161.ts
+#EXTINF:-1,AL: KLAN HD
+http://ksportiptv.com:1557/live/NapoliSk493/fC3XaDgv74/976.ts
+
+
+
+
+
 #EXTINF:-1 group-title="SPORT",SPORT 1 | SD (BT)
 http://p2.iptvprivateserver.tv:80/live/1dCt2yvVu8/JDecAEDGKN/259.ts
 #EXTINF:-1 group-title="SPORT",SPORT 1 | SD (BT)
@@ -36,6 +79,793 @@ http://p4.giffy.be:8080/live/dennis/dennis/21735.ts
 http://p4.giffy.be:8080/live/toby1/toby1/21734.ts
 #EXTINF:-1 group-title="SPORT",SPORTS 3 | HD (BT)
 http://p4.giffy.be:8080/live/dennis/dennis/21734.ts
+#EXTINF:-1 group-title="SPORT",223 - BEIN-SPORTS 1 HD
+http://93.190.142.128:80/live/user2/user2/27917.ts
+#EXTINF:-1 group-title="SPORT",224 - BEIN-SPORTS 2 HD
+http://93.190.142.128:80/live/user2/user2/27916.ts
+#EXTINF:-1 group-title="SPORT",225 - BEIN-SPORTS 3 HD
+http://93.190.142.128:80/live/user2/user2/27915.ts
+#EXTINF:-1 group-title="SPORT",226 - BEIN-SPORTS 4 HD
+http://93.190.142.128:80/live/user2/user2/27914.ts
+#EXTINF:-1 group-title="SPORT",227 - BEIN-SPORTS 5 HD
+http://93.190.142.128:80/live/user2/user2/27913.ts
+#EXTINF:-1 group-title="SPORT",228 - BEIN-SPORTS 6 HD
+http://93.190.142.128:80/live/user2/user2/27912.ts
+#EXTINF:-1 group-title="SPORT",229 - BEIN-SPORTS 7 HD
+http://93.190.142.128:80/live/user2/user2/27911.ts
+#EXTINF:-1 group-title="SPORT",230 - BEIN-SPORTS 8 HD
+http://93.190.142.128:80/live/user2/user2/27910.ts
+#EXTINF:-1 group-title="SPORT",231 - BEIN-SPORTS 9 HD
+http://93.190.142.128:80/live/user2/user2/27909.ts
+#EXTINF:-1 group-title="SPORT",232 - BEIN-SPORTS 10 HD
+http://93.190.142.128:80/live/user2/user2/27908.ts
+#EXTINF:-1 group-title="SPORT",233 - BEIN-SPORTS 11 HD
+http://93.190.142.128:80/live/user2/user2/27907.ts
+#EXTINF:-1 group-title="SPORT",234 - BEIN-SPORTS 12 HD
+http://93.190.142.128:80/live/user2/user2/27906.ts
+#EXTINF:-1 group-title="SPORT",AR : beIN SPORTS 1 HD
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/166.ts
+#EXTINF:-1 group-title="SPORT",AR : beIN SPORTS 2 HD
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/167.ts
+#EXTINF:-1 group-title="SPORT",AR : beIN SPORTS 3 HD
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/168.ts
+#EXTINF:-1 group-title="SPORT",AR : beIN SPORTS 4 HD
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/169.ts
+#EXTINF:-1 group-title="SPORT",AR : beIN SPORTS 5 HD
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/170.ts
+#EXTINF:-1 group-title="SPORT",AR : beIN SPORTS 6 HD
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/171.ts
+#EXTINF:-1 group-title="SPORT",AR : beIN SPORTS 7 HD
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/172.ts
+#EXTINF:-1 group-title="SPORT",AR : beIN SPORTS 8 HD
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/173.ts
+#EXTINF:-1 group-title="SPORT",BEIN SPORTS 1HD
+http://p4.giffy.be:8080/live/toby1/toby1/31977.ts
+#EXTINF:-1 group-title="SPORT",BEIN SPORTS 2HD
+http://p4.giffy.be:8080/live/toby1/toby1/31318.ts
+#EXTINF:-1 group-title="SPORT",BEIN SPORTS 3HD
+http://p4.giffy.be:8080/live/toby1/toby1/31317.ts
+#EXTINF:-1 group-title="SPORT",BEIN SPORTS 4HD
+http://p4.giffy.be:8080/live/toby1/toby1/31316.ts
+#EXTINF:-1 group-title="SPORT",BEIN SPORTS 5HD
+http://p4.giffy.be:8080/live/toby1/toby1/31315.ts
+#EXTINF:-1 group-title="SPORT",AR: BEIN SPORTS 6HD
+http://p4.giffy.be:8080/live/toby1/toby1/31314.ts
+#EXTINF:-1 group-title="SPORT",BEIN SPORTS 7HD
+http://p4.giffy.be:8080/live/toby1/toby1/31313.ts
+#EXTINF:-1 group-title="SPORT",BEIN SPORTS 8HD
+http://p4.giffy.be:8080/live/toby1/toby1/31312.ts
+#EXTINF:-1 group-title="SPORT",BEIN SPORTS 9HD
+http://p4.giffy.be:8080/live/toby1/toby1/31311.ts
+#EXTINF:-1 group-title="SPORT",AR: BEIN SPORTS 10HD
+http://p4.giffy.be:8080/live/toby1/toby1/31310.ts
+#EXTINF:-1 group-title="SPORT",AR: BEIN SPORTS 11HD
+http://p4.giffy.be:8080/live/toby1/toby1/31309.ts
+#EXTINF:-1 group-title="SPORT",UKR: FUTBOL 2HD
+http://p4.giffy.be:8080/live/toby1/toby1/26589.ts
+#EXTINF:-1 group-title="SPORT",UKR: FUTBOL 1HD
+http://p4.giffy.be:8080/live/toby1/toby1/29621.ts
+#EXTINF:-1 group-title="SPORT",UKR: SPORT 1
+http://p4.giffy.be:8080/live/toby1/toby1/26588.ts
+#EXTINF:-1 group-title="SPORT",UKR: SPORT 2
+http://p4.giffy.be:8080/live/toby1/toby1/26587.ts
+#EXTINF:-1 group-title="SPORT",EUROSPORT 2 HD
+http://p4.giffy.be:8080/live/toby1/toby1/27826.ts
+#EXTINF:-1 group-title="SPORT",EUROSPORT 1 HD
+http://p4.giffy.be:8080/live/toby1/toby1/21727.ts
+#EXTINF:-1 group-title="SPORT",SKY SPORTS BOX OFFICE PPV
+http://p4.giffy.be:8080/live/toby1/toby1/27770.ts
+#EXTINF:-1 group-title="SPORT",SKY SPORT MAIN EVENT
+http://p4.giffy.be:8080/live/toby1/toby1/21743.ts
+#EXTINF:-1 group-title="SPORT",SKY SPORTS CRICKET
+http://p4.giffy.be:8080/live/toby1/toby1/21742.ts
+#EXTINF:-1 group-title="SPORT",SKY SPORTS ACTION
+http://p4.giffy.be:8080/live/toby1/toby1/21741.ts
+#EXTINF:-1 group-title="SPORT",SKY SPORTS GOLF
+http://p4.giffy.be:8080/live/toby1/toby1/21740.ts
+#EXTINF:-1 group-title="SPORT",SKY SPORT SKY PREMIER LEAGUE
+http://p4.giffy.be:8080/live/toby1/toby1/21739.ts
+#EXTINF:-1 group-title="SPORT",SKY SPORT F1 HD
+http://p4.giffy.be:8080/live/toby1/toby1/21738.ts
+#EXTINF:-1 group-title="SPORT",SKY SPORT NEWS
+http://p4.giffy.be:8080/live/toby1/toby1/21732.ts
+#EXTINF:-1 group-title="SPORT",SKY SPORTS MIX
+http://p4.giffy.be:8080/live/toby1/toby1/21728.ts
+#EXTINF:-1 group-title="SPORT",SKY SPORTS NEWS HD
+http://p4.giffy.be:8080/live/toby1/toby1/21737.ts
+#EXTINF:-1 group-title="SPORT",SKY SPORTS HD ARENA
+http://p4.giffy.be:8080/live/toby1/toby1/27769.ts
+#EXTINF:-1 group-title="SPORT",SKY SPORT 1 HD
+http://p4.giffy.be:8080/live/toby1/toby1/30065.ts
+#EXTINF:-1 group-title="SPORT",SKY SPORT 2 HD
+http://p4.giffy.be:8080/live/toby1/toby1/30066.ts
+#EXTINF:-1 group-title="SPORT",SKY SPORT NEWS.
+http://p4.giffy.be:8080/live/toby1/toby1/30075.ts
+#EXTINF:-1 group-title="SPORT",SKY FOOTBALL ( NEW HD )
+http://p4.giffy.be:8080/live/toby1/toby1/28297.ts
+#EXTINF:-1 group-title="SPORT",BT SPORTS 1 HD
+http://p4.giffy.be:8080/live/toby1/toby1/21736.ts
+#EXTINF:-1 group-title="SPORT",BT SPORTS 2 HD
+http://p4.giffy.be:8080/live/toby1/toby1/21735.ts
+#EXTINF:-1 group-title="SPORT",BT SPORTS 3 HD
+http://p4.giffy.be:8080/live/toby1/toby1/21734.ts
+#EXTINF:-1 group-title="SPORT",BT SPORT ESPN
+http://p4.giffy.be:8080/live/toby1/toby1/21731.ts
+#EXTINF:-1 group-title="SPORT",BT SPORT MOSAIC
+http://p4.giffy.be:8080/live/toby1/toby1/21729.ts
+#EXTINF:-1 group-title="SPORT",BT SPORT EXTRA
+http://p4.giffy.be:8080/live/toby1/toby1/21730.ts
+#EXTINF:-1 group-title="SPORT",AR_AD_Sport1
+http://p4.giffy.be:8080/live/toby1/toby1/27269.ts
+#EXTINF:-1 group-title="SPORT",AR_AD_Sport2
+http://p4.giffy.be:8080/live/toby1/toby1/27270.ts
+#EXTINF:-1 group-title="SPORT",Digi Sport 1
+http://p4.giffy.be:8080/live/toby1/toby1/30163.ts
+#EXTINF:-1 group-title="SPORT",Digi Sport 2
+http://p4.giffy.be:8080/live/toby1/toby1/30162.ts
+#EXTINF:-1 group-title="SPORT",Digi Sport 3
+http://p4.giffy.be:8080/live/toby1/toby1/30161.ts
+#EXTINF:-1 group-title="SPORT",Digi Sport 4
+http://p4.giffy.be:8080/live/toby1/toby1/30160.ts
+#EXTINF:-1 group-title="SPORT",BR: Sport Tv
+http://p4.giffy.be:8080/live/toby1/toby1/30569.ts
+#EXTINF:-1 group-title="SPORT",BR: SPORT TV 1
+http://p4.giffy.be:8080/live/toby1/toby1/30568.ts
+#EXTINF:-1 group-title="SPORT",BR: SPORT TV 2
+http://p4.giffy.be:8080/live/toby1/toby1/30567.ts
+#EXTINF:-1 group-title="SPORT",BR: SPORT TV 3
+http://p4.giffy.be:8080/live/toby1/toby1/30566.ts
+#EXTINF:-1 group-title="SPORT",BR: Sport Tv2
+http://p4.giffy.be:8080/live/toby1/toby1/30565.ts
+#EXTINF:-1 group-title="SPORT",FR: BEINSPORT 2HD
+http://p4.giffy.be:8080/live/toby1/toby1/31766.ts
+#EXTINF:-1 group-title="SPORT",FR: BEINSPORT 3HD
+http://p4.giffy.be:8080/live/toby1/toby1/31765.ts
+#EXTINF:-1 group-title="SPORT",FR: EUROSPORT 1
+http://p4.giffy.be:8080/live/toby1/toby1/31764.ts
+#EXTINF:-1 group-title="SPORT",FR: EUROSPORT 2
+http://p4.giffy.be:8080/live/toby1/toby1/31763.ts
+#EXTINF:-1 group-title="SPORT",AL| K SPORT 1
+http://p4.giffy.be:8080/live/toby1/toby1/31927.ts
+#EXTINF:-1 group-title="SPORT",AL| K SPORT 2
+http://p4.giffy.be:8080/live/toby1/toby1/31926.ts
+#EXTINF:-1 group-title="SPORT",AL| K SPORT 3
+http://p4.giffy.be:8080/live/toby1/toby1/31925.ts
+#EXTINF:-1 group-title="SPORT",AL| K SPORT 4
+http://p4.giffy.be:8080/live/toby1/toby1/31924.ts
+#EXTINF:-1 group-title="SPORT",AL| SUPER SPORT 1 HD
+http://p4.giffy.be:8080/live/toby1/toby1/31914.ts
+#EXTINF:-1 group-title="SPORT",AL| SUPER SPORT 2 HD
+http://p4.giffy.be:8080/live/toby1/toby1/31913.ts
+#EXTINF:-1 group-title="SPORT",AL| SUPER SPORT 3 HD
+http://p4.giffy.be:8080/live/toby1/toby1/31912.ts
+#EXTINF:-1 group-title="SPORT",AL| SUPER SPORT 4 HD
+http://p4.giffy.be:8080/live/toby1/toby1/31911.ts
+#EXTINF:-1 group-title="SPORT",AL| SUPER SPORT 5 HD
+http://p4.giffy.be:8080/live/toby1/toby1/31910.ts
+
+#EXTINF:-1 group-title="SPORT",UK : At The Races
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/667.ts
+#EXTINF:-1 group-title="SPORT",UK : Bike
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/539.ts
+#EXTINF:-1 group-title="SPORT",UK : Boxnation
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/525.ts
+#EXTINF:-1 group-title="SPORT",UK : BT Sports ESPN
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/524.ts
+#EXTINF:-1 group-title="SPORT",UK : BT Sports 1 HD
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/229.ts
+#EXTINF:-1 group-title="SPORT",UK : BT Sports 2 HD
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/230.ts
+#EXTINF:-1 group-title="SPORT",UK : BT Sports 3 HD
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/523.ts
+#EXTINF:-1 group-title="SPORT",UK : Sky Sports Main Event  HD
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/226.ts
+#EXTINF:-1 group-title="SPORT",UK : Sky Sports Cricket  HD
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/535.ts
+#EXTINF:-1 group-title="SPORT",UK : Sky Sports Action  HD
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/227.ts
+#EXTINF:-1 group-title="SPORT",UK : SKY Sports Golf  HD
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/256.ts
+#EXTINF:-1 group-title="SPORT",UK : SKY Sports Premier League HD
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/257.ts
+#EXTINF:-1 group-title="SPORT",UK : Sky Sport MIX
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/717.ts
+#EXTINF:-1 group-title="SPORT",Uk : Sky Sports F1 HD
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/659.ts
+#EXTINF:-1 group-title="SPORT",UK : eir Sport 1
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/536.ts
+#EXTINF:-1 group-title="SPORT",UK : eir Sport 2
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/537.ts
+#EXTINF:-1 group-title="SPORT",UK : Racing
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/541.ts
+#EXTINF:-1 group-title="SPORT",Uk : Eurosport 1 HD
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/655.ts
+#EXTINF:-1 group-title="SPORT",Uk : EuroSports HD 2
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/654.ts
+#EXTINF:-1 group-title="SPORT",Uk : Sky Sports News HQ
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/657.ts
+#EXTINF:-1 group-title="SPORT",UK : Manchester United TV
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/666.ts
+#EXTINF:-1 group-title="SPORT",UK : LFC TV
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/511.ts
+#EXTINF:-1 group-title="SPORT",UK : Chelsea tv
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/669.ts
+#EXTINF:-1 group-title="SPORT",DE : Eurosport 1
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/111.ts
+#EXTINF:-1 group-title="SPORT",DE : Eurosport 2
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/128.ts
+#EXTINF:-1 group-title="SPORT",DE : Sky Bundesliga 1 HD
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/107.ts
+#EXTINF:-1 group-title="SPORT",DE : Sky Sport News
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/106.ts
+#EXTINF:-1 group-title="SPORT",DE : Sky Sport  Austria
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/572.ts
+#EXTINF:-1 group-title="SPORT",DE : Sky SPORTS 1 HD
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/383.ts
+#EXTINF:-1 group-title="SPORT",DE : SKY SPORTS 2 HD
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/385.ts
+#EXTINF:-1 group-title="SPORT",IT : Fox Sports 1 HD
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/176.ts
+#EXTINF:-1 group-title="SPORT",IT : RAI SPORT 1 HD
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/163.ts
+#EXTINF:-1 group-title="SPORT",IT : EUROSPORT 1
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/218.ts
+#EXTINF:-1 group-title="SPORT",IT : SKY SPORT 1 HD
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/239.ts
+#EXTINF:-1 group-title="SPORT",IT :  SKY SPORT F1 HD
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/507.ts
+#EXTINF:-1 group-title="SPORT",IT : SKY SPORT 24 HD
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/148.ts
+#EXTINF:-1 group-title="SPORT",IT : SKY SUPER CALCIO HD
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/146.ts
+#EXTINF:-1 group-title="SPORT",FR : BFM SPORT TV
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/359.ts
+#EXTINF:-1 group-title="SPORT",FR : Canal+ Sport HD
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/67.ts
+#EXTINF:-1 group-title="SPORT",FR : EuroSport 1
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/569.ts
+#EXTINF:-1 group-title="SPORT",FR : Eurosport 2
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/827.ts
+#EXTINF:-1 group-title="SPORT",FR : FOOT 24
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/394.ts
+#EXTINF:-1 group-title="SPORT",FR : Infosport
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/35.ts
+#EXTINF:-1 group-title="SPORT",FR : L'EQUIPE 21
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/395.ts
+#EXTINF:-1 group-title="SPORT",FR : SFR Sport 1 HD
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/96.ts
+#EXTINF:-1 group-title="SPORT",FR : SFR Sport 2 HD
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/97.ts
+#EXTINF:-1 group-title="SPORT",FR : SFR Sport 3
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/360.ts
+#EXTINF:-1 group-title="SPORT",ES : Bein Sports La Liga FHD
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/850.ts
+#EXTINF:-1 group-title="SPORT",ES : Bein Sports Spain FHD
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/851.ts
+#EXTINF:-1 group-title="SPORT",ES : EUROSPORT 1
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/624.ts
+#EXTINF:-1 group-title="SPORT",ES : EUROSPORT 2
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/623.ts
+#EXTINF:-1 group-title="SPORT",AR : Ad Sport1
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/310.ts
+#EXTINF:-1 group-title="SPORT",AR : AD SPORT2
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/311.ts
+#EXTINF:-1 group-title="SPORT",FR : BeIN SPORTS 1 HD
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/44.ts
+#EXTINF:-1 group-title="SPORT",FR : BeIN SPORTS 2 HD
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/45.ts
+#EXTINF:-1 group-title="SPORT",FR : BEIN SPORTS 3 HD
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/366.ts
+#EXTINF:-1 group-title="SPORT",FR : BEIN SPORTS MAX 4 FR
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/367.ts
+#EXTINF:-1 group-title="SPORT",FR : BeIN SPORTS MAX 5
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/676.ts
+#EXTINF:-1 group-title="SPORT",FR : BEIN SPORTS MAX 6
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/368.ts
+#EXTINF:-1 group-title="SPORT",FR : BeIN SPORTS MAX 7
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/677.ts
+#EXTINF:-1 group-title="SPORT",FR : BeIN SPORTS MAX 8
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/678.ts
+#EXTINF:-1 group-title="SPORT",FR : BeIN SPORTS MAX 9
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/679.ts
+#EXTINF:-1 group-title="SPORT",FR : BeIN SPORTS MAX 10
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/680.ts
+
+#EXTINF:-1 group-title="SPORT",BEiN SPORT-1 HD  (720P)
+http://championtv.dyndns.tv:2016/live/viphdiptv/sn4ks62na/1.ts
+#EXTINF:-1 group-title="SPORT",BEiN SPORT-2 HD  (720P)
+http://championtv.dyndns.tv:2016/live/viphdiptv/sn4ks62na/2.ts
+#EXTINF:-1 group-title="SPORT",BEiN SPORT-3 HD  (720P)
+http://championtv.dyndns.tv:2016/live/viphdiptv/sn4ks62na/3.ts
+#EXTINF:-1 group-title="SPORT",BEiN SPORT-4 HD  (720P)
+http://championtv.dyndns.tv:2016/live/viphdiptv/sn4ks62na/4.ts
+#EXTINF:-1 group-title="SPORT",BEiN SPORT MAX 1-HD (720P)
+http://championtv.dyndns.tv:2016/live/viphdiptv/sn4ks62na/5.ts
+#EXTINF:-1 group-title="SPORT",BEiN SPORT MAX 2-HD (720P)
+http://championtv.dyndns.tv:2016/live/viphdiptv/sn4ks62na/360.ts
+#EXTINF:-1 group-title="SPORT",S-SPORT HD 720P.
+http://championtv.dyndns.tv:2016/live/viphdiptv/sn4ks62na/98.ts
+#EXTINF:-1 group-title="SPORT",SMARTSPOR HD 1080P
+http://championtv.dyndns.tv:2016/live/viphdiptv/sn4ks62na/97.ts
+#EXTINF:-1 group-title="SPORT",TIVIBUSPOR-1 HD
+http://championtv.dyndns.tv:2016/live/viphdiptv/sn4ks62na/93.ts
+#EXTINF:-1 group-title="SPORT",TIVIBUSPOR-2 HD
+http://championtv.dyndns.tv:2016/live/viphdiptv/sn4ks62na/94.ts
+#EXTINF:-1 group-title="SPORT",TIVIBUSPOR-3 HD
+http://championtv.dyndns.tv:2016/live/viphdiptv/sn4ks62na/95.ts
+#EXTINF:-1 group-title="SPORT",TIVIBUSPOR-4 HD
+http://championtv.dyndns.tv:2016/live/viphdiptv/sn4ks62na/96.ts
+
+#EXTINF:-1 group-title="SPORT",125 - B-T-SPORTS 1 HD
+http://93.190.142.128:80/live/user2/user2/27994.ts
+#EXTINF:-1 group-title="SPORT",126 - B-T-SPORTS 1
+http://93.190.142.128:80/live/user2/user2/27993.ts
+#EXTINF:-1 group-title="SPORT",127 - B-T-SPORTS 2 HD
+http://93.190.142.128:80/live/user2/user2/27992.ts
+#EXTINF:-1 group-title="SPORT",128 - B-T-SPORTS 2
+http://93.190.142.128:80/live/user2/user2/27991.ts
+#EXTINF:-1 group-title="SPORT",129 - B-T-SPORTS 3 HD
+http://93.190.142.128:80/live/user2/user2/27990.ts
+#EXTINF:-1 group-title="SPORT",130 - B-T-SPORTS 3
+http://93.190.142.128:80/live/user2/user2/27989.ts
+#EXTINF:-1 group-title="SPORT",131 - B-T-SPORTS ESPN HD
+http://93.190.142.128:80/live/user2/user2/27988.ts
+#EXTINF:-1 group-title="SPORT",132 - B-T-SPORTS ESPN
+http://93.190.142.128:80/live/user2/user2/27987.ts
+#EXTINF:-1 group-title="SPORT",133 - B-T-SPORTS-EXTRA 1
+http://93.190.142.128:80/live/user2/user2/27986.ts
+#EXTINF:-1 group-title="SPORT",134 - B-T-SPORTS-EXTRA 2
+http://93.190.142.128:80/live/user2/user2/27985.ts
+#EXTINF:-1 group-title="SPORT",135 - B-T-SPORTS-EXTRA 3
+http://93.190.142.128:80/live/user2/user2/27984.ts
+#EXTINF:-1 group-title="SPORT",136 - B-T-SPORTS-EXTRA 4
+http://93.190.142.128:80/live/user2/user2/27983.ts
+#EXTINF:-1 group-title="SPORT",137 - B-T-SPORTS-EXTRA 5
+http://93.190.142.128:80/live/user2/user2/27982.ts
+#EXTINF:-1 group-title="SPORT",138 - B-T-SPORTS-EXTRA 6
+http://93.190.142.128:80/live/user2/user2/27981.ts
+#EXTINF:-1 group-title="SPORT",139 - SLY-SPORTS-BOX-OFFICE-HD
+http://93.190.142.128:80/live/user2/user2/27980.ts
+#EXTINF:-1 group-title="SPORT",140 - SLY-SPORTS-MAIN-EVENT-HD
+http://93.190.142.128:80/live/user2/user2/27979.ts
+#EXTINF:-1 group-title="SPORT",141 - SLY-SPORTS-MAIN-EVENT
+http://93.190.142.128:80/live/user2/user2/27978.ts
+#EXTINF:-1 group-title="SPORT",142 - SLY-SPORTS-ACTION-HD
+http://93.190.142.128:80/live/user2/user2/27977.ts
+#EXTINF:-1 group-title="SPORT",143 - SLY-SPORTS-ACTION
+http://93.190.142.128:80/live/user2/user2/27976.ts
+#EXTINF:-1 group-title="SPORT",144 - SLY-SPORTS-PREM-LEAGUE-HD
+http://93.190.142.128:80/live/user2/user2/27975.ts
+#EXTINF:-1 group-title="SPORT",145 - SLY-SPORTS-PREM-LEAGUE
+http://93.190.142.128:80/live/user2/user2/27974.ts
+#EXTINF:-1 group-title="SPORT",146 - SLY-SPORTS-FOOTBALL-HD
+http://93.190.142.128:80/live/user2/user2/27973.ts
+#EXTINF:-1 group-title="SPORT",147 - SLY-SPORTS-FOOTBALL
+http://93.190.142.128:80/live/user2/user2/27972.ts
+#EXTINF:-1 group-title="SPORT",148 - SLY-SPORTS-ARENA-HD
+http://93.190.142.128:80/live/user2/user2/27971.ts
+#EXTINF:-1 group-title="SPORT",149 - SLY-SPORTS-ARENA
+http://93.190.142.128:80/live/user2/user2/27970.ts
+#EXTINF:-1 group-title="SPORT",150 - SLY-SPORTS-CRICKET-HD
+http://93.190.142.128:80/live/user2/user2/27969.ts
+#EXTINF:-1 group-title="SPORT",151 - SLY-SPORTS-CRICKET
+http://93.190.142.128:80/live/user2/user2/27968.ts
+#EXTINF:-1 group-title="SPORT",152 - SLY-SPORTS-F1-HD
+http://93.190.142.128:80/live/user2/user2/27967.ts
+#EXTINF:-1 group-title="SPORT",153 - SLY-SPORTS-F1
+http://93.190.142.128:80/live/user2/user2/27966.ts
+#EXTINF:-1 group-title="SPORT",154 - SLY-SPORTS-GOLF-HD
+http://93.190.142.128:80/live/user2/user2/27965.ts
+#EXTINF:-1 group-title="SPORT",155 - SLY-SPORTS-GOLF
+http://93.190.142.128:80/live/user2/user2/27964.ts
+#EXTINF:-1 group-title="SPORT",156 - SLY-SPORTS-MIX-HD
+http://93.190.142.128:80/live/user2/user2/27963.ts
+#EXTINF:-1 group-title="SPORT",157 - SLY-SPORTS-MIX
+http://93.190.142.128:80/live/user2/user2/27962.ts
+#EXTINF:-1 group-title="SPORT",158 - SLY-SPORTS-NEWS-HD
+http://93.190.142.128:80/live/user2/user2/27961.ts
+#EXTINF:-1 group-title="SPORT",159 - SLY-SPORTS-NEWS
+http://93.190.142.128:80/live/user2/user2/27960.ts
+#EXTINF:-1 group-title="SPORT",169 - MOTORSPORT TV
+http://93.190.142.128:80/live/user2/user2/27955.ts
+#EXTINF:-1 group-title="SPORT",170 - EIR-SPORT 1
+http://93.190.142.128:80/live/user2/user2/27954.ts
+#EXTINF:-1 group-title="SPORT",171 - EIR-SPORT 2
+http://93.190.142.128:80/live/user2/user2/27953.ts
+#EXTINF:-1 group-title="SPORT",172 - EUROSPORT 1
+http://93.190.142.128:80/live/user2/user2/27952.ts
+#EXTINF:-1 group-title="SPORT",173 - EUROSPORT 2
+http://93.190.142.128:80/live/user2/user2/27951.ts
+#EXTINF:-1 group-title="SPORT",174 - PREMIERSPORTS HD
+http://93.190.142.128:80/live/user2/user2/27950.ts
+#EXTINF:-1 group-title="SPORT",175 - PREMIERSPORTS
+http://93.190.142.128:80/live/user2/user2/27949.ts
+#EXTINF:-1 group-title="SPORT",176 - RACING UK HD
+http://93.190.142.128:80/live/user2/user2/27948.ts
+#EXTINF:-1 group-title="SPORT",177 - RACING UK
+http://93.190.142.128:80/live/user2/user2/27947.ts
+#EXTINF:-1 group-title="SPORT",180 - SPORTS-NET-EAST HD (US)
+http://93.190.142.128:80/live/user2/user2/27946.ts
+#EXTINF:-1 group-title="SPORT",181 - SPORTS-NET-EAST (US)
+http://93.190.142.128:80/live/user2/user2/27945.ts
+#EXTINF:-1 group-title="SPORT",182 - SPORTS-NET-ONTARIO HD (US)
+http://93.190.142.128:80/live/user2/user2/27944.ts
+#EXTINF:-1 group-title="SPORT",183 - SPORTS-NET-ONTARIO (US)
+http://93.190.142.128:80/live/user2/user2/27943.ts
+#EXTINF:-1 group-title="SPORT",184 - SPORTS-NET-PACIFIC HD (US)
+http://93.190.142.128:80/live/user2/user2/27942.ts
+#EXTINF:-1 group-title="SPORT",185 - SPORTS-NET-PACIFIC (US)
+http://93.190.142.128:80/live/user2/user2/27941.ts
+#EXTINF:-1 group-title="SPORT",186 - SPORTS-NET-WEST HD (US)
+http://93.190.142.128:80/live/user2/user2/27940.ts
+#EXTINF:-1 group-title="SPORT",187 - SPORTS-NET-WEST (US)
+http://93.190.142.128:80/live/user2/user2/27939.ts
+#EXTINF:-1 group-title="SPORT",188 - SPORTS-NET-WORLD HD (US)
+http://93.190.142.128:80/live/user2/user2/27938.ts
+#EXTINF:-1 group-title="SPORT",189 - SPORTS-NET-WORLD (US)
+http://93.190.142.128:80/live/user2/user2/27937.ts
+#EXTINF:-1 group-title="SPORT",190 - SPORTS-NET-360 HD (US)
+http://93.190.142.128:80/live/user2/user2/27936.ts
+#EXTINF:-1 group-title="SPORT",191 - SPORTS-NET-360 (US)
+http://93.190.142.128:80/live/user2/user2/27935.ts
+#EXTINF:-1 group-title="SPORT",192 - SPORTS-NET-ONE HD (US)
+http://93.190.142.128:80/live/user2/user2/27934.ts
+#EXTINF:-1 group-title="SPORT",193 - SPORTS-NET-ONE (US)
+http://93.190.142.128:80/live/user2/user2/27933.ts
+#EXTINF:-1 group-title="SPORT",199 - WWE NETWORK (US)
+http://93.190.142.128:80/live/user2/user2/27927.ts
+#EXTINF:-1 group-title="SPORT",200 - FOX-SPORTS 1 (US)
+http://93.190.142.128:80/live/user2/user2/27926.ts
+#EXTINF:-1 group-title="SPORT",201 - FOX-SPORTS 2 (US)
+http://93.190.142.128:80/live/user2/user2/27925.ts
+#EXTINF:-1 group-title="SPORT",202 - AFN-SPORTS (US)
+http://93.190.142.128:80/live/user2/user2/27924.ts
+#EXTINF:-1 group-title="SPORT",203 - AFN-SPORTS 2 (US)
+http://93.190.142.128:80/live/user2/user2/27923.ts
+#EXTINF:-1 group-title="SPORT",204 - MLB NETWORK (US)
+http://93.190.142.128:80/live/user2/user2/27922.ts
+#EXTINF:-1 group-title="SPORT",205 - NBA TV (US)
+http://93.190.142.128:80/live/user2/user2/27921.ts
+#EXTINF:-1 group-title="SPORT",220 - BEIN FR 1
+http://93.190.142.128:80/live/user2/user2/27920.ts
+#EXTINF:-1 group-title="SPORT",221 - BEIN FR 2
+http://93.190.142.128:80/live/user2/user2/27919.ts
+#EXTINF:-1 group-title="SPORT",222 - BEIN FR 3
+http://93.190.142.128:80/live/user2/user2/27918.ts
+#EXTINF:-1 group-title="SPORT",235 - BEIN-SPORTS EPL 1 (GAME TIMES ONLY)
+http://93.190.142.128:80/live/user2/user2/27905.ts
+#EXTINF:-1 group-title="SPORT",236 - BEIN-SPORTS EPL 2 (GAME TIMES ONLY)
+http://93.190.142.128:80/live/user2/user2/27904.ts
+#EXTINF:-1 group-title="SPORT",237 - BEIN-SPORTS EPL 3 (GAME TIMES ONLY)
+http://93.190.142.128:80/live/user2/user2/27903.ts
+#EXTINF:-1 group-title="SPORT",238 - BEIN-SPORTS EPL 4 (GAME TIMES ONLY)
+http://93.190.142.128:80/live/user2/user2/27902.ts
+#EXTINF:-1 group-title="SPORT",239 - BEIN-THAI 1
+http://93.190.142.128:80/live/user2/user2/27901.ts
+#EXTINF:-1 group-title="SPORT",240 - BEIN-THAI 2
+http://93.190.142.128:80/live/user2/user2/27900.ts
+#EXTINF:-1 group-title="SPORT",241 - BEIN-THAI 3
+http://93.190.142.128:80/live/user2/user2/27899.ts
+#EXTINF:-1 group-title="SPORT",242 - OLYMPIC CHANNEL
+http://93.190.142.128:80/live/user2/user2/27898.ts
+#EXTINF:-1 group-title="SPORT",243 - NBC GOLF HD
+http://93.190.142.128:80/live/user2/user2/27897.ts
+#EXTINF:-1 group-title="SPORT",244 - C GOLF
+http://93.190.142.128:80/live/user2/user2/27896.ts
+#EXTINF:-1 group-title="SPORT",245 - ZIGGO-SPORTS-EXTRA 1
+http://93.190.142.128:80/live/user2/user2/27895.ts
+#EXTINF:-1 group-title="SPORT",246 - ZIGGO-SPORTS-EXTRA 2
+http://93.190.142.128:80/live/user2/user2/27894.ts
+#EXTINF:-1 group-title="SPORT",247 - ZIGGO-SPORTS-VOETBALL
+http://93.190.142.128:80/live/user2/user2/27893.ts
+#EXTINF:-1 group-title="SPORT",248 - USA NBC GOLF
+http://93.190.142.128:80/live/user2/user2/27892.ts
+#EXTINF:-1 group-title="SPORT",249 - CANAL SPORTS
+http://93.190.142.128:80/live/user2/user2/27891.ts
+#EXTINF:-1 group-title="SPORT",250 - SFR-SPORT 1
+http://93.190.142.128:80/live/user2/user2/27890.ts
+#EXTINF:-1 group-title="SPORT",251 - SFR-SPORT 2
+http://93.190.142.128:80/live/user2/user2/27889.ts
+#EXTINF:-1 group-title="SPORT",252 - SFR-SPORT 3
+http://93.190.142.128:80/live/user2/user2/27888.ts
+#EXTINF:-1 group-title="SPORT",253 - SPORT-KLUB 1HD
+http://93.190.142.128:80/live/user2/user2/27887.ts
+#EXTINF:-1 group-title="SPORT",254 - SPORT-KLUB 2HD
+http://93.190.142.128:80/live/user2/user2/27886.ts
+#EXTINF:-1 group-title="SPORT",255 - SPORT-KLUB 3HD
+http://93.190.142.128:80/live/user2/user2/27885.ts
+#EXTINF:-1 group-title="SPORT",256 - SKY-NET-SPORTS 1
+http://93.190.142.128:80/live/user2/user2/27884.ts
+#EXTINF:-1 group-title="SPORT",257 - SKY-NET-SPORTS 2
+http://93.190.142.128:80/live/user2/user2/27883.ts
+#EXTINF:-1 group-title="SPORT",258 - SKY-NET-SPORTS 3
+http://93.190.142.128:80/live/user2/user2/27882.ts
+#EXTINF:-1 group-title="SPORT",259 - SKY-NET-SPORTS 4
+http://93.190.142.128:80/live/user2/user2/27881.ts
+#EXTINF:-1 group-title="SPORT",260 - SKY-NET-SPORTS 5
+http://93.190.142.128:80/live/user2/user2/27880.ts
+#EXTINF:-1 group-title="SPORT",261 - SKY-NET-SPORTS 6
+http://93.190.142.128:80/live/user2/user2/27879.ts
+
+#EXTINF:-1 group-title="SPORT",TR:Bein SPORT 1
+http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/323.ts
+#EXTINF:-1 group-title="SPORT",TR:Bein SPORT 1+
+http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/327.ts
+#EXTINF:-1 group-title="SPORT",TR:Bein SPORT 2
+http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/324.ts
+#EXTINF:-1 group-title="SPORT",TR:Bein SPORT 2+
+http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/328.ts
+#EXTINF:-1 group-title="SPORT",TR:Bein SPORT 3
+http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/325.ts
+#EXTINF:-1 group-title="SPORT",TR:Bein SPORT 3+
+http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/329.ts
+#EXTINF:-1 group-title="SPORT",TR:Bein SPORT 4
+http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/326.ts
+#EXTINF:-1 group-title="SPORT",TR:Bein SPORT 4+
+http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/330.ts
+#EXTINF:-1 group-title="SPORT",TR:Bein Haber
+http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/5006.ts
+#EXTINF:-1 group-title="SPORT",TR:Bein SPORT MAX
+http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/3292.ts
+#EXTINF:-1 group-title="SPORT",TR:Bein SPORT MAX2
+http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/3294.ts
+#EXTINF:-1 group-title="SPORT",TR:SMARTSPOR
+http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/339.ts
+#EXTINF:-1 group-title="SPORT",TR:SMARTSPOR (ALTERNAT?F)
+http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/3303.ts
+#EXTINF:-1 group-title="SPORT",TR:S Sport
+http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/2068.ts
+#EXTINF:-1 group-title="SPORT",TR:TVBUSPOR 1
+http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/331.ts
+#EXTINF:-1 group-title="SPORT",TR:TVBUSPOR 1 HD+
+http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/335.ts
+#EXTINF:-1 group-title="SPORT",TR:TVBUSPOR 2
+http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/332.ts
+#EXTINF:-1 group-title="SPORT",TR:TVBUSPOR 2 HD+
+http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/336.ts
+#EXTINF:-1 group-title="SPORT",TR:TVBUSPOR 3
+http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/333.ts
+#EXTINF:-1 group-title="SPORT",TR:TVBUSPOR 3 HD+
+http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/337.ts
+#EXTINF:-1 group-title="SPORT",TR:TVBUSPOR 4
+http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/334.ts
+#EXTINF:-1 group-title="SPORT",TR:TVBUSPOR 4 HD+
+http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/338.ts
+#EXTINF:-1 group-title="SPORT",TR:TVBUSPOR 82
+http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/3986.ts
+#EXTINF:-1 group-title="SPORT",TR:EUROSPORT 1
+http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/1501.ts
+#EXTINF:-1 group-title="SPORT",TR:EUROSPORT 2
+http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/1502.ts
+#EXTINF:-1 group-title="SPORT",DE:SKY SPORT 1
+http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/106.ts
+#EXTINF:-1 group-title="SPORT",DE:SKY SPORT 1 HD+
+http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/3551.ts
+#EXTINF:-1 group-title="SPORT",DE:SKY SPORT 2
+http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/107.ts
+#EXTINF:-1 group-title="SPORT",DE:SKY SPORT 3 (Matchday)
+http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/2423.ts
+#EXTINF:-1 group-title="SPORT",DE:SKY SPORT 4 (Matchday)
+http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/2424.ts
+#EXTINF:-1 group-title="SPORT",DE:SKY SPORT 5 (Matchday)
+http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/2425.ts
+#EXTINF:-1 group-title="SPORT",DE:SKY SPORT 6 (Matchday)
+http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/3546.ts
+#EXTINF:-1 group-title="SPORT",DE:SKY SPORT 7 (Matchday)
+http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/3547.ts
+#EXTINF:-1 group-title="SPORT",DE:SKY SPORT 8 (Matchday)
+http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/3549.ts
+#EXTINF:-1 group-title="SPORT",DE:SKY SPORT 9 (Matchday)
+http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/3550.ts
+#EXTINF:-1 group-title="SPORT",DE:SKY SPORT AUSTRIA
+http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/109.ts
+#EXTINF:-1 group-title="SPORT",DE:SKY SPORT NEWS
+http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/108.ts
+#EXTINF:-1 group-title="SPORT",DE:SPORT1 + HD
+http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/2980.ts
+#EXTINF:-1 group-title="SPORT",DE:EUROSPORT
+http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/162.ts
+#EXTINF:-1 group-title="SPORT",DE:EUROSPORT 2
+http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/3301.ts
+#EXTINF:-1 group-title="SPORT",DE:EUROSPORT 2XTRA
+http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/3403.ts
+#EXTINF:-1 group-title="SPORT",DE:SKY BUNDESLIGA 1
+http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/3567.ts
+#EXTINF:-1 group-title="SPORT",DE:SKY BUNDESLIGA 1 +
+http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/105.ts
+#EXTINF:-1 group-title="SPORT",DE:SKY BUNDESLIGA 2
+http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/1947.ts
+#EXTINF:-1 group-title="SPORT",DE:SKY BUNDESLIGA 3 (Matchday)
+http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/1946.ts
+#EXTINF:-1 group-title="SPORT",DE:SKY BUNDESLIGA 4 (Matchday)
+http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/1945.ts
+#EXTINF:-1 group-title="SPORT",DE:SKY BUNDESLIGA 5 (Matchday)
+http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/1944.ts
+#EXTINF:-1 group-title="SPORT",DE:SKY BUNDESLIGA 6 (Matchday)
+http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/1943.ts
+#EXTINF:-1 group-title="SPORT",DE:SKY BUNDESLIGA 7 (Matchday)
+http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/1942.ts
+#EXTINF:-1 group-title="SPORT",DE:SKY BUNDESLIGA 8 (Matchday)
+http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/1941.ts
+#EXTINF:-1 group-title="SPORT",NL:FOX SPORT 1
+http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/79.ts
+#EXTINF:-1 group-title="SPORT",NL:FOX SPORT 2
+http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/80.ts
+#EXTINF:-1 group-title="SPORT",NL:FOX SPORT 3
+http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/81.ts
+#EXTINF:-1 group-title="SPORT",NL:FOX SPORT 4
+http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/82.ts
+#EXTINF:-1 group-title="SPORT",NL:FOX SPORT 5
+http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/83.ts
+#EXTINF:-1 group-title="SPORT",NL:FOX SPORT-6
+http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/84.ts
+#EXTINF:-1 group-title="SPORT",NL:ZIGGO  RACING
+http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/98.ts
+#EXTINF:-1 group-title="SPORT",NL:ZIGGO  VOETBAL
+http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/99.ts
+#EXTINF:-1 group-title="SPORT",NL:ZIGGO GOLF
+http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/100.ts
+#EXTINF:-1 group-title="SPORT",NL:ZIGGO SELECT
+http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/101.ts
+#EXTINF:-1 group-title="SPORT",EX-YOU:SPORT KLUP 1 HD
+http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/1922.ts
+#EXTINF:-1 group-title="SPORT",EX-YOU:SPORT KLUP 2 HD
+http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/1923.ts
+#EXTINF:-1 group-title="SPORT",EX-YOU:SPORT KLUP 3 HD
+http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/1924.ts
+#EXTINF:-1 group-title="SPORT",AR:Bein SPORT 1
+http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/19.ts
+#EXTINF:-1 group-title="SPORT",AR:Bein SPORT 2
+http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/20.ts
+#EXTINF:-1 group-title="SPORT",AR:Bein SPORT 3
+http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/21.ts
+#EXTINF:-1 group-title="SPORT",AR:Bein SPORT 4
+http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/22.ts
+#EXTINF:-1 group-title="SPORT",AR:Bein SPORT 5
+http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/23.ts
+#EXTINF:-1 group-title="SPORT",AR:Bein SPORT 6
+http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/24.ts
+#EXTINF:-1 group-title="SPORT",AR:Bein SPORT 7
+http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/25.ts
+#EXTINF:-1 group-title="SPORT",AR:Bein SPORT 8
+http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/26.ts
+#EXTINF:-1 group-title="SPORT",AR:Bein SPORT 9
+http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/27.ts
+#EXTINF:-1 group-title="SPORT",AR:Bein SPORT 10
+http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/1507.ts
+#EXTINF:-1 group-title="SPORT",AR:Bein SPORT 11
+http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/3407.ts
+#EXTINF:-1 group-title="SPORT",AR:Bein SPORT 12 (ENG)
+http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/3408.ts
+#EXTINF:-1 group-title="SPORT",FR:BEIN SPORT 1 HD
+http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/2946.ts
+#EXTINF:-1 group-title="SPORT",FR:BEIN SPORT 2 HD
+http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/2945.ts
+#EXTINF:-1 group-title="SPORT",FR:BEIN SPORT 3 HD
+http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/2944.ts
+#EXTINF:-1 group-title="SPORT",FR:EUROSPORT 1 HD
+http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/2939.ts
+#EXTINF:-1 group-title="SPORT",FR:EUROSPORT 2 HD
+http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/2938.ts
+#EXTINF:-1 group-title="SPORT",FR:CANAL+ SPORT
+http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/3017.ts
+#EXTINF:-1 group-title="SPORT",FR:FOOT+ 24
+http://guek.ddns.net:1903/live/muratosm@gmail.com/2j4kwOHnnk/3018.ts
+
+#EXTINF:-1 group-title="SPORT",FOX SPORTS 1
+http://p4.giffy.be:8080/live/dennis/dennis/13878.ts
+#EXTINF:-1 group-title="SPORT",FOX SPORTS 2
+http://p4.giffy.be:8080/live/dennis/dennis/13879.ts
+#EXTINF:-1 group-title="SPORT",CBS SPORTS NETWORK US
+http://p4.giffy.be:8080/live/dennis/dennis/20948.ts
+#EXTINF:-1 group-title="SPORT",SPORTSNET WORLD
+http://p4.giffy.be:8080/live/dennis/dennis/13884.ts
+#EXTINF:-1 group-title="SPORT",SPORTSNET ONTARIO
+http://p4.giffy.be:8080/live/dennis/dennis/13880.ts
+#EXTINF:-1 group-title="SPORT",SPORTSNET ONE HD
+http://p4.giffy.be:8080/live/dennis/dennis/20721.ts
+#EXTINF:-1 group-title="SPORT",SPORTSNET 360.
+http://p4.giffy.be:8080/live/dennis/dennis/14215.ts
+#EXTINF:-1 group-title="SPORT",SPORTSNET WEST HD
+http://p4.giffy.be:8080/live/dennis/dennis/21527.ts
+#EXTINF:-1 group-title="SPORT",SPORTSNET EAST HD
+http://p4.giffy.be:8080/live/dennis/dennis/22575.ts
+#EXTINF:-1 group-title="SPORT",SPORTSNET PACIFIC
+http://p4.giffy.be:8080/live/dennis/dennis/21526.ts
+#EXTINF:-1 group-title="SPORT",WWE HD
+http://p4.giffy.be:8080/live/dennis/dennis/20913.ts
+#EXTINF:-1 group-title="SPORT",UKR: FUTBOL 2HD
+http://p4.giffy.be:8080/live/dennis/dennis/26589.ts
+#EXTINF:-1 group-title="SPORT",UKR: FUTBOL 1HD
+http://p4.giffy.be:8080/live/dennis/dennis/29621.ts
+#EXTINF:-1 group-title="SPORT",UKR: SPORT 1
+http://p4.giffy.be:8080/live/dennis/dennis/26588.ts
+#EXTINF:-1 group-title="SPORT",UKR: SPORT 2
+http://p4.giffy.be:8080/live/dennis/dennis/26587.ts
+#EXTINF:-1 group-title="SPORT",EUROSPORT 2 HD
+http://p4.giffy.be:8080/live/dennis/dennis/27826.ts
+#EXTINF:-1 group-title="SPORT",EUROSPORT 1 HD
+http://p4.giffy.be:8080/live/dennis/dennis/21727.ts
+#EXTINF:-1 group-title="SPORT",SKY SPORTS BOX OFFICE PPV
+http://p4.giffy.be:8080/live/dennis/dennis/27770.ts
+#EXTINF:-1 group-title="SPORT",SKY SPORT MAIN EVENT
+http://p4.giffy.be:8080/live/dennis/dennis/21743.ts
+#EXTINF:-1 group-title="SPORT",SKY SPORTS CRICKET
+http://p4.giffy.be:8080/live/dennis/dennis/21742.ts
+#EXTINF:-1 group-title="SPORT",SKY SPORTS ACTION
+http://p4.giffy.be:8080/live/dennis/dennis/21741.ts
+#EXTINF:-1 group-title="SPORT",SKY SPORTS GOLF
+http://p4.giffy.be:8080/live/dennis/dennis/21740.ts
+#EXTINF:-1 group-title="SPORT",SKY SPORT SKY PREMIER LEAGUE
+http://p4.giffy.be:8080/live/dennis/dennis/21739.ts
+#EXTINF:-1 group-title="SPORT",SKY SPORT F1 HD
+http://p4.giffy.be:8080/live/dennis/dennis/21738.ts
+#EXTINF:-1 group-title="SPORT",SKY SPORT NEWS
+http://p4.giffy.be:8080/live/dennis/dennis/21732.ts
+#EXTINF:-1 group-title="SPORT",SKY SPORTS MIX
+http://p4.giffy.be:8080/live/dennis/dennis/21728.ts
+#EXTINF:-1 group-title="SPORT",SKY SPORTS NEWS HD
+http://p4.giffy.be:8080/live/dennis/dennis/21737.ts
+#EXTINF:-1 group-title="SPORT",SKY SPORTS HD ARENA
+http://p4.giffy.be:8080/live/dennis/dennis/27769.ts
+#EXTINF:-1 group-title="SPORT",SKY SPORT 1 HD
+http://p4.giffy.be:8080/live/dennis/dennis/30065.ts
+#EXTINF:-1 group-title="SPORT",SKY SPORT 2 HD
+http://p4.giffy.be:8080/live/dennis/dennis/30066.ts
+#EXTINF:-1 group-title="SPORT",SKY SPORT NEWS.
+http://p4.giffy.be:8080/live/dennis/dennis/30075.ts
+#EXTINF:-1 group-title="SPORT",SKY FOOTBALL ( NEW HD )
+http://p4.giffy.be:8080/live/dennis/dennis/28297.ts
+#EXTINF:-1 group-title="SPORT",BT SPORTS 1 HD
+http://p4.giffy.be:8080/live/dennis/dennis/21736.ts
+#EXTINF:-1 group-title="SPORT",BT SPORTS 2 HD
+http://p4.giffy.be:8080/live/dennis/dennis/21735.ts
+#EXTINF:-1 group-title="SPORT",BT SPORTS 3 HD
+http://p4.giffy.be:8080/live/dennis/dennis/21734.ts
+#EXTINF:-1 group-title="SPORT",BT SPORT ESPN
+http://p4.giffy.be:8080/live/dennis/dennis/21731.ts
+#EXTINF:-1 group-title="SPORT",BT SPORT MOSAIC
+http://p4.giffy.be:8080/live/dennis/dennis/21729.ts
+#EXTINF:-1 group-title="SPORT",BT SPORT EXTRA
+http://p4.giffy.be:8080/live/dennis/dennis/21730.ts
+#EXTINF:-1 group-title="SPORT",RUS: MATCH APEHA HD
+http://p4.giffy.be:8080/live/dennis/dennis/26592.ts
+#EXTINF:-1 group-title="SPORT",RUS: MATCH FUTBOL 1 HD
+http://p4.giffy.be:8080/live/dennis/dennis/26595.ts
+#EXTINF:-1 group-title="SPORT",RUS: MATCH FUTBOL 2 HD
+http://p4.giffy.be:8080/live/dennis/dennis/26594.ts
+#EXTINF:-1 group-title="SPORT",RUS: MATCH FUTBOL 3 HD
+http://p4.giffy.be:8080/live/dennis/dennis/26593.ts
+#EXTINF:-1 group-title="SPORT",RUS: MATCH GAME
+http://p4.giffy.be:8080/live/dennis/dennis/26571.ts
+#EXTINF:-1 group-title="SPORT",RUS: MATCH OUR SPORTS
+http://p4.giffy.be:8080/live/dennis/dennis/26585.ts
+#EXTINF:-1 group-title="SPORT",RUS: MATCH PLANET
+http://p4.giffy.be:8080/live/dennis/dennis/26586.ts
+#EXTINF:-1 group-title="SPORT",RUS: MATCH SPORTS
+http://p4.giffy.be:8080/live/dennis/dennis/26596.ts
+#EXTINF:-1 group-title="SPORT",RUS: MATCH TV
+http://p4.giffy.be:8080/live/dennis/dennis/26597.ts
+#EXTINF:-1 group-title="SPORT",AR_ON_SPORT
+http://p4.giffy.be:8080/live/dennis/dennis/27080.ts
+#EXTINF:-1 group-title="SPORT",Digi Sport 1
+http://p4.giffy.be:8080/live/dennis/dennis/30163.ts
+#EXTINF:-1 group-title="SPORT",Digi Sport 2
+http://p4.giffy.be:8080/live/dennis/dennis/30162.ts
+#EXTINF:-1 group-title="SPORT",Digi Sport 3
+http://p4.giffy.be:8080/live/dennis/dennis/30161.ts
+#EXTINF:-1 group-title="SPORT",Digi Sport 4
+http://p4.giffy.be:8080/live/dennis/dennis/30160.ts
+#EXTINF:-1 group-title="SPORT",BR: Sport Tv
+http://p4.giffy.be:8080/live/dennis/dennis/30569.ts
+#EXTINF:-1 group-title="SPORT",BR: SPORT TV 1
+http://p4.giffy.be:8080/live/dennis/dennis/30568.ts
+#EXTINF:-1 group-title="SPORT",BR: SPORT TV 2
+http://p4.giffy.be:8080/live/dennis/dennis/30567.ts
+#EXTINF:-1 group-title="SPORT",BR: SPORT TV 3
+http://p4.giffy.be:8080/live/dennis/dennis/30566.ts
+#EXTINF:-1 group-title="SPORT",BR: Sport Tv2
+http://p4.giffy.be:8080/live/dennis/dennis/30565.ts
 
 
 
