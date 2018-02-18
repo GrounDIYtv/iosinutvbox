@@ -1,1255 +1,2099 @@
 #EXTM3U
-
-
-#EXTINF:-1,**** VNVNVNVNVNVNVNVNVNVNVNVNVNVNVNVNVNVNVNVNVNVNVNVNVNVNVNVNVNVNVNVNVNVNVNVNVNVNVNVNVNVNVNVNVNVNVNVNVNVNVNVNVNVNVNVN ****
-
-#EXTINF:-1 group-title="VN",FPT Giới Thiệu HD
-http://118.69.28.124:4022/udp/225.1.1.2:30120
-#EXTINF:-1 group-title="VN",FPT Quảng Cáo HD
-http://118.69.28.124:4022/udp/225.1.1.137:30120
-#EXTINF:-1 group-title="VN",The Mira Hotel
-http://118.69.28.124:4022/udp/225.1.1.123:30120
-#EXTINF:-1 group-title="VN",FPT Mở Két
-http://118.69.28.124:4022/udp/225.1.1.26:30120
-#EXTINF:-1 group-title="VN",FPT Mở Két
-http://118.69.28.124:4022/udp/225.1.1.97:30120
-#EXTINF:-1 group-title="VN",FPT PIP 1
-http://118.69.28.124:4022/udp/225.1.2.42:30120
-#EXTINF:-1 group-title="VN",FPT PIP 2
-http://118.69.28.124:4022/udp/225.1.2.49:30120
-#EXTINF:-1 group-title="VN",FPT PIP 3
-http://118.69.28.124:4022/udp/225.1.2.72:30120
-#EXTINF:-1 group-title="VN",Ca Nhạc
-http://118.69.28.124:4022/udp/225.1.1.9:30120
-#EXTINF:-1 group-title="VN",Ca Nhạc 2
-http://118.69.28.124:4022/udp/225.1.1.8:30120
-#EXTINF:-1 group-title="VN",FPT thử nghiệm 4K
-http://118.69.28.124:4022/udp/225.1.2.2:30120
-#EXTINF:-1 group-title="VN",K+1 HD
-http://118.69.28.124:4022/udp/225.1.1.5:30120
-#EXTINF:-1 group-title="VN",K+1 HD
-http://118.69.28.124:4022/udp/225.1.1.78:30120
-#EXTINF:-1 group-title="VN",K+NS HD
-http://118.69.28.124:4022/udp/225.1.1.6:30120
-#EXTINF:-1 group-title="VN",K+NS HD
-http://118.69.28.124:4022/udp/225.1.1.80:30120
-#EXTINF:-1 group-title="VN",K+PM HD
-http://118.69.28.124:4022/udp/225.1.1.73:30120
-#EXTINF:-1 group-title="VN",K+PM HD
-http://118.69.28.124:4022/udp/225.1.1.81:30120
-#EXTINF:-1 group-title="VN",K+PC HD
-http://118.69.28.124:4022/udp/225.1.1.77:30120
-#EXTINF:-1 group-title="VN",K+PC HD https://iptv.zone
-http://118.69.28.124:4022/udp/225.1.1.82:30120
-#EXTINF:-1 group-title="VN",VTV1
-http://118.69.28.124:4022/udp/225.1.1.250:30120
-#EXTINF:-1 group-title="VN",VTV1 HD
-http://118.69.28.124:4022/udp/225.1.2.248:30120
-#EXTINF:-1 group-title="VN",VTV1 HD
-http://118.69.28.124:4022/udp/225.1.2.249:30120
-#EXTINF:-1 group-title="VN",VTV2
-http://118.69.28.124:4022/udp/225.1.1.249:30120
-#EXTINF:-1 group-title="VN",VTV2 HD
-http://118.69.28.124:4022/udp/225.1.2.14:30120
-#EXTINF:-1 group-title="VN",VTV2 HD
-http://118.69.28.124:4022/udp/225.1.2.13:30120
-#EXTINF:-1 group-title="VN",VTV3
-http://118.69.28.124:4022/udp/225.1.2.167:30120
-#EXTINF:-1 group-title="VN",VTV3 HD
-http://118.69.28.124:4022/udp/225.1.2.246:30120
-#EXTINF:-1 group-title="VN",VTV3 HD
-http://118.69.28.124:4022/udp/225.1.2.247:30120
-#EXTINF:-1 group-title="VN",VTV4
-http://118.69.28.124:4022/udp/225.1.1.248:30120
-#EXTINF:-1 group-title="VN",VTV4 HD
-http://118.69.28.124:4022/udp/225.1.1.211:30120
-#EXTINF:-1 group-title="VN",VTV4 HD
-http://118.69.28.124:4022/udp/225.1.2.20:30120
-#EXTINF:-1 group-title="VN",VTV5
-http://118.69.28.124:4022/udp/225.1.1.247:30120
-#EXTINF:-1 group-title="VN",VTV5 HD
-http://118.69.28.124:4022/udp/225.1.1.129:30120
-#EXTINF:-1 group-title="VN",VTV5 HD
-http://118.69.28.124:4022/udp/225.1.1.131:30120
-#EXTINF:-1 group-title="VN",VTV6
-http://118.69.28.124:4022/udp/225.1.1.246:30120
-#EXTINF:-1 group-title="VN",VTV6 HD
-http://118.69.28.124:4022/udp/225.1.2.244:30120
-#EXTINF:-1 group-title="VN",VTV6 HD
-http://118.69.28.124:4022/udp/225.1.2.245:30120
-#EXTINF:-1 group-title="VN",VTV7 HD
-http://118.69.28.124:4022/udp/225.1.2.96:30120
-#EXTINF:-1 group-title="VN",VTV7 HD
-http://118.69.28.124:4022/udp/225.1.2.97:30120
-#EXTINF:-1 group-title="VN",VTV8 HD
-http://118.69.28.124:4022/udp/225.1.2.142:30120
-#EXTINF:-1 group-title="VN",VTV8 HD
-http://118.69.28.124:4022/udp/225.1.2.166:30120
-#EXTINF:-1 group-title="VN",VTV9
-http://118.69.28.124:4022/udp/225.1.1.153:30120
-#EXTINF:-1 group-title="VN",VTV9 HD
-http://118.69.28.124:4022/udp/225.1.1.126:30120
-#EXTINF:-1 group-title="VN",VTV9 HD
-http://118.69.28.124:4022/udp/225.1.1.128:30120
-#EXTINF:-1 group-title="VN",VTVCab1 - Giải Trí TV
-http://118.69.28.124:4022/udp/225.1.2.150:30120
-#EXTINF:-1 group-title="VN",VTVCab2 - Phim Việt
-http://118.69.28.124:4022/udp/225.1.2.159:30120
-#EXTINF:-1 group-title="VN",VTVCab3 - Thể Thao TV HD
-http://118.69.28.124:4022/udp/225.1.2.240:30120
-#EXTINF:-1 group-title="VN",VTVCab3 - Thể Thao TV HD
-http://118.69.28.124:4022/udp/225.1.2.241:30120
-#EXTINF:-1 group-title="VN",VTVCab4 - Văn Hóa
-http://118.69.28.124:4022/udp/225.1.2.153:30120
-#EXTINF:-1 group-title="VN",VTVCab5 - E Channel
-http://118.69.28.124:4022/udp/225.1.2.156:30120
-#EXTINF:-1 group-title="VN",VTVCab6 - Hay TV
-http://118.69.28.124:4022/udp/225.1.1.254:30120
-#EXTINF:-1 group-title="VN",VTVCab7 - D Dramas
-http://118.69.28.124:4022/udp/225.1.2.157:30120
-#EXTINF:-1 group-title="VN",VTVCab8 - Bibi
-http://118.69.28.124:4022/udp/225.1.2.161:30120
-#EXTINF:-1 group-title="VN",VTVCab9 - Info TV
-http://118.69.28.124:4022/udp/225.1.2.154:30120
-#EXTINF:-1 group-title="VN",VTVCab10 - O2TV https://iptv.zone
-http://118.69.28.124:4022/udp/225.1.2.152:30120
-#EXTINF:-1 group-title="VN",VTVCab11 - VGS Shop
-http://118.69.28.124:4022/udp/225.1.1.252:30120
-#EXTINF:-1 group-title="VN",VTVCab12 - Style TV
-http://118.69.28.124:4022/udp/225.1.2.155:30120
-#EXTINF:-1 group-title="VN",VTVCab13 - VTV Hyundai Homeshopping
-http://118.69.28.124:4022/udp/225.1.1.122:30120
-#EXTINF:-1 group-title="VN",VTVCab14 - Lotte Datviet Homeshopping
-http://118.69.28.124:4022/udp/225.1.1.253:30120
-#EXTINF:-1 group-title="VN",VTVCab15 - M Channel
-http://118.69.28.124:4022/udp/225.1.1.251:30120
-#EXTINF:-1 group-title="VN",VTVCab16 - Bóng Đá TV HD
-http://118.69.28.124:4022/udp/225.1.2.242:30120
-#EXTINF:-1 group-title="VN",VTVCab16 - Bóng Đá TV HD
-http://118.69.28.124:4022/udp/225.1.2.243:30120
-#EXTINF:-1 group-title="VN",VTVCab17 - Yeah1 !TV
-http://118.69.28.124:4022/udp/225.1.2.151:30120
-#EXTINF:-1 group-title="VN",VTVCab19 - Film TV
-http://118.69.28.124:4022/udp/225.1.2.207:30120
-#EXTINF:-1 group-title="VN",VTVCab20 - V Family
-http://118.69.28.124:4022/udp/225.1.1.15:30120
-#EXTINF:-1 group-title="VN",VTVCab21 - SaoTV Bibi+ HD
-http://118.69.28.124:4022/udp/225.1.2.82:30120
-#EXTINF:-1 group-title="VN",VTVCab21 - SaoTV Bibi+ HD
-http://118.69.28.124:4022/udp/225.1.2.103:30120
-#EXTINF:-1 group-title="VN",VOV
-http://118.69.28.124:4022/udp/225.1.2.171:30120
-#EXTINF:-1 group-title="VN",Thông Tấn Xã Việt Nam
-http://118.69.28.124:4022/udp/225.1.1.167:30120
-#EXTINF:-1 group-title="VN",Thông Tấn Xã Việt Nam HD
-http://118.69.28.124:4022/udp/225.1.1.43:30120
-#EXTINF:-1 group-title="VN",An Ninh TV HD
-http://118.69.28.124:4022/udp/225.1.2.169:30120
-#EXTINF:-1 group-title="VN",An Ninh Thế Giới HD
-http://118.69.28.124:4022/udp/225.1.1.208:30120
-#EXTINF:-1 group-title="VN",Nhân Dân HD
-http://118.69.28.124:4022/udp/225.1.1.91:30120
-#EXTINF:-1 group-title="VN",Quốc Hội HD
-http://118.69.28.124:4022/udp/225.1.2.148:30120
-#EXTINF:-1 group-title="VN",Quốc Hội HD
-http://118.69.28.124:4022/udp/225.1.2.149:30120
-#EXTINF:-1 group-title="VN",Quốc Phòng Việt Nam
-http://118.69.28.124:4022/udp/225.1.1.226:30120
-#EXTINF:-1 group-title="VN",Quốc Phòng Việt Nam HD
-http://118.69.28.124:4022/udp/225.1.2.216:30120
-#EXTINF:-1 group-title="VN",Quốc Phòng Việt Nam HD
-http://118.69.28.124:4022/udp/225.1.2.217:30120
-#EXTINF:-1 group-title="VN",HTV1
-http://118.69.28.124:4022/udp/225.1.1.1:30120
-#EXTINF:-1 group-title="VN",HTV1
-http://118.69.28.124:4022/udp/225.1.1.180:30120
-#EXTINF:-1 group-title="VN",HTV1
-http://118.69.28.124:4022/udp/225.1.2.11:30120
-#EXTINF:-1 group-title="VN",HTV2
-http://118.69.28.124:4022/udp/225.1.1.179:30120
-#EXTINF:-1 group-title="VN",HTV2 HD
-http://118.69.28.124:4022/udp/225.1.1.193:30120
-#EXTINF:-1 group-title="VN",HTV3
-http://118.69.28.124:4022/udp/225.1.1.178:30120
-#EXTINF:-1 group-title="VN",HTV4
-http://118.69.28.124:4022/udp/225.1.1.177:30120
-#EXTINF:-1 group-title="VN",HTV7
-http://118.69.28.124:4022/udp/225.1.1.176:30120
-#EXTINF:-1 group-title="VN",HTV7 HD
-http://118.69.28.124:4022/udp/225.1.1.191:30120
-#EXTINF:-1 group-title="VN",HTV7 HD
-http://118.69.28.124:4022/udp/225.1.1.192:30120
-#EXTINF:-1 group-title="VN",HTV9
-http://118.69.28.124:4022/udp/225.1.1.175:30120
-#EXTINF:-1 group-title="VN",HTV9 HD
-http://118.69.28.124:4022/udp/225.1.1.189:30120
-#EXTINF:-1 group-title="VN",HTV9 HD
-http://118.69.28.124:4022/udp/225.1.1.190:30120
-#EXTINF:-1 group-title="VN",HTV Thể Thao
-http://118.69.28.124:4022/udp/225.1.1.165:30120
-#EXTINF:-1 group-title="VN",HTVC Du Lịch và Cuộc Sống
-http://118.69.28.124:4022/udp/225.1.1.166:30120
-#EXTINF:-1 group-title="VN",HTVC FBNC
-http://118.69.28.124:4022/udp/225.1.1.169:30120
-#EXTINF:-1 group-title="VN",HTVC FBNC HD
-http://118.69.28.124:4022/udp/225.1.1.181:30120
-#EXTINF:-1 group-title="VN",HTVC FBNC HD
-http://118.69.28.124:4022/udp/225.1.1.182:30120
-#EXTINF:-1 group-title="VN",HTVC Gia Đình
-http://118.69.28.124:4022/udp/225.1.1.170:30120
-#EXTINF:-1 group-title="VN",HTVC Phim - Paramount Channel
-http://118.69.28.124:4022/udp/225.1.1.173:30120
-#EXTINF:-1 group-title="VN",HTVC Phim - Paramount Channel HD
-http://118.69.28.124:4022/udp/225.1.1.183:30120
-#EXTINF:-1 group-title="VN",HTVC Phim - Paramount Channel HD
-http://118.69.28.124:4022/udp/225.1.1.184:30120
-#EXTINF:-1 group-title="VN",HTVC Phụ Nữ
-http://118.69.28.124:4022/udp/225.1.1.171:30120
-#EXTINF:-1 group-title="VN",HTVC Shopping - VGS Shop
-http://118.69.28.124:4022/udp/225.1.1.172:30120
-#EXTINF:-1 group-title="VN",HTVC Thuần Việt
-http://118.69.28.124:4022/udp/225.1.1.174:30120
-#EXTINF:-1 group-title="VN",HTVC Thuần Việt HD
-http://118.69.28.124:4022/udp/225.1.1.185:30120
-#EXTINF:-1 group-title="VN",HTVC Thuần Việt HD
-http://118.69.28.124:4022/udp/225.1.1.186:30120
-#EXTINF:-1 group-title="VN",VTC1
-http://118.69.28.124:4022/udp/225.1.2.203:30120
-#EXTINF:-1 group-title="VN",VTC1 HD
-http://118.69.28.124:4022/udp/225.1.2.254:30120
-#EXTINF:-1 group-title="VN",VTC2 - #Kênh2
-http://118.69.28.124:4022/udp/225.1.2.202:30120
-#EXTINF:-1 group-title="VN",VTC3
-http://118.69.28.124:4022/udp/225.1.2.201:30120
-#EXTINF:-1 group-title="VN",VTC3 HD
-http://118.69.28.124:4022/udp/225.1.2.251:30120
-#EXTINF:-1 group-title="VN",Yeah1 !Family - VTC4 HD
-http://118.69.28.124:4022/udp/225.1.2.200:30120
-#EXTINF:-1 group-title="VN",tvBlue - VTC5
-http://118.69.28.124:4022/udp/225.1.2.199:30120
-#EXTINF:-1 group-title="VN",VTC6
-http://118.69.28.124:4022/udp/225.1.2.198:30120
-#EXTINF:-1 group-title="VN",Today TV - VTC7
-http://118.69.28.124:4022/udp/225.1.2.197:30120
-#EXTINF:-1 group-title="VN",View TV - VTC8
-http://118.69.28.124:4022/udp/225.1.2.196:30120
-#EXTINF:-1 group-title="VN",Let's Việt - VTC9
-http://118.69.28.124:4022/udp/225.1.2.195:30120
-#EXTINF:-1 group-title="VN",Nét Việt - VTC10
-http://118.69.28.124:4022/udp/225.1.2.194:30120
-#EXTINF:-1 group-title="VN",Kids & Family TV - VTC11
-http://118.69.28.124:4022/udp/225.1.2.193:30120
-#EXTINF:-1 group-title="VN",VTC12
-http://118.69.28.124:4022/udp/225.1.2.192:30120
-#EXTINF:-1 group-title="VN",VTC13
-http://118.69.28.124:4022/udp/225.1.2.189:30120
-#EXTINF:-1 group-title="VN",VTC13
-http://118.69.28.124:4022/udp/225.1.2.250:30120
-#EXTINF:-1 group-title="VN",VTC14
-http://118.69.28.124:4022/udp/225.1.2.191:30120
-#EXTINF:-1 group-title="VN",VTC14 HD
-http://118.69.28.124:4022/udp/225.1.2.88:30120
-#EXTINF:-1 group-title="VN",3NTV - VTC16
-http://118.69.28.124:4022/udp/225.1.2.190:30120
-#EXTINF:-1 group-title="VN",SaoNamShopping-SCTV10
-http://118.69.28.124:4022/udp/225.1.2.205:30120
-#EXTINF:-1 group-title="VN",Việt Teen - BTV6
-http://118.69.28.124:4022/udp/225.1.1.223:30120
-#EXTINF:-1 group-title="VN",NCM - BTV10
-http://118.69.28.124:4022/udp/225.1.1.225:30120
-#EXTINF:-1 group-title="VN",SAM - BTV11
-http://118.69.28.124:4022/udp/225.1.1.224:30120
-#EXTINF:-1 group-title="VN",Phim Hay
-http://118.69.28.124:4022/udp/225.1.1.222:30120
-#EXTINF:-1 group-title="VN",Miền Tây - THDT2
-http://118.69.28.124:4022/udp/225.1.1.221:30120
-#EXTINF:-1 group-title="VN",Hà Nội 1 HD
-http://118.69.28.124:4022/udp/225.1.2.186:30120
-#EXTINF:-1 group-title="VN",Hà Nội 2 HD
-http://118.69.28.124:4022/udp/225.1.1.125:30120
-#EXTINF:-1 group-title="VN",HiTV - Hanoicab1
-http://118.69.28.124:4022/udp/225.1.1.209:30120
-#EXTINF:-1 group-title="VN",You!TV - Hanoicab2
-http://118.69.28.124:4022/udp/225.1.1.207:30120
-#EXTINF:-1 group-title="VN",MOV HD - Hanoicab4
-http://118.69.28.124:4022/udp/225.1.1.206:30120
-#EXTINF:-1 group-title="VN",Việt Nam Nét
-http://118.69.28.124:4022/udp/225.1.1.194:30120
-#EXTINF:-1 group-title="VN",An Giang 1
-http://118.69.28.124:4022/udp/225.1.2.173:30120
-#EXTINF:-1 group-title="VN",Bà Rịa Vũng Tàu
-http://118.69.28.124:4022/udp/225.1.2.175:30120
-#EXTINF:-1 group-title="VN",Bạc Liêu
-http://118.69.28.124:4022/udp/225.1.1.61:30120
-#EXTINF:-1 group-title="VN",Bắc Giang
-http://118.69.28.124:4022/udp/225.1.1.164:30120
-#EXTINF:-1 group-title="VN",Bắc Ninh
-http://118.69.28.124:4022/udp/225.1.1.40:30120
-#EXTINF:-1 group-title="VN",Bến Tre
-http://118.69.28.124:4022/udp/225.1.1.156:30120
-#EXTINF:-1 group-title="VN",Bình Dương 1 HD
-http://118.69.28.124:4022/udp/225.1.1.150:30120
-#EXTINF:-1 group-title="VN",Bình Dương 2 HD
-http://118.69.28.124:4022/udp/225.1.1.149:30120
-#EXTINF:-1 group-title="VN",iMOVIE TV HD - BTV4 HD
-http://118.69.28.124:4022/udp/225.1.1.29:30120
-#EXTINF:-1 group-title="VN",iMOVIE TV HD - BTV4 HD
-http://118.69.28.124:4022/udp/225.1.1.30:30120
-#EXTINF:-1 group-title="VN",Bình Định
-http://118.69.28.124:4022/udp/225.1.1.145:30120
-#EXTINF:-1 group-title="VN",Bình Phước 1
-http://118.69.28.124:4022/udp/225.1.2.23:30120
-#EXTINF:-1 group-title="VN",BPTV2 - HOMETV
-http://118.69.28.124:4022/udp/225.1.2.38:30120
-#EXTINF:-1 group-title="VN",Bình Thuận
-http://118.69.28.124:4022/udp/225.1.1.124:30120
-#EXTINF:-1 group-title="VN",Cà Mau
-http://118.69.28.124:4022/udp/225.1.1.104:30120
-#EXTINF:-1 group-title="VN",Cao Bằng
-http://118.69.28.124:4022/udp/225.1.1.102:30120
-#EXTINF:-1 group-title="VN",Cần Thơ
-http://118.69.28.124:4022/udp/225.1.1.132:30120
-#EXTINF:-1 group-title="VN",Đà Nẵng 1
-http://118.69.28.124:4022/udp/225.1.1.147:30120
-#EXTINF:-1 group-title="VN",Đà Nẵng 2 HD
-http://118.69.28.124:4022/udp/225.1.1.146:30120
-#EXTINF:-1 group-title="VN",Đắk Lắk
-http://118.69.28.124:4022/udp/225.1.1.64:30120
-#EXTINF:-1 group-title="VN",Điện Biên
-http://118.69.28.124:4022/udp/225.1.1.74:30120
-#EXTINF:-1 group-title="VN",Đồng Nai 1
-http://118.69.28.124:4022/udp/225.1.1.152:30120
-#EXTINF:-1 group-title="VN",Đồng Nai 2
-http://118.69.28.124:4022/udp/225.1.1.151:30120
-#EXTINF:-1 group-title="VN",AZSHOP - DN9
-http://118.69.28.124:4022/udp/225.1.1.134:30120
-#EXTINF:-1 group-title="VN",Đồng Tháp 1
-http://118.69.28.124:4022/udp/225.1.1.163:30120
-#EXTINF:-1 group-title="VN",Gia Lai
-http://118.69.28.124:4022/udp/225.1.2.176:30120
-#EXTINF:-1 group-title="VN",Hà Giang
-http://118.69.28.124:4022/udp/225.1.1.62:30120
-#EXTINF:-1 group-title="VN",Hà Nam
-http://118.69.28.124:4022/udp/225.1.1.63:30120
-#EXTINF:-1 group-title="VN",Hà Tĩnh
-http://118.69.28.124:4022/udp/225.1.1.75:30120
-#EXTINF:-1 group-title="VN",Hải Dương
-http://118.69.28.124:4022/udp/225.1.1.158:30120
-#EXTINF:-1 group-title="VN",Hải Phòng HD
-http://118.69.28.124:4022/udp/225.1.1.44:30120
-#EXTINF:-1 group-title="VN",Hậu Giang
-http://118.69.28.124:4022/udp/225.1.1.157:30120
-#EXTINF:-1 group-title="VN",Hòa Bình
-http://118.69.28.124:4022/udp/225.1.2.168:30120
-#EXTINF:-1 group-title="VN",Hưng Yên
-http://118.69.28.124:4022/udp/225.1.1.118:30120
-#EXTINF:-1 group-title="VN",Khánh Hòa
-http://118.69.28.124:4022/udp/225.1.1.133:30120
-#EXTINF:-1 group-title="VN",Kiên Giang
-http://118.69.28.124:4022/udp/225.1.2.182:30120
-#EXTINF:-1 group-title="VN",Kon Tum
-http://118.69.28.124:4022/udp/225.1.1.36:30120
-#EXTINF:-1 group-title="VN",Lạng Sơn
-http://118.69.28.124:4022/udp/225.1.1.160:30120
-#EXTINF:-1 group-title="VN",Lào Cai
-http://118.69.28.124:4022/udp/225.1.1.119:30120
-#EXTINF:-1 group-title="VN",Lâm Đồng
-http://118.69.28.124:4022/udp/225.1.2.177:30120
-#EXTINF:-1 group-title="VN",Long An 34
-http://118.69.28.124:4022/udp/225.1.1.162:30120
-#EXTINF:-1 group-title="VN",Nam Định
-http://118.69.28.124:4022/udp/225.1.1.120:30120
-#EXTINF:-1 group-title="VN",Nghệ An
-http://118.69.28.124:4022/udp/225.1.2.183:30120
-#EXTINF:-1 group-title="VN",Ninh Bình
-http://118.69.28.124:4022/udp/225.1.2.185:30120
-#EXTINF:-1 group-title="VN",Ninh Thuận
-http://118.69.28.124:4022/udp/225.1.2.178:30120
-#EXTINF:-1 group-title="VN",Phú Thọ
-http://118.69.28.124:4022/udp/225.1.2.165:30120
-#EXTINF:-1 group-title="VN",Phú Yên
-http://118.69.28.124:4022/udp/225.1.2.58:30120
-#EXTINF:-1 group-title="VN",Quảng Bình
-http://118.69.28.124:4022/udp/225.1.2.164:30120
-#EXTINF:-1 group-title="VN",Quảng Nam
-http://118.69.28.124:4022/udp/225.1.2.50:30120
-#EXTINF:-1 group-title="VN",Quảng Ngãi
-http://118.69.28.124:4022/udp/225.1.2.174:30120
-#EXTINF:-1 group-title="VN",Quảng Ninh 1
-http://118.69.28.124:4022/udp/225.1.2.181:30120
-#EXTINF:-1 group-title="VN",Quảng Ninh 3
-http://118.69.28.124:4022/udp/225.1.2.180:30120
-#EXTINF:-1 group-title="VN",Quảng Trị
-http://118.69.28.124:4022/udp/225.1.1.117:30120
-#EXTINF:-1 group-title="VN",Sóc Trăng 1
-http://118.69.28.124:4022/udp/225.1.1.159:30120
-#EXTINF:-1 group-title="VN",Sơn La
-http://118.69.28.124:4022/udp/225.1.1.98:30120
-#EXTINF:-1 group-title="VN",Tây Ninh 11
-http://118.69.28.124:4022/udp/225.1.1.130:30120
-#EXTINF:-1 group-title="VN",Thái Bình
-http://118.69.28.124:4022/udp/225.1.1.99:30120
-#EXTINF:-1 group-title="VN",Thái Nguyên 1
-http://118.69.28.124:4022/udp/225.1.2.179:30120
-#EXTINF:-1 group-title="VN",Thanh Hóa
-http://118.69.28.124:4022/udp/225.1.2.184:30120
-#EXTINF:-1 group-title="VN",Thừa Thiên Huế
-http://118.69.28.124:4022/udp/225.1.1.161:30120
-#EXTINF:-1 group-title="VN",Tiền Giang
-http://118.69.28.124:4022/udp/225.1.2.170:30120
-#EXTINF:-1 group-title="VN",Trà Vinh
-http://118.69.28.124:4022/udp/225.1.2.172:30120
-#EXTINF:-1 group-title="VN",Tuyên Quang
-http://118.69.28.124:4022/udp/225.1.2.188:30120
-#EXTINF:-1 group-title="VN",Vĩnh Long 1
-http://118.69.28.124:4022/udp/225.1.1.155:30120
-#EXTINF:-1 group-title="VN",Vĩnh Long 2
-http://118.69.28.124:4022/udp/225.1.1.154:30120
-#EXTINF:-1 group-title="VN",Vĩnh Phúc
-http://118.69.28.124:4022/udp/225.1.2.99:30120
-#EXTINF:-1 group-title="VN",Yên Bái
-http://118.69.28.124:4022/udp/225.1.1.39:30120
-#EXTINF:-1 group-title="VN",MTV
-http://118.69.28.124:4022/udp/225.1.1.245:30120
-#EXTINF:-1 group-title="VN",Animal Planet
-http://118.69.28.124:4022/udp/225.1.1.231:30120
-#EXTINF:-1 group-title="VN",Arirang
-http://118.69.28.124:4022/udp/225.1.1.201:30120
-#EXTINF:-1 group-title="VN",Asian Food Channel HD
-http://118.69.28.124:4022/udp/225.1.1.198:30120
-#EXTINF:-1 group-title="VN",Asian Food Channel HD
-http://118.69.28.124:4022/udp/225.1.2.98:30120
-#EXTINF:-1 group-title="VN",Australia Plus
-http://118.69.28.124:4022/udp/225.1.2.21:30120
-#EXTINF:-1 group-title="VN",AXN
-http://118.69.28.124:4022/udp/225.1.1.237:30120
-#EXTINF:-1 group-title="VN",AXN HD
-http://118.69.28.124:4022/udp/225.1.2.224:30120
-#EXTINF:-1 group-title="VN",AXN HD
-http://118.69.28.124:4022/udp/225.1.2.225:30120
-#EXTINF:-1 group-title="VN",BBC Earth
-http://118.69.28.124:4022/udp/225.1.2.24:30120
-#EXTINF:-1 group-title="VN",BBC Lifestyle
-http://118.69.28.124:4022/udp/225.1.2.52:30120
-#EXTINF:-1 group-title="VN",BBC World News
-http://118.69.28.124:4022/udp/225.1.2.74:30120
-#EXTINF:-1 group-title="VN",Cartoon Network
-http://118.69.28.124:4022/udp/225.1.1.240:30120
-#EXTINF:-1 group-title="VN",Cartoon Network HD
-http://118.69.28.124:4022/udp/225.1.2.230:30120
-#EXTINF:-1 group-title="VN",Cartoon Network HD
-http://118.69.28.124:4022/udp/225.1.2.231:30120
-#EXTINF:-1 group-title="VN",Channel News Asia
-http://118.69.28.124:4022/udp/225.1.1.202:30120
-#EXTINF:-1 group-title="VN",Channel [V]
-http://118.69.28.124:4022/udp/225.1.1.243:30120
-#EXTINF:-1 group-title="VN",Channel [V] HD
-http://118.69.28.124:4022/udp/225.1.1.187:30120
-#EXTINF:-1 group-title="VN",Channel [V] HD
-http://118.69.28.124:4022/udp/225.1.1.188:30120
-#EXTINF:-1 group-title="VN",Cinema World
-http://118.69.28.124:4022/udp/225.1.1.142:30120
-#EXTINF:-1 group-title="VN",CNBC
-http://118.69.28.124:4022/udp/225.1.1.227:30120
-#EXTINF:-1 group-title="VN",CNN
-http://118.69.28.124:4022/udp/225.1.1.242:30120
-#EXTINF:-1 group-title="VN",Da Vinci Learning HD
-http://118.69.28.124:4022/udp/225.1.1.197:30120
-#EXTINF:-1 group-title="VN",Da Vinci Learning HD
-http://118.69.28.124:4022/udp/225.1.2.253:30120
-#EXTINF:-1 group-title="VN",Discovery Asia HD
-http://118.69.28.124:4022/udp/225.1.2.222:30120
-#EXTINF:-1 group-title="VN",Discovery Asia HD
-http://118.69.28.124:4022/udp/225.1.2.223:30120
-#EXTINF:-1 group-title="VN",Discovery Channel
-http://118.69.28.124:4022/udp/225.1.1.238:30120
-#EXTINF:-1 group-title="VN",Disney Channel
-http://118.69.28.124:4022/udp/225.1.1.232:30120
-#EXTINF:-1 group-title="VN",Disney Channel HD
-http://118.69.28.124:4022/udp/225.1.2.158:30120
-#EXTINF:-1 group-title="VN",Disney Channel HD
-http://118.69.28.124:4022/udp/225.1.2.160:30120
-#EXTINF:-1 group-title="VN",Disney Junior
-http://118.69.28.124:4022/udp/225.1.1.233:30120
-#EXTINF:-1 group-title="VN",Diva
-http://118.69.28.124:4022/udp/225.1.1.199:30120
-#EXTINF:-1 group-title="VN",DW
-http://118.69.28.124:4022/udp/225.1.1.203:30120
-#EXTINF:-1 group-title="VN",DW HD
-http://118.69.28.124:4022/udp/225.1.1.46:30120
-#EXTINF:-1 group-title="VN",Fashion TV
-http://118.69.28.124:4022/udp/225.1.1.234:30120
-#EXTINF:-1 group-title="VN",Fashion TV HD
-http://118.69.28.124:4022/udp/225.1.2.226:30120
-#EXTINF:-1 group-title="VN",Fashion TV HD
-http://118.69.28.124:4022/udp/225.1.2.227:30120
-#EXTINF:-1 group-title="VN",Fox Sports
-http://118.69.28.124:4022/udp/225.1.1.239:30120
-#EXTINF:-1 group-title="VN",Fox Sports HD
-http://118.69.28.124:4022/udp/225.1.2.228:30120
-#EXTINF:-1 group-title="VN",Fox Sports HD
-http://118.69.28.124:4022/udp/225.1.2.229:30120
-#EXTINF:-1 group-title="VN",Fox Sports 2
-http://118.69.28.124:4022/udp/225.1.1.241:30120
-#EXTINF:-1 group-title="VN",Fox Sports 2 HD
-http://118.69.28.124:4022/udp/225.1.1.108:30120
-#EXTINF:-1 group-title="VN",Fox Sports 2 HD
-http://118.69.28.124:4022/udp/225.1.1.141:30120
-#EXTINF:-1 group-title="VN",France 24
-http://118.69.28.124:4022/udp/225.1.2.211:30120
-#EXTINF:-1 group-title="VN",GEM HD
-http://118.69.28.124:4022/udp/225.1.1.17:30120
-#EXTINF:-1 group-title="VN",GEM HD
-http://118.69.28.124:4022/udp/225.1.1.60:30120
-#EXTINF:-1 group-title="VN",HBO SD
-http://118.69.28.124:4022/udp/225.1.1.48:30120
-#EXTINF:-1 group-title="VN",HBO SD
-http://118.69.28.124:4022/udp/225.1.1.235:30120
-#EXTINF:-1 group-title="VN",HBO HD
-http://118.69.28.124:4022/udp/225.1.2.232:30120
-#EXTINF:-1 group-title="VN",HBO HD
-http://118.69.28.124:4022/udp/225.1.2.233:30120
-#EXTINF:-1 group-title="VN",MAX by HBO
-http://118.69.28.124:4022/udp/225.1.1.230:30120
-#EXTINF:-1 group-title="VN",MAX by HBO HD
-http://118.69.28.124:4022/udp/225.1.2.86:30120
-#EXTINF:-1 group-title="VN",MAX by HBO HD
-http://118.69.28.124:4022/udp/225.1.2.91:30120
-#EXTINF:-1 group-title="VN",National Geographic
-http://118.69.28.124:4022/udp/225.1.1.244:30120
-#EXTINF:-1 group-title="VN",National Geographic HD
-http://118.69.28.124:4022/udp/225.1.2.234:30120
-#EXTINF:-1 group-title="VN",National Geographic HD
-http://118.69.28.124:4022/udp/225.1.2.235:30120
-#EXTINF:-1 group-title="VN",NHK World
-http://118.69.28.124:4022/udp/225.1.1.196:30120
-#EXTINF:-1 group-title="VN",NHK World HD
-http://118.69.28.124:4022/udp/225.1.1.47:30120
-#EXTINF:-1 group-title="VN",Outdoor Channel HD
-http://118.69.28.124:4022/udp/225.1.2.214:30120
-#EXTINF:-1 group-title="VN",Outdoor Channel HD
-http://118.69.28.124:4022/udp/225.1.2.215:30120
-#EXTINF:-1 group-title="VN",RED by HBO HD
-http://118.69.28.124:4022/udp/225.1.1.89:30120
-#EXTINF:-1 group-title="VN",RED by HBO HD
-http://118.69.28.124:4022/udp/225.1.1.93:30120
-#EXTINF:-1 group-title="VN",Star Movies
-http://118.69.28.124:4022/udp/225.1.1.205:30120
-#EXTINF:-1 group-title="VN",Star Movies HD
-http://118.69.28.124:4022/udp/225.1.2.238:30120
-#EXTINF:-1 group-title="VN",Star Movies HD
-http://118.69.28.124:4022/udp/225.1.2.239:30120
-#EXTINF:-1 group-title="VN",Fox Life
-http://118.69.28.124:4022/udp/225.1.1.204:30120
-#EXTINF:-1 group-title="VN",Fox Life HD
-http://118.69.28.124:4022/udp/225.1.2.236:30120
-#EXTINF:-1 group-title="VN",Fox Life HD
-http://118.69.28.124:4022/udp/225.1.2.237:30120
-#EXTINF:-1 group-title="VN",TLC
-http://118.69.28.124:4022/udp/225.1.1.236:30120
-#EXTINF:-1 group-title="VN",Toonami HD
-http://118.69.28.124:4022/udp/225.1.2.163:30120
-#EXTINF:-1 group-title="VN",Toonami HD
-http://118.69.28.124:4022/udp/225.1.2.220:30120
-#EXTINF:-1 group-title="VN",TV5Monde Asia
-http://118.69.28.124:4022/udp/225.1.1.200:30120
-#EXTINF:-1 group-title="VN",Warner Bros TV
-http://118.69.28.124:4022/udp/225.1.1.139:30120
-#EXTINF:-1 group-title="VN",Quang cao the thao FPT
-http://118.69.28.124:4022/udp/225.1.2.252:30120
-#EXTINF:-1 group-title="VN",Fashion
-http://118.69.28.124:4022/udp/225.1.1.20:30120
-#EXTINF:-1 group-title="VN",FOX HD
-http://118.69.28.124:4022/udp/225.1.1.51:30120
-#EXTINF:-1 group-title="VN",FOX HD
-http://118.69.28.124:4022/udp/225.1.1.52:30120
-#EXTINF:-1 group-title="VN",Kenh truc tiep
-http://118.69.28.124:4022/udp/225.1.1.13:30120
-#EXTINF:-1 group-title="VN",Babytv
-http://118.69.28.124:4022/udp/225.1.2.146:30120
-#EXTINF:-1 group-title="VN",Babytv
-http://118.69.28.124:4022/udp/225.1.2.147:30120
-#EXTINF:-1 group-title="VN",G Channel - SCTV4
-http://118.69.28.124:4022/udp/225.1.2.187:30120
-#EXTINF:-1 group-title="VN",N/A
-http://118.69.28.124:4022/udp/225.1.2.100:30120
-#EXTINF:-1 group-title="VN",KIX HD
-http://118.69.28.124:4022/udp/225.1.2.144:30120
-#EXTINF:-1 group-title="VN",KIX HD
-http://118.69.28.124:4022/udp/225.1.2.145:30120
-
-
-
-
-
-
-
-
-#EXTINF:-1,**** SPORTSPORTSPORTSPORTSPORTSPORTSPORTSPORTSPORTSPORTSPORTSPORTSPORTSPORTSPORTSPORTSPORTSPORTSPORTSPORTSPORTSPORTSPORTSPORTSPORTSPORT ****
-
-#EXTINF:-1 group-title="SPORT",SPORT 1 | SD (BT)
-http://p2.iptvprivateserver.tv:80/live/1dCt2yvVu8/JDecAEDGKN/259.ts
-#EXTINF:-1 group-title="SPORT",SPORT 1 | SD (BT)
-http://p3.iptvprivateserver.tv:80/live/1dCt2yvVu8/JDecAEDGKN/259.ts
-#EXTINF:-1 group-title="SPORT",SPORT 2 | SD (BT)
-http://p2.iptvprivateserver.tv:80/live/1dCt2yvVu8/JDecAEDGKN/260.ts
-#EXTINF:-1 group-title="SPORT",SPORT 2 | SD (BT)
-http://p3.iptvprivateserver.tv:80/live/1dCt2yvVu8/JDecAEDGKN/260.ts
-#EXTINF:-1 group-title="SPORT",SPORT 3 | SD (BT)
-http://p2.iptvprivateserver.tv:80/live/1dCt2yvVu8/JDecAEDGKN/404.ts
-#EXTINF:-1 group-title="SPORT",SPORT 3 | SD (BT)
-http://p3.iptvprivateserver.tv:80/live/1dCt2yvVu8/JDecAEDGKN/404.ts
-
-#EXTINF:-1 group-title="SPORT",223 - BEIN-SPORTS 1 HD
-http://93.190.142.128:80/live/user2/user2/27917.ts
-#EXTINF:-1 group-title="SPORT",224 - BEIN-SPORTS 2 HD
-http://93.190.142.128:80/live/user2/user2/27916.ts
-#EXTINF:-1 group-title="SPORT",225 - BEIN-SPORTS 3 HD
-http://93.190.142.128:80/live/user2/user2/27915.ts
-#EXTINF:-1 group-title="SPORT",226 - BEIN-SPORTS 4 HD
-http://93.190.142.128:80/live/user2/user2/27914.ts
-#EXTINF:-1 group-title="SPORT",227 - BEIN-SPORTS 5 HD
-http://93.190.142.128:80/live/user2/user2/27913.ts
-#EXTINF:-1 group-title="SPORT",228 - BEIN-SPORTS 6 HD
-http://93.190.142.128:80/live/user2/user2/27912.ts
-#EXTINF:-1 group-title="SPORT",229 - BEIN-SPORTS 7 HD
-http://93.190.142.128:80/live/user2/user2/27911.ts
-#EXTINF:-1 group-title="SPORT",230 - BEIN-SPORTS 8 HD
-http://93.190.142.128:80/live/user2/user2/27910.ts
-#EXTINF:-1 group-title="SPORT",231 - BEIN-SPORTS 9 HD
-http://93.190.142.128:80/live/user2/user2/27909.ts
-#EXTINF:-1 group-title="SPORT",232 - BEIN-SPORTS 10 HD
-http://93.190.142.128:80/live/user2/user2/27908.ts
-#EXTINF:-1 group-title="SPORT",233 - BEIN-SPORTS 11 HD
-http://93.190.142.128:80/live/user2/user2/27907.ts
-#EXTINF:-1 group-title="SPORT",234 - BEIN-SPORTS 12 HD
-http://93.190.142.128:80/live/user2/user2/27906.ts
-#EXTINF:-1 group-title="SPORT",125 - B-T-SPORTS 1 HD
-http://93.190.142.128:80/live/user2/user2/27994.ts
-#EXTINF:-1 group-title="SPORT",126 - B-T-SPORTS 1
-http://93.190.142.128:80/live/user2/user2/27993.ts
-#EXTINF:-1 group-title="SPORT",127 - B-T-SPORTS 2 HD
-http://93.190.142.128:80/live/user2/user2/27992.ts
-#EXTINF:-1 group-title="SPORT",128 - B-T-SPORTS 2
-http://93.190.142.128:80/live/user2/user2/27991.ts
-#EXTINF:-1 group-title="SPORT",129 - B-T-SPORTS 3 HD
-http://93.190.142.128:80/live/user2/user2/27990.ts
-#EXTINF:-1 group-title="SPORT",130 - B-T-SPORTS 3
-http://93.190.142.128:80/live/user2/user2/27989.ts
-#EXTINF:-1 group-title="SPORT",131 - B-T-SPORTS ESPN HD
-http://93.190.142.128:80/live/user2/user2/27988.ts
-#EXTINF:-1 group-title="SPORT",132 - B-T-SPORTS ESPN
-http://93.190.142.128:80/live/user2/user2/27987.ts
-#EXTINF:-1 group-title="SPORT",133 - B-T-SPORTS-EXTRA 1
-http://93.190.142.128:80/live/user2/user2/27986.ts
-#EXTINF:-1 group-title="SPORT",134 - B-T-SPORTS-EXTRA 2
-http://93.190.142.128:80/live/user2/user2/27985.ts
-#EXTINF:-1 group-title="SPORT",135 - B-T-SPORTS-EXTRA 3
-http://93.190.142.128:80/live/user2/user2/27984.ts
-#EXTINF:-1 group-title="SPORT",136 - B-T-SPORTS-EXTRA 4
-http://93.190.142.128:80/live/user2/user2/27983.ts
-#EXTINF:-1 group-title="SPORT",137 - B-T-SPORTS-EXTRA 5
-http://93.190.142.128:80/live/user2/user2/27982.ts
-#EXTINF:-1 group-title="SPORT",138 - B-T-SPORTS-EXTRA 6
-http://93.190.142.128:80/live/user2/user2/27981.ts
-#EXTINF:-1 group-title="SPORT",139 - SLY-SPORTS-BOX-OFFICE-HD
-http://93.190.142.128:80/live/user2/user2/27980.ts
-#EXTINF:-1 group-title="SPORT",140 - SLY-SPORTS-MAIN-EVENT-HD
-http://93.190.142.128:80/live/user2/user2/27979.ts
-#EXTINF:-1 group-title="SPORT",141 - SLY-SPORTS-MAIN-EVENT
-http://93.190.142.128:80/live/user2/user2/27978.ts
-#EXTINF:-1 group-title="SPORT",142 - SLY-SPORTS-ACTION-HD
-http://93.190.142.128:80/live/user2/user2/27977.ts
-#EXTINF:-1 group-title="SPORT",143 - SLY-SPORTS-ACTION
-http://93.190.142.128:80/live/user2/user2/27976.ts
-#EXTINF:-1 group-title="SPORT",144 - SLY-SPORTS-PREM-LEAGUE-HD
-http://93.190.142.128:80/live/user2/user2/27975.ts
-#EXTINF:-1 group-title="SPORT",145 - SLY-SPORTS-PREM-LEAGUE
-http://93.190.142.128:80/live/user2/user2/27974.ts
-#EXTINF:-1 group-title="SPORT",146 - SLY-SPORTS-FOOTBALL-HD
-http://93.190.142.128:80/live/user2/user2/27973.ts
-#EXTINF:-1 group-title="SPORT",147 - SLY-SPORTS-FOOTBALL
-http://93.190.142.128:80/live/user2/user2/27972.ts
-#EXTINF:-1 group-title="SPORT",148 - SLY-SPORTS-ARENA-HD
-http://93.190.142.128:80/live/user2/user2/27971.ts
-#EXTINF:-1 group-title="SPORT",149 - SLY-SPORTS-ARENA
-http://93.190.142.128:80/live/user2/user2/27970.ts
-#EXTINF:-1 group-title="SPORT",150 - SLY-SPORTS-CRICKET-HD
-http://93.190.142.128:80/live/user2/user2/27969.ts
-#EXTINF:-1 group-title="SPORT",151 - SLY-SPORTS-CRICKET
-http://93.190.142.128:80/live/user2/user2/27968.ts
-#EXTINF:-1 group-title="SPORT",152 - SLY-SPORTS-F1-HD
-http://93.190.142.128:80/live/user2/user2/27967.ts
-#EXTINF:-1 group-title="SPORT",153 - SLY-SPORTS-F1
-http://93.190.142.128:80/live/user2/user2/27966.ts
-#EXTINF:-1 group-title="SPORT",154 - SLY-SPORTS-GOLF-HD
-http://93.190.142.128:80/live/user2/user2/27965.ts
-#EXTINF:-1 group-title="SPORT",155 - SLY-SPORTS-GOLF
-http://93.190.142.128:80/live/user2/user2/27964.ts
-#EXTINF:-1 group-title="SPORT",156 - SLY-SPORTS-MIX-HD
-http://93.190.142.128:80/live/user2/user2/27963.ts
-#EXTINF:-1 group-title="SPORT",157 - SLY-SPORTS-MIX
-http://93.190.142.128:80/live/user2/user2/27962.ts
-#EXTINF:-1 group-title="SPORT",158 - SLY-SPORTS-NEWS-HD
-http://93.190.142.128:80/live/user2/user2/27961.ts
-#EXTINF:-1 group-title="SPORT",159 - SLY-SPORTS-NEWS
-http://93.190.142.128:80/live/user2/user2/27960.ts
-#EXTINF:-1 group-title="SPORT",169 - MOTORSPORT TV
-http://93.190.142.128:80/live/user2/user2/27955.ts
-#EXTINF:-1 group-title="SPORT",170 - EIR-SPORT 1
-http://93.190.142.128:80/live/user2/user2/27954.ts
-#EXTINF:-1 group-title="SPORT",171 - EIR-SPORT 2
-http://93.190.142.128:80/live/user2/user2/27953.ts
-#EXTINF:-1 group-title="SPORT",172 - EUROSPORT 1
-http://93.190.142.128:80/live/user2/user2/27952.ts
-#EXTINF:-1 group-title="SPORT",173 - EUROSPORT 2
-http://93.190.142.128:80/live/user2/user2/27951.ts
-#EXTINF:-1 group-title="SPORT",174 - PREMIERSPORTS HD
-http://93.190.142.128:80/live/user2/user2/27950.ts
-#EXTINF:-1 group-title="SPORT",175 - PREMIERSPORTS
-http://93.190.142.128:80/live/user2/user2/27949.ts
-#EXTINF:-1 group-title="SPORT",176 - RACING UK HD
-http://93.190.142.128:80/live/user2/user2/27948.ts
-#EXTINF:-1 group-title="SPORT",177 - RACING UK
-http://93.190.142.128:80/live/user2/user2/27947.ts
-#EXTINF:-1 group-title="SPORT",180 - SPORTS-NET-EAST HD (US)
-http://93.190.142.128:80/live/user2/user2/27946.ts
-#EXTINF:-1 group-title="SPORT",181 - SPORTS-NET-EAST (US)
-http://93.190.142.128:80/live/user2/user2/27945.ts
-#EXTINF:-1 group-title="SPORT",182 - SPORTS-NET-ONTARIO HD (US)
-http://93.190.142.128:80/live/user2/user2/27944.ts
-#EXTINF:-1 group-title="SPORT",183 - SPORTS-NET-ONTARIO (US)
-http://93.190.142.128:80/live/user2/user2/27943.ts
-#EXTINF:-1 group-title="SPORT",184 - SPORTS-NET-PACIFIC HD (US)
-http://93.190.142.128:80/live/user2/user2/27942.ts
-#EXTINF:-1 group-title="SPORT",185 - SPORTS-NET-PACIFIC (US)
-http://93.190.142.128:80/live/user2/user2/27941.ts
-#EXTINF:-1 group-title="SPORT",186 - SPORTS-NET-WEST HD (US)
-http://93.190.142.128:80/live/user2/user2/27940.ts
-#EXTINF:-1 group-title="SPORT",187 - SPORTS-NET-WEST (US)
-http://93.190.142.128:80/live/user2/user2/27939.ts
-#EXTINF:-1 group-title="SPORT",188 - SPORTS-NET-WORLD HD (US)
-http://93.190.142.128:80/live/user2/user2/27938.ts
-#EXTINF:-1 group-title="SPORT",189 - SPORTS-NET-WORLD (US)
-http://93.190.142.128:80/live/user2/user2/27937.ts
-#EXTINF:-1 group-title="SPORT",190 - SPORTS-NET-360 HD (US)
-http://93.190.142.128:80/live/user2/user2/27936.ts
-#EXTINF:-1 group-title="SPORT",191 - SPORTS-NET-360 (US)
-http://93.190.142.128:80/live/user2/user2/27935.ts
-#EXTINF:-1 group-title="SPORT",192 - SPORTS-NET-ONE HD (US)
-http://93.190.142.128:80/live/user2/user2/27934.ts
-#EXTINF:-1 group-title="SPORT",193 - SPORTS-NET-ONE (US)
-http://93.190.142.128:80/live/user2/user2/27933.ts
-#EXTINF:-1 group-title="SPORT",199 - WWE NETWORK (US)
-http://93.190.142.128:80/live/user2/user2/27927.ts
-#EXTINF:-1 group-title="SPORT",200 - FOX-SPORTS 1 (US)
-http://93.190.142.128:80/live/user2/user2/27926.ts
-#EXTINF:-1 group-title="SPORT",201 - FOX-SPORTS 2 (US)
-http://93.190.142.128:80/live/user2/user2/27925.ts
-#EXTINF:-1 group-title="SPORT",202 - AFN-SPORTS (US)
-http://93.190.142.128:80/live/user2/user2/27924.ts
-#EXTINF:-1 group-title="SPORT",203 - AFN-SPORTS 2 (US)
-http://93.190.142.128:80/live/user2/user2/27923.ts
-#EXTINF:-1 group-title="SPORT",204 - MLB NETWORK (US)
-http://93.190.142.128:80/live/user2/user2/27922.ts
-#EXTINF:-1 group-title="SPORT",205 - NBA TV (US)
-http://93.190.142.128:80/live/user2/user2/27921.ts
-#EXTINF:-1 group-title="SPORT",220 - BEIN FR 1
-http://93.190.142.128:80/live/user2/user2/27920.ts
-#EXTINF:-1 group-title="SPORT",221 - BEIN FR 2
-http://93.190.142.128:80/live/user2/user2/27919.ts
-#EXTINF:-1 group-title="SPORT",222 - BEIN FR 3
-http://93.190.142.128:80/live/user2/user2/27918.ts
-#EXTINF:-1 group-title="SPORT",235 - BEIN-SPORTS EPL 1 (GAME TIMES ONLY)
-http://93.190.142.128:80/live/user2/user2/27905.ts
-#EXTINF:-1 group-title="SPORT",236 - BEIN-SPORTS EPL 2 (GAME TIMES ONLY)
-http://93.190.142.128:80/live/user2/user2/27904.ts
-#EXTINF:-1 group-title="SPORT",237 - BEIN-SPORTS EPL 3 (GAME TIMES ONLY)
-http://93.190.142.128:80/live/user2/user2/27903.ts
-#EXTINF:-1 group-title="SPORT",238 - BEIN-SPORTS EPL 4 (GAME TIMES ONLY)
-http://93.190.142.128:80/live/user2/user2/27902.ts
-#EXTINF:-1 group-title="SPORT",239 - BEIN-THAI 1
-http://93.190.142.128:80/live/user2/user2/27901.ts
-#EXTINF:-1 group-title="SPORT",240 - BEIN-THAI 2
-http://93.190.142.128:80/live/user2/user2/27900.ts
-#EXTINF:-1 group-title="SPORT",241 - BEIN-THAI 3
-http://93.190.142.128:80/live/user2/user2/27899.ts
-#EXTINF:-1 group-title="SPORT",242 - OLYMPIC CHANNEL
-http://93.190.142.128:80/live/user2/user2/27898.ts
-#EXTINF:-1 group-title="SPORT",243 - NBC GOLF HD
-http://93.190.142.128:80/live/user2/user2/27897.ts
-#EXTINF:-1 group-title="SPORT",244 - C GOLF
-http://93.190.142.128:80/live/user2/user2/27896.ts
-#EXTINF:-1 group-title="SPORT",245 - ZIGGO-SPORTS-EXTRA 1
-http://93.190.142.128:80/live/user2/user2/27895.ts
-#EXTINF:-1 group-title="SPORT",246 - ZIGGO-SPORTS-EXTRA 2
-http://93.190.142.128:80/live/user2/user2/27894.ts
-#EXTINF:-1 group-title="SPORT",247 - ZIGGO-SPORTS-VOETBALL
-http://93.190.142.128:80/live/user2/user2/27893.ts
-#EXTINF:-1 group-title="SPORT",248 - USA NBC GOLF
-http://93.190.142.128:80/live/user2/user2/27892.ts
-#EXTINF:-1 group-title="SPORT",249 - CANAL SPORTS
-http://93.190.142.128:80/live/user2/user2/27891.ts
-#EXTINF:-1 group-title="SPORT",250 - SFR-SPORT 1
-http://93.190.142.128:80/live/user2/user2/27890.ts
-#EXTINF:-1 group-title="SPORT",251 - SFR-SPORT 2
-http://93.190.142.128:80/live/user2/user2/27889.ts
-#EXTINF:-1 group-title="SPORT",252 - SFR-SPORT 3
-http://93.190.142.128:80/live/user2/user2/27888.ts
-#EXTINF:-1 group-title="SPORT",253 - SPORT-KLUB 1HD
-http://93.190.142.128:80/live/user2/user2/27887.ts
-#EXTINF:-1 group-title="SPORT",254 - SPORT-KLUB 2HD
-http://93.190.142.128:80/live/user2/user2/27886.ts
-#EXTINF:-1 group-title="SPORT",255 - SPORT-KLUB 3HD
-http://93.190.142.128:80/live/user2/user2/27885.ts
-#EXTINF:-1 group-title="SPORT",256 - SKY-NET-SPORTS 1
-http://93.190.142.128:80/live/user2/user2/27884.ts
-#EXTINF:-1 group-title="SPORT",257 - SKY-NET-SPORTS 2
-http://93.190.142.128:80/live/user2/user2/27883.ts
-#EXTINF:-1 group-title="SPORT",258 - SKY-NET-SPORTS 3
-http://93.190.142.128:80/live/user2/user2/27882.ts
-#EXTINF:-1 group-title="SPORT",259 - SKY-NET-SPORTS 4
-http://93.190.142.128:80/live/user2/user2/27881.ts
-#EXTINF:-1 group-title="SPORT",260 - SKY-NET-SPORTS 5
-http://93.190.142.128:80/live/user2/user2/27880.ts
-#EXTINF:-1 group-title="SPORT",261 - SKY-NET-SPORTS 6
-http://93.190.142.128:80/live/user2/user2/27879.ts
-
-#EXTINF:-1 group-title="SPORT",AR : beIN SPORTS 1 HD
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/166.ts
-#EXTINF:-1 group-title="SPORT",AR : beIN SPORTS 2 HD
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/167.ts
-#EXTINF:-1 group-title="SPORT",AR : beIN SPORTS 3 HD
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/168.ts
-#EXTINF:-1 group-title="SPORT",AR : beIN SPORTS 4 HD
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/169.ts
-#EXTINF:-1 group-title="SPORT",AR : beIN SPORTS 5 HD
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/170.ts
-#EXTINF:-1 group-title="SPORT",AR : beIN SPORTS 6 HD
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/171.ts
-#EXTINF:-1 group-title="SPORT",AR : beIN SPORTS 7 HD
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/172.ts
-#EXTINF:-1 group-title="SPORT",AR : beIN SPORTS 8 HD
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/173.ts
-#EXTINF:-1 group-title="SPORT",UK : At The Races
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/667.ts
-#EXTINF:-1 group-title="SPORT",UK : Bike
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/539.ts
-#EXTINF:-1 group-title="SPORT",UK : Boxnation
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/525.ts
-#EXTINF:-1 group-title="SPORT",UK : BT Sports ESPN
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/524.ts
-#EXTINF:-1 group-title="SPORT",UK : BT Sports 1 HD
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/229.ts
-#EXTINF:-1 group-title="SPORT",UK : BT Sports 2 HD
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/230.ts
-#EXTINF:-1 group-title="SPORT",UK : BT Sports 3 HD
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/523.ts
-#EXTINF:-1 group-title="SPORT",UK : Sky Sports Main Event  HD
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/226.ts
-#EXTINF:-1 group-title="SPORT",UK : Sky Sports Cricket  HD
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/535.ts
-#EXTINF:-1 group-title="SPORT",UK : Sky Sports Action  HD
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/227.ts
-#EXTINF:-1 group-title="SPORT",UK : SKY Sports Golf  HD
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/256.ts
-#EXTINF:-1 group-title="SPORT",UK : SKY Sports Premier League HD
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/257.ts
-#EXTINF:-1 group-title="SPORT",UK : Sky Sport MIX
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/717.ts
-#EXTINF:-1 group-title="SPORT",Uk : Sky Sports F1 HD
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/659.ts
-#EXTINF:-1 group-title="SPORT",UK : eir Sport 1
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/536.ts
-#EXTINF:-1 group-title="SPORT",UK : eir Sport 2
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/537.ts
-#EXTINF:-1 group-title="SPORT",UK : Racing
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/541.ts
-#EXTINF:-1 group-title="SPORT",Uk : Eurosport 1 HD
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/655.ts
-#EXTINF:-1 group-title="SPORT",Uk : EuroSports HD 2
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/654.ts
-#EXTINF:-1 group-title="SPORT",Uk : Sky Sports News HQ
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/657.ts
-#EXTINF:-1 group-title="SPORT",UK : Manchester United TV
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/666.ts
-#EXTINF:-1 group-title="SPORT",UK : LFC TV
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/511.ts
-#EXTINF:-1 group-title="SPORT",UK : Chelsea tv
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/669.ts
-#EXTINF:-1 group-title="SPORT",DE : Eurosport 1
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/111.ts
-#EXTINF:-1 group-title="SPORT",DE : Eurosport 2
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/128.ts
-#EXTINF:-1 group-title="SPORT",DE : Sky Bundesliga 1 HD
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/107.ts
-#EXTINF:-1 group-title="SPORT",DE : Sky Sport News
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/106.ts
-#EXTINF:-1 group-title="SPORT",DE : Sky Sport  Austria
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/572.ts
-#EXTINF:-1 group-title="SPORT",DE : Sky SPORTS 1 HD
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/383.ts
-#EXTINF:-1 group-title="SPORT",DE : SKY SPORTS 2 HD
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/385.ts
-#EXTINF:-1 group-title="SPORT",IT : Fox Sports 1 HD
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/176.ts
-#EXTINF:-1 group-title="SPORT",IT : RAI SPORT 1 HD
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/163.ts
-#EXTINF:-1 group-title="SPORT",IT : EUROSPORT 1
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/218.ts
-#EXTINF:-1 group-title="SPORT",IT : SKY SPORT 1 HD
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/239.ts
-#EXTINF:-1 group-title="SPORT",IT :  SKY SPORT F1 HD
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/507.ts
-#EXTINF:-1 group-title="SPORT",IT : SKY SPORT 24 HD
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/148.ts
-#EXTINF:-1 group-title="SPORT",IT : SKY SUPER CALCIO HD
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/146.ts
-#EXTINF:-1 group-title="SPORT",FR : BFM SPORT TV
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/359.ts
-#EXTINF:-1 group-title="SPORT",FR : Canal+ Sport HD
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/67.ts
-#EXTINF:-1 group-title="SPORT",FR : EuroSport 1
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/569.ts
-#EXTINF:-1 group-title="SPORT",FR : Eurosport 2
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/827.ts
-#EXTINF:-1 group-title="SPORT",FR : FOOT 24
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/394.ts
-#EXTINF:-1 group-title="SPORT",FR : Infosport
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/35.ts
-#EXTINF:-1 group-title="SPORT",FR : L'EQUIPE 21
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/395.ts
-#EXTINF:-1 group-title="SPORT",FR : SFR Sport 1 HD
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/96.ts
-#EXTINF:-1 group-title="SPORT",FR : SFR Sport 2 HD
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/97.ts
-#EXTINF:-1 group-title="SPORT",FR : SFR Sport 3
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/360.ts
-#EXTINF:-1 group-title="SPORT",ES : Bein Sports La Liga FHD
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/850.ts
-#EXTINF:-1 group-title="SPORT",ES : Bein Sports Spain FHD
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/851.ts
-#EXTINF:-1 group-title="SPORT",ES : EUROSPORT 1
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/624.ts
-#EXTINF:-1 group-title="SPORT",ES : EUROSPORT 2
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/623.ts
-#EXTINF:-1 group-title="SPORT",AR : Ad Sport1
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/310.ts
-#EXTINF:-1 group-title="SPORT",AR : AD SPORT2
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/311.ts
-#EXTINF:-1 group-title="SPORT",FR : BeIN SPORTS 1 HD
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/44.ts
-#EXTINF:-1 group-title="SPORT",FR : BeIN SPORTS 2 HD
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/45.ts
-#EXTINF:-1 group-title="SPORT",FR : BEIN SPORTS 3 HD
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/366.ts
-#EXTINF:-1 group-title="SPORT",FR : BEIN SPORTS MAX 4 FR
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/367.ts
-#EXTINF:-1 group-title="SPORT",FR : BeIN SPORTS MAX 5
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/676.ts
-#EXTINF:-1 group-title="SPORT",FR : BEIN SPORTS MAX 6
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/368.ts
-#EXTINF:-1 group-title="SPORT",FR : BeIN SPORTS MAX 7
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/677.ts
-#EXTINF:-1 group-title="SPORT",FR : BeIN SPORTS MAX 8
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/678.ts
-#EXTINF:-1 group-title="SPORT",FR : BeIN SPORTS MAX 9
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/679.ts
-#EXTINF:-1 group-title="SPORT",FR : BeIN SPORTS MAX 10
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/680.ts
-#EXTINF:-1 group-title="SPORT",BEiN SPORT-1 HD  (720P)
-http://championtv.dyndns.tv:2016/live/viphdiptv/sn4ks62na/1.ts
-#EXTINF:-1 group-title="SPORT",BEiN SPORT-2 HD  (720P)
-http://championtv.dyndns.tv:2016/live/viphdiptv/sn4ks62na/2.ts
-#EXTINF:-1 group-title="SPORT",BEiN SPORT-3 HD  (720P)
-http://championtv.dyndns.tv:2016/live/viphdiptv/sn4ks62na/3.ts
-#EXTINF:-1 group-title="SPORT",BEiN SPORT-4 HD  (720P)
-http://championtv.dyndns.tv:2016/live/viphdiptv/sn4ks62na/4.ts
-#EXTINF:-1 group-title="SPORT",BEiN SPORT MAX 1-HD (720P)
-http://championtv.dyndns.tv:2016/live/viphdiptv/sn4ks62na/5.ts
-#EXTINF:-1 group-title="SPORT",BEiN SPORT MAX 2-HD (720P)
-http://championtv.dyndns.tv:2016/live/viphdiptv/sn4ks62na/360.ts
-#EXTINF:-1 group-title="SPORT",S-SPORT HD 720P.
-http://championtv.dyndns.tv:2016/live/viphdiptv/sn4ks62na/98.ts
-#EXTINF:-1 group-title="SPORT",SMARTSPOR HD 1080P
-http://championtv.dyndns.tv:2016/live/viphdiptv/sn4ks62na/97.ts
-#EXTINF:-1 group-title="SPORT",TIVIBUSPOR-1 HD
-http://championtv.dyndns.tv:2016/live/viphdiptv/sn4ks62na/93.ts
-#EXTINF:-1 group-title="SPORT",TIVIBUSPOR-2 HD
-http://championtv.dyndns.tv:2016/live/viphdiptv/sn4ks62na/94.ts
-#EXTINF:-1 group-title="SPORT",TIVIBUSPOR-3 HD
-http://championtv.dyndns.tv:2016/live/viphdiptv/sn4ks62na/95.ts
-#EXTINF:-1 group-title="SPORT",TIVIBUSPOR-4 HD
-http://championtv.dyndns.tv:2016/live/viphdiptv/sn4ks62na/96.ts
-
-#EXTINF:-1 group-title="SPORT",SKY FOX SPORTS | HD (IT)
-http://bb1.qat5.ru:80/live/tdk07/e80ym3cQo9/152.ts
-#EXTINF:-1 group-title="SPORT",SKY FOX SPORTS B | HD (IT)
-http://bb1.qat5.ru:80/live/tdk07/e80ym3cQo9/4716.ts
-#EXTINF:-1 group-title="SPORT",SKY SPORT 1 | HD (IT)
-http://bb1.qat5.ru:80/live/tdk07/e80ym3cQo9/82.ts
-#EXTINF:-1 group-title="SPORT",SKY SPORT 1 B | HD (IT)
-http://bb1.qat5.ru:80/live/tdk07/e80ym3cQo9/4720.ts
-#EXTINF:-1 group-title="SPORT",SKY SPORT 1 FHD | SD (IT)
-http://bb1.qat5.ru:80/live/tdk07/e80ym3cQo9/13794.ts
-#EXTINF:-1 group-title="SPORT",SKY SPORT 2 | HD (IT)
-http://bb1.qat5.ru:80/live/tdk07/e80ym3cQo9/83.ts
-#EXTINF:-1 group-title="SPORT",SKY SPORT 2 B | HD (IT)
-http://bb1.qat5.ru:80/live/tdk07/e80ym3cQo9/4719.ts
-#EXTINF:-1 group-title="SPORT",SKY SPORT 3 | HD (IT)
-http://bb1.qat5.ru:80/live/tdk07/e80ym3cQo9/151.ts
-#EXTINF:-1 group-title="SPORT",SKY SPORT 3 B | HD (IT)
-http://bb1.qat5.ru:80/live/tdk07/e80ym3cQo9/4718.ts
-#EXTINF:-1 group-title="SPORT",SKY SPORT F1 | HD (IT)
-http://bb1.qat5.ru:80/live/tdk07/e80ym3cQo9/153.ts
-#EXTINF:-1 group-title="SPORT",SKY SPORT F1 B | HD (IT)
-http://bb1.qat5.ru:80/live/tdk07/e80ym3cQo9/4715.ts
-#EXTINF:-1 group-title="SPORT",SKY SPORT MOTO GP | HD (IT)
-http://bb1.qat5.ru:80/live/tdk07/e80ym3cQo9/242.ts
-#EXTINF:-1 group-title="SPORT",SKY SPORT MOTO GP B | HD (IT)
-http://bb1.qat5.ru:80/live/tdk07/e80ym3cQo9/4714.ts
-#EXTINF:-1 group-title="SPORT",SKY SPORTS 24 | HD (IT)
-http://bb1.qat5.ru:80/live/tdk07/e80ym3cQo9/94.ts
-#EXTINF:-1 group-title="SPORT",SKY SPORTS 24 B | HD (IT)
-http://bb1.qat5.ru:80/live/tdk07/e80ym3cQo9/4721.ts
-#EXTINF:-1 group-title="SPORT",SKY SPORTS MIX | SD (IT)
-http://bb1.qat5.ru:80/live/tdk07/e80ym3cQo9/11287.ts
-#EXTINF:-1 group-title="SPORT",SKY SPORTS PLUS | HD (IT)
-http://bb1.qat5.ru:80/live/tdk07/e80ym3cQo9/298.ts
-#EXTINF:-1 group-title="SPORT",SKY SPORTS PLUS B | HD (IT)
-http://bb1.qat5.ru:80/live/tdk07/e80ym3cQo9/4717.ts
-#EXTINF:-1 group-title="SPORT",SKY SUPER CALCIO | HD (IT)
-http://bb1.qat5.ru:80/live/tdk07/e80ym3cQo9/95.ts
-#EXTINF:-1 group-title="SPORT",SKY SUPER CALCIO B | SD (IT)
-http://bb1.qat5.ru:80/live/tdk07/e80ym3cQo9/4713.ts
-#EXTINF:-1 group-title="SPORT",SKY UNO | HD (IT)
-http://bb1.qat5.ru:80/live/tdk07/e80ym3cQo9/544.ts
-#EXTINF:-1 group-title="SPORT",SKY UNO | HD (IT)
-http://bb1.qat5.ru:80/live/tdk07/e80ym3cQo9/11653.ts
-#EXTINF:-1 group-title="SPORT",SKY UNO +1 | HD (IT)
-http://bb1.qat5.ru:80/live/tdk07/e80ym3cQo9/545.ts
-
-
-
-
-#EXTINF:-1,**** FRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFR ****
-
-#EXTINF:-1 group-title="FRANCE",FR : Canal Cinema
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/63.ts
-#EXTINF:-1 group-title="FRANCE",FR : Canal Decale HD
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/64.ts
-#EXTINF:-1 group-title="FRANCE",FR : Canal Family
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/65.ts
-#EXTINF:-1 group-title="FRANCE",FR : Canal Series
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/66.ts
-#EXTINF:-1 group-title="FRANCE",FR : Cine Emotion
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/71.ts
-#EXTINF:-1 group-title="FRANCE",FR : Cine Frisson
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/72.ts
-#EXTINF:-1 group-title="FRANCE",FR : CINE POLAR HD
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/564.ts
-#EXTINF:-1 group-title="FRANCE",FR : Cine Famiz
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/198.ts
-#EXTINF:-1 group-title="FRANCE",FR : Cine FX
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/73.ts
-#EXTINF:-1 group-title="FRANCE",FR : Comedie+
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/77.ts
-#EXTINF:-1 group-title="FRANCE",FR : CINE CLASSIC HD
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/89.ts
-#EXTINF:-1 group-title="FRANCE",FR : CINE PREMIER
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/90.ts
-#EXTINF:-1 group-title="FRANCE",FR : Chasse et Peche
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/69.ts
-#EXTINF:-1 group-title="FRANCE",FR : Voyage
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/22.ts
-#EXTINF:-1 group-title="FRANCE",FR : USHUAIA TV
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/21.ts
-#EXTINF:-1 group-title="FRANCE",FR : DISCOVERY SCIENCE
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/91.ts
-#EXTINF:-1 group-title="FRANCE",FR : National Geographic HD
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/201.ts
-#EXTINF:-1 group-title="FRANCE",FR : Nat Geo Wild
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/40.ts
-#EXTINF:-1 group-title="FRANCE",FR : Planete+
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/11.ts
-#EXTINF:-1 group-title="FRANCE",FR : Planete  CI
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/12.ts
-#EXTINF:-1 group-title="FRANCE",FR : SEASONS
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/328.ts
-#EXTINF:-1 group-title="FRANCE",FR : TOUTE LHISTORIE
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/356.ts
-#EXTINF:-1 group-title="FRANCE",FR : Animaux
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/52.ts
-#EXTINF:-1 group-title="FRANCE",--- FR-Enfants ---
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/793.ts
-#EXTINF:-1 group-title="FRANCE",FR : Canal J
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/199.ts
-#EXTINF:-1 group-title="FRANCE",FR : CARTOON NETWORK
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/355.ts
-#EXTINF:-1 group-title="FRANCE",FR : Boomerang TV
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/60.ts
-#EXTINF:-1 group-title="FRANCE",FR : Boing
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/202.ts
-#EXTINF:-1 group-title="FRANCE",FR : GAME ONE
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/30.ts
-#EXTINF:-1 group-title="FRANCE",FR : GULLI
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/31.ts
-#EXTINF:-1 group-title="FRANCE",FR : Mangas
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/39.ts
-#EXTINF:-1 group-title="FRANCE",FR : NICKLODEON
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/43.ts
-#EXTINF:-1 group-title="FRANCE",FR : PIWI
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/10.ts
-#EXTINF:-1 group-title="FRANCE",FR : TELETOON
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/396.ts
-#EXTINF:-1 group-title="FRANCE",FR : Tiji
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/828.ts
-#EXTINF:-1 group-title="FRANCE",FR : Zouzous
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/211.ts
-#EXTINF:-1 group-title="FRANCE",--- FR-SPORTS ---
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/792.ts
-#EXTINF:-1 group-title="FRANCE",FR : BFM SPORT TV
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/359.ts
-#EXTINF:-1 group-title="FRANCE",FR : Canal+ Sport HD
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/67.ts
-#EXTINF:-1 group-title="FRANCE",FR : EuroSport 1
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/569.ts
-#EXTINF:-1 group-title="FRANCE",FR : Eurosport 2
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/827.ts
-#EXTINF:-1 group-title="FRANCE",FR : FOOT 24
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/394.ts
-#EXTINF:-1 group-title="FRANCE",FR : Infosport
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/35.ts
-#EXTINF:-1 group-title="FRANCE",FR : L'EQUIPE 21
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/395.ts
-#EXTINF:-1 group-title="FRANCE",FR : SFR Sport 1 HD
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/96.ts
-#EXTINF:-1 group-title="FRANCE",FR : SFR Sport 2 HD
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/97.ts
-#EXTINF:-1 group-title="FRANCE",FR : SFR Sport 3
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/360.ts
-#EXTINF:-1 group-title="FRANCE",--- FR-MUsique ---
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/795.ts
-#EXTINF:-1 group-title="FRANCE",FR : Clubbin  TV
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/207.ts
-#EXTINF:-1 group-title="FRANCE",FR : M6 Music
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/38.ts
-#EXTINF:-1 group-title="FRANCE",FR : MTV dance
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/568.ts
-#EXTINF:-1 group-title="FRANCE",FR : MTV FRANCE
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/567.ts
-#EXTINF:-1 group-title="FRANCE",FR : NRJ.Hits
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/216.ts
-#EXTINF:-1 group-title="FRANCE",--- FR-TNT---
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/798.ts
-#EXTINF:-1 group-title="FRANCE",FR : Arte
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/53.ts
-#EXTINF:-1 group-title="FRANCE",FR : Action
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/51.ts
-#EXTINF:-1 group-title="FRANCE",FR : BFM Business
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/59.ts
-#EXTINF:-1 group-title="FRANCE",FR : Canal+ HD
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/62.ts
-#EXTINF:-1 group-title="FRANCE",FR : D17
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/92.ts
-#EXTINF:-1 group-title="FRANCE",FR : France 2
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/24.ts
-#EXTINF:-1 group-title="FRANCE",FR : France 3
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/25.ts
-#EXTINF:-1 group-title="FRANCE",FR : France 4
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/26.ts
-#EXTINF:-1 group-title="FRANCE",FR : France 5
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/27.ts
-#EXTINF:-1 group-title="FRANCE",FR : i TELE
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/362.ts
-#EXTINF:-1 group-title="FRANCE",FR : NT1
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/4.ts
-#EXTINF:-1 group-title="FRANCE",FR : NRJ12
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/563.ts
-#EXTINF:-1 group-title="FRANCE",FR : TF1
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/18.ts
-#EXTINF:-1 group-title="FRANCE",FR : TMC HD
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/19.ts
-#EXTINF:-1 group-title="FRANCE",FR : W9
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/23.ts
-#EXTINF:-1 group-title="FRANCE",FR : M6
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/37.ts
-#EXTINF:-1 group-title="FRANCE",FR : RMC
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/364.ts
-#EXTINF:-1 group-title="FRANCE",FR : FranceO HD
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/28.ts
-#EXTINF:-1 group-title="FRANCE",FR : FRANCE INFO
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/29.ts
-#EXTINF:-1 group-title="FRANCE",FR : NUMERO 23 HD
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/5.ts
-#EXTINF:-1 group-title="FRANCE",FR : OCS Choc
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/8.ts
-#EXTINF:-1 group-title="FRANCE",FR : OCS City
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/6.ts
-#EXTINF:-1 group-title="FRANCE",FR : Ocs Geant HD
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/205.ts
-#EXTINF:-1 group-title="FRANCE",FR : OCS Max HD
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/7.ts
-#EXTINF:-1 group-title="FRANCE",--- FR-Divertissement ---
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/797.ts
-#EXTINF:-1 group-title="FRANCE",FR : 6ter
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/48.ts
-#EXTINF:-1 group-title="FRANCE",FR : 13eme Rue
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/47.ts
-#EXTINF:-1 group-title="FRANCE",FR : AB Moteur
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/361.ts
-#EXTINF:-1 group-title="FRANCE",FR : AB1
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/49.ts
-#EXTINF:-1 group-title="FRANCE",FR : Ab3
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/206.ts
-#EXTINF:-1 group-title="FRANCE",FR : C8
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/61.ts
-#EXTINF:-1 group-title="FRANCE",FR : CHERIE 25
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/358.ts
-#EXTINF:-1 group-title="FRANCE",FR : CSTAR
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/78.ts
-#EXTINF:-1 group-title="FRANCE",FR : Disney Cinema
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/81.ts
-#EXTINF:-1 group-title="FRANCE",FR : Disney Channel
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/80.ts
-#EXTINF:-1 group-title="FRANCE",FR : E Entertainment
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/200.ts
-#EXTINF:-1 group-title="FRANCE",FR : Euronews
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/197.ts
-#EXTINF:-1 group-title="FRANCE",FR : GOLF HD
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/365.ts
-#EXTINF:-1 group-title="FRANCE",FR : Grand LilleTV
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/209.ts
-#EXTINF:-1 group-title="FRANCE",FR : HD1
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/32.ts
-#EXTINF:-1 group-title="FRANCE",FR : La Trois
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/363.ts
-#EXTINF:-1 group-title="FRANCE",FR : LCI
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/36.ts
-#EXTINF:-1 group-title="FRANCE",FR : Paramount Channel HD
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/565.ts
-#EXTINF:-1 group-title="FRANCE",FR : Paris Premiere HD
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/204.ts
-#EXTINF:-1 group-title="FRANCE",FR : RTL9
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/195.ts
-#EXTINF:-1 group-title="FRANCE",FR : RTS Deux HD
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/13.ts
-#EXTINF:-1 group-title="FRANCE",FR : RTS Un HD
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/14.ts
-#EXTINF:-1 group-title="FRANCE",FR : Syfy
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/16.ts
-#EXTINF:-1 group-title="FRANCE",FR : Serie Club HD
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/15.ts
-#EXTINF:-1 group-title="FRANCE",FR : TV5.MONDE
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/210.ts
-#EXTINF:-1 group-title="FRANCE",FR : TVBREIZH
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/20.ts
-#EXTINF:-1 group-title="FRANCE",FR : TEVA HD
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/449.ts
-#EXTINF:-1 group-title="FRANCE",FR : Weo
-http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/203.ts
-
-
-
-
-
+#EXTINF:-1,A R A B E S ///
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2914.ts
+#EXTINF:-1,___ MAROC المغرب ___
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2296.ts
+#EXTINF:-1,|AR| MEDI 1 TV
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2274.ts
+#EXTINF:-1,|AR| 2M MAROC
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2313.ts
+#EXTINF:-1,|AR| AL AOULA INTER HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2272.ts
+#EXTINF:-1,|AR| ARRYADIA
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2275.ts
+#EXTINF:-1,|AR| ALMAGHRIBIA-
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1718.ts
+#EXTINF:-1,|AR| ARRABIAA
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2271.ts
+#EXTINF:-1,|AR| ASSADISSA
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2273.ts
+#EXTINF:-1,|AR| TAMAZIGHT
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2276.ts
+#EXTINF:-1,|AR| AL MAGHRIBIA
+http://www.elboxtv.com:1985/live/hassenwafi/skype/97.ts
+#EXTINF:-1,|AR| AL AOULA LAAYOUNE
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2270.ts
+#EXTINF:-1,|AR| BZAF TV
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2995.ts
+#EXTINF:-1,|AR| AL AOULA INTER
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2421.ts
+#EXTINF:-1,|AR| CORAN 24H RADIO
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2392.ts
+#EXTINF:-1,|MAROC| MFM RADIO
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3883.ts
+#EXTINF:-1,|MAROC| ASWAT RADIO
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3884.ts
+#EXTINF:-1,___ ALGERIE الجزائر ___
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2297.ts
+#EXTINF:-1,|AR| CANAL ALGERIE-
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1589.ts
+#EXTINF:-1,|AR| ALGERIE 3
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2065.ts
+#EXTINF:-1,|AR| TV TAMAZIGHT
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2311.ts
+#EXTINF:-1,|AR| SAMIRA TV
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2402.ts
+#EXTINF:-1,|AR| AL NAHAR TV
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2401.ts
+#EXTINF:-1,|AR| ENNAHAR TV ALGERIE.
+http://www.elboxtv.com:1985/live/hassenwafi/skype/789.ts
+#EXTINF:-1,|AR| EL HEDDAF TV
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1879.ts
+#EXTINF:-1,|AR| ECHOROUK TV
+http://www.elboxtv.com:1985/live/hassenwafi/skype/666.ts
+#EXTINF:-1,|AR| ECHOROUK BENNA
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3203.ts
+#EXTINF:-1,|AR| ECHOROUK NEWS
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2400.ts
+#EXTINF:-1,|AR| DZAIR TV
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2399.ts
+#EXTINF:-1,|AR| AL FAJR TV
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3014.ts
+#EXTINF:-1,|AR| TV CORAN DZ5
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1449.ts
+#EXTINF:-1,|AR| KBC TV ALGERIE
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3243.ts
+#EXTINF:-1,|AR| ENTV ALGERIE
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3242.ts
+#EXTINF:-1,|AR| NUMEDIA NEWS TV
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3348.ts
+#EXTINF:-1,|AR| EL BILAD TV
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3347.ts
+#EXTINF:-1,|AR| DZAIR NEWS
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3345.ts
+#EXTINF:-1,|AR| BERBERE TV
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3517.ts
+#EXTINF:-1,|AR| BERBERE MUSIC
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3515.ts
+#EXTINF:-1,|AR| BERBERE JEUNESSE
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3516.ts
+#EXTINF:-1,|AR| ELBAHIA ORAN DZ.
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3613.ts
+#EXTINF:-1,___ TUNISIE تونس ___
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2298.ts
+#EXTINF:-1,|AR| TUNISIA NAT 1
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1430.ts
+#EXTINF:-1,|AR| TUNISIA NAT 2
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1028.ts
+#EXTINF:-1,|AR| AL JANOUBIYA
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2867.ts
+#EXTINF:-1,|AR| ATTESSIA TV
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2820.ts
+#EXTINF:-1,|AR| M TUNISIA
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1717.ts
+#EXTINF:-1,|AR| HANNIBAL TV
+http://www.elboxtv.com:1985/live/hassenwafi/skype/832.ts
+#EXTINF:-1,|AR| HANNIBAL
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1605.ts
+#EXTINF:-1,|AR| AL HIWAR ETTOUNSI TV
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1586.ts
+#EXTINF:-1,|AR| TUNISIA FIRST TV
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2866.ts
+#EXTINF:-1,|AR| TUNISNA
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1584.ts
+#EXTINF:-1,|AR| TUNISNA.
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2410.ts
+#EXTINF:-1,|AR| NESSMA TV
+http://www.elboxtv.com:1985/live/hassenwafi/skype/637.ts
+#EXTINF:-1,|AR| ZAYTOONA
+http://www.elboxtv.com:1985/live/hassenwafi/skype/817.ts
+#EXTINF:-1,|AR| TELVZA TV
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1864.ts
+#EXTINF:-1,|AR| AL MAYADEEN
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1607.ts
+#EXTINF:-1,|AR| MAGHREB 24
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3016.ts
+#EXTINF:-1,|AR| TNN TUNISIA
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3734.ts
+#EXTINF:-1,___ SYRIA سوريا ___
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2303.ts
+#EXTINF:-1,|AR| SYRIA--
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1726.ts
+#EXTINF:-1,|AR| SYRIA NEWS
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2217.ts
+#EXTINF:-1,|AR| SYRIA DRAMA
+http://www.elboxtv.com:1985/live/hassenwafi/skype/92.ts
+#EXTINF:-1,|AR| AL IKHBARIA SYRIA
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1854.ts
+#EXTINF:-1,|AR| NOOR JORDAN
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1855.ts
+#EXTINF:-1,|AR| NOUR ELSHAM
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3084.ts
+#EXTINF:-1,|AR| SYRIA EDUCATION-
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3089.ts
+#EXTINF:-1,|AR| SYRIAN DRAMA-
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3087.ts
+#EXTINF:-1,|AR| SYRIA
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3080.ts
+#EXTINF:-1,|AR| HALAB TODAY TV
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3213.ts
+#EXTINF:-1,|AR| KUWAIT 2
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2828.ts
+#EXTINF:-1,|AR| SYRIA-
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3583.ts
+#EXTINF:-1,|AR| SYRIA EDUCATION
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3589.ts
+#EXTINF:-1,|AR| SADA EL BALAD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1920.ts
+#EXTINF:-1,|AR| JORDAN SPORT
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3733.ts
+#EXTINF:-1,|AR| SAMA JORDAN
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3732.ts
+#EXTINF:-1,___ LEBANON لبنان ___
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2304.ts
+#EXTINF:-1,|AR| FUTURE TV
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1686.ts
+#EXTINF:-1,|AR| MAZZIKA 1
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2178.ts
+#EXTINF:-1,|AR| AL JADEED
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1691.ts
+#EXTINF:-1,|AR| LDC LEBANON-
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1842.ts
+#EXTINF:-1,|AR| MTV LEBANON
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1124.ts
+#EXTINF:-1,|AR| ALJADEED-
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3316.ts
+#EXTINF:-1,|AR| NBN LEBANON
+http://www.elboxtv.com:1985/live/hassenwafi/skype/956.ts
+#EXTINF:-1,|AR| PANORAMA FILM
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1939.ts
+#EXTINF:-1,|AR| OTV LEBANON
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1948.ts
+#EXTINF:-1,|AR| ROTANA KHALIJIA
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1013.ts
+#EXTINF:-1,|AR| ROTANA CLIP
+http://www.elboxtv.com:1985/live/hassenwafi/skype/765.ts
+#EXTINF:-1,|AR| ROTANA CLASSIC
+http://www.elboxtv.com:1985/live/hassenwafi/skype/95.ts
+#EXTINF:-1,|AR| ROTANA CINEMA EGYPT
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1731.ts
+#EXTINF:-1,|AR| ROTANA MUSIC
+http://www.elboxtv.com:1985/live/hassenwafi/skype/763.ts
+#EXTINF:-1,|AR| LBC LEBANON-
+http://www.elboxtv.com:1985/live/hassenwafi/skype/78.ts
+#EXTINF:-1,|AR| FATAFEAT
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3695.ts
+#EXTINF:-1,___ EGYPTE مصر ___
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2299.ts
+#EXTINF:-1,|AR| AL NAHAR TV--
+http://www.elboxtv.com:1985/live/hassenwafi/skype/757.ts
+#EXTINF:-1,|AR| ALHAYAH 1
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2000.ts
+#EXTINF:-1,|AR| AL NAHAR DRAMA-
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1434.ts
+#EXTINF:-1,|AR| ART CINEMA
+http://www.elboxtv.com:1985/live/hassenwafi/skype/754.ts
+#EXTINF:-1,|AR| ART AFLAM 1
+http://www.elboxtv.com:1985/live/hassenwafi/skype/752.ts
+#EXTINF:-1,|AR| ART AFLAM 2
+http://www.elboxtv.com:1985/live/hassenwafi/skype/753.ts
+#EXTINF:-1,|AR| ART HEKAYAT
+http://www.elboxtv.com:1985/live/hassenwafi/skype/268.ts
+#EXTINF:-1,|AR| ART HEKAYAT 2
+http://www.elboxtv.com:1985/live/hassenwafi/skype/756.ts
+#EXTINF:-1,|AR| CAIRO CINEMA
+http://www.elboxtv.com:1985/live/hassenwafi/skype/975.ts
+#EXTINF:-1,|AR| DREAM 1
+http://www.elboxtv.com:1985/live/hassenwafi/skype/640.ts
+#EXTINF:-1,|AR| DREAM 2
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1011.ts
+#EXTINF:-1,|AR| CBC
+http://www.elboxtv.com:1985/live/hassenwafi/skype/265.ts
+#EXTINF:-1,|AR| CBC SOFRA
+http://www.elboxtv.com:1985/live/hassenwafi/skype/794.ts
+#EXTINF:-1,|AR| CBC EXTRA
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1922.ts
+#EXTINF:-1,|AR| CBC DRAMA
+http://www.elboxtv.com:1985/live/hassenwafi/skype/792.ts
+#EXTINF:-1,|AR| IMAGINE MOVIES
+http://www.elboxtv.com:1985/live/hassenwafi/skype/273.ts
+#EXTINF:-1,|AR| MISR ALAN
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1224.ts
+#EXTINF:-1,|AR| MELODY CLASSIC.
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1023.ts
+#EXTINF:-1,|AR| NATIONAL GEOGRAPHIC ABU DHABI-    
+http://www.elboxtv.com:1985/live/hassenwafi/skype/771.ts
+#EXTINF:-1,|AR| NILE TV
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1705.ts
+#EXTINF:-1,|AR| NILE LIFE
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1713.ts
+#EXTINF:-1,|AR| NILE FAMILY-
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1711.ts
+#EXTINF:-1,|AR| NILE FAMILY
+http://www.elboxtv.com:1985/live/hassenwafi/skype/769.ts
+#EXTINF:-1,|AR| NILE DRAMA
+http://www.elboxtv.com:1985/live/hassenwafi/skype/96.ts
+#EXTINF:-1,|AR| NILE CULTURE
+http://www.elboxtv.com:1985/live/hassenwafi/skype/943.ts
+#EXTINF:-1,|AR| NILE COMEDY
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1706.ts
+#EXTINF:-1,|AR| NILE CINEMA
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1710.ts
+#EXTINF:-1,|AR| NILE SPORT
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1542.ts
+#EXTINF:-1,|AR| ONE TV
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1223.ts
+#EXTINF:-1,|AR| AL KAHERA WAL NAS
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1720.ts
+#EXTINF:-1,|AR| ZEE AFLAM-
+http://www.elboxtv.com:1985/live/hassenwafi/skype/622.ts
+#EXTINF:-1,|AR| ZEE CINEMA HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1745.ts
+#EXTINF:-1,|AR| STAR CINEMA 1
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3609.ts
+#EXTINF:-1,___ROTANA و MBC قنوات___
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3618.ts
+#EXTINF:-1,|AR| MBC 1
+http://www.elboxtv.com:1985/live/hassenwafi/skype/81.ts
+#EXTINF:-1,|AR| MBC 1 HD.
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3210.ts
+#EXTINF:-1,|AR| MBC 2
+http://www.elboxtv.com:1985/live/hassenwafi/skype/82.ts
+#EXTINF:-1,|AR| MBC 2 HD.
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3255.ts
+#EXTINF:-1,|AR| MBC 3
+http://www.elboxtv.com:1985/live/hassenwafi/skype/83.ts
+#EXTINF:-1,|AR| MBC 3 HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3614.ts
+#EXTINF:-1,|AR| MBC 4
+http://www.elboxtv.com:1985/live/hassenwafi/skype/84.ts
+#EXTINF:-1,|AR| MBC 4 HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3256.ts
+#EXTINF:-1,|AR| MBC ACTION
+http://www.elboxtv.com:1985/live/hassenwafi/skype/257.ts
+#EXTINF:-1,|AR| MBC ACTION HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3617.ts
+#EXTINF:-1,|AR| MBC MAX
+http://www.elboxtv.com:1985/live/hassenwafi/skype/750.ts
+#EXTINF:-1,|AR| MBC MAX HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3615.ts
+#EXTINF:-1,|AR| MBC MASR
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1019.ts
+#EXTINF:-1,|AR| MBC MASR 2
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1699.ts
+#EXTINF:-1,|AR| MBC DRAMA
+http://www.elboxtv.com:1985/live/hassenwafi/skype/623.ts
+#EXTINF:-1,|AR| MBC DRAMA HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3616.ts
+#EXTINF:-1,|AR| MBC BOLLYWOOD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/93.ts
+#EXTINF:-1,|AR| ROTANA CLIP
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3530.ts
+#EXTINF:-1,|AR| ROTANA MASRIYA-
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3533.ts
+#EXTINF:-1,|AR| ROTANA KHALIJEAH.
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3531.ts
+#EXTINF:-1,|AR| ROTANA CINEMA
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3534.ts
+#EXTINF:-1,___ DUBAI ___
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2301.ts
+#EXTINF:-1,|AR| DUBAI TV
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1436.ts
+#EXTINF:-1,|AR| DUBAI DRAMA
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1440.ts
+#EXTINF:-1,|AR| DUBAI ZAMAN
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1441.ts
+#EXTINF:-1,|AR| DUBAI SPORT 4
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1996.ts
+#EXTINF:-1,|AR| DUBAI SPORT 3
+http://www.elboxtv.com:1985/live/hassenwafi/skype/942.ts
+#EXTINF:-1,|AR| DUBAI RACING
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1997.ts
+#EXTINF:-1,|AR| DUBAI ONE TV
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1039.ts
+#EXTINF:-1,|AR| NOOR DUBAI
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1439.ts
+#EXTINF:-1,|AR| DUBAI
+http://www.elboxtv.com:1985/live/hassenwafi/skype/947.ts
+#EXTINF:-1,|AR| DUBAI SPORT
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1437.ts
+#EXTINF:-1,|AR| SAMA DUBAI
+http://www.elboxtv.com:1985/live/hassenwafi/skype/228.ts
+#EXTINF:-1,___ SAUDIA ___
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2306.ts
+#EXTINF:-1,|AR| AL IRAQIYA SPORT
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1581.ts
+#EXTINF:-1,|AR| BAGHDAD TV
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1225.ts
+#EXTINF:-1,|AR| BAGHDAD HONA
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2028.ts
+#EXTINF:-1,|AR| ALBAGHDADIA NOW
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1958.ts
+#EXTINF:-1,||AR| ANB IRAQ
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1575.ts
+#EXTINF:-1,|AR| ABU DAHBI SPORT 1-
+http://www.elboxtv.com:1985/live/hassenwafi/skype/149.ts
+#EXTINF:-1,|AR| ABU DHABI DRAMA
+http://www.elboxtv.com:1985/live/hassenwafi/skype/98.ts
+#EXTINF:-1,|AR| QATAR TV
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1485.ts
+#EXTINF:-1,|AR| ABU DHABI
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1961.ts
+#EXTINF:-1,|AR| ZEE ALWAN
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2403.ts
+#EXTINF:-1,|AR| WESAL TV
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2827.ts
+#EXTINF:-1,|AR| PALESTIGNE
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1027.ts
+#EXTINF:-1,|AR| LIBYA TV
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1980.ts
+#EXTINF:-1,|AR| AL JAMAHIRIYA
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3015.ts
+#EXTINF:-1,|AR| LIBYA 218
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2824.ts
+#EXTINF:-1,|AR| B4U PLUS
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2398.ts
+#EXTINF:-1,|AR| SUDAN TV
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1993.ts
+#EXTINF:-1,|AR| STAR CINEMA 2
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1033.ts
+#EXTINF:-1,|AR| SAUDI 1
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1994.ts
+#EXTINF:-1,|AR| SAUDI 2
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1995.ts
+#EXTINF:-1,|AR| KUWAIT 1
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1693.ts
+#EXTINF:-1,|AR| FOX MOVIES HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1685.ts
+#EXTINF:-1,|AR| BAZAF LIFE
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1951.ts
+#EXTINF:-1,|AR| BEIN MOVIES 2 HD.
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3339.ts
+#EXTINF:-1,|AR| BEIN MOVIES 3 HD.
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3340.ts
+#EXTINF:-1,|AR| BEIN MOVIES 4 HD.
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3341.ts
+#EXTINF:-1,|AR| B4U AFLAM
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1735.ts
+#EXTINF:-1,|AR| ARRYADIA MAROC
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1743.ts
+#EXTINF:-1,|AR| ARRABIAA -
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2066.ts
+#EXTINF:-1,|AR| ALQUDS TV
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1984.ts
+#EXTINF:-1,|AR| ALKOUT
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1839.ts
+#EXTINF:-1,|AR| ALDANAH-
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1448.ts
+#EXTINF:-1,|AR| AL JAZEERA DOCUMENTARY
+http://www.elboxtv.com:1985/live/hassenwafi/skype/957.ts
+#EXTINF:-1,|AR| NATIONAL GEOGRAFIC  ABU DHABI
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1687.ts
+#EXTINF:-1,___ OSN ___
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2675.ts
+#EXTINF:-1,|AR| OSN MOVIES HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2024.ts
+#EXTINF:-1,|AR| OSN MOVIES COMEDY
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2023.ts
+#EXTINF:-1,|AR| OSN MOVIES FESTIVAL
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3778.ts
+#EXTINF:-1,|AR| OSN FANN
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3779.ts
+#EXTINF:-1,|AR| OSN ON-DEMAND 1
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3789.ts
+#EXTINF:-1,|AR| OSN MOVIES PREMIERE
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3790.ts
+#EXTINF:-1,|AR| OSN MOVIES ACTION HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3793.ts
+#EXTINF:-1,|AR| OSN MOVIES ACTION +2.
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3794.ts
+#EXTINF:-1,___ ATFAL أطفال ___
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3027.ts
+#EXTINF:-1,|AR| CARTOON NETWORK ARABIA
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2397.ts
+#EXTINF:-1,|AR| SEMSEM
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2888.ts
+#EXTINF:-1,|AR| TOYOR AL JANNAH
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1840.ts
+#EXTINF:-1,|AR| TOYOUR BABY
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3000.ts
+#EXTINF:-1,|AR| SPACETOON
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1752.ts
+#EXTINF:-1,|AR| NOON KIDS TV
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3002.ts
+#EXTINF:-1,|AR| MECCA
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3010.ts
+#EXTINF:-1,|AR| KARAMEESH.
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3004.ts
+#EXTINF:-1,|AR| HOD HOD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3003.ts
+#EXTINF:-1,|AR| AJYAL HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2999.ts
+#EXTINF:-1,|AR| BARAEM-
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1125.ts
+#EXTINF:-1,___ AKHBAR أخبار___
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3028.ts
+#EXTINF:-1,|AR| ALJAZEERA HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1191.ts
+#EXTINF:-1,|AR| ALJAZEERA-
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2265.ts
+#EXTINF:-1,|AR| ALARABIYA
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1193.ts
+#EXTINF:-1,|AR| FRANCE 24 ARABIC
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1026.ts
+#EXTINF:-1,|AR| BBC ARABIC
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1020.ts
+#EXTINF:-1,|AR| ANN NEWS
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1865.ts
+#EXTINF:-1,|AR| ORIENT NEWS
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1965.ts
+#EXTINF:-1,|AR| SHARQIYA NEWS
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1955.ts
+#EXTINF:-1,|AR| AL ARABIA ALHADATH
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1722.ts
+#EXTINF:-1,|AR| RUSIYA AL-YAWM
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1861.ts
+#EXTINF:-1,|AR| QATAR TODAY
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1947.ts
+#EXTINF:-1,|AR| SKY NEWS ARABIA
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1919.ts
+#EXTINF:-1,|AR| ALHORRA
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1851.ts
+#EXTINF:-1,|AR| AL MANAR
+http://www.elboxtv.com:1985/live/hassenwafi/skype/664.ts
+#EXTINF:-1,___ ISLAMIC قنوات إسلامية___
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2680.ts
+#EXTINF:-1,|AR| AL RESALAH
+http://www.elboxtv.com:1985/live/hassenwafi/skype/667.ts
+#EXTINF:-1,|AR| QURAN TV
+http://www.elboxtv.com:1985/live/hassenwafi/skype/80.ts
+#EXTINF:-1,|AR| IQRAA TV
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1841.ts
+#EXTINF:-1,|AR| IQRAA TV-
+http://www.elboxtv.com:1985/live/hassenwafi/skype/79.ts
+#EXTINF:-1,|AR| AL MAJD HADITH
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2887.ts
+#EXTINF:-1,|AR| MECCA TV.
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1962.ts
+#EXTINF:-1,|AR| MEKKA QURAN TV-
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1698.ts
+#EXTINF:-1,|AR| SUNNAH NEBAWIYA
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3005.ts
+#EXTINF:-1,|AR| NOOR ELSHAM-
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3012.ts
+#EXTINF:-1,|AR| MAJID KIDS HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3001.ts
+#EXTINF:-1,|AR| ALNAS
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3008.ts
+#EXTINF:-1,|AR| AL MAJD QURAN
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1192.ts
+#EXTINF:-1,|AR| AL RAHMA TV
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1016.ts
+#EXTINF:-1,|AR| AL HAYAT NOOR
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3011.ts
+#EXTINF:-1,|AR| AL MAJD QURAN-
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3007.ts
+#EXTINF:-1,|AR| SAUDI QURAN
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1031.ts
+#EXTINF:-1,|AR| AL MAJD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3013.ts
+#EXTINF:-1,|AR| AYAAT
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3006.ts
+#EXTINF:-1,|CORAN| SAAD ALGHAMDI RADIO
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2911.ts
+#EXTINF:-1,___ AUTRES TV ARABES ___
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2305.ts
+#EXTINF:-1,|AR| BEIN MOVIES 1 HD.
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3093.ts
+#EXTINF:-1,FMTV
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3085.ts
+#EXTINF:-1,|AR| ALMUSTAKILLAH TV
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3081.ts
+#EXTINF:-1,|AR| RUSIYA AL-YAUM
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3541.ts
+#EXTINF:-1,|AR| PANORAMA FOOD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3608.ts
+#EXTINF:-1,|AR| PANORAMA DRAMA 2
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3612.ts
+#EXTINF:-1,|AR| PANORAMA DRAMA 1
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3611.ts
+#EXTINF:-1,|AR| AL HURRA IRAQ
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3597.ts
+#EXTINF:-1,|AR| EL DJAZAIRIA TV
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3574.ts
+#EXTINF:-1,|AR| ALMASAR
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3535.ts
+#EXTINF:-1,|AR| AL MUSTAKILLAH TV-
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3585.ts
+#EXTINF:-1,|AR| AL MAYADEEN-
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3571.ts
+#EXTINF:-1,|AR| AL IRAQIYA 3 SPORT
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3536.ts
+#EXTINF:-1,S P O R T S ///
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3313.ts
+#EXTINF:-1,AR: beINSport 1 HD-S1
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2964.ts
+#EXTINF:-1,AR: beINSport 2 HD-S1
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2967.ts
+#EXTINF:-1,AR: beINSport 3 HD-S1
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2970.ts
+#EXTINF:-1,|AR| BEIN SPORTS 4
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2973.ts
+#EXTINF:-1,AR: BeIN Sports 5 HD-S1
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2976.ts
+#EXTINF:-1,AR: BeIN Sports 6 HD-S1
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2979.ts
+#EXTINF:-1,|AR| BEIN SPORTS 7
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2982.ts
+#EXTINF:-1,|AR| BEIN SPORTS 8
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2985.ts
+#EXTINF:-1,|AR| BEIN SPORTS 9
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2988.ts
+#EXTINF:-1,AR: beINSport 10 HD-S1
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2991.ts
+#EXTINF:-1,|AR| BEIN SPORT 11 HD -
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3326.ts
+#EXTINF:-1,|AR| BEIN SPORTS 12 HD -
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2756.ts
+#EXTINF:-1,|AR| BEIN SPORTS 13 HD -
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2755.ts
+#EXTINF:-1,|AR| BEIN SPORT 14 HD  -
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3328.ts
+#EXTINF:-1,|AR| BEIN SPORT 15 HD -
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3329.ts
+#EXTINF:-1,|AR| BEIN SPORT 16 HD -
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3330.ts
+#EXTINF:-1,|AR| BEIN SPORTS NEWS |SD|
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2890.ts
+#EXTINF:-1,|AR| AL KASS 1
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1970.ts
+#EXTINF:-1,|AR| AL KASS 2
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1226.ts
+#EXTINF:-1,|AR| AL KASS 4
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2279.ts
+#EXTINF:-1,|AR| AL KASS 5
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1971.ts
+#EXTINF:-1,|AR| ABU DHABI SPORTS
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3204.ts
+#EXTINF:-1,|AR| ABU DHABI SPORTS 2
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3205.ts
+#EXTINF:-1,B E L G I Q U E ///
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2917.ts
+#EXTINF:-1,|BE| LA UNE
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2214.ts
+#EXTINF:-1,|BE| LA DEUX
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2061.ts
+#EXTINF:-1,|BE| LA TROIS
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2215.ts
+#EXTINF:-1,|BE| RTL TVI HD.
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2529.ts
+#EXTINF:-1,|BE| PLUG RTL
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2064.ts
+#EXTINF:-1,|BE| EEN HD.
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2534.ts
+#EXTINF:-1,|BE| 2BE HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2532.ts
+#EXTINF:-1,|BE| RTL TVI
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1579.ts
+#EXTINF:-1,|BE| VTM HD.
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3317.ts
+#EXTINF:-1,|BE| VITAYA HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3319.ts
+#EXTINF:-1,|BE| VIER
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3318.ts
+#EXTINF:-1,F R A N C A I S ///
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2915.ts
+#EXTINF:-1,------- C I N E M A -------
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3225.ts
+#EXTINF:-1,------- Divertissement -------
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3226.ts
+#EXTINF:-1,|FR| AB3 |HD|-
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3521.ts
+#EXTINF:-1,------- D O C U M E N T A I R E S -------
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3228.ts
+#EXTINF:-1,------- M U S I C -------
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3229.ts
+#EXTINF:-1,------- I N F O R M A T I O N -------
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3231.ts
+#EXTINF:-1,E N F A N T S ///
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3314.ts
+#EXTINF:-1,------- E N F A N T S -------
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3230.ts
+#EXTINF:-1,------- A U T R E S TV FR -------
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3232.ts
+#EXTINF:-1,I T A L Y ///
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2916.ts
+#EXTINF:-1,G R E C E ///
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3153.ts
+#EXTINF:-1,___ GRECE ___
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3041.ts
+#EXTINF:-1,P O R T U G A L ///
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3202.ts
+#EXTINF:-1,___ PORTUGAL ___
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3201.ts
+#EXTINF:-1,PT: TV GLOBO
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3185.ts
+#EXTINF:-1,PT: TVCine 1
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3196.ts
+#EXTINF:-1,PT: TVCine 2
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3197.ts
+#EXTINF:-1,PT: TVCine 3
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3198.ts
+#EXTINF:-1,PT: TVCine 4
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3199.ts
+#EXTINF:-1,PT: RTP 1
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3167.ts
+#EXTINF:-1,PT: RTP 2
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3168.ts
+#EXTINF:-1,PT: RTP Madeira
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3189.ts
+#EXTINF:-1,PT: RTP Memoria
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3190.ts
+#EXTINF:-1,PT: RTP Acores
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3169.ts
+#EXTINF:-1,PT: Sport TV 1 HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3155.ts
+#EXTINF:-1,PT: Sport TV 2 HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3156.ts
+#EXTINF:-1,PT: Sport TV 3 HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3157.ts
+#EXTINF:-1,PT: Sport TV 4 HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3158.ts
+#EXTINF:-1,PT: TVI REALITY
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3183.ts
+#EXTINF:-1,PT: TVI FICCAO
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3184.ts
+#EXTINF:-1,PT: TVI
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3200.ts
+#EXTINF:-1,PT: SYFY
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3194.ts
+#EXTINF:-1,PT: SportTV 5
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3193.ts
+#EXTINF:-1,PT: Sporting tv
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3170.ts
+#EXTINF:-1,PT: Sic Radical
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3192.ts
+#EXTINF:-1,PT: SIC NOTICIAS
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3186.ts
+#EXTINF:-1,PT: Sic Mulher
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3191.ts
+#EXTINF:-1,PT: SIC KIDS
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3195.ts
+#EXTINF:-1,PT: SIC CARAS
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3171.ts
+#EXTINF:-1,PT: Odesseia
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3172.ts
+#EXTINF:-1,PT: Nat Geo Wild
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3173.ts
+#EXTINF:-1,PT: Hollywood
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3166.ts
+#EXTINF:-1,PT: Fox Life HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3165.ts
+#EXTINF:-1,PT: Fox HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3164.ts
+#EXTINF:-1,PT: Fox Crime
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3175.ts
+#EXTINF:-1,PT: Disney junior
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3176.ts
+#EXTINF:-1,PT: Disney Channel
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3177.ts
+#EXTINF:-1,PT: DISCOVERY CHANNEL
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3178.ts
+#EXTINF:-1,PT: CM TV
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3163.ts
+#EXTINF:-1,PT: CINE MUNDO
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3187.ts
+#EXTINF:-1,PT: Canal Panda
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3179.ts
+#EXTINF:-1,PT: Canal Historia
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3180.ts
+#EXTINF:-1,PT: Benfica tv1
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3162.ts
+#EXTINF:-1,PT: Benfica tv 2
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3161.ts
+#EXTINF:-1,PT: Axn White HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3160.ts
+#EXTINF:-1,PT: AXN HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3188.ts
+#EXTINF:-1,PT: Axn Black HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3159.ts
+#EXTINF:-1,PT: 24 Kitchen
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3181.ts
+#EXTINF:-1,PT:  SIC
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3182.ts
+#EXTINF:-1,U S A  &  U K ///
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2926.ts
+#EXTINF:-1,UK: BBC 1
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1901.ts
+#EXTINF:-1,UK: BBC 2
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1902.ts
+#EXTINF:-1,UK: BBC 3
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1903.ts
+#EXTINF:-1,UK: BBC 4
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1904.ts
+#EXTINF:-1,UK: Sky Sports 1
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1231.ts
+#EXTINF:-1,UK: Sky Sports 2
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1232.ts
+#EXTINF:-1,UK: Sky Sports 3
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1233.ts
+#EXTINF:-1,UK: Sky Sports 4
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1234.ts
+#EXTINF:-1,UK: Sky Sports 5
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1235.ts
+#EXTINF:-1,UK: Sky Sports F1 HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2355.ts
+#EXTINF:-1,UK: SYFY ONE PLUS
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1561.ts
+#EXTINF:-1,UK: Sky Sports News
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2366.ts
+#EXTINF:-1,UK: Star Sports 2
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2371.ts
+#EXTINF:-1,UK: sky two
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1989.ts
+#EXTINF:-1,UK: sky one
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1990.ts
+#EXTINF:-1,UK: SKY NEWS
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1545.ts
+#EXTINF:-1,UK: Sky Movies Action
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1991.ts
+#EXTINF:-1,UK: Sky Atlantic plus 1
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1563.ts
+#EXTINF:-1,UK: Sky Atlantic
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1546.ts
+#EXTINF:-1,UK: RACING UK
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1553.ts
+#EXTINF:-1,UK: Premier Sports
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2358.ts
+#EXTINF:-1,UK: Pick
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1547.ts
+#EXTINF:-1,UK: National Geographic Channel
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2375.ts
+#EXTINF:-1,UK: Natgeo Wild
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2376.ts
+#EXTINF:-1,UK: MTV ROCKS
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1554.ts
+#EXTINF:-1,UK: Mtv Music
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2359.ts
+#EXTINF:-1,UK: Motors Tv
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2370.ts
+#EXTINF:-1,UK: Liverpool FC
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2380.ts
+#EXTINF:-1,UK: ITV4
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1549.ts
+#EXTINF:-1,UK: ITV3
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1900.ts
+#EXTINF:-1,UK: ITV2
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1899.ts
+#EXTINF:-1,UK: ITV1
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1898.ts
+#EXTINF:-1,UK: Itv Be
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1548.ts
+#EXTINF:-1,UK: Itv 1 Plus 1
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1550.ts
+#EXTINF:-1,UK: FOOD NETWORK
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1560.ts
+#EXTINF:-1,UK: Eurosport 2HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1568.ts
+#EXTINF:-1,UK: EUROSPORT 1
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1975.ts
+#EXTINF:-1,UK: Euro Sport
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2367.ts
+#EXTINF:-1,UK: Espn
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1551.ts
+#EXTINF:-1,UK: DISNEY CHANEL
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1565.ts
+#EXTINF:-1,UK: Discovery Shed
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2361.ts
+#EXTINF:-1,UK: DISCOVERY SCIENCE
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1556.ts
+#EXTINF:-1,UK: Discovery
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2357.ts
+#EXTINF:-1,UK: COMEDY CENTRAL
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1978.ts
+#EXTINF:-1,UK: Chelsea TV
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2356.ts
+#EXTINF:-1,UK: CBBC
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1552.ts
+#EXTINF:-1,UK: BT Sport Europe HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2360.ts
+#EXTINF:-1,UK: BT Sport 2 HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2368.ts
+#EXTINF:-1,UK: BT Sport 2
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1748.ts
+#EXTINF:-1,UK: BT Sport 1 HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2369.ts
+#EXTINF:-1,UK: BT Sport 1
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1749.ts
+#EXTINF:-1,UK: B4U Movies
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1973.ts
+#EXTINF:-1,UK: Animal Planet
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2378.ts
+#EXTINF:-1,UK: Sky Sports F1
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1236.ts
+#EXTINF:-1,US: TSN 1 HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1084.ts
+#EXTINF:-1,US: Sports Net 360
+http://www.elboxtv.com:1985/live/hassenwafi/skype/985.ts
+#EXTINF:-1,US: ESPN
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1089.ts
+#EXTINF:-1,US: BBC News
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2210.ts
+#EXTINF:-1,US: ABC News USA
+http://www.elboxtv.com:1985/live/hassenwafi/skype/927.ts
+#EXTINF:-1,T U R Q U I E ///
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2927.ts
+#EXTINF:-1,G E R M A N Y ///
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2920.ts
+#EXTINF:-1,|DE| SKY SELECT 5 HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2220.ts
+#EXTINF:-1,|DE| SKY SELECT 6 HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2221.ts
+#EXTINF:-1,|DE| SKY BUNDESLIGA 2 (event only)
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2223.ts
+#EXTINF:-1,|DE| SKY BUNDESLIGA 2 HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2224.ts
+#EXTINF:-1,|DE| RTL LIVING HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1821.ts
+#EXTINF:-1,|DE| SKY SELECT 7 HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1820.ts
+#EXTINF:-1,|DE| SKY SELECT 8 HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1819.ts
+#EXTINF:-1,|DE| SKY SELECT 9 HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1818.ts
+#EXTINF:-1,|DE| VIVA
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1817.ts
+#EXTINF:-1,|DE| SKY CINEMA HITS HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1816.ts
+#EXTINF:-1,|DE| SPORT +1 HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1777.ts
+#EXTINF:-1,|DE| SKY SPORT 1 HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1775.ts
+#EXTINF:-1,|DE| SKY SPORT 2
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1776.ts
+#EXTINF:-1,|DE| ZDF NEO HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2701.ts
+#EXTINF:-1,|DE| ZDF KULTUR HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2703.ts
+#EXTINF:-1,|DE| ZDF INFOKANAL HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2702.ts
+#EXTINF:-1,|DE| ZDF HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2641.ts
+#EXTINF:-1,|DE| WDR HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2653.ts
+#EXTINF:-1,|DE| VOX HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2647.ts
+#EXTINF:-1,|DE| TNT SERIE HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2732.ts
+#EXTINF:-1,|DE| TNT FILM HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2733.ts
+#EXTINF:-1,|DE| SYFY HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2726.ts
+#EXTINF:-1,|DE| SUPER RTL
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2664.ts
+#EXTINF:-1,|DE| SPORT 1 HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2665.ts
+#EXTINF:-1,|DE| NATIONAL GEOGRAPHIC
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2728.ts
+#EXTINF:-1,|DE| NATIONAL GEOGRAPHIC HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2729.ts
+#EXTINF:-1,|DE| N-TV
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2705.ts
+#EXTINF:-1,|DE| N24
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2706.ts
+#EXTINF:-1,|DE| EINS PLUS HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2704.ts
+#EXTINF:-1,|DE| DMAX
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2708.ts
+#EXTINF:-1,|DE| DISNEY XD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2661.ts
+#EXTINF:-1,|DE| DISNEY CINEMAGIC
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2659.ts
+#EXTINF:-1,|DE| DISNEY CHANNEL
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2660.ts
+#EXTINF:-1,|DE| DISCOVERY CHANNEL HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2727.ts
+#EXTINF:-1,|DE| DELUXE MUSIC
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2736.ts
+#EXTINF:-1,|DE| SUPER RTL HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2184.ts
+#EXTINF:-1,|DE| DISNEY JUNIOR
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2187.ts
+#EXTINF:-1,|DE| SKY CINEMA +1
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2710.ts
+#EXTINF:-1,|DE| SKY CINEMA +1 HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2185.ts
+#EXTINF:-1,|DE| EUROSPORT 1 HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2666.ts
+#EXTINF:-1,|DE| DAS ERSTE HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1517.ts
+#EXTINF:-1,|DE| SKY BUNDESLIGA 1 HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2189.ts
+#EXTINF:-1,|DE| ARTE HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2651.ts
+#EXTINF:-1,|DE| TAGESSCHAU 24
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1515.ts
+#EXTINF:-1,|DE| FC BAYERN HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2718.ts
+#EXTINF:-1,|DE| MDR HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2657.ts
+#EXTINF:-1,|DE| KIKA HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2663.ts
+#EXTINF:-1,|DE| KABEL EINS HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2645.ts
+#EXTINF:-1,|DE| HR FERNSEHEN HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2656.ts
+#EXTINF:-1,|DE| HISTORY HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2734.ts
+#EXTINF:-1,|DE| SPIEGEL GESCHICHTE
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2655.ts
+#EXTINF:-1,|DE| SKY SPORT NEWS
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2720.ts
+#EXTINF:-1,|DE| SKY SPORT 3 (event only)
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2721.ts
+#EXTINF:-1,|DE| SKY SPORT 2 HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2719.ts
+#EXTINF:-1,|DE| SKY SPORT AUSTRIA
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2722.ts
+#EXTINF:-1,|DE| SKY SELECT 3 HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2741.ts
+#EXTINF:-1,|DE| SKY SELECT 2 HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2740.ts
+#EXTINF:-1,|DE| SKY SELECT 1 HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2739.ts
+#EXTINF:-1,|DE| SKY CINEMA NOSTALGIE
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2715.ts
+#EXTINF:-1,|DE| SKY KRIMI
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2723.ts
+#EXTINF:-1,|DE| SKY CINEMA EMOTION
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2716.ts
+#EXTINF:-1,|DE| SKY CINEMA COMEDY
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2714.ts
+#EXTINF:-1,|DE| SKY CINEMA HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2709.ts
+#EXTINF:-1,|DE| SKY CINEMA +24 HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2711.ts
+#EXTINF:-1,|DE| SKY ATLANTIC HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2712.ts
+#EXTINF:-1,|DE| SKY CINEMA ACTION HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2713.ts
+#EXTINF:-1,|DE| SKY SELECT 4 HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2717.ts
+#EXTINF:-1,|DE| SIXX HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2707.ts
+#EXTINF:-1,|DE| SAT 1 EINS GOLD HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2648.ts
+#EXTINF:-1,|DE| SAT 1 HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2643.ts
+#EXTINF:-1,|DE| RTL PASSION
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2669.ts
+#EXTINF:-1,|DE| RTL NITRO
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2668.ts
+#EXTINF:-1,|DE| RTL CRIME
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2650.ts
+#EXTINF:-1,|DE| RTL 2 HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2646.ts
+#EXTINF:-1,|DE| RTL HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2642.ts
+#EXTINF:-1,|DE| RBB HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2658.ts
+#EXTINF:-1,|DE| NDR HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2654.ts
+#EXTINF:-1,|DE| FOX HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2724.ts
+#EXTINF:-1,|DE| EURONEWS
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2735.ts
+#EXTINF:-1,|DE| AXN HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2737.ts
+#EXTINF:-1,|DE| 3SAT
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2652.ts
+#EXTINF:-1,|DE| 13TH STREET HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2725.ts
+#EXTINF:-1,|DE| ARD HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2640.ts
+#EXTINF:-1,|DE| PROSIEBEN HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2644.ts
+#EXTINF:-1,|DE| PRO7 MAXX HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2649.ts
+#EXTINF:-1,|DE| PHOENIX
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2731.ts
+#EXTINF:-1,N E D E R L A N D ///
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2919.ts
+#EXTINF:-1,|NL| RTL 4 |FHD|
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1760.ts
+#EXTINF:-1,|NL| RTL 5 |HD|
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1761.ts
+#EXTINF:-1,|NL| RTL 7 |FHD|
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1762.ts
+#EXTINF:-1,|NL| RTL 8 HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1763.ts
+#EXTINF:-1,|NL| NPO 1 |FHD|
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1916.ts
+#EXTINF:-1,|NL| NET 5 |FHD|
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1764.ts
+#EXTINF:-1,|NL| HBO1 HD -
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1772.ts
+#EXTINF:-1,|NL| HBO2 HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1917.ts
+#EXTINF:-1,|NL| HBO3 HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1918.ts
+#EXTINF:-1,|NL| FOX SPORTS 1 |HD|
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1753.ts
+#EXTINF:-1,|NL| FOX SPORTS 4 -
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1756.ts
+#EXTINF:-1,|NL| FOX SPORTS 5 -
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1757.ts
+#EXTINF:-1,|NL| FILM1 ACTION
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1827.ts
+#EXTINF:-1,|NL| NICKTOONS --
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2959.ts
+#EXTINF:-1,|NL| NICKELODEON |SD|
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2960.ts
+#EXTINF:-1,|NL| NATIONAL GEO WILD |HD|
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2955.ts
+#EXTINF:-1,|NL| FOX SPORTS 2 -
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2961.ts
+#EXTINF:-1,|NL| DISNEY JUNIOR -
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2957.ts
+#EXTINF:-1,|NL| CRIME & INVESTIGATION HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2949.ts
+#EXTINF:-1,|NL| DISCOVERY CHANNEL |HD|
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2952.ts
+#EXTINF:-1,|NL| ANIMAL PLANET
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2954.ts
+#EXTINF:-1,|NL| SBS 9 |HD|
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3251.ts
+#EXTINF:-1,|NL| SBS 6 |FHD|
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3250.ts
+#EXTINF:-1,|NL| FILM1 SPOTLIGHT -
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3253.ts
+#EXTINF:-1,|NL| FILM1 PREMIER -
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3252.ts
+#EXTINF:-1,|DE| NICKELODEON HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2667.ts
+#EXTINF:-1,E S P A G N E ///
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2918.ts
+#EXTINF:-1,|ES| LA 1 HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2435.ts
+#EXTINF:-1,|ES| LA 2 HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1929.ts
+#EXTINF:-1,|ES| ANTENA 3
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2128.ts
+#EXTINF:-1,|ES| CUATRO HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2127.ts
+#EXTINF:-1,|ES| BARÇA TV
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1928.ts
+#EXTINF:-1,|ES| M. GOLF
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3214.ts
+#EXTINF:-1,|ES| BEIN LA LIGA 5 (event only)
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1860.ts
+#EXTINF:-1,|ES| BEIN LA LIGA 6 (event only)
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2107.ts
+#EXTINF:-1,|ES| FOX LIFE
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2109.ts
+#EXTINF:-1,|ES| FOX
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2108.ts
+#EXTINF:-1,|ES| EURONEWS
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1923.ts
+#EXTINF:-1,|ES| M. ACCION HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1924.ts
+#EXTINF:-1,|ES| BEIN LA LIGA 7 (event only)
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1859.ts
+#EXTINF:-1,|ES| TELEDEPORTES
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2122.ts
+#EXTINF:-1,|ESPAGNE| FLAIX FM Radio
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3948.ts
+#EXTINF:-1,A F R I C A I N ///
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2925.ts
+#EXTINF:-1,___ SENEGAL ___
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3769.ts
+#EXTINF:-1,AF: RTS1 senegal
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2206.ts
+#EXTINF:-1,AF: SENEGAL TV
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1866.ts
+#EXTINF:-1,AF: AFM
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3209.ts
+#EXTINF:-1,AF: WALFtv (senegal)
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3805.ts
+#EXTINF:-1,AF: TFM senegale
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3806.ts
+#EXTINF:-1,AF: SENTV senegale
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3804.ts
+#EXTINF:-1,AF: DIASPORA24 TV senegale
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3808.ts
+#EXTINF:-1,AF: 2STV senegale
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3803.ts
+#EXTINF:-1,___ NIGERIA ___
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3767.ts
+#EXTINF:-1,AF: TV1 (RWANDA)
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2509.ts
+#EXTINF:-1,AF: STV
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2896.ts
+#EXTINF:-1,___ CAMEROUN ___
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3768.ts
+#EXTINF:-1,AF: CANAL2 MUSIQUE
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2894.ts
+#EXTINF:-1,AF: CANAL2 MOVIES
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2895.ts
+#EXTINF:-1,AF: CANAL2 INFO
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2501.ts
+#EXTINF:-1,AF: CANAL 255
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2453.ts
+#EXTINF:-1,AF: CANAL 2 VIE
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2449.ts
+#EXTINF:-1,AF: CANAL 2 ENG
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2630.ts
+#EXTINF:-1,AF: CANAL 2
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2195.ts
+#EXTINF:-1,AF: NollyWood Premier
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2902.ts
+#EXTINF:-1,AF: Somali TV
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1873.ts
+#EXTINF:-1,AF: SNTV HB
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1871.ts
+#EXTINF:-1,AF: RTV CRIST
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2505.ts
+#EXTINF:-1,AF: RTV (RWANDA)
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2447.ts
+#EXTINF:-1,AF: RTS1
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2898.ts
+#EXTINF:-1,AF: RTI1 (Cote D'ivoire)
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2445.ts
+#EXTINF:-1,AF: RTB (Burkina Faso)
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2502.ts
+#EXTINF:-1,AF: RMC MUSIC
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2458.ts
+#EXTINF:-1,AF: ORTM (Mali)
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1867.ts
+#EXTINF:-1,AF: ORTB (Benin)
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2897.ts
+#EXTINF:-1,AF: MAISHA
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2504.ts
+#EXTINF:-1,AF: GONG TV
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2457.ts
+#EXTINF:-1,AF: FUSION+
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2442.ts
+#EXTINF:-1,AF: EBRU TV
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2596.ts
+#EXTINF:-1,AF: ANN afrique du sud
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2208.ts
+#EXTINF:-1,AF: TV1 AFRIC
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3847.ts
+#EXTINF:-1,AF: Rave TV
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3848.ts
+#EXTINF:-1,AF: ORTM
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3849.ts
+#EXTINF:-1,AF: LoveWorld plus
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3850.ts
+#EXTINF:-1,AF: TVC_Nigeria
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3859.ts
+#EXTINF:-1,AF: TVC NEWS ( nigeria)
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3866.ts
+#EXTINF:-1,AF: TV_CONTINENTAL_NIGERIA
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3861.ts
+#EXTINF:-1,AF: SEN_TV
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3853.ts
+#EXTINF:-1,AF: RTi2 (Cote D'ivoire)
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3862.ts
+#EXTINF:-1,AF: Rave_TV_(Nigeria)
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3867.ts
+#EXTINF:-1,AF: Ortm_TV
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3868.ts
+#EXTINF:-1,AF: Novelos_TV
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3854.ts
+#EXTINF:-1,AF: Nollywood_French
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3851.ts
+#EXTINF:-1,AF: Love_World_Nigeria
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3856.ts
+#EXTINF:-1,AF: Kalsan_TV
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3857.ts
+#EXTINF:-1,AF: Emmanuel_TV_Nigeria
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3860.ts
+#EXTINF:-1,AF: D_24
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3858.ts
+#EXTINF:-1,AF: Ben_TV
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3865.ts
+#EXTINF:-1,AF: Africa_24
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3852.ts
+#EXTINF:-1,AF: Abc News
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3864.ts
+#EXTINF:-1,___ GUINEA ___
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3770.ts
+#EXTINF:-1,-- VOD ENFANTS --
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3315.ts
+#EXTINF:-1,FILMS FRANCAIS ///
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2922.ts
+#EXTINF:-1,Tarzan
+http://www.elboxtv.com:1985/movie/hassenwafi/skype/4075.avi
+#EXTINF:-1,The Book Of Life
+http://www.elboxtv.com:1985/movie/hassenwafi/skype/4088.mkv
+#EXTINF:-1,The Jungle Book
+http://www.elboxtv.com:1985/movie/hassenwafi/skype/4079.avi
+#EXTINF:-1,The Peanuts Movie
+http://www.elboxtv.com:1985/movie/hassenwafi/skype/4082.mkv
+#EXTINF:-1,The Snow Queen
+http://www.elboxtv.com:1985/movie/hassenwafi/skype/4083.avi
+#EXTINF:-1,Thomas And Friends Tale Of The Brave
+http://www.elboxtv.com:1985/movie/hassenwafi/skype/4084.avi
+#EXTINF:-1,Thwtooa
+http://www.elboxtv.com:1985/movie/hassenwafi/skype/4089.mkv
+#EXTINF:-1,Turbo
+http://www.elboxtv.com:1985/movie/hassenwafi/skype/4087.mkv
+#EXTINF:-1,SERIES EN FRANCAIS ///
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3423.ts
+#EXTINF:-1,__PRISON-BREAK-S01__
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3424.ts
+#EXTINF:-1,__PRISON-BREAK-S02__
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3450.ts
+#EXTINF:-1,__PRISON-BREAK-S03__
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3451.ts
+#EXTINF:-1,FILMS ARABES ///
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2921.ts
+#EXTINF:-1,FILMS MAROCAINS ///
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3452.ts
+#EXTINF:-1,Une Heure En Enfer 01
+http://www.elboxtv.com:1985/movie/hassenwafi/skype/3453.avi
+#EXTINF:-1,Une Heure En Enfer 05
+http://www.elboxtv.com:1985/movie/hassenwafi/skype/3457.avi
+#EXTINF:-1,Une Heure En Enfer 06
+http://www.elboxtv.com:1985/movie/hassenwafi/skype/3458.avi
+#EXTINF:-1,Une Heure En Enfer 08
+http://www.elboxtv.com:1985/movie/hassenwafi/skype/3460.avi
+#EXTINF:-1,Une Heure En Enfer 09
+http://www.elboxtv.com:1985/movie/hassenwafi/skype/3461.avi
+#EXTINF:-1,FILMS ANGLAIS ///
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2924.ts
+#EXTINF:-1,FILMS AFRICAINS  ///
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3627.ts
+#EXTINF:-1,FILMS ITALIEN ///
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2923.ts
+#EXTINF:-1,| ALGERIE |  EL BAHDJA  RADIO
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3956.ts
+#EXTINF:-1,|MAROC| MARS RADIO
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3951.ts
+#EXTINF:-1,|BELGIQUE| PREMIUM NRJ RADIO
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3952.ts
+#EXTINF:-1,|TUNESIE| SHEMS RADIO
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3957.ts
+#EXTINF:-1,GR: ALPHA
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6899.ts
+#EXTINF:-1,GR: ANT 1
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6900.ts
+#EXTINF:-1,GR: EBS
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6893.ts
+#EXTINF:-1,GR: ERT 1
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6894.ts
+#EXTINF:-1,GR: ERT 2
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6895.ts
+#EXTINF:-1,GR: ERT 3
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6896.ts
+#EXTINF:-1,GR: KRHTH TV
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6897.ts
+#EXTINF:-1,GR: SKAI
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6903.ts
+#EXTINF:-1,GR: STAR
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6904.ts
+#EXTINF:-1,GR: TV-100
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6908.ts
+#EXTINF:-1,IT_Animal_Planet
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6780.ts
+#EXTINF:-1,IT_CANALE_5_HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6778.ts
+#EXTINF:-1,IT_Discovery_Channal_HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6798.ts
+#EXTINF:-1,IT_Discovery_Travel_Living_HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6800.ts
+#EXTINF:-1,IT_National_Geo_HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6779.ts
+#EXTINF:-1,IT_National_Geo_Wild_HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6801.ts
+#EXTINF:-1,IT_RAI_1_HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6814.ts
+#EXTINF:-1,IT_RAI_2_HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6813.ts
+#EXTINF:-1,IT_RAI_3_HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6812.ts
+#EXTINF:-1,IT_RAI_4_HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6811.ts
+#EXTINF:-1,IT_Rai_Gulp
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6806.ts
+#EXTINF:-1,IT_RAI_Movie
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6808.ts
+#EXTINF:-1,IT_RAI_Premium
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6809.ts
+#EXTINF:-1,IT_RAI_SCUOLA
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6803.ts
+#EXTINF:-1,IT_Rai_Sport_1
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6805.ts
+#EXTINF:-1,IT_Rai_Sport_2
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6804.ts
+#EXTINF:-1,IT_Rai_yoyo
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6807.ts
+#EXTINF:-1,IT_Real_Time
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6781.ts
+#EXTINF:-1,IT_RETE_4_HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6782.ts
+#EXTINF:-1,IT_Sky_Atlantic_HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6783.ts
+#EXTINF:-1,IT_Sky_AXN_HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6784.ts
+#EXTINF:-1,IT_Sky_Cinema_Classics_HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6786.ts
+#EXTINF:-1,IT_Sky_Cinema_Cult_HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6787.ts
+#EXTINF:-1,IT_SKY_CINEMA_HIT_HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6790.ts
+#EXTINF:-1,IT_Sky_Cinema_Max_HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6791.ts
+#EXTINF:-1,IT_Sky_Cinema_Passion_HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6792.ts
+#EXTINF:-1,IT_Sky_Disney_Junior
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6794.ts
+#EXTINF:-1,IT_Sky_fox_Comedy_HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6795.ts
+#EXTINF:-1,IT_Sky_Fox_HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6796.ts
+#EXTINF:-1,IT_SKY_TG24
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6802.ts
+#EXTINF:-1,IT_Sky_Uno
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6797.ts
+#EXTINF:-1,IT: CANALE 5
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6933.ts
+#EXTINF:-1,IT: CARTOON NETWORK
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6965.ts
+#EXTINF:-1,IT: CARTOONITO
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6964.ts
+#EXTINF:-1,IT: DISCOVERY SCIENCE HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6931.ts
+#EXTINF:-1,IT: Disney Channel
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6930.ts
+#EXTINF:-1,IT: EUROPORT2 HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6928.ts
+#EXTINF:-1,IT: EUROSPORT1  HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6929.ts
+#EXTINF:-1,IT: FOX ANIMATION
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6926.ts
+#EXTINF:-1,IT: FOX COMEDY
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6925.ts
+#EXTINF:-1,IT: FOX CRIME
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6924.ts
+#EXTINF:-1,IT: ITALIA 1 HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6923.ts
+#EXTINF:-1,IT: ITALIA UNO
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6917.ts
+#EXTINF:-1,IT: LA7
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6922.ts
+#EXTINF:-1,IT: PREMIUM ACTION   24
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6963.ts
+#EXTINF:-1,IT: Premium Action  24
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6747.ts
+#EXTINF:-1,IT: Premium Action HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6748.ts
+#EXTINF:-1,IT: Premium Calcio 2
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6752.ts
+#EXTINF:-1,IT: PREMIUM CALCIO 2 HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6966.ts
+#EXTINF:-1,IT: Premium Calcio HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6755.ts
+#EXTINF:-1,IT: Premium Cartoon Network
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6756.ts
+#EXTINF:-1,IT: PREMIUM CINEMA
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6962.ts
+#EXTINF:-1,IT: Premium Cinema  24
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6757.ts
+#EXTINF:-1,IT: PREMIUM CINEMA 2
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6961.ts
+#EXTINF:-1,IT: Premium Cinema 2  24
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6758.ts
+#EXTINF:-1,IT: Premium Cinema 2 HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6759.ts
+#EXTINF:-1,IT: Premium Cinema HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6760.ts
+#EXTINF:-1,IT: Premium Comedy
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6761.ts
+#EXTINF:-1,IT: PREMIUM CRIME
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6960.ts
+#EXTINF:-1,IT: Premium Crime  24
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6762.ts
+#EXTINF:-1,IT: Premium Crime HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6763.ts
+#EXTINF:-1,IT: Premium Discovery World
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6764.ts
+#EXTINF:-1,IT: Premium Disney Channel
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6765.ts
+#EXTINF:-1,IT: Premium Emotion
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6766.ts
+#EXTINF:-1,IT: Premium Energy HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6767.ts
+#EXTINF:-1,IT: Premium EuroSport 1 HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6768.ts
+#EXTINF:-1,IT: Premium EuroSport 2 HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6769.ts
+#EXTINF:-1,IT: Premium Joi
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6770.ts
+#EXTINF:-1,IT: Premium Joi  24
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6776.ts
+#EXTINF:-1,IT: Premium Sport
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6771.ts
+#EXTINF:-1,IT: Premium Sport 1 HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6774.ts
+#EXTINF:-1,IT: Premium Sport 2
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6772.ts
+#EXTINF:-1,IT: Premium Sport 2 HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6773.ts
+#EXTINF:-1,IT: Premium Sport HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6921.ts
+#EXTINF:-1,IT: Premium Stories
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6775.ts
+#EXTINF:-1,IT: Premium Studio Universal
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6777.ts
+#EXTINF:-1,IT: RAI  STORIA
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6937.ts
+#EXTINF:-1,IT: RAI 1 HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6910.ts
+#EXTINF:-1,IT: RAI 2 HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6911.ts
+#EXTINF:-1,IT: RAI 3 HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6912.ts
+#EXTINF:-1,IT: RAI 4
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6913.ts
+#EXTINF:-1,IT: RAI 5
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6914.ts
+#EXTINF:-1,IT: RAI GULP
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6915.ts
+#EXTINF:-1,IT: RAI MOVIE
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6959.ts
+#EXTINF:-1,IT: RAI NEWS 24
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6934.ts
+#EXTINF:-1,IT: RAI NEWS24
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6958.ts
+#EXTINF:-1,IT: RAI PREMIUM
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6957.ts
+#EXTINF:-1,IT: RAI SPORT 1
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6935.ts
+#EXTINF:-1,IT: RAI SPORT 2
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6936.ts
+#EXTINF:-1,IT: RAI YOYO
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6938.ts
+#EXTINF:-1,IT: RETE 4
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6916.ts
+#EXTINF:-1,IT: RSI LA 2 HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6939.ts
+#EXTINF:-1,IT: SKY ANIMAL PLANET HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6920.ts
+#EXTINF:-1,IT: SKY ATLANTIC 1 HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6941.ts
+#EXTINF:-1,IT: SKY CINEMA  1 HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6942.ts
+#EXTINF:-1,IT: SKY CINEMA 1
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6943.ts
+#EXTINF:-1,IT: SKY CINEMA 24
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6944.ts
+#EXTINF:-1,IT: SKY CINEMA CLASSIC
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6956.ts
+#EXTINF:-1,IT: SKY CINEMA COMEDY
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6945.ts
+#EXTINF:-1,IT: SKY CINEMA FAMILY  HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6946.ts
+#EXTINF:-1,IT: SKY CINEMA MAX
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6948.ts
+#EXTINF:-1,IT: SKY CINEMA MAX HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6949.ts
+#EXTINF:-1,IT: SKY CINEMA PASSION
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6954.ts
+#EXTINF:-1,IT: SKY MOTO GP HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6950.ts
+#EXTINF:-1,IT: SKY NAT GEO WILD HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6952.ts
+#EXTINF:-1,IT: SKY NATIONAL GEOGRAPHIC
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6951.ts
+#EXTINF:-1,IT: SKY SPORT 1 HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6968.ts
+#EXTINF:-1,IT: SKY SPORT 2 HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6969.ts
+#EXTINF:-1,IT: SKY SPORT 24 HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6970.ts
+#EXTINF:-1,IT: SKY SPORT 3 HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6971.ts
+#EXTINF:-1,IT: SKY SPORT F1 HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6972.ts
+#EXTINF:-1,IT: SKY SUPERCALCIO HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6967.ts
+#EXTINF:-1,IT: SKY UNO
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6919.ts
+#EXTINF:-1,IT: SUPER TENNIS HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/6918.ts
+#EXTINF:-1,|NL| FOX SPORTS 6 -
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3722.ts
+#EXTINF:-1,|NL| ZIGGO SPORT EXTRA 1 -
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3721.ts
+#EXTINF:-1,|NL| ZIGGO SPORT EXTRA 2 HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3720.ts
+#EXTINF:-1,|NL| ZIGGO SPORT GOLF |HD|
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3719.ts
+#EXTINF:-1,|NL| ZIGGO SPORT RACING -
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3718.ts
+#EXTINF:-1,|NL| ZIGGO SPORT SELECT |FHD|
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3717.ts
+#EXTINF:-1,|NL| ZIGGO SPORT VOETBAL
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3716.ts
+#EXTINF:-1,|AR| ABU DAHBI SPORT 1
+http://www.elboxtv.com:1985/live/hassenwafi/skype/9543.ts
+#EXTINF:-1,|AR| TRT ARABIA
+http://www.elboxtv.com:1985/live/hassenwafi/skype/4007.ts
+#EXTINF:-1,UK:  E4 UK
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8396.ts
+#EXTINF:-1,UK: 3E
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8397.ts
+#EXTINF:-1,UK: 5 USA
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8398.ts
+#EXTINF:-1,UK: AL JAZEERA NEWS ENGLISH Full HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8357.ts
+#EXTINF:-1,UK: ALIBI
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8399.ts
+#EXTINF:-1,UK: AT THE RACES
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8363.ts
+#EXTINF:-1,UK: BBC News
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8356.ts
+#EXTINF:-1,UK: BBC1 Full HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8424.ts
+#EXTINF:-1,UK: BBC2 Full HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8423.ts
+#EXTINF:-1,UK: BBC3 HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8422.ts
+#EXTINF:-1,UK: BBC4 Full HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8421.ts
+#EXTINF:-1,UK: BOOMERANG
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8384.ts
+#EXTINF:-1,UK: Cartoon Network
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8400.ts
+#EXTINF:-1,UK: CBS ACTION Full HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8401.ts
+#EXTINF:-1,UK: CBS DRAMA Full HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8402.ts
+#EXTINF:-1,UK: CBS REALITY Full HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8414.ts
+#EXTINF:-1,UK: CHALLENGE
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8355.ts
+#EXTINF:-1,UK: CHANNEL 4 Full HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8406.ts
+#EXTINF:-1,UK: CHANNEL 5 Full HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8407.ts
+#EXTINF:-1,UK: CNBC EUROPE Full HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8354.ts
+#EXTINF:-1,UK: CNN
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8362.ts
+#EXTINF:-1,UK: COLORS
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8376.ts
+#EXTINF:-1,UK: DAVE
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8403.ts
+#EXTINF:-1,UK: DISCOVERY CHANNEL
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8377.ts
+#EXTINF:-1,UK: DISCOVERY HISTORY
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8378.ts
+#EXTINF:-1,UK: Discovery Turbo UK
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8379.ts
+#EXTINF:-1,UK: Disney Jr
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8387.ts
+#EXTINF:-1,UK: E!
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8404.ts
+#EXTINF:-1,UK: EDEN
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8353.ts
+#EXTINF:-1,UK: EUROSPORT 2
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8367.ts
+#EXTINF:-1,UK: FINE LIVING NETWORK Full HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8352.ts
+#EXTINF:-1,UK: FIVE
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8411.ts
+#EXTINF:-1,UK: GOLD FULL HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8412.ts
+#EXTINF:-1,UK: Home
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8351.ts
+#EXTINF:-1,UK: HORROR CHANNEL
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8350.ts
+#EXTINF:-1,UK: I24 News English
+http://www.elboxtv.com:1985/live/hassenwafi/skype/4011.ts
+#EXTINF:-1,UK: ITV 1 Full HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8420.ts
+#EXTINF:-1,UK: ITV 2 HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8419.ts
+#EXTINF:-1,UK: ITV 3 HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8418.ts
+#EXTINF:-1,UK: ITV 4  Full HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8417.ts
+#EXTINF:-1,UK: LONDON LIVE Full HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8349.ts
+#EXTINF:-1,UK: MAN UTD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8364.ts
+#EXTINF:-1,UK: MORE 4
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8413.ts
+#EXTINF:-1,UK: MTV Base
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8348.ts
+#EXTINF:-1,UK: MTV HITS
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8393.ts
+#EXTINF:-1,UK: MTV ROCK UK
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8365.ts
+#EXTINF:-1,UK: NATIONAL GEOGRAPHIC
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8380.ts
+#EXTINF:-1,UK: NATIONAL GEOGRAPHIC WILD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8381.ts
+#EXTINF:-1,UK: NHK News HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8347.ts
+#EXTINF:-1,UK: Nick JR
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8382.ts
+#EXTINF:-1,UK: NICK JR TOO
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8383.ts
+#EXTINF:-1,UK: NICKELODEON
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8385.ts
+#EXTINF:-1,UK: NICKTOONS
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8386.ts
+#EXTINF:-1,UK: PICK TV
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8346.ts
+#EXTINF:-1,UK: PREMIERE SPORT
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8366.ts
+#EXTINF:-1,UK: QUEST
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8405.ts
+#EXTINF:-1,UK: REALLY
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8345.ts
+#EXTINF:-1,UK: RTE JUNIOR
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8344.ts
+#EXTINF:-1,UK: RTE ONE Full HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8409.ts
+#EXTINF:-1,UK: RTE TWO
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8410.ts
+#EXTINF:-1,UK: RUSSIA TODAY Full HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8343.ts
+#EXTINF:-1,UK: SETANTA SPORTS
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8342.ts
+#EXTINF:-1,UK: SKY ART 1
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8394.ts
+#EXTINF:-1,UK: SKY GOOD FOOD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8415.ts
+#EXTINF:-1,UK: SKY LIVING
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8416.ts
+#EXTINF:-1,UK: SKY MOVIES COMEDY
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8388.ts
+#EXTINF:-1,UK: SKY MOVIES THRILLER
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8389.ts
+#EXTINF:-1,UK: Sky Sport 1 Backup
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8373.ts
+#EXTINF:-1,UK: SKY SPORT 2 HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8375.ts
+#EXTINF:-1,UK: Sky Sport 3 Backup
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8370.ts
+#EXTINF:-1,UK: SKY SPORTS 1 HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8374.ts
+#EXTINF:-1,UK: Sky Sports 2 Backup
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8372.ts
+#EXTINF:-1,UK: SKY SPORTS 3 HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8371.ts
+#EXTINF:-1,UK: SKY SPORTS 4 HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8369.ts
+#EXTINF:-1,UK: SKY SPORTS 5 HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8368.ts
+#EXTINF:-1,UK: SYFY
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8395.ts
+#EXTINF:-1,UK: TRUE MOVIES  1 Full HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8390.ts
+#EXTINF:-1,UK: TRUE MOVIES 1
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8391.ts
+#EXTINF:-1,UK: VH1
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8392.ts
+#EXTINF:-1,UK: YESTERDAY
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8408.ts
+#EXTINF:-1,|FR| CANAL+ -
+http://www.elboxtv.com:1985/live/hassenwafi/skype/692.ts
+#EXTINF:-1,|FR| FRANCE 2 -
+http://www.elboxtv.com:1985/live/hassenwafi/skype/101.ts
+#EXTINF:-1,|FR| FRANCE 3 --
+http://www.elboxtv.com:1985/live/hassenwafi/skype/711.ts
+#EXTINF:-1,|FR| FRANCE 4 -
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1010.ts
+#EXTINF:-1,|FR| FRANCE 5 -
+http://www.elboxtv.com:1985/live/hassenwafi/skype/137.ts
+#EXTINF:-1,|FR| FRANCE 3 -
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1004.ts
+#EXTINF:-1,|FR| BFM TV
+http://www.elboxtv.com:1985/live/hassenwafi/skype/107.ts
+#EXTINF:-1,|FR| ARTE -
+http://www.elboxtv.com:1985/live/hassenwafi/skype/108.ts
+#EXTINF:-1,|FR| W9 -
+http://www.elboxtv.com:1985/live/hassenwafi/skype/138.ts
+#EXTINF:-1,|FR| DISNEY JUNIOR -
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2266.ts
+#EXTINF:-1,|FR| COMEDIE+ -
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3218.ts
+#EXTINF:-1,|FR| PIWI+-
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2683.ts
+#EXTINF:-1,|FR| GAME ONE-
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3233.ts
+#EXTINF:-1,|FR| GULLI-
+http://www.elboxtv.com:1985/live/hassenwafi/skype/972.ts
+#EXTINF:-1,|FR| RTL9 -
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3709.ts
+#EXTINF:-1,|FR| EURONEWS
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1964.ts
+#EXTINF:-1,|FR| CANAL+ CINEMA -
+http://www.elboxtv.com:1985/live/hassenwafi/skype/583.ts
+#EXTINF:-1,|FR| AB1 -
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1101.ts
+#EXTINF:-1,|FR| HD1 -
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3215.ts
+#EXTINF:-1,|FR| C8 -
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1003.ts
+#EXTINF:-1,|FR| CHERIE 25 --
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2744.ts
+#EXTINF:-1,|FR| LCI
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3701.ts
+#EXTINF:-1,|FR| NT1 -
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1963.ts
+#EXTINF:-1,|FR| TF1 -
+http://www.elboxtv.com:1985/live/hassenwafi/skype/100.ts
+#EXTINF:-1,|FR| CARTOON NETWORK-
+http://www.elboxtv.com:1985/live/hassenwafi/skype/593.ts
+#EXTINF:-1,|FR| PARIS PREMIER-
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1604.ts
+#EXTINF:-1,|FR| RTL9 |HD|
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3708.ts
+#EXTINF:-1,|FR| CANAL+ SERIES-
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1509.ts
+#EXTINF:-1,|FR| CINÉ+ FAMIZ -
+http://www.elboxtv.com:1985/live/hassenwafi/skype/5530.ts
+#EXTINF:-1,|FR| TEVA -
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1002.ts
+#EXTINF:-1,|FR| 13EME RUE -
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1118.ts
+#EXTINF:-1,|FR| ACTION -
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2742.ts
+#EXTINF:-1,|FR| BOOMERANG-
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1530.ts
+#EXTINF:-1,|FR| EQUIDIA LIVE
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3224.ts
+#EXTINF:-1,|FR| GOLF+
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3669.ts
+#EXTINF:-1,|FR| LCP
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3702.ts
+#EXTINF:-1,|FR| A.LA.CARTE.2
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2543.ts
+#EXTINF:-1,|FR| A.LA.CARTE.3
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2544.ts
+#EXTINF:-1,|FR| A.LA.CARTE.4
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2545.ts
+#EXTINF:-1,|FR| A.LA.CARTE.5
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2546.ts
+#EXTINF:-1,|FR| A.LA.CARTE.6
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2547.ts
+#EXTINF:-1,|FR| CANAL PLAY 7
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2548.ts
+#EXTINF:-1,|FR| CANAL PLAY 8
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2549.ts
+#EXTINF:-1,|FR| CINÉ+ CLASSIC --
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1090.ts
+#EXTINF:-1,|FR| CINÉ+ FRISSON -
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1610.ts
+#EXTINF:-1,|FR| CINÉ+ PREMIER -
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1609.ts
+#EXTINF:-1,|FR| ANIMAUX -
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1096.ts
+#EXTINF:-1,|FR| BFM SPORTS      -
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3989.ts
+#EXTINF:-1,|FR| CHASSE ET PECHE |HD|
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1601.ts
+#EXTINF:-1,|FR| DISCOVERY SCIENCE -
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3219.ts
+#EXTINF:-1,|FR| HISTOIRE -
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3527.ts
+#EXTINF:-1,|FR| INFOSPORT-
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1934.ts
+#EXTINF:-1,|FR| CANAL J-
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1495.ts
+#EXTINF:-1,|FR| CARTOON PLUS-
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3240.ts
+#EXTINF:-1,|FR| DISNEY CHANNEL -
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1078.ts
+#EXTINF:-1,|FR| DISNEY CINEMAGIC -
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2687.ts
+#EXTINF:-1,|FR| DISNEY XD -
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3223.ts
+#EXTINF:-1,|FR| GAME ONE +1 |HD|
+http://www.elboxtv.com:1985/live/hassenwafi/skype/7326.ts
+#EXTINF:-1,|FR| MANGAS -
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1195.ts
+#EXTINF:-1,|FR| NATIONAL GEOGRAPHIC -
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1528.ts
+#EXTINF:-1,|FR| SEASON-
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3705.ts
+#EXTINF:-1,|FR| TELETOON +1 -
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2753.ts
+#EXTINF:-1,|FR| TELETOON+ -
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2685.ts
+#EXTINF:-1,|FR| TIJI -
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2686.ts
+#EXTINF:-1,|FR| TOUTE L HISTOIRE-
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3220.ts
+#EXTINF:-1,|FR| USHUAIA-
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1614.ts
+#EXTINF:-1,|FR| E! -
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2754.ts
+#EXTINF:-1,|FR| EUROSPORT 2-
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1512.ts
+#EXTINF:-1,|FR| FRANCE 24 FR
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1206.ts
+#EXTINF:-1,|FR| GRAND LILLE -
+http://www.elboxtv.com:1985/live/hassenwafi/skype/4031.ts
+#EXTINF:-1,|FR| NUMÉRO 23 -
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3320.ts
+#EXTINF:-1,|FR| OCS CHOC -
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3216.ts
+#EXTINF:-1,|FR| OCS CITY -
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1256.ts
+#EXTINF:-1,|FR| OCS MAX -
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1255.ts
+#EXTINF:-1,|FR| RMC DECOUVERTE -
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3221.ts
+#EXTINF:-1,|FR| RTL 9 -
+http://www.elboxtv.com:1985/live/hassenwafi/skype/979.ts
+#EXTINF:-1,|FR| TCM -
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2688.ts
+#EXTINF:-1,|FR| TMC -
+http://www.elboxtv.com:1985/live/hassenwafi/skype/5055.ts
+#EXTINF:-1,|FR| TMC --
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3706.ts
+#EXTINF:-1,|FR| TV BREIZH -
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2998.ts
+#EXTINF:-1,|FR| ZOUZOUS      -
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3257.ts
+#EXTINF:-1,|FR| BET |HD|
+http://www.elboxtv.com:1985/live/hassenwafi/skype/3524.ts
+#EXTINF:-1,|FR| CINÉ+ FX -
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1524.ts
+#EXTINF:-1,|FR| CINÉ+ POLAR -
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2745.ts
+#EXTINF:-1,|FR| CSTAR -
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2690.ts
+#EXTINF:-1,|FR| TCM CINEMA -
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8125.ts
+#EXTINF:-1,|FR| OCS MAX |HD|
+http://www.elboxtv.com:1985/live/hassenwafi/skype/10924.ts
+#EXTINF:-1,|FR| OL TV
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2746.ts
+#EXTINF:-1,|FR| OM TV |FHD|
+http://www.elboxtv.com:1985/live/hassenwafi/skype/10787.ts
+#EXTINF:-1,|FR| ONZEO HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/10762.ts
+#EXTINF:-1,|FR| ORANGE CINE
+http://www.elboxtv.com:1985/live/hassenwafi/skype/11779.ts
+#EXTINF:-1,|FR| ORANGE CINE  1
+http://www.elboxtv.com:1985/live/hassenwafi/skype/11778.ts
+#EXTINF:-1,|FR| ORANGE CINE  2
+http://www.elboxtv.com:1985/live/hassenwafi/skype/11777.ts
+#EXTINF:-1,|FR| ORANGE CINE  3
+http://www.elboxtv.com:1985/live/hassenwafi/skype/11776.ts
+#EXTINF:-1,|FR| ORANGE CINE  4
+http://www.elboxtv.com:1985/live/hassenwafi/skype/11775.ts
+#EXTINF:-1,|FR| ORANGE CINE  5
+http://www.elboxtv.com:1985/live/hassenwafi/skype/11774.ts
+#EXTINF:-1,|FR| ORANGE CINE  6
+http://www.elboxtv.com:1985/live/hassenwafi/skype/11773.ts
+#EXTINF:-1,|FR| ORANGE CINE  7
+http://www.elboxtv.com:1985/live/hassenwafi/skype/11772.ts
+#EXTINF:-1,|FR| ORANGE CINE  8
+http://www.elboxtv.com:1985/live/hassenwafi/skype/11771.ts
+#EXTINF:-1,|FR| DISNEY ORANGE 1 -
+http://www.elboxtv.com:1985/live/hassenwafi/skype/7879.ts
+#EXTINF:-1,|FR| DISNEY ORANGE 2 -
+http://www.elboxtv.com:1985/live/hassenwafi/skype/7878.ts
+#EXTINF:-1,|FR| DISNEY ORANGE 3 -
+http://www.elboxtv.com:1985/live/hassenwafi/skype/7877.ts
+#EXTINF:-1,|NL| 24 KITCHEN -
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8036.ts
+#EXTINF:-1,|NL| ANIMAL PLANET |HD|
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8038.ts
+#EXTINF:-1,|NL| AT5 |SD|
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8017.ts
+#EXTINF:-1,|NL| BOOMERANG |SD|
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8069.ts
+#EXTINF:-1,|NL| CARTOON NETWORK |SD|
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8071.ts
+#EXTINF:-1,|NL| COMEDY CENTRAL |HD|
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8074.ts
+#EXTINF:-1,|NL| DISCOVERY SCIENCE -
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8042.ts
+#EXTINF:-1,|NL| DISCOVERY WORLD -
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8043.ts
+#EXTINF:-1,|NL| DISNEY / VERONICA
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8564.ts
+#EXTINF:-1,|NL| EUROSPORT 1 |FHD|
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8047.ts
+#EXTINF:-1,|NL| EUROSPORT 2 |HD|
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8561.ts
+#EXTINF:-1,|NL| FILM 1 ACTION |HD|
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8560.ts
+#EXTINF:-1,|NL| FILM1 ACTION |HD|
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8064.ts
+#EXTINF:-1,|NL| FILM1 COMEDY & KIDS |HD|
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8559.ts
+#EXTINF:-1,|NL| FILM1 PREMIER |HD|
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8558.ts
+#EXTINF:-1,|NL| FILM1 SUNDANCE |HD|
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8557.ts
+#EXTINF:-1,|NL| FOX HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8556.ts
+#EXTINF:-1,|NL| FOX CHANNEL |FHD|
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8079.ts
+#EXTINF:-1,|NL| FOX SPORTS EREDIVISIE 1 |FHD|
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8054.ts
+#EXTINF:-1,|NL| FOX SPORTS 2 |HD|
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8554.ts
+#EXTINF:-1,|NL| FOX SPORTS 3 |HD|
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8553.ts
+#EXTINF:-1,|NL| FOX SPORTS 3 EREDIVISIE HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8052.ts
+#EXTINF:-1,|NL| FOX SPORTS 4 |HD|
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8552.ts
+#EXTINF:-1,|NL| FOX SPORTS 5 |HD|
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8551.ts
+#EXTINF:-1,|NL| FOX SPORTS 5 EREDIVISIE HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8050.ts
+#EXTINF:-1,|NL| FOX SPORTS 6 |HD|
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8550.ts
+#EXTINF:-1,|NL| HISTORY |FHD|
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8039.ts
+#EXTINF:-1,|NL| DISCOVERY INVESTIGATION -
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8045.ts
+#EXTINF:-1,|NL| MOTORSPORT TV HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8048.ts
+#EXTINF:-1,|NL| NATIONAL GEO |FHD|
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8041.ts
+#EXTINF:-1,|NL| NATIONAL GEO WILD |FHD|
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8040.ts
+#EXTINF:-1,|NL| NET 5 -
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8546.ts
+#EXTINF:-1,|NL| NET 5 |HD|
+http://www.elboxtv.com:1985/live/hassenwafi/skype/7961.ts
+#EXTINF:-1,|NL| NICKTOONS -
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8543.ts
+#EXTINF:-1,|NL| NPO 1
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8092.ts
+#EXTINF:-1,|NL| NPO 1 -
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8542.ts
+#EXTINF:-1,|NL| NPO 2 |FHD|
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8091.ts
+#EXTINF:-1,NL: NPO 3 --
+http://www.elboxtv.com:1985/live/hassenwafi/skype/7968.ts
+#EXTINF:-1,|NL| NPO 3 |FHD|
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8541.ts
+#EXTINF:-1,|NL| NPO POLITIEK NIEUWS |HD|
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8031.ts
+#EXTINF:-1,|NL| OMROEP FRYSLAN TV |HD|
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8022.ts
+#EXTINF:-1,|NL| RTL 4
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8089.ts
+#EXTINF:-1,|NL| RTL 4 -
+http://www.elboxtv.com:1985/live/hassenwafi/skype/7967.ts
+#EXTINF:-1,|NL| RTL 5
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8088.ts
+#EXTINF:-1,|NL| RTL 7
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8086.ts
+#EXTINF:-1,|NL| RTL 8
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8085.ts
+#EXTINF:-1,|NL| RTL CRIME |HD|
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8540.ts
+#EXTINF:-1,|NL| RTL LOUNGE |HD|
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8082.ts
+#EXTINF:-1,|NL| RTL Z |HD|
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8083.ts
+#EXTINF:-1,|NL| RTV NOORD HOLLAND |HD|
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8016.ts
+#EXTINF:-1,|NL| RTV OOST |HD|
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8018.ts
+#EXTINF:-1,|NL| SBS 6 -
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8533.ts
+#EXTINF:-1,|NL| SBS 6 --
+http://www.elboxtv.com:1985/live/hassenwafi/skype/7965.ts
+#EXTINF:-1,|NL| SBS 9 -
+http://www.elboxtv.com:1985/live/hassenwafi/skype/7962.ts
+#EXTINF:-1,|NL| SBS 9 FHD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8532.ts
+#EXTINF:-1,|NL| SYFY -
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8531.ts
+#EXTINF:-1,|NL| TLC |FHD|
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8078.ts
+#EXTINF:-1,|NL| VERONICA / DISNEY XD |FHD|
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8084.ts
+#EXTINF:-1,|NL| ZIGGO SPORT GOLF
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8527.ts
+#EXTINF:-1,|NL| ZIGGO SPORT RACING
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8526.ts
+#EXTINF:-1,|NL| ZIGGO SPORT SELECT
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8060.ts
+#EXTINF:-1,|NL| ZIGGO SPORT VOETBAL |HD|
+http://www.elboxtv.com:1985/live/hassenwafi/skype/8059.ts
+#EXTINF:-1,001   Puss Gets The Boot [1940]
+http://www.elboxtv.com:1985/movie/hassenwafi/skype/11283.mp4
+#EXTINF:-1,002   The Midnight Snack [1941]
+http://www.elboxtv.com:1985/movie/hassenwafi/skype/11178.mp4
+#EXTINF:-1,003   The Night Before Christmas [1941]
+http://www.elboxtv.com:1985/movie/hassenwafi/skype/11284.mp4
+#EXTINF:-1,004   Fraidy Cat [1942]
+http://www.elboxtv.com:1985/movie/hassenwafi/skype/11197.mp4
+#EXTINF:-1,005   Dog Trouble [1942]
+http://www.elboxtv.com:1985/movie/hassenwafi/skype/11208.mp4
+#EXTINF:-1,006   Puss N' Toots [1942]
+http://www.elboxtv.com:1985/movie/hassenwafi/skype/11218.mp4
+#EXTINF:-1,007   The Bowling Alley Cat [1942]
+http://www.elboxtv.com:1985/movie/hassenwafi/skype/11291.mp4
+#EXTINF:-1,008   Fine Feathered Friend [1942]
+http://www.elboxtv.com:1985/movie/hassenwafi/skype/11307.mp4
+#EXTINF:-1,009   Sufferin' Cats! [1943]
+http://www.elboxtv.com:1985/movie/hassenwafi/skype/11057.mp4
+#EXTINF:-1,010   The Lonesome Mouse [1943]
+http://www.elboxtv.com:1985/movie/hassenwafi/skype/11219.mp4
+#EXTINF:-1,011   The Yankee Doodle Mouse [1943]
+http://www.elboxtv.com:1985/movie/hassenwafi/skype/11100.mp4
+#EXTINF:-1,012   Baby Puss [1943]
+http://www.elboxtv.com:1985/movie/hassenwafi/skype/11166.mp4
+#EXTINF:-1,013   The Zoot Cat [1944]
+http://www.elboxtv.com:1985/movie/hassenwafi/skype/11023.mp4
+#EXTINF:-1,014   The Million Dollar Cat [1944]
+http://www.elboxtv.com:1985/movie/hassenwafi/skype/11102.mp4
+#EXTINF:-1,015   The Bodyguard [1944]
+http://www.elboxtv.com:1985/movie/hassenwafi/skype/11099.mp4
+#EXTINF:-1,___ TURKEY ___
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2005.ts
+#EXTINF:-1,TR: TRT Cocuk
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2032.ts
+#EXTINF:-1,TR: ATV
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1909.ts
+#EXTINF:-1,TR: KANAL D
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1849.ts
+#EXTINF:-1,TR: KANAL TURK
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1956.ts
+#EXTINF:-1,TR: HaberTurk
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1910.ts
+#EXTINF:-1,TR: TV8
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1913.ts
+#EXTINF:-1,TR:  TRT1 HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1207.ts
+#EXTINF:-1,TR: TRT HABER
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2700.ts
+#EXTINF:-1,TR: KRAL TV
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1966.ts
+#EXTINF:-1,TR: BEINSPORT 1
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1812.ts
+#EXTINF:-1,TR: BEINSPORT 2
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1813.ts
+#EXTINF:-1,TR: BEINSPORT 3
+http://www.elboxtv.com:1985/live/hassenwafi/skype/1814.ts
+#EXTINF:-1,TR: TRT HD
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2146.ts
+#EXTINF:-1,TR: Natgeowild
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2139.ts
+#EXTINF:-1,TR: Movie MaX Star
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2133.ts
+#EXTINF:-1,TR: Dream Turk
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2143.ts
+#EXTINF:-1,TR _ TRT OKUL
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2517.ts
+#EXTINF:-1,TR _ TRT MUZIK
+http://www.elboxtv.com:1985/live/hassenwafi/skype/2518.ts
