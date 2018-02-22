@@ -1,917 +1,578 @@
 #EXTM3U
-#EXTINF:-1,FR:FRANCE 0
-http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/284.ts
-#EXTINF:-1,FR:FRANCE2
-http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/285.ts
-#EXTINF:-1,FR:FRANCE3
-http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/286.ts
-#EXTINF:-1,FR:FRANCE4
-http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/287.ts
-#EXTINF:-1,FR:FRANCE5
-http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/288.ts
-#EXTINF:-1,FR:FRANCE 24
-http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/289.ts
-#EXTINF:-1,FR:DISCOVERY SCIENCE
-http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/297.ts
-#EXTINF:-1,FR:BEIN SPORTS 1HD
+
+#EXTINF:-1, ::::::\\\SPORT/// ::: \\\SPORT///::::::::::::\\\SPORT/// ::: \\\SPORT///::::::::::::\\\SPORT/// ::: \\\SPORT///::::::::::::\\\SPORT/// ::: \\\SPORT///::::::
+#EXTINF:-1 group-title="SPORT",TR:EUROSPORT 1
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/271.ts
+#EXTINF:-1 group-title="SPORT",TR:EUROSPORT 2
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/270.ts
+#EXTINF:-1 group-title="SPORT",TR:BEIN SPORTS 1
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/55.ts
+#EXTINF:-1 group-title="SPORT",TR:BEIN SPORTS 1 HD 1080P
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/663.ts
+#EXTINF:-1 group-title="SPORT",TR:BEIN SPORTS 1  SD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1068.ts
+#EXTINF:-1 group-title="SPORT",TR:BEIN SPORTS 2 HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/56.ts
+#EXTINF:-1 group-title="SPORT",TR:BEIN SPORTS 2 720P
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/2028.ts
+#EXTINF:-1 group-title="SPORT",TR:BEIN SPORTS 3 HD 1080P
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/57.ts
+#EXTINF:-1 group-title="SPORT",TR:BEIN SPORTS 3 720P
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/2029.ts
+#EXTINF:-1 group-title="SPORT",TR:BEIN SPORTS 4 HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/253.ts
+#EXTINF:-1 group-title="SPORT",TR:BEIN SPORTS MAX 1
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/825.ts
+#EXTINF:-1 group-title="SPORT",TR:BEIN SPORTS MAX 2
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1081.ts
+#EXTINF:-1 group-title="SPORT",TR:BEINSPORTS HABER HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/2091.ts
+#EXTINF:-1 group-title="SPORT",TR:TIVIBU SPOR
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/125.ts
+#EXTINF:-1 group-title="SPORT",TR:TIVIBU SPOR 2
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/51.ts
+#EXTINF:-1 group-title="SPORT",TR:TIVIBU SPOR 3
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/251.ts
+#EXTINF:-1 group-title="SPORT",TR:TIVIBU SPOR 4
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/252.ts
+#EXTINF:-1 group-title="SPORT",TR:SMART SPOR 1
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/53.ts
+#EXTINF:-1 group-title="SPORT",TR:S SPORT HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/52.ts
+#EXTINF:-1 group-title="SPORT",TR:S SPORT SD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1585.ts
+#EXTINF:-1 group-title="SPORT",TR:NBA TV HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1012.ts
+#EXTINF:-1 group-title="SPORT",TR:SPORTS TV
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/38.ts
+#EXTINF:-1 group-title="SPORT",DE:SPORT1 HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/180.ts
+#EXTINF:-1 group-title="SPORT",DE:SPORT DIGITAL
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/344.ts
+#EXTINF:-1 group-title="SPORT",DE:EUROSPORT1 HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/262.ts
+#EXTINF:-1 group-title="SPORT",DE:EUROSPORT2 HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/263.ts
+#EXTINF:-1 group-title="SPORT",DE:EUROSPORT 2 HD XTRA
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1634.ts
+#EXTINF:-1 group-title="SPORT",DE:SKY SPORT AUSTRIA
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/98.ts
+#EXTINF:-1 group-title="SPORT",DE:SKY SPORT NEWS
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/67.ts
+#EXTINF:-1 group-title="SPORT",DE:SKY SPORT 1
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/69.ts
+#EXTINF:-1 group-title="SPORT",DE:SKY SPORT 2
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/68.ts
+#EXTINF:-1 group-title="SPORT",DE:SKY SPORT 3 HD( DURING GAMES ONLY )
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/301.ts
+#EXTINF:-1 group-title="SPORT",US:SPORTSNET ONE HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1995.ts
+#EXTINF:-1 group-title="SPORT",US:SPORTS NET WORD HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1994.ts
+#EXTINF:-1 group-title="SPORT",US:NBC SPORT HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1993.ts
+#EXTINF:-1 group-title="SPORT",US:HALLMARK HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1992.ts
+#EXTINF:-1 group-title="SPORT",US:TSN SPORT 1
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1998.ts
+#EXTINF:-1 group-title="SPORT",US:TSN SPORT 2
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1999.ts
+#EXTINF:-1 group-title="SPORT",US:TSN SPORT 3
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/2000.ts
+#EXTINF:-1 group-title="SPORT",US:TSN SPORT 4
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/2001.ts
+#EXTINF:-1 group-title="SPORT",US:NBC
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/2312.ts
+#EXTINF:-1 group-title="SPORT",US:TBS
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/2313.ts
+#EXTINF:-1 group-title="SPORT",US:AFN PRIME ATLANTIC
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1984.ts
+#EXTINF:-1 group-title="SPORT",UK:SKY SPORTS 1
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/178.ts
+#EXTINF:-1 group-title="SPORT",UK:SKY SPORTS 2
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/177.ts
+#EXTINF:-1 group-title="SPORT",UK:SKY SPORTS 3
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/176.ts
+#EXTINF:-1 group-title="SPORT",UK:SKY SPORTS 4
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/175.ts
+#EXTINF:-1 group-title="SPORT",UK:SKY SPORTS 5
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/174.ts
+#EXTINF:-1 group-title="SPORT",UK:ANIMAL PLANET HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1614.ts
+#EXTINF:-1 group-title="SPORT",UK:BABY TV
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1615.ts
+#EXTINF:-1 group-title="SPORT",UK:BOX NATION
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1616.ts
+#EXTINF:-1 group-title="SPORT",UK:BTSPORT 1 HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1617.ts
+#EXTINF:-1 group-title="SPORT",UK:BTSPORT 2 HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1618.ts
+#EXTINF:-1 group-title="SPORT",UK:BTSPORT 3HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1619.ts
+#EXTINF:-1 group-title="SPORT",AR:BEIN SPORTS 1HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/116.ts
+#EXTINF:-1 group-title="SPORT",AR:BEIN SPORTS 2HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/115.ts
+#EXTINF:-1 group-title="SPORT",AR:BEIN SPORTS 3HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/114.ts
+#EXTINF:-1 group-title="SPORT",AR:BEIN SPORTS 4HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/113.ts
+#EXTINF:-1 group-title="SPORT",AR:BEIN SPORTS 5HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/112.ts
+#EXTINF:-1 group-title="SPORT",AR:BEIN SPORTS 6HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/111.ts
+#EXTINF:-1 group-title="SPORT",AR:BEIN SPORTS 7HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/110.ts
+#EXTINF:-1 group-title="SPORT",AR:BEIN SPORTS 8HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/109.ts
+#EXTINF:-1 group-title="SPORT",AR:BEIN SPORTS 9HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/108.ts
+#EXTINF:-1 group-title="SPORT",AR:BEIN SPORTS 10HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/107.ts
+#EXTINF:-1 group-title="SPORT",AR:MBC-SPORT1 HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1756.ts
+#EXTINF:-1 group-title="SPORT",AR:MBC SPORT2 HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1757.ts
+#EXTINF:-1 group-title="SPORT",AR:MBC SPORT3 HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1758.ts
+#EXTINF:-1 group-title="SPORT",AR:MBC PRO SPORT4 HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1759.ts
+#EXTINF:-1 group-title="SPORT",AR:OSN ABU DHABI SPORTS 1
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1755.ts
+#EXTINF:-1 group-title="SPORT",AR:OSN ABU DHABI SPORTS 2
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1754.ts
+#EXTINF:-1 group-title="SPORT",AR:OSN ABU DHABI SPORTS 3
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1753.ts
+#EXTINF:-1 group-title="SPORT",AR:OSN ABU DHABI SPORTS 4
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1752.ts
+#EXTINF:-1 group-title="SPORT",IT:SPORT ITALIA
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/148.ts
+#EXTINF:-1 group-title="SPORT",IT RAI SPORT 1
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/149.ts
+#EXTINF:-1 group-title="SPORT",IT:RAI SPORT 2
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/150.ts
+#EXTINF:-1 group-title="SPORT",IT:PREMIUM SPORT HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/158.ts
+#EXTINF:-1 group-title="SPORT",IT:PREMIUM SPORT 2 HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/157.ts
+#EXTINF:-1 group-title="SPORT",IT:EUROSPORT 1 HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/2234.ts
+#EXTINF:-1 group-title="SPORT",IT:EUROSPORT 2 HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/2235.ts
+#EXTINF:-1 group-title="SPORT",IT:PREMIUM CALCIO 1 HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1836.ts
+#EXTINF:-1 group-title="SPORT",IT:PREMIUM CALCIO 2 HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1837.ts
+#EXTINF:-1 group-title="SPORT",IT:PREMIUM CALCIO 3 HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1838.ts
+#EXTINF:-1 group-title="SPORT",IT:PREMIUM CALCIO 4 HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1839.ts
+#EXTINF:-1 group-title="SPORT",IT:PREMIUM CALCIO 5 HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1840.ts
+#EXTINF:-1 group-title="SPORT",IT:PREMIUM CALCIO 6 HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1841.ts
+#EXTINF:-1 group-title="SPORT",IT:PREMIUM CINEMA 24 HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1842.ts
+#EXTINF:-1 group-title="SPORT",NL:ZIGGO SPORT 1 RACING
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/666.ts
+#EXTINF:-1 group-title="SPORT",NL:ZIGGO SPORT SELECT HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/664.ts
+#EXTINF:-1 group-title="SPORT",NL:ZIGGO SPORT VOETBAL
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/667.ts
+#EXTINF:-1 group-title="SPORT",NL:ZIGGO SPORT GOLF
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/668.ts
+#EXTINF:-1 group-title="SPORT",NL:ZIGGO SPORT EXTRA 1
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/775.ts
+#EXTINF:-1 group-title="SPORT",NL:ZIGGO SPORT EXTRA 2
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/776.ts
+#EXTINF:-1 group-title="SPORT",NL:FOX SPORTS 1
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/207.ts
+#EXTINF:-1 group-title="SPORT",NL:FOX SPORTS 2
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/202.ts
+#EXTINF:-1 group-title="SPORT",NL:FOX SPORTS 3
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/203.ts
+#EXTINF:-1 group-title="SPORT",NL:FOX SPORTS 4
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/204.ts
+#EXTINF:-1 group-title="SPORT",NL:FOX SPORTS 5
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/205.ts
+#EXTINF:-1 group-title="SPORT",NL:FOX SPORTS 6
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/770.ts
+#EXTINF:-1 group-title="SPORT",FR:BEIN SPORTS 1HD
 http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/293.ts
-#EXTINF:-1,FR:BEIN SPORTS 2HD
+#EXTINF:-1 group-title="SPORT",FR:BEIN SPORTS 2HD
 http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/292.ts
-#EXTINF:-1,FR:BEIN SPORT 3 HD
+#EXTINF:-1 group-title="SPORT",FR:BEIN SPORT 3 HD
 http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/294.ts
-#EXTINF:-1,FR:BEIN SPORT MAX4
+#EXTINF:-1 group-title="SPORT",FR:BEIN SPORT MAX4
 http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1023.ts
-#EXTINF:-1,FR:BEIN SPORT MAX5
+#EXTINF:-1 group-title="SPORT",FR:BEIN SPORT MAX5
 http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1024.ts
-#EXTINF:-1,FR:BEIN SPORT MAX6
+#EXTINF:-1 group-title="SPORT",FR:BEIN SPORT MAX6
 http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1025.ts
-#EXTINF:-1,FR:BEIN SPORT MAX7
+#EXTINF:-1 group-title="SPORT",FR:BEIN SPORT MAX7
 http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1026.ts
-#EXTINF:-1,FR:BEIN SPORT MAX8
+#EXTINF:-1 group-title="SPORT",FR:BEIN SPORT MAX8
 http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1027.ts
-#EXTINF:-1,FR:BEIN SPORT MAX9
+#EXTINF:-1 group-title="SPORT",FR:BEIN SPORT MAX9
 http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1028.ts
-#EXTINF:-1,FR:BEIN SPORT MAX10
+#EXTINF:-1 group-title="SPORT",FR:BEIN SPORT MAX10
 http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1029.ts
-#EXTINF:-1,FR:TF1
-http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/282.ts
-#EXTINF:-1,FR:NT1
-http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/290.ts
-#EXTINF:-1,FR:M6
-http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/283.ts
-#EXTINF:-1,FR:W9
-http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/281.ts
-#EXTINF:-1,FR:ARTE
-http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/291.ts
-#EXTINF:-1,FR:ANIMAUX
-http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/295.ts
-#EXTINF:-1,FR:AB MOTEURS
-http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/296.ts
-#EXTINF:-1,FR:DISCOVERY HD
-http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/730.ts
-#EXTINF:-1,FR:NAT GEO
-http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/727.ts
-#EXTINF:-1,FR:CANAL+ HD
-http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/723.ts
-#EXTINF:-1,FR:CANAL CINEMA HD
-http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/724.ts
-#EXTINF:-1,FR:CANAL DECALE HD
-http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/725.ts
-#EXTINF:-1,FR:CANAL  FAMILY
-http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/726.ts
-#EXTINF:-1,FR:CANAL+ SERIES
-http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/761.ts
-#EXTINF:-1,FR:OCS MAX HD
-http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/766.ts
-#EXTINF:-1,FR:DISNEY CINEMA
-http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/767.ts
-#EXTINF:-1,FR:CINE+FRISSON
-http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/728.ts
-#EXTINF:-1,FR:CINE+ PREMIER
-http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/729.ts
-#EXTINF:-1,FR:CINE FAMIZ
-http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/764.ts
-#EXTINF:-1,FR:CINE EMOTION HD
-http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/765.ts
-#EXTINF:-1,FR:CANAL+ SPORT HD
-http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/760.ts
-#EXTINF:-1,FR:CANAL+ DECALE HD
-http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/762.ts
-#EXTINF:-1,FR:GULLI
-http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/299.ts
-#EXTINF:-1,FR:CANAL J
-http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/300.ts
-#EXTINF:-1,FR:DISNEY JUNIOR HD
-http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1801.ts
-#EXTINF:-1,FR:PIWI+
-http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1968.ts
+#EXTINF:-1 group-title="SPORT",ALB:TRING SPORT NEWS HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/318.ts
+#EXTINF:-1 group-title="SPORT",ALB:TRING SPORT 1 HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/322.ts
+#EXTINF:-1 group-title="SPORT",ALB:TRING SPORT 2 HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/321.ts
+#EXTINF:-1 group-title="SPORT",ALB:TRING SPORT 3 HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/320.ts
+#EXTINF:-1 group-title="SPORT",ALB:TRING SPORT 4 HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/319.ts
+#EXTINF:-1 group-title="SPORT",ALB:SUPER SPORT 1 HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1235.ts
+#EXTINF:-1 group-title="SPORT",ALB:SUPER SPORT 2 HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1236.ts
+#EXTINF:-1 group-title="SPORT",ALB:SUPER SPORT 3 HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1237.ts
+#EXTINF:-1 group-title="SPORT",ALB:SUPER SPORT 4 HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1238.ts
+#EXTINF:-1 group-title="SPORT",ALB:SUPER SPORT 5 HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1239.ts
+#EXTINF:-1 group-title="SPORT",ALB:SUPER SPORT 6 HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1240.ts
+#EXTINF:-1 group-title="SPORT",EX-YU:ARENA SPORT 1
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/449.ts
+#EXTINF:-1 group-title="SPORT",EX-YU:ARENA SPORT 2
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/450.ts
+#EXTINF:-1 group-title="SPORT",EX-YU:ARENA SPORT 3
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/451.ts
+#EXTINF:-1 group-title="SPORT",EX-YU:ARENA SPORT 4
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/452.ts
+#EXTINF:-1 group-title="SPORT",EX-YU:ARENA SPORT 5
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/453.ts
+#EXTINF:-1 group-title="SPORT",EX YU: SPORT KLUB 1
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1964.ts
+#EXTINF:-1 group-title="SPORT",EX YU: SPORT KLUB 2
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1965.ts
+#EXTINF:-1 group-title="SPORT",EX YU: SPORT KLUB 3
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1966.ts
+#EXTINF:-1 group-title="SPORT",ES:REAL MADRID TV
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/510.ts
+#EXTINF:-1 group-title="SPORT",ES:MOVISTAR TOROS TV
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/509.ts
+#EXTINF:-1 group-title="SPORT",ES:MOVISTAR SERIES XTRA
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/511.ts
+#EXTINF:-1 group-title="SPORT",ES:BEIN SPORTS LA LIGA HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/519.ts
+#EXTINF:-1 group-title="SPORT",ES:BEIN SPORTS ESPANOL
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/520.ts
+#EXTINF:-1 group-title="SPORT",ES:LA LIGA
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/512.ts
+#EXTINF:-1 group-title="SPORT",ES:MOVISTAR FUTBOL
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/514.ts
+#EXTINF:-1 group-title="SPORT",ES:MOVISTAR ESTRENOS
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/515.ts
 
-#EXTINF:-1,FR | CHANTE FRANCE
-http://system.fpiptv.com:8080/live/testing/testing/3544.ts
-#EXTINF:-1,FR | CHERIE FM
-http://system.fpiptv.com:8080/live/testing/testing/3551.ts
-#EXTINF:-1,FR | FRANCE CULTURE
-http://system.fpiptv.com:8080/live/testing/testing/3550.ts
-#EXTINF:-1,FR | FRANCE INFO RADIO
-http://system.fpiptv.com:8080/live/testing/testing/3549.ts
-#EXTINF:-1,FR | FRANCE INTER
-http://system.fpiptv.com:8080/live/testing/testing/3548.ts
-#EXTINF:-1,FR | FRANCE MUSIQUE
-http://system.fpiptv.com:8080/live/testing/testing/3547.ts
-#EXTINF:-1,FR | FUN RADIO
-http://system.fpiptv.com:8080/live/testing/testing/3541.ts
-#EXTINF:-1,FR | M2 CLASSIC
-http://system.fpiptv.com:8080/live/testing/testing/3543.ts
-#EXTINF:-1,FR | M2 LOVE
-http://system.fpiptv.com:8080/live/testing/testing/3542.ts
-#EXTINF:-1,FR | Nostalgie France
-http://system.fpiptv.com:8080/live/testing/testing/3552.ts
-#EXTINF:-1,FR | NRJ France
-http://system.fpiptv.com:8080/live/testing/testing/3553.ts
-#EXTINF:-1,FR | RCJ
-http://system.fpiptv.com:8080/live/testing/testing/3539.ts
-#EXTINF:-1,FR | Rire & Chansons
-http://system.fpiptv.com:8080/live/testing/testing/3554.ts
-#EXTINF:-1,FR | RTL
-http://system.fpiptv.com:8080/live/testing/testing/3546.ts
-#EXTINF:-1,FR |  TV5 MONDE
-http://system.fpiptv.com:8080/live/testing/testing/3709.ts
-#EXTINF:-1,FR | 13EME RUE
-http://system.fpiptv.com:8080/live/testing/testing/3708.ts
-#EXTINF:-1,FR | 6TER
-http://system.fpiptv.com:8080/live/testing/testing/3707.ts
-#EXTINF:-1,FR | AB1
-http://system.fpiptv.com:8080/live/testing/testing/3706.ts
-#EXTINF:-1,FR | AB3
-http://system.fpiptv.com:8080/live/testing/testing/3705.ts
-#EXTINF:-1,FR | ANIMAUX
-http://system.fpiptv.com:8080/live/testing/testing/3704.ts
-#EXTINF:-1,FR | ARTE
-http://system.fpiptv.com:8080/live/testing/testing/3703.ts
-#EXTINF:-1,FR | BEIN MAX 10
-http://system.fpiptv.com:8080/live/testing/testing/3702.ts
-#EXTINF:-1,FR | BEIN MAX 4
-http://system.fpiptv.com:8080/live/testing/testing/3701.ts
-#EXTINF:-1,FR | BEIN MAX 5
-http://system.fpiptv.com:8080/live/testing/testing/3700.ts
-#EXTINF:-1,FR | BEIN MAX 6
-http://system.fpiptv.com:8080/live/testing/testing/3699.ts
-#EXTINF:-1,FR | BEIN MAX 7
-http://system.fpiptv.com:8080/live/testing/testing/3698.ts
-#EXTINF:-1,FR | BEIN MAX 8
-http://system.fpiptv.com:8080/live/testing/testing/3697.ts
-#EXTINF:-1,FR | BEIN MAX 9
-http://system.fpiptv.com:8080/live/testing/testing/3696.ts
-#EXTINF:-1,FR | BEIN SPORT 1
-http://system.fpiptv.com:8080/live/testing/testing/3695.ts
-#EXTINF:-1,FR | BEIN SPORT 2
-http://system.fpiptv.com:8080/live/testing/testing/3694.ts
-#EXTINF:-1,FR | BEIN SPORT 3
-http://system.fpiptv.com:8080/live/testing/testing/3693.ts
-#EXTINF:-1,FR | BFM SPORT
-http://system.fpiptv.com:8080/live/testing/testing/3692.ts
-#EXTINF:-1,FR | BFM TV BUSINESS
-http://system.fpiptv.com:8080/live/testing/testing/3691.ts
-#EXTINF:-1,FR | BFMTV
-http://system.fpiptv.com:8080/live/testing/testing/3690.ts
-#EXTINF:-1,FR | BOING
-http://system.fpiptv.com:8080/live/testing/testing/3689.ts
-#EXTINF:-1,FR | BOOMERANG
-http://system.fpiptv.com:8080/live/testing/testing/3688.ts
-#EXTINF:-1,FR | C8 HD
-http://system.fpiptv.com:8080/live/testing/testing/3687.ts
-#EXTINF:-1,FR | CANAL  CINEMA
-http://system.fpiptv.com:8080/live/testing/testing/3684.ts
-#EXTINF:-1,FR | CANAL  DECALE
-http://system.fpiptv.com:8080/live/testing/testing/3683.ts
-#EXTINF:-1,FR | CANAL  FAMILY
-http://system.fpiptv.com:8080/live/testing/testing/3682.ts
-#EXTINF:-1,FR | CANAL  HD
-http://system.fpiptv.com:8080/live/testing/testing/3681.ts
-#EXTINF:-1,FR | CANAL  SD
-http://system.fpiptv.com:8080/live/testing/testing/3680.ts
-#EXTINF:-1,FR | CANAL  SERIE
-http://system.fpiptv.com:8080/live/testing/testing/3679.ts
-#EXTINF:-1,FR | CANAL  SPORT
-http://system.fpiptv.com:8080/live/testing/testing/3678.ts
-#EXTINF:-1,FR | CANAL J
-http://system.fpiptv.com:8080/live/testing/testing/3686.ts
-#EXTINF:-1,FR | CANAL SAVOIR
-http://system.fpiptv.com:8080/live/testing/testing/3685.ts
-#EXTINF:-1,FR | CARTOON NETWORK
-http://system.fpiptv.com:8080/live/testing/testing/3677.ts
-#EXTINF:-1,FR | CHASSE ET PECHE
-http://system.fpiptv.com:8080/live/testing/testing/3676.ts
-#EXTINF:-1,FR | CHERIE 25
-http://system.fpiptv.com:8080/live/testing/testing/3675.ts
-#EXTINF:-1,FR | CINE  CLASSIC
-http://system.fpiptv.com:8080/live/testing/testing/3671.ts
-#EXTINF:-1,FR | CINE  CLUB
-http://system.fpiptv.com:8080/live/testing/testing/3670.ts
-#EXTINF:-1,FR | CINE  EMOTION
-http://system.fpiptv.com:8080/live/testing/testing/3669.ts
-#EXTINF:-1,FR | CINE  FAMIZ
-http://system.fpiptv.com:8080/live/testing/testing/3668.ts
-#EXTINF:-1,FR | CINE  FRISSON
-http://system.fpiptv.com:8080/live/testing/testing/3667.ts
-#EXTINF:-1,FR | CINE  PREMIER
-http://system.fpiptv.com:8080/live/testing/testing/3666.ts
-#EXTINF:-1,FR | CINE ACTION
-http://system.fpiptv.com:8080/live/testing/testing/3674.ts
-#EXTINF:-1,FR | CINE FX
-http://system.fpiptv.com:8080/live/testing/testing/3673.ts
-#EXTINF:-1,FR | CINE POLAR
-http://system.fpiptv.com:8080/live/testing/testing/3672.ts
-#EXTINF:-1,FR | CLASSICA
-http://system.fpiptv.com:8080/live/testing/testing/3665.ts
-#EXTINF:-1,FR | CLUB RTL
-http://system.fpiptv.com:8080/live/testing/testing/3664.ts
-#EXTINF:-1,FR | CNEWS
-http://system.fpiptv.com:8080/live/testing/testing/3663.ts
-#EXTINF:-1,FR | COMEDIE
-http://system.fpiptv.com:8080/live/testing/testing/3662.ts
-#EXTINF:-1,FR | CSTAR
-http://system.fpiptv.com:8080/live/testing/testing/3661.ts
-#EXTINF:-1,FR | DISCOVERY CHANNEL
-http://system.fpiptv.com:8080/live/testing/testing/3660.ts
-#EXTINF:-1,FR | DISCOVERY SC
-http://system.fpiptv.com:8080/live/testing/testing/3659.ts
-#EXTINF:-1,FR | DISNEY CHANNEL
-http://system.fpiptv.com:8080/live/testing/testing/3658.ts
-#EXTINF:-1,FR | DISNEY CINEMA
-http://system.fpiptv.com:8080/live/testing/testing/3657.ts
-#EXTINF:-1,FR | DISNEY JUNIOR
-http://system.fpiptv.com:8080/live/testing/testing/3656.ts
-#EXTINF:-1,FR | DISNEY XD
-http://system.fpiptv.com:8080/live/testing/testing/3655.ts
-#EXTINF:-1,FR | E! ENTERTAINMENT
-http://system.fpiptv.com:8080/live/testing/testing/3654.ts
-#EXTINF:-1,FR | ELLE GIRL
-http://system.fpiptv.com:8080/live/testing/testing/3653.ts
-#EXTINF:-1,FR | EQUIDIA LIFE
-http://system.fpiptv.com:8080/live/testing/testing/3652.ts
-#EXTINF:-1,FR | EQUIDIA LIVE
-http://system.fpiptv.com:8080/live/testing/testing/3651.ts
-#EXTINF:-1,FR | EURONEWS
-http://system.fpiptv.com:8080/live/testing/testing/3650.ts
-#EXTINF:-1,FR | EUROSPORT 1
-http://system.fpiptv.com:8080/live/testing/testing/3649.ts
-#EXTINF:-1,FR | EUROSPORT 2
-http://system.fpiptv.com:8080/live/testing/testing/3648.ts
-#EXTINF:-1,FR | FOOT
-http://system.fpiptv.com:8080/live/testing/testing/3647.ts
-#EXTINF:-1,FR | FRANCE 2 HD
-http://system.fpiptv.com:8080/live/testing/testing/3646.ts
-#EXTINF:-1,FR | FRANCE 24
-http://system.fpiptv.com:8080/live/testing/testing/3645.ts
-#EXTINF:-1,FR | FRANCE 3 HD
-http://system.fpiptv.com:8080/live/testing/testing/3644.ts
-#EXTINF:-1,FR | FRANCE 4 HD
-http://system.fpiptv.com:8080/live/testing/testing/3643.ts
-#EXTINF:-1,FR | FRANCE 5 HD
-http://system.fpiptv.com:8080/live/testing/testing/3642.ts
-#EXTINF:-1,FR | FRANCE INFO
-http://system.fpiptv.com:8080/live/testing/testing/3641.ts
-#EXTINF:-1,FR | FRANCE O
-http://system.fpiptv.com:8080/live/testing/testing/3640.ts
-#EXTINF:-1,FR | GOLF
-http://system.fpiptv.com:8080/live/testing/testing/3638.ts
-#EXTINF:-1,FR | GOLF CHANNEL
-http://system.fpiptv.com:8080/live/testing/testing/3639.ts
-#EXTINF:-1,FR | GULLI
-http://system.fpiptv.com:8080/live/testing/testing/3637.ts
-#EXTINF:-1,FR | HD1
-http://system.fpiptv.com:8080/live/testing/testing/3636.ts
-#EXTINF:-1,FR | HISTOIRE
-http://system.fpiptv.com:8080/live/testing/testing/3635.ts
-#EXTINF:-1,FR | I24 NEWS
-http://system.fpiptv.com:8080/live/testing/testing/3634.ts
-#EXTINF:-1,FR | INFOSPORT
-http://system.fpiptv.com:8080/live/testing/testing/3633.ts
-#EXTINF:-1,FR | L'EQUIPE 21
-http://system.fpiptv.com:8080/live/testing/testing/3632.ts
-#EXTINF:-1,FR | LA DEUX
-http://system.fpiptv.com:8080/live/testing/testing/3631.ts
-#EXTINF:-1,FR | LA TROIS
-http://system.fpiptv.com:8080/live/testing/testing/3630.ts
-#EXTINF:-1,FR | LA UNE HD
-http://system.fpiptv.com:8080/live/testing/testing/3629.ts
-#EXTINF:-1,FR | LATELE
-http://system.fpiptv.com:8080/live/testing/testing/3628.ts
-#EXTINF:-1,FR | LCI
-http://system.fpiptv.com:8080/live/testing/testing/3627.ts
-#EXTINF:-1,FR | LCP
-http://system.fpiptv.com:8080/live/testing/testing/3626.ts
-#EXTINF:-1,FR | Lucky Jack TV
-http://system.fpiptv.com:8080/live/testing/testing/3625.ts
-#EXTINF:-1,FR | M6 HD
-http://system.fpiptv.com:8080/live/testing/testing/3624.ts
-#EXTINF:-1,FR | M6 MUSIC
-http://system.fpiptv.com:8080/live/testing/testing/3623.ts
-#EXTINF:-1,FR | MANGAS
-http://system.fpiptv.com:8080/live/testing/testing/3622.ts
-#EXTINF:-1,FR | MCM
-http://system.fpiptv.com:8080/live/testing/testing/3621.ts
-#EXTINF:-1,FR | MCM TOP
-http://system.fpiptv.com:8080/live/testing/testing/3620.ts
-#EXTINF:-1,FR | MEZZO HD
-http://system.fpiptv.com:8080/live/testing/testing/3619.ts
-#EXTINF:-1,FR | MEZZO LIVE
-http://system.fpiptv.com:8080/live/testing/testing/3618.ts
-#EXTINF:-1,FR | MOVISTAR GOLF
-http://system.fpiptv.com:8080/live/testing/testing/3617.ts
-#EXTINF:-1,FR | MTV FR
-http://system.fpiptv.com:8080/live/testing/testing/3616.ts
-#EXTINF:-1,FR | NAT GEO WILD
-http://system.fpiptv.com:8080/live/testing/testing/3615.ts
-#EXTINF:-1,FR | NATIONAL GEOGRAPHIC
-http://system.fpiptv.com:8080/live/testing/testing/3614.ts
-#EXTINF:-1,FR | NICKELODEON
-http://system.fpiptv.com:8080/live/testing/testing/3613.ts
-#EXTINF:-1,FR | NICKELODEON JR
-http://system.fpiptv.com:8080/live/testing/testing/3612.ts
-#EXTINF:-1,FR | NOTELE
-http://system.fpiptv.com:8080/live/testing/testing/3611.ts
-#EXTINF:-1,FR | NRJ12
-http://system.fpiptv.com:8080/live/testing/testing/3610.ts
-#EXTINF:-1,FR | NRJ12 MUSIC
-http://system.fpiptv.com:8080/live/testing/testing/3609.ts
-#EXTINF:-1,FR | NT1
-http://system.fpiptv.com:8080/live/testing/testing/3608.ts
-#EXTINF:-1,FR | NUMERO 23
-http://system.fpiptv.com:8080/live/testing/testing/3607.ts
-#EXTINF:-1,FR | OCS CHOC
-http://system.fpiptv.com:8080/live/testing/testing/3606.ts
-#EXTINF:-1,FR | OCS CITY
-http://system.fpiptv.com:8080/live/testing/testing/3605.ts
-#EXTINF:-1,FR | OCS GEANTS
-http://system.fpiptv.com:8080/live/testing/testing/3604.ts
-#EXTINF:-1,FR | OCS MAX
-http://system.fpiptv.com:8080/live/testing/testing/3603.ts
-#EXTINF:-1,FR | PARAMOUNT CHANNEL
-http://system.fpiptv.com:8080/live/testing/testing/3602.ts
-#EXTINF:-1,FR | PARIS PREMIERE
-http://system.fpiptv.com:8080/live/testing/testing/3601.ts
-#EXTINF:-1,FR | PIWI
-http://system.fpiptv.com:8080/live/testing/testing/3600.ts
-#EXTINF:-1,FR | PLANETE
-http://system.fpiptv.com:8080/live/testing/testing/3597.ts
-#EXTINF:-1,FR | PLANETE A&E
-http://system.fpiptv.com:8080/live/testing/testing/3599.ts
-#EXTINF:-1,FR | PLANETE C.I
-http://system.fpiptv.com:8080/live/testing/testing/3598.ts
-#EXTINF:-1,FR | PLUG RTL
-http://system.fpiptv.com:8080/live/testing/testing/3596.ts
-#EXTINF:-1,FR | RADIO MONTE-CARLO TV
-http://system.fpiptv.com:8080/live/testing/testing/3595.ts
-#EXTINF:-1,FR | RMC DECOUVERT
-http://system.fpiptv.com:8080/live/testing/testing/3594.ts
-#EXTINF:-1,FR | RTL-TVI
-http://system.fpiptv.com:8080/live/testing/testing/3593.ts
-#EXTINF:-1,FR | RTL9 HD
-http://system.fpiptv.com:8080/live/testing/testing/3592.ts
-#EXTINF:-1,FR | RTS DEUX
-http://system.fpiptv.com:8080/live/testing/testing/3591.ts
-#EXTINF:-1,FR | RTS UN
-http://system.fpiptv.com:8080/live/testing/testing/3590.ts
-#EXTINF:-1,FR | SCIENCE ET VIE
-http://system.fpiptv.com:8080/live/testing/testing/3589.ts
-#EXTINF:-1,FR | SEASON
-http://system.fpiptv.com:8080/live/testing/testing/3588.ts
-#EXTINF:-1,FR | SERIE CLUB
-http://system.fpiptv.com:8080/live/testing/testing/3587.ts
-#EXTINF:-1,FR | SFR1 SPORT
-http://system.fpiptv.com:8080/live/testing/testing/3586.ts
-#EXTINF:-1,FR | SFR2 SPORT
-http://system.fpiptv.com:8080/live/testing/testing/3585.ts
-#EXTINF:-1,FR | SFR3 SPORT
-http://system.fpiptv.com:8080/live/testing/testing/3584.ts
-#EXTINF:-1,FR | SFR5 SPORT
-http://system.fpiptv.com:8080/live/testing/testing/3583.ts
-#EXTINF:-1,FR | SKY SPORT 4
-http://system.fpiptv.com:8080/live/testing/testing/3582.ts
-#EXTINF:-1,FR | SYFY
-http://system.fpiptv.com:8080/live/testing/testing/3581.ts
-#EXTINF:-1,FR | TCM CLASSIC
-http://system.fpiptv.com:8080/live/testing/testing/3580.ts
-#EXTINF:-1,FR | TELE SAMBRE
-http://system.fpiptv.com:8080/live/testing/testing/3579.ts
-#EXTINF:-1,FR | TELE VESDRE
-http://system.fpiptv.com:8080/live/testing/testing/3578.ts
-#EXTINF:-1,FR | TELETOON
-http://system.fpiptv.com:8080/live/testing/testing/3577.ts
-#EXTINF:-1,FR | TEVA
-http://system.fpiptv.com:8080/live/testing/testing/3576.ts
-#EXTINF:-1,FR | TF1 HD
-http://system.fpiptv.com:8080/live/testing/testing/3575.ts
-#EXTINF:-1,FR | TIJI
-http://system.fpiptv.com:8080/live/testing/testing/3574.ts
-#EXTINF:-1,FR | TMC
-http://system.fpiptv.com:8080/live/testing/testing/3573.ts
-#EXTINF:-1,FR | TOUTE L`HISTOIRE
-http://system.fpiptv.com:8080/live/testing/testing/3572.ts
-#EXTINF:-1,FR | TV BREIZH
-http://system.fpiptv.com:8080/live/testing/testing/3571.ts
-#EXTINF:-1,FR | TV LUX
-http://system.fpiptv.com:8080/live/testing/testing/3570.ts
-#EXTINF:-1,FR | TVM3
-http://system.fpiptv.com:8080/live/testing/testing/3569.ts
-#EXTINF:-1,FR | USHUAIA
-http://system.fpiptv.com:8080/live/testing/testing/3568.ts
-#EXTINF:-1,FR | VIVOLTA
-http://system.fpiptv.com:8080/live/testing/testing/3567.ts
-#EXTINF:-1,FR | VOYAGE
-http://system.fpiptv.com:8080/live/testing/testing/3566.ts
-#EXTINF:-1,FR | W9 HD
-http://system.fpiptv.com:8080/live/testing/testing/3565.ts
-#EXTINF:-1,FR | WEO
-http://system.fpiptv.com:8080/live/testing/testing/3564.ts
-#EXTINF:-1,FR | ZIGGO GOLF
-http://system.fpiptv.com:8080/live/testing/testing/3563.ts
-#EXTINF:-1,FR | ZOUZOUS
-http://system.fpiptv.com:8080/live/testing/testing/3562.ts
-
-#EXTINF:-1,(FR) TF1 HD
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/544.ts
-#EXTINF:-1,(FR) France 2 HD
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/550.ts
-#EXTINF:-1,(FR) France 3 HD
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/642.ts
-#EXTINF:-1,(FR) France 4 HD
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/643.ts
-#EXTINF:-1,(FR) France 5 HD
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/644.ts
-#EXTINF:-1,(FR) France Ô HD
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/1621.ts
-#EXTINF:-1,(FR) M6 HD
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/1588.ts
-#EXTINF:-1,(FR) Arte HD
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/2125.ts
-#EXTINF:-1,(FR) Hd1
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/2572.ts
-#EXTINF:-1,(FR) Paris Premiere
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/4258.ts
-#EXTINF:-1,(FR) Tmc HD
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/1237.ts
-#EXTINF:-1,(FR) Tv Breizh
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/2519.ts
-#EXTINF:-1,(FR) Ocs_City HD
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/3380.ts
-#EXTINF:-1,(FR) Ocs_Choc HD
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/524.ts
-#EXTINF:-1,(FR) Ocs_Geants HD
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/1228.ts
-#EXTINF:-1,(FR) Ocs_Max HD
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/2331.ts
-#EXTINF:-1,(FR) Canal+
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/546.ts
-#EXTINF:-1,(FR) Canal+Family HD
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/1224.ts
-#EXTINF:-1,(FR) Canal+Cinema HD
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/547.ts
-#EXTINF:-1,(FR) Canal+Decale HD
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/4010.ts
-#EXTINF:-1,(FR) Canal+Series
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/3385.ts
-#EXTINF:-1,(FR) Cine+Famiz
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/1222.ts
-#EXTINF:-1,(FR) Cine+Frisson
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/1221.ts
-#EXTINF:-1,(FR) Cine+Premier
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/549.ts
-#EXTINF:-1,(FR) Cine+Emotion HD
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/1234.ts
-#EXTINF:-1,(FR) Cine+Classic HD
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/637.ts
-#EXTINF:-1,(FR) Cine FX
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/2049.ts
-#EXTINF:-1,(FR) Cine Polar
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/2048.ts
-#EXTINF:-1,(FR) Tcm Cinema HD
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/3393.ts
-#EXTINF:-1,(FR) Action
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/1235.ts
-#EXTINF:-1,(FR) Ab1
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/2524.ts
-#EXTINF:-1,(FR) W9 HD
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/1623.ts
-#EXTINF:-1,(FR) Syfy HD
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/638.ts
-#EXTINF:-1,(FR) Cherie 25
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/2050.ts
-#EXTINF:-1,(FR) Chasse Peche
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/2051.ts
-#EXTINF:-1,(FR) Serie Club HD
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/1227.ts
-#EXTINF:-1,(FR) Animaux
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/2532.ts
-#EXTINF:-1,(FR) Comedie+
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/1219.ts
-#EXTINF:-1,(FR) Nrj TV
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/2535.ts
-#EXTINF:-1,(FR) Nrj 12
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/2537.ts
-#EXTINF:-1,(FR) Voyage
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/2040.ts
-#EXTINF:-1,(FR) Rouge TV
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/3790.ts
-#EXTINF:-1,(FR) RMC Decouverte
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/2043.ts
-#EXTINF:-1,(FR) Histoire
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/3403.ts
-#EXTINF:-1,(FR) Ushuaia tv HD
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/1236.ts
-#EXTINF:-1,(FR) Planete+ HD
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/2044.ts
-#EXTINF:-1,(FR) Planète + CI HD
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/551.ts
-#EXTINF:-1,(FR) Science et Vie
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/636.ts
-#EXTINF:-1,(FR) Discovery HD
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/1249.ts
-#EXTINF:-1,(FR) Discovery Science HD
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/1245.ts
-#EXTINF:-1,(FR) Nat Geo HD
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/1232.ts
-#EXTINF:-1,(FR) Nat Geo Wild HD
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/1239.ts
-#EXTINF:-1,(FR) M6 Music
-http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/63.ts
-#EXTINF:-1,(FR) Bfm TV
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/2052.ts
-#EXTINF:-1,(FR) Euronews TV
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/2047.ts
-#EXTINF:-1,(FR) Grand Lille TV
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/3423.ts
-#EXTINF:-1,(FR) France 24
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/2121.ts
-#EXTINF:-1,(FR) Numero 23
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/2573.ts
-#EXTINF:-1,(FR) Nt1
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/2876.ts
-#EXTINF:-1,(FR) Lci HD
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/2580.ts
-#EXTINF:-1,(FR) Trek
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/1622.ts
-#EXTINF:-1,(FR)  La Télé
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/3911.ts
-#EXTINF:-1,(FR) KTO
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/3910.ts
-#EXTINF:-1,(FR) I Tele
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/1625.ts
-#EXTINF:-1,(FR) Teva HD
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/2041.ts
-#EXTINF:-1,(FR) Nrj12
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/2042.ts
-#EXTINF:-1,(FR) MCM HD
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/2129.ts
-#EXTINF:-1,(FR) C8 HD
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/2526.ts
-#EXTINF:-1,(FR) Game One
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/2518.ts
-#EXTINF:-1,(FR) 6ter
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/2123.ts
-#EXTINF:-1,(FR) C Star
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/4028.ts
-#EXTINF:-1,(FR) Rtl 9 HD
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/4027.ts
-#EXTINF:-1,(FR) Gulli HD
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/1624.ts
-#EXTINF:-1,(FR) Canal J
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/1241.ts
-#EXTINF:-1,(FR) Mangas
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/1240.ts
-#EXTINF:-1,(FR) Disney Junior
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/3788.ts
-#EXTINF:-1,(FR) Boomerang
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/1242.ts
-#EXTINF:-1,(FR) Nickelodeon Junior
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/1246.ts
-#EXTINF:-1,(FR) Disney Channel
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/1244.ts
-#EXTINF:-1,(FR) Cartoon Network
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/639.ts
-#EXTINF:-1,(FR) Tiji
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/4032.ts
-#EXTINF:-1,(FR) ZOUZOU
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/4033.ts
-#EXTINF:-1,(FR) Teletoon HD
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/2575.ts
-#EXTINF:-1,(FR) Disney Cinema
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/4030.ts
-#EXTINF:-1,(FR) Gong
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/4034.ts
-#EXTINF:-1,(FR) Piwi+
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/4031.ts
-#EXTINF:-1,(FR) Seasons
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/4029.ts
-#EXTINF:-1,(Sport) Sfr Sport 1
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/3072.ts
-#EXTINF:-1,(Sport) Sfr Sport 2
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/3073.ts
-#EXTINF:-1,(Sport) Sfr Sport 3
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/3074.ts
-#EXTINF:-1,(Sport) Infosport+
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/1238.ts
-#EXTINF:-1,(Sport) Foot +24
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/2521.ts
-#EXTINF:-1,(Sport) Canal+Sport
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/1226.ts
-#EXTINF:-1,(Sport) Equidia Live
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/3947.ts
-#EXTINF:-1,(Sport) Equidia Live HD
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/2522.ts
-#EXTINF:-1,(Sport) EuroSport 1 HD
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/2127.ts
-#EXTINF:-1,(Sport) EuroSport 2 HD
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/2055.ts
-#EXTINF:-1,(Sport) Bein_Sport 1 HD
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/1444.ts
-#EXTINF:-1,(Sport) Bein_Sport 2 HD
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/1445.ts
-#EXTINF:-1,(Sport) Bein_Sport 3 HD
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/1446.ts
-#EXTINF:-1,(Sport) Bein_Sport Max 4
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/3954.ts
-#EXTINF:-1,(Sport) Bein_Sport Max 5
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/3953.ts
-#EXTINF:-1,(Sport) Bein_Sport Max 6
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/3952.ts
-#EXTINF:-1,(Sport) Bein_Sport Max 7
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/3951.ts
-#EXTINF:-1,(Sport) Bein_Sport Max 8
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/3950.ts
-#EXTINF:-1,(Sport) Bein_Sport Max 9
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/3949.ts
-#EXTINF:-1,(Sport) Bein_Sport Max 10
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/3948.ts
-#EXTINF:-1,(FR) Canal_Play 1
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/1600.ts
-#EXTINF:-1,(FR) Canal_Play 2
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/1601.ts
-#EXTINF:-1,(FR) Canal_Play 3
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/1602.ts
-#EXTINF:-1,(FR) Canal_Play 4
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/1603.ts
-#EXTINF:-1,(FR) Canal_Play 5
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/1604.ts
-#EXTINF:-1,(FR) Canal_Play 6
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/1605.ts
-#EXTINF:-1,(FR) Canal_Play 7
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/1606.ts
-#EXTINF:-1,(FR) Canal_Play 8
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/1607.ts
-#EXTINF:-1,(FR) Canal_Play 9
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/1608.ts
-#EXTINF:-1,(FR) Canal_Play 10
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/1609.ts
-#EXTINF:-1,(FR) Canal_Play 11
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/1610.ts
-#EXTINF:-1,(FR) Canal_Play 12
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/2555.ts
-#EXTINF:-1,(FR) Canal_Play 13
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/2556.ts
-#EXTINF:-1,(FR) Canal_Play 14
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/2557.ts
-#EXTINF:-1,(FR) Canal_Play 15
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/2558.ts
-#EXTINF:-1,(FR) Canal_Play 16
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/2559.ts
-#EXTINF:-1,(FR) Cinema_Box_Office FR 1
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/4053.ts
-#EXTINF:-1,(FR) Cinema_Box_Office FR 2
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/4052.ts
-#EXTINF:-1,(FR) Cinema_Box_Office FR 3
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/4051.ts
-#EXTINF:-1,(FR) Cinema_Box_Office FR 4
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/4050.ts
-#EXTINF:-1,*~*~*~*{Belgium}*~*~*~*
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/4206.ts
-#EXTINF:-1,(BE) Canal C
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/3940.ts
-#EXTINF:-1,(BE) Serie
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/2952.ts
-#EXTINF:-1,(BE) Rtl Tvi HD
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/2957.ts
-#EXTINF:-1,(BE) Rtl Tvi
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/2958.ts
-#EXTINF:-1,(BE) Plug Rtl
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/2956.ts
-#EXTINF:-1,(BE) Club Rtl
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/2014.ts
-#EXTINF:-1,(BE) Rtl HD
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/3779.ts
-#EXTINF:-1,(BE) La Une
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/2012.ts
-#EXTINF:-1,(BE) La Deux
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/2010.ts
-#EXTINF:-1,(BE) Ab3
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/2951.ts
-#EXTINF:-1,(BE) La Trois
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/2011.ts
-#EXTINF:-1,(BE)  Bx1 Belge
-http://hbox.cdnss.me:80/live/p736nnkb/uvyir5if/3916.ts
-
-#EXTINF:-1,FR: 6TER HD
-http://s1.iptv61w.com:25461/live/mary/54321/9882.ts
-#EXTINF:-1,FR: A LA CARTE 1
-http://s1.iptv61w.com:25461/live/mary/54321/9881.ts
-#EXTINF:-1,FR: A LA CARTE 2
-http://s1.iptv61w.com:25461/live/mary/54321/9880.ts
-#EXTINF:-1,FR: A LA CARTE 3
-http://s1.iptv61w.com:25461/live/mary/54321/9879.ts
-#EXTINF:-1,FR: A LA CARTE 4
-http://s1.iptv61w.com:25461/live/mary/54321/9878.ts
-#EXTINF:-1,FR: A LA CARTE 5
-http://s1.iptv61w.com:25461/live/mary/54321/9877.ts
-#EXTINF:-1,FR: A LA CARTE 6
-http://s1.iptv61w.com:25461/live/mary/54321/9876.ts
-#EXTINF:-1,FR: A LA CARTE 7
-http://s1.iptv61w.com:25461/live/mary/54321/9875.ts
-#EXTINF:-1,FR: Action
-http://s1.iptv61w.com:25461/live/mary/54321/9874.ts
-#EXTINF:-1,FR: ANIMAUX HD
-http://s1.iptv61w.com:25461/live/mary/54321/9873.ts
-#EXTINF:-1,FR: beIN MAX 10 HD
-http://s1.iptv61w.com:25461/live/mary/54321/9872.ts
-#EXTINF:-1,FR: beIN MAX 8 HD
-http://s1.iptv61w.com:25461/live/mary/54321/9871.ts
-#EXTINF:-1,FR: beIN MAX 9 HD
-http://s1.iptv61w.com:25461/live/mary/54321/9870.ts
-#EXTINF:-1,FR: beIN Sport 1 HD
+#EXTINF:-1 group-title="SPORT",DTV Sports H265
+http://s1.iptv61w.com:25461/live/mary/54321/7343.ts
+#EXTINF:-1 group-title="SPORT",DTV Sports H264
+http://s1.iptv61w.com:25461/live/mary/54321/11383.ts
+#EXTINF:-1 group-title="SPORT",DTV Sports 2 HD
+http://s1.iptv61w.com:25461/live/mary/54321/9290.ts
+#EXTINF:-1 group-title="SPORT",DirecTV Sports (Opc 2)
+http://s1.iptv61w.com:25461/live/mary/54321/8657.ts
+#EXTINF:-1 group-title="SPORT",CNT Sports HD
+http://s1.iptv61w.com:25461/live/mary/54321/4739.ts
+#EXTINF:-1 group-title="SPORT",Fox Sports HD Sur (OPC 2)
+http://s1.iptv61w.com:25461/live/mary/54321/5764.ts
+#EXTINF:-1 group-title="SPORT",Movistar Deportes
+http://s1.iptv61w.com:25461/live/mary/54321/3805.ts
+#EXTINF:-1 group-title="SPORT",Bein Sports Ñ
+http://s1.iptv61w.com:25461/live/mary/54321/5768.ts
+#EXTINF:-1 group-title="SPORT",Bein Liga
+http://s1.iptv61w.com:25461/live/mary/54321/3863.ts
+#EXTINF:-1 group-title="SPORT",Bein Liga HD
+http://s1.iptv61w.com:25461/live/mary/54321/5738.ts
+#EXTINF:-1 group-title="SPORT",Fox Sports Premium HD
+http://s1.iptv61w.com:25461/live/mary/54321/6475.ts
+#EXTINF:-1 group-title="SPORT",Fox Sports HD (Sur)
+http://s1.iptv61w.com:25461/live/mary/54321/4697.ts
+#EXTINF:-1 group-title="SPORT",Fox Sports 1 HD (CH)
+http://s1.iptv61w.com:25461/live/mary/54321/6527.ts
+#EXTINF:-1 group-title="SPORT",Fox Sports 2 HD (Sur)
+http://s1.iptv61w.com:25461/live/mary/54321/4698.ts
+#EXTINF:-1 group-title="SPORT",Fox Sports 3 HD (Sur)
+http://s1.iptv61w.com:25461/live/mary/54321/4699.ts
+#EXTINF:-1 group-title="SPORT",Fox Sports (Arg)
+http://s1.iptv61w.com:25461/live/mary/54321/3783.ts
+#EXTINF:-1 group-title="SPORT",Fox Sport 2 (Sur)
+http://s1.iptv61w.com:25461/live/mary/54321/3861.ts
+#EXTINF:-1 group-title="SPORT",Fox Sports 3 (Sur)
+http://s1.iptv61w.com:25461/live/mary/54321/3692.ts
+#EXTINF:-1 group-title="SPORT",Fox Sports Chile
+http://s1.iptv61w.com:25461/live/mary/54321/3733.ts
+#EXTINF:-1 group-title="SPORT",Fox Sports Ven
+http://s1.iptv61w.com:25461/live/mary/54321/3737.ts
+#EXTINF:-1 group-title="SPORT",Fox Sports MX
+http://s1.iptv61w.com:25461/live/mary/54321/3887.ts
+#EXTINF:-1 group-title="SPORT",Fox Sports 2 MX
+http://s1.iptv61w.com:25461/live/mary/54321/3884.ts
+#EXTINF:-1 group-title="SPORT",Fox Sports 3 MX
+http://s1.iptv61w.com:25461/live/mary/54321/3897.ts
+#EXTINF:-1 group-title="SPORT",FOX SPORT (FHD)
+http://s1.iptv61w.com:25461/live/mary/54321/11302.ts
+#EXTINF:-1 group-title="SPORT",FOX SPORT 2 (FHD)
+http://s1.iptv61w.com:25461/live/mary/54321/11301.ts
+#EXTINF:-1 group-title="SPORT",FOX SPORT 3 (FHD)
+http://s1.iptv61w.com:25461/live/mary/54321/11300.ts
+#EXTINF:-1 group-title="SPORT",FOX SPORTS (FHD)(CO)
+http://s1.iptv61w.com:25461/live/mary/54321/11299.ts
+#EXTINF:-1 group-title="SPORT",FOX SPORTS 2  (FHD)(CO)
+http://s1.iptv61w.com:25461/live/mary/54321/11298.ts
+#EXTINF:-1 group-title="SPORT",FOX SPORTS 3 (FHD)(CO)
+http://s1.iptv61w.com:25461/live/mary/54321/11297.ts
+#EXTINF:-1 group-title="SPORT",EUROSPORT 1
+http://s1.iptv61w.com:25461/live/mary/54321/4008.ts
+#EXTINF:-1 group-title="SPORT",EUROSPORT 2
+http://s1.iptv61w.com:25461/live/mary/54321/4007.ts
+#EXTINF:-1 group-title="SPORT",EUROSPORT HD
+http://s1.iptv61w.com:25461/live/mary/54321/3963.ts
+#EXTINF:-1 group-title="SPORT",BR: FOX SPORTS
+http://s1.iptv61w.com:25461/live/mary/54321/8160.ts
+#EXTINF:-1 group-title="SPORT",BR: FOX SPORTS 2
+http://s1.iptv61w.com:25461/live/mary/54321/8159.ts
+#EXTINF:-1 group-title="SPORT",BR: FOX SPORTS 2 HD
+http://s1.iptv61w.com:25461/live/mary/54321/8158.ts
+#EXTINF:-1 group-title="SPORT",BR: FOX SPORTS HD
+http://s1.iptv61w.com:25461/live/mary/54321/8157.ts
+#EXTINF:-1 group-title="SPORT",BR: SPORTV
+http://s1.iptv61w.com:25461/live/mary/54321/8059.ts
+#EXTINF:-1 group-title="SPORT",BR: SPORTV 2
+http://s1.iptv61w.com:25461/live/mary/54321/8058.ts
+#EXTINF:-1 group-title="SPORT",BR: SPORTV 2 HD
+http://s1.iptv61w.com:25461/live/mary/54321/8057.ts
+#EXTINF:-1 group-title="SPORT",BR: SPORTV 3
+http://s1.iptv61w.com:25461/live/mary/54321/8056.ts
+#EXTINF:-1 group-title="SPORT",BR: SPORTV 3 HD
+http://s1.iptv61w.com:25461/live/mary/54321/8055.ts
+#EXTINF:-1 group-title="SPORT",BR: SPORTV HD
+http://s1.iptv61w.com:25461/live/mary/54321/8054.ts
+#EXTINF:-1 group-title="SPORT",POR: SPORT TV 1 HD
+http://s1.iptv61w.com:25461/live/mary/54321/9912.ts
+#EXTINF:-1 group-title="SPORT",POR: SPORT TV 1 SD
+http://s1.iptv61w.com:25461/live/mary/54321/9911.ts
+#EXTINF:-1 group-title="SPORT",POR: Sport TV 1 SD*
+http://s1.iptv61w.com:25461/live/mary/54321/9910.ts
+#EXTINF:-1 group-title="SPORT",POR: SPORT TV 2 HD
+http://s1.iptv61w.com:25461/live/mary/54321/9909.ts
+#EXTINF:-1 group-title="SPORT",POR: Sport TV 2 SD*
+http://s1.iptv61w.com:25461/live/mary/54321/9908.ts
+#EXTINF:-1 group-title="SPORT",POR: SPORT TV 3 HD
+http://s1.iptv61w.com:25461/live/mary/54321/9907.ts
+#EXTINF:-1 group-title="SPORT",POR: Sport TV 3 SD*
+http://s1.iptv61w.com:25461/live/mary/54321/9906.ts
+#EXTINF:-1 group-title="SPORT",POR: SPORT TV 4 HD
+http://s1.iptv61w.com:25461/live/mary/54321/9905.ts
+#EXTINF:-1 group-title="SPORT",POR: Sport TV 4 SD*
+http://s1.iptv61w.com:25461/live/mary/54321/9904.ts
+#EXTINF:-1 group-title="SPORT",POR: SPORT TV 5 HD
+http://s1.iptv61w.com:25461/live/mary/54321/9903.ts
+#EXTINF:-1 group-title="SPORT",POR: SPORT TV 5 SD
+http://s1.iptv61w.com:25461/live/mary/54321/9902.ts
+#EXTINF:-1 group-title="SPORT",POR: Sport TV 5 SD*
+http://s1.iptv61w.com:25461/live/mary/54321/9901.ts
+#EXTINF:-1 group-title="SPORT",POR: SPORT TV Plus
+http://s1.iptv61w.com:25461/live/mary/54321/9900.ts
+#EXTINF:-1 group-title="SPORT",POR: SPORTING TV
+http://s1.iptv61w.com:25461/live/mary/54321/9899.ts
+#EXTINF:-1 group-title="SPORT",FR: beIN Sport 1 HD
 http://s1.iptv61w.com:25461/live/mary/54321/9869.ts
-#EXTINF:-1,FR: beIN Sport 2 HD
+#EXTINF:-1 group-title="SPORT",FR: beIN Sport 2 HD
 http://s1.iptv61w.com:25461/live/mary/54321/9868.ts
-#EXTINF:-1,FR: beIN Sport 3 HD
+#EXTINF:-1 group-title="SPORT",FR: beIN Sport 3 HD
 http://s1.iptv61w.com:25461/live/mary/54321/9867.ts
-#EXTINF:-1,FR: BEIN SPORTS MAX 4
+#EXTINF:-1 group-title="SPORT",FR: BEIN SPORTS MAX 4
 http://s1.iptv61w.com:25461/live/mary/54321/9866.ts
-#EXTINF:-1,FR: BEIN SPORTS MAX 5
+#EXTINF:-1 group-title="SPORT",FR: BEIN SPORTS MAX 5
 http://s1.iptv61w.com:25461/live/mary/54321/9865.ts
-#EXTINF:-1,FR: BEIN SPORTS MAX 6
+#EXTINF:-1 group-title="SPORT",FR: BEIN SPORTS MAX 6
 http://s1.iptv61w.com:25461/live/mary/54321/9864.ts
-#EXTINF:-1,FR: BEIN SPORTS MAX 7
+#EXTINF:-1 group-title="SPORT",FR: BEIN SPORTS MAX 7
 http://s1.iptv61w.com:25461/live/mary/54321/9863.ts
-#EXTINF:-1,FR: BFM
-http://s1.iptv61w.com:25461/live/mary/54321/9862.ts
-#EXTINF:-1,FR: C STAR
-http://s1.iptv61w.com:25461/live/mary/54321/9861.ts
-#EXTINF:-1,FR: C8
-http://s1.iptv61w.com:25461/live/mary/54321/9859.ts
-#EXTINF:-1,FR: Canal
-http://s1.iptv61w.com:25461/live/mary/54321/9858.ts
-#EXTINF:-1,FR: Canal   Series HD
-http://s1.iptv61w.com:25461/live/mary/54321/9857.ts
-#EXTINF:-1,FR: Canal  Cinema HD
-http://s1.iptv61w.com:25461/live/mary/54321/9856.ts
-#EXTINF:-1,FR: Canal  Cinema HD*
-http://s1.iptv61w.com:25461/live/mary/54321/9855.ts
-#EXTINF:-1,FR: Canal  Classic HD
-http://s1.iptv61w.com:25461/live/mary/54321/9854.ts
-#EXTINF:-1,FR: Canal  Decale HD
-http://s1.iptv61w.com:25461/live/mary/54321/9853.ts
-#EXTINF:-1,FR: Canal  Famiz
-http://s1.iptv61w.com:25461/live/mary/54321/9852.ts
-#EXTINF:-1,FR: Canal  Famiz HD
-http://s1.iptv61w.com:25461/live/mary/54321/9851.ts
-#EXTINF:-1,FR: Canal  Frisson
-http://s1.iptv61w.com:25461/live/mary/54321/9850.ts
-#EXTINF:-1,FR: Canal  HD
-http://s1.iptv61w.com:25461/live/mary/54321/9849.ts
-#EXTINF:-1,FR: Canal  Sport HD
+#EXTINF:-1 group-title="SPORT",FR: Canal  Sport HD
 http://s1.iptv61w.com:25461/live/mary/54321/9848.ts
-#EXTINF:-1,FR: Canal  Sport HD*
+#EXTINF:-1 group-title="SPORT",FR: Canal  Sport HD*
 http://s1.iptv61w.com:25461/live/mary/54321/9847.ts
-#EXTINF:-1,FR: CARTOON NETWORK
-http://s1.iptv61w.com:25461/live/mary/54321/9846.ts
-#EXTINF:-1,FR: Chasse & Peche
-http://s1.iptv61w.com:25461/live/mary/54321/9845.ts
-#EXTINF:-1,FR: CHERIE 25 HD
-http://s1.iptv61w.com:25461/live/mary/54321/9844.ts
-#EXTINF:-1,FR: Cine   Emotion HD*
-http://s1.iptv61w.com:25461/live/mary/54321/9843.ts
-#EXTINF:-1,FR: CINE  EMOTION HD
-http://s1.iptv61w.com:25461/live/mary/54321/9842.ts
-#EXTINF:-1,FR: Cine  Premier
-http://s1.iptv61w.com:25461/live/mary/54321/9841.ts
-#EXTINF:-1,FR: CINE EMOTION
-http://s1.iptv61w.com:25461/live/mary/54321/9840.ts
-#EXTINF:-1,FR: CINE FX
-http://s1.iptv61w.com:25461/live/mary/54321/9839.ts
-#EXTINF:-1,FR: CINE POLAR
-http://s1.iptv61w.com:25461/live/mary/54321/9838.ts
-#EXTINF:-1,FR: CINE PREMIER
-http://s1.iptv61w.com:25461/live/mary/54321/9837.ts
-#EXTINF:-1,FR: Comedie Plus HD
-http://s1.iptv61w.com:25461/live/mary/54321/9836.ts
-#EXTINF:-1,FR: C_STAR
-http://s1.iptv61w.com:25461/live/mary/54321/9860.ts
-#EXTINF:-1,FR: Discovery HD
-http://s1.iptv61w.com:25461/live/mary/54321/9835.ts
-#EXTINF:-1,FR: DISCOVERY SCIENCE
-http://s1.iptv61w.com:25461/live/mary/54321/9834.ts
-#EXTINF:-1,FR: DISNEY CHANEL
-http://s1.iptv61w.com:25461/live/mary/54321/9833.ts
-#EXTINF:-1,FR: Disney Cinema
-http://s1.iptv61w.com:25461/live/mary/54321/9832.ts
-#EXTINF:-1,FR: Disney Junior
-http://s1.iptv61w.com:25461/live/mary/54321/9831.ts
-#EXTINF:-1,FR: Disney XD
-http://s1.iptv61w.com:25461/live/mary/54321/9830.ts
-#EXTINF:-1,FR: E!
-http://s1.iptv61w.com:25461/live/mary/54321/9829.ts
-#EXTINF:-1,FR: Equida Live HD
-http://s1.iptv61w.com:25461/live/mary/54321/9828.ts
-#EXTINF:-1,FR: Foot
-http://s1.iptv61w.com:25461/live/mary/54321/9827.ts
-#EXTINF:-1,FR: France 2
-http://s1.iptv61w.com:25461/live/mary/54321/9826.ts
-#EXTINF:-1,FR: France 24
-http://s1.iptv61w.com:25461/live/mary/54321/9825.ts
-#EXTINF:-1,FR: France 3
-http://s1.iptv61w.com:25461/live/mary/54321/9824.ts
-#EXTINF:-1,FR: France 4
-http://s1.iptv61w.com:25461/live/mary/54321/9823.ts
-#EXTINF:-1,FR: France 5
-http://s1.iptv61w.com:25461/live/mary/54321/9822.ts
-#EXTINF:-1,FR: France O
-http://s1.iptv61w.com:25461/live/mary/54321/9821.ts
-#EXTINF:-1,FR: Game One
-http://s1.iptv61w.com:25461/live/mary/54321/9820.ts
-#EXTINF:-1,FR: Gulli
-http://s1.iptv61w.com:25461/live/mary/54321/9819.ts
-#EXTINF:-1,FR: HD1
-http://s1.iptv61w.com:25461/live/mary/54321/9818.ts
-#EXTINF:-1,FR: Infosport
+#EXTINF:-1 group-title="SPORT",FR: Infosport
 http://s1.iptv61w.com:25461/live/mary/54321/9817.ts
-#EXTINF:-1,FR: KOMBAT SPORT
+#EXTINF:-1 group-title="SPORT",FR: KOMBAT SPORT
 http://s1.iptv61w.com:25461/live/mary/54321/9816.ts
-#EXTINF:-1,FR: L'equipe 21*
+#EXTINF:-1 group-title="SPORT",FR: L'equipe 21*
 http://s1.iptv61w.com:25461/live/mary/54321/9815.ts
-#EXTINF:-1,FR: M6 HD
-http://s1.iptv61w.com:25461/live/mary/54321/9814.ts
-#EXTINF:-1,FR: M6 Music
-http://s1.iptv61w.com:25461/live/mary/54321/9813.ts
-#EXTINF:-1,FR: MANGAS
-http://s1.iptv61w.com:25461/live/mary/54321/9812.ts
-#EXTINF:-1,FR: Nat Geo
-http://s1.iptv61w.com:25461/live/mary/54321/9811.ts
-#EXTINF:-1,FR: NATIONAL GEO WILD HD
-http://s1.iptv61w.com:25461/live/mary/54321/9810.ts
-#EXTINF:-1,FR: National Geographique
-http://s1.iptv61w.com:25461/live/mary/54321/9809.ts
-#EXTINF:-1,FR: NT1
-http://s1.iptv61w.com:25461/live/mary/54321/9808.ts
-#EXTINF:-1,FR: Numero 23
-http://s1.iptv61w.com:25461/live/mary/54321/9807.ts
-#EXTINF:-1,FR: OCS CHOC HD
-http://s1.iptv61w.com:25461/live/mary/54321/9806.ts
-#EXTINF:-1,FR: OCS City
-http://s1.iptv61w.com:25461/live/mary/54321/9805.ts
-#EXTINF:-1,FR: OCS Geants HD
-http://s1.iptv61w.com:25461/live/mary/54321/9804.ts
-#EXTINF:-1,FR: OCS Max
-http://s1.iptv61w.com:25461/live/mary/54321/9803.ts
-#EXTINF:-1,FR: OLTV HD
-http://s1.iptv61w.com:25461/live/mary/54321/9802.ts
-#EXTINF:-1,FR: OSC CITY HD
-http://s1.iptv61w.com:25461/live/mary/54321/9801.ts
-#EXTINF:-1,FR: PARAMOUNT
-http://s1.iptv61w.com:25461/live/mary/54321/9800.ts
-#EXTINF:-1,FR: Paris Premiere HD
-http://s1.iptv61w.com:25461/live/mary/54321/9799.ts
-#EXTINF:-1,FR: PIWI
-http://s1.iptv61w.com:25461/live/mary/54321/9798.ts
-#EXTINF:-1,FR: Planet  A&E
-http://s1.iptv61w.com:25461/live/mary/54321/9797.ts
-#EXTINF:-1,FR: Planete CI
-http://s1.iptv61w.com:25461/live/mary/54321/9796.ts
-#EXTINF:-1,FR: RMC
-http://s1.iptv61w.com:25461/live/mary/54321/9795.ts
-#EXTINF:-1,FR: RTL 9
-http://s1.iptv61w.com:25461/live/mary/54321/9794.ts
-#EXTINF:-1,FR: RTS Deux
+#EXTINF:-1 group-title="SPORT",FR: RTS Deux
 http://s1.iptv61w.com:25461/live/mary/54321/9793.ts
-#EXTINF:-1,FR: RTS Un
-http://s1.iptv61w.com:25461/live/mary/54321/9792.ts
-#EXTINF:-1,FR: SFR SPORT 1 HD
+#EXTINF:-1 group-title="SPORT",FR: SFR SPORT 1 HD
 http://s1.iptv61w.com:25461/live/mary/54321/9791.ts
-#EXTINF:-1,FR: SFR SPORT 2HD
+#EXTINF:-1 group-title="SPORT",FR: SFR SPORT 2HD
 http://s1.iptv61w.com:25461/live/mary/54321/9790.ts
-#EXTINF:-1,FR: SFR SPORT 3 HD
+#EXTINF:-1 group-title="SPORT",FR: SFR SPORT 3 HD
 http://s1.iptv61w.com:25461/live/mary/54321/9789.ts
-#EXTINF:-1,FR: SFR_SPORT_5 HD
+#EXTINF:-1 group-title="SPORT",FR: SFR_SPORT_5 HD
 http://s1.iptv61w.com:25461/live/mary/54321/9788.ts
-#EXTINF:-1,FR: SyFy
-http://s1.iptv61w.com:25461/live/mary/54321/9787.ts
-#EXTINF:-1,FR: TELETOON
-http://s1.iptv61w.com:25461/live/mary/54321/9786.ts
-#EXTINF:-1,FR: TEVA
-http://s1.iptv61w.com:25461/live/mary/54321/9785.ts
-#EXTINF:-1,FR: TF1
-http://s1.iptv61w.com:25461/live/mary/54321/9784.ts
-#EXTINF:-1,FR: TMC
-http://s1.iptv61w.com:25461/live/mary/54321/9783.ts
-#EXTINF:-1,FR: TV Breizh
-http://s1.iptv61w.com:25461/live/mary/54321/9782.ts
-#EXTINF:-1,FR: Ushuaia TV HD
-http://s1.iptv61w.com:25461/live/mary/54321/9781.ts
-#EXTINF:-1,FR: Voyage
-http://s1.iptv61w.com:25461/live/mary/54321/9780.ts
-#EXTINF:-1,FR: W9
-http://s1.iptv61w.com:25461/live/mary/54321/9779.ts
+#EXTINF:-1 group-title="SPORT",SUE: Eurosport 1 FHD
+http://s1.iptv61w.com:25461/live/mary/54321/10009.ts
+#EXTINF:-1 group-title="SPORT",SUE: Eurosport 1 HD
+http://s1.iptv61w.com:25461/live/mary/54321/10056.ts
+#EXTINF:-1 group-title="SPORT",SUE: Eurosport 2 HD
+http://s1.iptv61w.com:25461/live/mary/54321/10008.ts
+#EXTINF:-1 group-title="SPORT",SUE: Fight Sports
+http://s1.iptv61w.com:25461/live/mary/54321/10007.ts
 
-#EXTINF:-1,>  TF 1 HD  FR
-http://193.70.12.230:8000/live/kia/kia/2836.ts
-#EXTINF:-1,> Syfy France
-http://193.70.12.230:8000/live/kia/kia/2846.ts
-#EXTINF:-1,>  Canal +  FR
-http://193.70.12.230:8000/live/kia/kia/2837.ts
-#EXTINF:-1,>  Canal J HD FR
-http://193.70.12.230:8000/live/kia/kia/2838.ts
-#EXTINF:-1,>  Discovery France  FR
-http://193.70.12.230:8000/live/kia/kia/2847.ts
-#EXTINF:-1,>  Disney Junior HD 3D  FR
-http://193.70.12.230:8000/live/kia/kia/2845.ts
-#EXTINF:-1,>  National Geographic FR
-http://193.70.12.230:8000/live/kia/kia/2844.ts
+#EXTINF:-1 group-title="SPORT",UK - Box Nation HD
+http://myipcam.ddns.net:80/live/ben/ben1/1385.ts
+#EXTINF:-1 group-title="SPORT",UK - SKY SPORTS HD ACTION
+http://myipcam.ddns.net:80/live/ben/ben1/1331.ts
+#EXTINF:-1 group-title="SPORT",UK - Sky Sports HD Arena
+http://myipcam.ddns.net:80/live/ben/ben1/12408.ts
+#EXTINF:-1 group-title="SPORT",UK - SKY SPORTS HD CRICKET
+http://myipcam.ddns.net:80/live/ben/ben1/1332.ts
+#EXTINF:-1 group-title="SPORT",UK - Sky Sports F1 HD
+http://myipcam.ddns.net:80/live/ben/ben1/1402.ts
+#EXTINF:-1 group-title="SPORT",UK - Sky Sports HD Football
+http://myipcam.ddns.net:80/live/ben/ben1/12407.ts
+#EXTINF:-1 group-title="SPORT",UK - Sky Sports HD GOLF
+http://myipcam.ddns.net:80/live/ben/ben1/1330.ts
+#EXTINF:-1 group-title="SPORT",UK - SKY SPORTS HD Main Event
+http://myipcam.ddns.net:80/live/ben/ben1/1400.ts
+#EXTINF:-1 group-title="SPORT",UK - Sky Sports Mix
+http://myipcam.ddns.net:80/live/ben/ben1/1328.ts
+#EXTINF:-1 group-title="SPORT",UK - Sky Sports News HD
+http://myipcam.ddns.net:80/live/ben/ben1/1401.ts
+#EXTINF:-1 group-title="SPORT",UK - SKY SPORTS HD Premier League
+http://myipcam.ddns.net:80/live/ben/ben1/1399.ts
+#EXTINF:-1 group-title="SPORT",UK - Sky Sports Box Office
+http://myipcam.ddns.net:80/live/ben/ben1/1329.ts
+#EXTINF:-1 group-title="SPORT",UK - BT Sport 1 HD
+http://myipcam.ddns.net:80/live/ben/ben1/1408.ts
+#EXTINF:-1 group-title="SPORT",UK - BT Sport 2 HD
+http://myipcam.ddns.net:80/live/ben/ben1/1306.ts
+#EXTINF:-1 group-title="SPORT",UK - BT Sport 3 HD
+http://myipcam.ddns.net:80/live/ben/ben1/1305.ts
+#EXTINF:-1 group-title="SPORT",UK - BT Sport ESPN HD
+http://myipcam.ddns.net:80/live/ben/ben1/1407.ts
+#EXTINF:-1 group-title="SPORT",UK - BT Sport Extra 1
+http://myipcam.ddns.net:80/live/ben/ben1/1384.ts
+#EXTINF:-1 group-title="SPORT",UK - BT Sport Extra 2
+http://myipcam.ddns.net:80/live/ben/ben1/1383.ts
+#EXTINF:-1 group-title="SPORT",UK - BT Sport Extra 3
+http://myipcam.ddns.net:80/live/ben/ben1/1382.ts
+#EXTINF:-1 group-title="SPORT",UK - BT Sport Extra 4
+http://myipcam.ddns.net:80/live/ben/ben1/5444.ts
+#EXTINF:-1 group-title="SPORT",UK - BT Sport Extra 5
+http://myipcam.ddns.net:80/live/ben/ben1/5443.ts
+#EXTINF:-1 group-title="SPORT",UK - BT Sport Extra 6
+http://myipcam.ddns.net:80/live/ben/ben1/1379.ts
+#EXTINF:-1 group-title="SPORT",UK - eir Sport 1
+http://myipcam.ddns.net:80/live/ben/ben1/1265.ts
+#EXTINF:-1 group-title="SPORT",UK - eirSport 2
+http://myipcam.ddns.net:80/live/ben/ben1/1264.ts
+#EXTINF:-1 group-title="SPORT",UK - Premier Sports
+http://myipcam.ddns.net:80/live/ben/ben1/1221.ts
+#EXTINF:-1 group-title="SPORT",UK - Premier Sports HD
+http://myipcam.ddns.net:80/live/ben/ben1/1166.ts
+#EXTINF:-1 group-title="SPORT",UK - Racing UK HD
+http://myipcam.ddns.net:80/live/ben/ben1/1343.ts
+#EXTINF:-1 group-title="SPORT",UK - FOX Sports 1 HD USA
+http://myipcam.ddns.net:80/live/ben/ben1/1046.ts
+#EXTINF:-1 group-title="SPORT",UK - NBA TV USA
+http://myipcam.ddns.net:80/live/ben/ben1/1044.ts
+#EXTINF:-1 group-title="SPORT",UK - NBC Golf USA
+http://myipcam.ddns.net:80/live/ben/ben1/1043.ts
+#EXTINF:-1 group-title="SPORT",UK - Bein Sports 1 HD
+http://myipcam.ddns.net:80/live/ben/ben1/1147.ts
+#EXTINF:-1 group-title="SPORT",UK - Bein Sports USA HD
+http://myipcam.ddns.net:80/live/ben/ben1/1141.ts
+#EXTINF:-1 group-title="SPORT",UK - NBCSN
+http://myipcam.ddns.net:80/live/ben/ben1/1142.ts
+#EXTINF:-1 group-title="SPORT",UK - EUROSPORT 1 HD
+http://myipcam.ddns.net:80/live/ben/ben1/3157.ts
+#EXTINF:-1 group-title="SPORT",UK - EUROSPORT 2 HD
+http://myipcam.ddns.net:80/live/ben/ben1/3156.ts
+#EXTINF:-1 group-title="SPORT",Bein Sport 1HD
+http://myipcam.ddns.net:80/live/ben/ben1/12554.ts
+#EXTINF:-1 group-title="SPORT",Bein Sport 2HD
+http://myipcam.ddns.net:80/live/ben/ben1/12553.ts
+#EXTINF:-1 group-title="SPORT",Bein Sport 3HD
+http://myipcam.ddns.net:80/live/ben/ben1/12552.ts
+#EXTINF:-1 group-title="SPORT",Bein Sport 4HD
+http://myipcam.ddns.net:80/live/ben/ben1/12551.ts
+#EXTINF:-1 group-title="SPORT",Bein Sport 5HD
+http://myipcam.ddns.net:80/live/ben/ben1/12550.ts
+#EXTINF:-1 group-title="SPORT",Bein Sport 6HD
+http://myipcam.ddns.net:80/live/ben/ben1/12549.ts
+#EXTINF:-1 group-title="SPORT",Bein Sport 7HD
+http://myipcam.ddns.net:80/live/ben/ben1/12548.ts
+#EXTINF:-1 group-title="SPORT",Bein Sport 8HD
+http://myipcam.ddns.net:80/live/ben/ben1/12547.ts
+#EXTINF:-1 group-title="SPORT",Bein Sport 9HD
+http://myipcam.ddns.net:80/live/ben/ben1/12546.ts
+#EXTINF:-1 group-title="SPORT",Bein Sport 10HD
+http://myipcam.ddns.net:80/live/ben/ben1/12545.ts
+#EXTINF:-1 group-title="SPORT",Bein Sport 11 HD
+http://myipcam.ddns.net:80/live/ben/ben1/15655.ts
+#EXTINF:-1 group-title="SPORT",UK - Sky Cinema Hits
+http://myipcam.ddns.net:80/live/ben/ben1/12555.ts
+#EXTINF:-1 group-title="SPORT",UK - WWE HD (PPV)
+http://myipcam.ddns.net:80/live/ben/ben1/8179.ts
+#EXTINF:-1 group-title="SPORT",UK - WWE Raw Network HD
+http://myipcam.ddns.net:80/live/ben/ben1/9976.ts
+#EXTINF:-1 group-title="SPORT",UK - TV3
+http://myipcam.ddns.net:80/live/ben/ben1/15468.ts
+#EXTINF:-1 group-title="SPORT",UK - WWE 24
+http://myipcam.ddns.net:80/live/ben/ben1/15647.ts
+#EXTINF:-1 group-title="SPORT",UK - TCM HD
+http://myipcam.ddns.net:80/live/ben/ben1/12406.ts
+#EXTINF:-1 group-title="SPORT",US | ESPN U HD
+http://myipcam.ddns.net:80/live/ben/ben1/15949.ts
+#EXTINF:-1 group-title="SPORT",US | Fight Network
+http://myipcam.ddns.net:80/live/ben/ben1/15901.ts
+#EXTINF:-1 group-title="SPORT",US | Fox Sports 1 HD
+http://myipcam.ddns.net:80/live/ben/ben1/15948.ts
+#EXTINF:-1 group-title="SPORT",US | Fox Sports 2 HD
+http://myipcam.ddns.net:80/live/ben/ben1/15947.ts
+#EXTINF:-1 group-title="SPORT",US | NBC Sports Network HD
+http://myipcam.ddns.net:80/live/ben/ben1/15942.ts
+#EXTINF:-1 group-title="SPORT",US | NBCSN
+http://myipcam.ddns.net:80/live/ben/ben1/10054.ts
+#EXTINF:-1 group-title="SPORT",US | Sports Net 360 HD
+http://myipcam.ddns.net:80/live/ben/ben1/15938.ts
+#EXTINF:-1 group-title="SPORT",US | Sports Net One HD
+http://myipcam.ddns.net:80/live/ben/ben1/15930.ts
+#EXTINF:-1 group-title="SPORT",US | Sports Net Ontario HD
+http://myipcam.ddns.net:80/live/ben/ben1/15937.ts
+#EXTINF:-1 group-title="SPORT",US | Sports Net West HD
+http://myipcam.ddns.net:80/live/ben/ben1/15903.ts
+#EXTINF:-1 group-title="SPORT",US | Sports Net World HD
+http://myipcam.ddns.net:80/live/ben/ben1/15936.ts
+
+#EXTINF:-1 group-title="SPORT",BEiN SPORT-2 HD  (720P)
+http://championtv.dyndns.tv:2016/live/viphdiptv/sn4ks62na/2.ts
+#EXTINF:-1 group-title="SPORT",BEiN SPORT-3 HD  (720P)
+http://championtv.dyndns.tv:2016/live/viphdiptv/sn4ks62na/3.ts
+#EXTINF:-1 group-title="SPORT",BEiN SPORT-4 HD  (720P)
+http://championtv.dyndns.tv:2016/live/viphdiptv/sn4ks62na/4.ts
+#EXTINF:-1 group-title="SPORT",BEiN SPORT MAX 1-HD (720P)
+http://championtv.dyndns.tv:2016/live/viphdiptv/sn4ks62na/5.ts
+#EXTINF:-1 group-title="SPORT",BEiN SPORT MAX 2-HD (720P)
+http://championtv.dyndns.tv:2016/live/viphdiptv/sn4ks62na/360.ts
+#EXTINF:-1 group-title="SPORT",S-SPORT HD 720P.
+http://championtv.dyndns.tv:2016/live/viphdiptv/sn4ks62na/98.ts
+#EXTINF:-1 group-title="SPORT",SMARTSPOR HD 1080P
+http://championtv.dyndns.tv:2016/live/viphdiptv/sn4ks62na/97.ts
+#EXTINF:-1 group-title="SPORT",TIVIBUSPOR-1 HD
+http://championtv.dyndns.tv:2016/live/viphdiptv/sn4ks62na/93.ts
+#EXTINF:-1 group-title="SPORT",TIVIBUSPOR-2 HD
+http://championtv.dyndns.tv:2016/live/viphdiptv/sn4ks62na/94.ts
+#EXTINF:-1 group-title="SPORT",TIVIBUSPOR-3 HD
+http://championtv.dyndns.tv:2016/live/viphdiptv/sn4ks62na/95.ts
+#EXTINF:-1 group-title="SPORT",TIVIBUSPOR-4 HD
+http://championtv.dyndns.tv:2016/live/viphdiptv/sn4ks62na/96.ts
