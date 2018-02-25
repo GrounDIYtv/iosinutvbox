@@ -1,0 +1,310 @@
+#EXTM3U
+
+#EXTINF:-1, ::::::\\\SPORT/// ::: \\\SPORT///::::::::::::\\\SPORT/// ::: \\\SPORT///::::::::::::\\\SPORT/// ::: \\\SPORT///::::::::::::\\\SPORT/// ::: \\\SPORT///::::::
+
+
+#EXTINF:-1 group-title="SPORT",AR:BEIN_MOVIE_1_HD
+http://newlook-secure.com:80/live/amy1_795ab2/932376/23591.ts
+#EXTINF:-1 group-title="SPORT",AR:BEIN_MOVIE_2_HD
+http://newlook-secure.com:80/live/amy1_795ab2/932376/23592.ts
+#EXTINF:-1 group-title="SPORT",AR:BEIN_MOVIE_3_HD
+http://newlook-secure.com:80/live/amy1_795ab2/932376/23593.ts
+#EXTINF:-1 group-title="SPORT",AR:BEIN_NEWS_HD
+http://newlook-secure.com:80/live/amy1_795ab2/932376/23590.ts
+#EXTINF:-1 group-title="SPORT",AR:BEIN_SPORTS_1_HD
+http://newlook-secure.com:80/live/amy1_795ab2/932376/23580.ts
+#EXTINF:-1 group-title="SPORT",AR:BEIN_SPORTS_2_HD
+http://newlook-secure.com:80/live/amy1_795ab2/932376/23581.ts
+#EXTINF:-1 group-title="SPORT",AR:BEIN_SPORTS_3_HD
+http://newlook-secure.com:80/live/amy1_795ab2/932376/23582.ts
+#EXTINF:-1 group-title="SPORT",AR:BEIN_SPORTS_4_HD
+http://newlook-secure.com:80/live/amy1_795ab2/932376/23583.ts
+#EXTINF:-1 group-title="SPORT",AR:BEIN_SPORTS_5_HD
+http://newlook-secure.com:80/live/amy1_795ab2/932376/23584.ts
+#EXTINF:-1 group-title="SPORT",AR:BEIN_SPORTS_6_HD
+http://newlook-secure.com:80/live/amy1_795ab2/932376/23585.ts
+#EXTINF:-1 group-title="SPORT",AR:BEIN_SPORTS_7_HD
+http://newlook-secure.com:80/live/amy1_795ab2/932376/23586.ts
+#EXTINF:-1 group-title="SPORT",AR:BEIN_SPORTS_8_HD
+http://newlook-secure.com:80/live/amy1_795ab2/932376/23587.ts
+#EXTINF:-1 group-title="SPORT",AR:BEIN_SPORTS_9_HD
+http://newlook-secure.com:80/live/amy1_795ab2/932376/23588.ts
+#EXTINF:-1 group-title="SPORT",AR:BEIN_SPORTS_10_HD
+http://newlook-secure.com:80/live/amy1_795ab2/932376/23589.ts
+
+#EXTINF:-1 group-title="SPORT",BeinSport 1
+http://78.31.67.188:8000/live/Sports464243/Sportsunlimited/22.ts
+#EXTINF:-1 group-title="SPORT",BeinSport 2
+http://78.31.67.188:8000/live/Sports464243/Sportsunlimited/23.ts
+#EXTINF:-1 group-title="SPORT",BeinSport 3
+http://78.31.67.188:8000/live/Sports464243/Sportsunlimited/24.ts
+#EXTINF:-1 group-title="SPORT",BeinSport 4
+http://78.31.67.188:8000/live/Sports464243/Sportsunlimited/25.ts
+#EXTINF:-1 group-title="SPORT",BeinSport 5
+http://78.31.67.188:8000/live/Sports464243/Sportsunlimited/26.ts
+#EXTINF:-1 group-title="SPORT",BeinSport 6
+http://78.31.67.188:8000/live/Sports464243/Sportsunlimited/151.ts
+#EXTINF:-1 group-title="SPORT",BeinSport 7
+http://78.31.67.188:8000/live/Sports464243/Sportsunlimited/152.ts
+#EXTINF:-1 group-title="SPORT",BeinSport 8
+http://78.31.67.188:8000/live/Sports464243/Sportsunlimited/153.ts
+#EXTINF:-1 group-title="SPORT",BeinSport 9
+http://78.31.67.188:8000/live/Sports464243/Sportsunlimited/154.ts
+#EXTINF:-1 group-title="SPORT",BeinSport 10
+http://78.31.67.188:8000/live/Sports464243/Sportsunlimited/155.ts
+#EXTINF:-1 group-title="SPORT",FoxSport 1
+http://78.31.67.188:8000/live/Sports464243/Sportsunlimited/130.ts
+#EXTINF:-1 group-title="SPORT",FoxSport 2
+http://78.31.67.188:8000/live/Sports464243/Sportsunlimited/131.ts
+#EXTINF:-1 group-title="SPORT",FoxSport 3
+http://78.31.67.188:8000/live/Sports464243/Sportsunlimited/147.ts
+#EXTINF:-1 group-title="SPORT",FoxSport 4
+http://78.31.67.188:8000/live/Sports464243/Sportsunlimited/148.ts
+#EXTINF:-1 group-title="SPORT",FoxSport 5
+http://78.31.67.188:8000/live/Sports464243/Sportsunlimited/149.ts
+#EXTINF:-1 group-title="SPORT",FoxSport 6
+http://78.31.67.188:8000/live/Sports464243/Sportsunlimited/150.ts
+#EXTINF:-1 group-title="SPORT",SportKlub 1
+http://78.31.67.188:8000/live/Sports464243/Sportsunlimited/144.ts
+#EXTINF:-1 group-title="SPORT",SportKlub 2
+http://78.31.67.188:8000/live/Sports464243/Sportsunlimited/145.ts
+#EXTINF:-1 group-title="SPORT",SportKlub 3
+http://78.31.67.188:8000/live/Sports464243/Sportsunlimited/146.ts
+#EXTINF:-1 group-title="SPORT",SkySport 1
+http://78.31.67.188:8000/live/Sports464243/Sportsunlimited/16.ts
+#EXTINF:-1 group-title="SPORT",SkySport 2
+http://78.31.67.188:8000/live/Sports464243/Sportsunlimited/17.ts
+#EXTINF:-1 group-title="SPORT",SkySport 3
+http://78.31.67.188:8000/live/Sports464243/Sportsunlimited/138.ts
+#EXTINF:-1 group-title="SPORT",SkySport 4
+http://78.31.67.188:8000/live/Sports464243/Sportsunlimited/139.ts
+#EXTINF:-1 group-title="SPORT",SkySport 5
+http://78.31.67.188:8000/live/Sports464243/Sportsunlimited/140.ts
+#EXTINF:-1 group-title="SPORT",Sky Bundersliga 1
+http://78.31.67.188:8000/live/Sports464243/Sportsunlimited/18.ts
+#EXTINF:-1 group-title="SPORT",Sky Bundersliga 2
+http://78.31.67.188:8000/live/Sports464243/Sportsunlimited/19.ts
+#EXTINF:-1 group-title="SPORT",Sky Bundersliga 3
+http://78.31.67.188:8000/live/Sports464243/Sportsunlimited/132.ts
+#EXTINF:-1 group-title="SPORT",Sky Bundersliga 4
+http://78.31.67.188:8000/live/Sports464243/Sportsunlimited/133.ts
+#EXTINF:-1 group-title="SPORT",Sky Bundersliga 5
+http://78.31.67.188:8000/live/Sports464243/Sportsunlimited/156.ts
+#EXTINF:-1 group-title="SPORT",Sky Bundersliga 6
+http://78.31.67.188:8000/live/Sports464243/Sportsunlimited/135.ts
+#EXTINF:-1 group-title="SPORT",BT Sport 1
+http://78.31.67.188:8000/live/Sports464243/Sportsunlimited/136.ts
+#EXTINF:-1 group-title="SPORT",BT Sport 2
+http://78.31.67.188:8000/live/Sports464243/Sportsunlimited/137.ts
+#EXTINF:-1 group-title="SPORT",TR: beINSport 1 HD TR
+http://78.31.67.188:8000/live/Sports464243/Sportsunlimited/108.ts
+#EXTINF:-1 group-title="SPORT",TR: beINSport 2 HD TR
+http://78.31.67.188:8000/live/Sports464243/Sportsunlimited/109.ts
+#EXTINF:-1 group-title="SPORT",TR: beINSport 3 HD TR
+http://78.31.67.188:8000/live/Sports464243/Sportsunlimited/110.ts
+#EXTINF:-1 group-title="SPORT",Lig TV
+http://78.31.67.188:8000/live/Sports464243/Sportsunlimited/103.ts
+#EXTINF:-1 group-title="SPORT",Lig TV 2
+http://78.31.67.188:8000/live/Sports464243/Sportsunlimited/104.ts
+#EXTINF:-1 group-title="SPORT",Lig TV 3
+http://78.31.67.188:8000/live/Sports464243/Sportsunlimited/105.ts
+#EXTINF:-1 group-title="SPORT",Lig TV 4
+http://78.31.67.188:8000/live/Sports464243/Sportsunlimited/106.ts
+#EXTINF:-1 group-title="SPORT",ArenaSport 1
+http://78.31.67.188:8000/live/Sports464243/Sportsunlimited/20.ts
+#EXTINF:-1 group-title="SPORT",ArenaSport 2
+http://78.31.67.188:8000/live/Sports464243/Sportsunlimited/21.ts
+#EXTINF:-1 group-title="SPORT",ArenaSport 3
+http://78.31.67.188:8000/live/Sports464243/Sportsunlimited/141.ts
+#EXTINF:-1 group-title="SPORT",ArenaSport 4
+http://78.31.67.188:8000/live/Sports464243/Sportsunlimited/142.ts
+#EXTINF:-1 group-title="SPORT",ArenaSport 5
+http://78.31.67.188:8000/live/Sports464243/Sportsunlimited/143.ts
+
+#EXTINF:-1 group-title="SPORT",BEINSPORT 1Low
+http://beinshoot.net:8000/live/zeinsport2/dg1dg1f1dg220df2g1df2g12fd2ff/627.ts
+#EXTINF:-1 group-title="SPORT",BEINSPORT 2Low
+http://beinshoot.net:8000/live/zeinsport2/dg1dg1f1dg220df2g1df2g12fd2ff/626.ts
+#EXTINF:-1 group-title="SPORT",BEINSPORT 3Low
+http://beinshoot.net:8000/live/zeinsport2/dg1dg1f1dg220df2g1df2g12fd2ff/625.ts
+#EXTINF:-1 group-title="SPORT",BEINSPORT 4Low
+http://beinshoot.net:8000/live/zeinsport2/dg1dg1f1dg220df2g1df2g12fd2ff/624.ts
+#EXTINF:-1 group-title="SPORT",BEINSPORT 5Low
+http://beinshoot.net:8000/live/zeinsport2/dg1dg1f1dg220df2g1df2g12fd2ff/623.ts
+#EXTINF:-1 group-title="SPORT",BEINSPORT 6Low
+http://beinshoot.net:8000/live/zeinsport2/dg1dg1f1dg220df2g1df2g12fd2ff/622.ts
+#EXTINF:-1 group-title="SPORT",BEINSPORT 7Low
+http://beinshoot.net:8000/live/zeinsport2/dg1dg1f1dg220df2g1df2g12fd2ff/621.ts
+#EXTINF:-1 group-title="SPORT",BEIN SPORTS 1:SD
+http://beinshoot.net:8000/live/zeinsport2/dg1dg1f1dg220df2g1df2g12fd2ff/515.ts
+#EXTINF:-1 group-title="SPORT",BEIN SPORTS 2:SD
+http://beinshoot.net:8000/live/zeinsport2/dg1dg1f1dg220df2g1df2g12fd2ff/514.ts
+#EXTINF:-1 group-title="SPORT",BEIN SPORTS 3:SD
+http://beinshoot.net:8000/live/zeinsport2/dg1dg1f1dg220df2g1df2g12fd2ff/513.ts
+#EXTINF:-1 group-title="SPORT",BEIN SPORTS 4:SD
+http://beinshoot.net:8000/live/zeinsport2/dg1dg1f1dg220df2g1df2g12fd2ff/512.ts
+#EXTINF:-1 group-title="SPORT",BEIN SPORTS 5:SD
+http://beinshoot.net:8000/live/zeinsport2/dg1dg1f1dg220df2g1df2g12fd2ff/511.ts
+#EXTINF:-1 group-title="SPORT",BEIN SPORTS 6:SD
+http://beinshoot.net:8000/live/zeinsport2/dg1dg1f1dg220df2g1df2g12fd2ff/510.ts
+#EXTINF:-1 group-title="SPORT",BEIN SPORTS 7:SD
+http://beinshoot.net:8000/live/zeinsport2/dg1dg1f1dg220df2g1df2g12fd2ff/509.ts
+#EXTINF:-1 group-title="SPORT",BEIN SPORTS 8:SD
+http://beinshoot.net:8000/live/zeinsport2/dg1dg1f1dg220df2g1df2g12fd2ff/508.ts
+
+#EXTINF:-1 group-title="SPORT",AR:BEIN SPORTS 1HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/116.ts
+#EXTINF:-1 group-title="SPORT",AR:BEIN SPORTS 2HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/115.ts
+#EXTINF:-1 group-title="SPORT",AR:BEIN SPORTS 3HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/114.ts
+#EXTINF:-1 group-title="SPORT",AR:BEIN SPORTS 4HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/113.ts
+#EXTINF:-1 group-title="SPORT",AR:BEIN SPORTS 5HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/112.ts
+#EXTINF:-1 group-title="SPORT",AR:BEIN SPORTS 6HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/111.ts
+#EXTINF:-1 group-title="SPORT",AR:BEIN SPORTS 7HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/110.ts
+#EXTINF:-1 group-title="SPORT",AR:BEIN SPORTS 8HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/109.ts
+#EXTINF:-1 group-title="SPORT",AR:BEIN SPORTS 9HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/108.ts
+#EXTINF:-1 group-title="SPORT",AR:BEIN SPORTS 10HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/107.ts
+
+#EXTINF:-1 group-title="SPORT",AR:BEIN_MOVIE_1_HD
+http://newlook-secure.com:80/live/amy1_795ab2/932376/23591.ts
+#EXTINF:-1 group-title="SPORT",AR:BEIN_MOVIE_2_HD
+http://newlook-secure.com:80/live/amy1_795ab2/932376/23592.ts
+#EXTINF:-1 group-title="SPORT",AR:BEIN_MOVIE_3_HD
+http://newlook-secure.com:80/live/amy1_795ab2/932376/23593.ts
+#EXTINF:-1 group-title="SPORT",AR:BEIN_NEWS_HD
+http://newlook-secure.com:80/live/amy1_795ab2/932376/23590.ts
+#EXTINF:-1 group-title="SPORT",AR:BEIN_SPORTS_1_HD
+http://newlook-secure.com:80/live/amy1_795ab2/932376/23580.ts
+#EXTINF:-1 group-title="SPORT",AR:BEIN_SPORTS_2_HD
+http://newlook-secure.com:80/live/amy1_795ab2/932376/23581.ts
+#EXTINF:-1 group-title="SPORT",AR:BEIN_SPORTS_3_HD
+http://newlook-secure.com:80/live/amy1_795ab2/932376/23582.ts
+#EXTINF:-1 group-title="SPORT",AR:BEIN_SPORTS_4_HD
+http://newlook-secure.com:80/live/amy1_795ab2/932376/23583.ts
+#EXTINF:-1 group-title="SPORT",AR:BEIN_SPORTS_5_HD
+http://newlook-secure.com:80/live/amy1_795ab2/932376/23584.ts
+#EXTINF:-1 group-title="SPORT",AR:BEIN_SPORTS_6_HD
+http://newlook-secure.com:80/live/amy1_795ab2/932376/23585.ts
+#EXTINF:-1 group-title="SPORT",AR:BEIN_SPORTS_7_HD
+http://newlook-secure.com:80/live/amy1_795ab2/932376/23586.ts
+#EXTINF:-1 group-title="SPORT",AR:BEIN_SPORTS_8_HD
+http://newlook-secure.com:80/live/amy1_795ab2/932376/23587.ts
+#EXTINF:-1 group-title="SPORT",AR:BEIN_SPORTS_9_HD
+http://newlook-secure.com:80/live/amy1_795ab2/932376/23588.ts
+#EXTINF:-1 group-title="SPORT",AR:BEIN_SPORTS_10_HD
+http://newlook-secure.com:80/live/amy1_795ab2/932376/23589.ts
+
+
+
+
+
+#EXTINF:-1, ::::::\\\FR/// ::: \\\FR///::::::::::::\\\FR/// ::: \\\FR///::::::::::::\\\FR/// ::: \\\FR///::::::::::::\\\FR/// ::: \\\FR///::::::::::::\\\FR/// ::: \\\FR///::::::
+
+#EXTINF:-1 group-title="FR",|FR| TF1 FHD (L)
+http://panel.dtdns.net:8000/live/shadow/shadow/1.ts
+#EXTINF:-1 group-title="FR",|FR| TF1 SD (L)
+http://panel.dtdns.net:8000/live/shadow/shadow/548.ts
+#EXTINF:-1 group-title="FR",|FR| FRANCE 2 FHD (L)
+http://panel.dtdns.net:8000/live/shadow/shadow/3.ts
+#EXTINF:-1 group-title="FR",|FR| FRANCE 2 SD (L)
+http://panel.dtdns.net:8000/live/shadow/shadow/543.ts
+#EXTINF:-1 group-title="FR",|FR| FRANCE 3 FHD (L)
+http://panel.dtdns.net:8000/live/shadow/shadow/4.ts
+#EXTINF:-1 group-title="FR",|FR| FRANCE 3 SD (L)
+http://panel.dtdns.net:8000/live/shadow/shadow/544.ts
+#EXTINF:-1 group-title="FR",|FR| FRANCE 5  FHD (L)
+http://panel.dtdns.net:8000/live/shadow/shadow/8.ts
+#EXTINF:-1 group-title="FR",|FR| FRANCE 5 SD (L)
+http://panel.dtdns.net:8000/live/shadow/shadow/546.ts
+#EXTINF:-1 group-title="FR",|FR| M6 FHD (L)
+http://panel.dtdns.net:8000/live/shadow/shadow/7.ts
+#EXTINF:-1 group-title="FR",|FR| M6 SD (L)
+http://panel.dtdns.net:8000/live/shadow/shadow/549.ts
+#EXTINF:-1 group-title="FR",|FR| ARTE FHD (L)
+http://panel.dtdns.net:8000/live/shadow/shadow/6.ts
+#EXTINF:-1 group-title="FR",|FR| ARTE SD (L)
+http://panel.dtdns.net:8000/live/shadow/shadow/537.ts
+#EXTINF:-1 group-title="FR",|FR| C8 FHD (L)
+http://panel.dtdns.net:8000/live/shadow/shadow/9.ts
+#EXTINF:-1 group-title="FR",|FR| C8 SD (L)
+http://panel.dtdns.net:8000/live/shadow/shadow/539.ts
+#EXTINF:-1 group-title="FR",|FR| W9 FHD (L)
+http://panel.dtdns.net:8000/live/shadow/shadow/10.ts
+#EXTINF:-1 group-title="FR",|FR| W9 SD (L)
+http://panel.dtdns.net:8000/live/shadow/shadow/550.ts
+#EXTINF:-1 group-title="FR",|FR| TMC FHD (L)
+http://panel.dtdns.net:8000/live/shadow/shadow/11.ts
+#EXTINF:-1 group-title="FR",|FR| TMC SD (L)
+http://panel.dtdns.net:8000/live/shadow/shadow/551.ts
+#EXTINF:-1 group-title="FR",|FR| TFX FHD (L)
+http://panel.dtdns.net:8000/live/shadow/shadow/12.ts
+#EXTINF:-1 group-title="FR",|FR| TFX SD (L)
+http://panel.dtdns.net:8000/live/shadow/shadow/552.ts
+#EXTINF:-1 group-title="FR",|FR| NRJ 12 FHD (L)
+http://panel.dtdns.net:8000/live/shadow/shadow/13.ts
+#EXTINF:-1 group-title="FR",|FR| NRJ12 SD (L)
+http://panel.dtdns.net:8000/live/shadow/shadow/553.ts
+#EXTINF:-1 group-title="FR",|FR| LCP FHD (L)
+http://panel.dtdns.net:8000/live/shadow/shadow/26.ts
+#EXTINF:-1 group-title="FR",|FR| LCP SD (L)
+http://panel.dtdns.net:8000/live/shadow/shadow/559.ts
+#EXTINF:-1 group-title="FR",|FR| FRANCE 4 FHD (L)
+http://panel.dtdns.net:8000/live/shadow/shadow/14.ts
+#EXTINF:-1 group-title="FR",|FR| FRANCE 4 SD (L)
+http://panel.dtdns.net:8000/live/shadow/shadow/545.ts
+#EXTINF:-1 group-title="FR",|FR| BFM TV FHD (L)
+http://panel.dtdns.net:8000/live/shadow/shadow/15.ts
+#EXTINF:-1 group-title="FR",|FR| BFM TV SD (L)
+http://panel.dtdns.net:8000/live/shadow/shadow/538.ts
+#EXTINF:-1 group-title="FR",|FR| CNEWS FHD (L)
+http://panel.dtdns.net:8000/live/shadow/shadow/16.ts
+#EXTINF:-1 group-title="FR",|FR| CNEWS SD (L)
+http://panel.dtdns.net:8000/live/shadow/shadow/541.ts
+#EXTINF:-1 group-title="FR",|FR| CSTAR FHD (L)
+http://panel.dtdns.net:8000/live/shadow/shadow/17.ts
+#EXTINF:-1 group-title="FR",|FR| CSTAR SD (L)
+http://panel.dtdns.net:8000/live/shadow/shadow/542.ts
+#EXTINF:-1 group-title="FR",|FR| GULLI FHD (L)
+http://panel.dtdns.net:8000/live/shadow/shadow/18.ts
+#EXTINF:-1 group-title="FR",|FR| GULLI SD (L)
+http://panel.dtdns.net:8000/live/shadow/shadow/554.ts
+#EXTINF:-1 group-title="FR",|FR| FRANCE-O FHD (L)
+http://panel.dtdns.net:8000/live/shadow/shadow/19.ts
+#EXTINF:-1 group-title="FR",|FR| FRANCE-O SD (L)
+http://panel.dtdns.net:8000/live/shadow/shadow/547.ts
+#EXTINF:-1 group-title="FR",|FR| TF1 SERIES FILMS FHD (L)
+http://panel.dtdns.net:8000/live/shadow/shadow/20.ts
+#EXTINF:-1 group-title="FR",|FR| TF1 SERIES FILMS SD (L)
+http://panel.dtdns.net:8000/live/shadow/shadow/555.ts
+#EXTINF:-1 group-title="FR",|FR| 6TER FHD (L)
+http://panel.dtdns.net:8000/live/shadow/shadow/21.ts
+#EXTINF:-1 group-title="FR",|FR| 6TER SD (L)
+http://panel.dtdns.net:8000/live/shadow/shadow/536.ts
+#EXTINF:-1 group-title="FR",|FR| NUMERO 23 FHD (L)
+http://panel.dtdns.net:8000/live/shadow/shadow/22.ts
+#EXTINF:-1 group-title="FR",|FR| NUMERO 23 SD (L)
+http://panel.dtdns.net:8000/live/shadow/shadow/556.ts
+#EXTINF:-1 group-title="FR",|FR| RMC DECOUVERTE FHD (L)
+http://panel.dtdns.net:8000/live/shadow/shadow/23.ts
+#EXTINF:-1 group-title="FR",|FR| RMC DECOUVERTE SD (L)
+http://panel.dtdns.net:8000/live/shadow/shadow/557.ts
+#EXTINF:-1 group-title="FR",|FR| CHERIE25 FHD (L)
+http://panel.dtdns.net:8000/live/shadow/shadow/24.ts
+#EXTINF:-1 group-title="FR",|FR| CHERIE25 SD (L)
+http://panel.dtdns.net:8000/live/shadow/shadow/540.ts
+#EXTINF:-1 group-title="FR",|FR| LCI FHD (L)
+http://panel.dtdns.net:8000/live/shadow/shadow/25.ts
+#EXTINF:-1 group-title="FR",|FR| LCI SD (L)
+http://panel.dtdns.net:8000/live/shadow/shadow/558.ts
+#EXTINF:-1 group-title="FR",|FR| FRANCE INFO FHD (L)
+http://panel.dtdns.net:8000/live/shadow/shadow/483.ts
+#EXTINF:-1 group-title="FR",|FR| FRANCE INFO SD (L)
+http://panel.dtdns.net:8000/live/shadow/shadow/560.ts
