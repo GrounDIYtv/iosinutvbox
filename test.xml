@@ -2,24 +2,7 @@
 <channels version="Mon, 26 Mar 2018 21:38:41 GMT+0300" info_time="Thu, 05 Apr 2007 09:19:03 GMT">
 <group id="5" type="1" en="Filme" description="Filme">
 Filme
-<channel id="253471" type="0" btype="0" language="ro">
-<name>Acasa Gold</name>
-<status>2</status>
-<region en=""/>
-<class en="Filme">0</class>
-<user_count>0</user_count>
-<sn>0</sn>
-<visit_count>0</visit_count>
-<start_from/>
-<stream_type/>
-<kbps>0</kbps>
-<qs>0</qs>
-<qc>0</qc>
-<sop_address>
-<item>P2p://170.178.181.182:6180/5a5f7d19000a8c2f17a7d7f73e23751f.ts</item>
-</sop_address>
-<description>ACASA GOLD</description>
-</channel>
+
 <channel id="123456" type="0" btype="0" language="ro">
 <name>Acasa Gold</name>
 <status>2</status>
