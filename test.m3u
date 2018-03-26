@@ -1,4 +1,1629 @@
-#EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 HD ARB" tvg-logo="http://picon.space/beinsport1hd.png" group-title="beIN Media Group",beIN SPORTS 1 HD ARB
-http://61.216.177.73/sta/ch1865001.m3u8
+<channels version="Mon, 26 Mar 2018 21:38:41 GMT+0300" info_time="Thu, 05 Apr 2007 09:19:03 GMT">
+<group id="5" type="1" en="Filme" description="Filme">
+Filme
+<channel id="253471" type="0" btype="0" language="ro">
+<name>Acasa Gold</name>
+<status>2</status>
+<region en=""/>
+<class en="Filme">0</class>
+<user_count>0</user_count>
+<sn>0</sn>
+<visit_count>0</visit_count>
+<start_from/>
+<stream_type/>
+<kbps>0</kbps>
+<qs>0</qs>
+<qc>0</qc>
+<p2p_address>
+<item>P2p://170.178.181.182:6180/5a5f7d19000a8c2f17a7d7f73e23751f.ts</item>
+</sop_address>
+<description>ACASA GOLD</description>
+</channel>
+<channel id="123456" type="0" btype="0" language="ro">
+<name>Acasa Gold</name>
+<status>2</status>
+<region en=""/>
+<class en="Filme">0</class>
+<user_count>0</user_count>
+<sn>0</sn>
+<visit_count>0</visit_count>
+<start_from/>
+<stream_type/>
+<kbps>0</kbps>
+<qs>0</qs>
+<qc>0</qc>
+<sop_address>
+<item>sop://broker.sopcast.com:3912/253471/123456</item>
+</sop_address>
+<description>Acasa Gold</description>
+</channel>
+<channel id="123456" type="0" btype="0" language="ro">
+<name>Acasa Tv</name>
+<status>2</status>
+<region en=""/>
+<class en="Filme">0</class>
+<user_count>0</user_count>
+<sn>0</sn>
+<visit_count>0</visit_count>
+<start_from/>
+<stream_type/>
+<kbps>0</kbps>
+<qs>0</qs>
+<qc>0</qc>
+<sop_address>
+<item>sop://broker.sopcast.com:3912/149256/123456</item>
+</sop_address>
+<description>Acasa TV</description>
+</channel>
+<channel id="262648" type="0" btype="0" language="ro">
+<name>Axn</name>
+<status>2</status>
+<region en=""/>
+<class en="Filme">0</class>
+<user_count>0</user_count>
+<sn>0</sn>
+<visit_count>0</visit_count>
+<start_from/>
+<stream_type/>
+<kbps>0</kbps>
+<qs>0</qs>
+<qc>0</qc>
+<sop_address>
+<item>sop://broker.sopcast.com:3912/262648</item>
+</sop_address>
+<description>AXN</description>
+</channel>
+<channel id="253035" type="0" btype="0" language="ro">
+<name>Axn (Offline)</name>
+<status>2</status>
+<region en=""/>
+<class en="Filme">0</class>
+<user_count>0</user_count>
+<sn>0</sn>
+<visit_count>0</visit_count>
+<start_from/>
+<stream_type/>
+<kbps>0</kbps>
+<qs>0</qs>
+<qc>0</qc>
+<sop_address>
+<item>sop://broker.sopcast.com:3912/253035</item>
+</sop_address>
+<description>AXN</description>
+</channel>
+<channel id="149261" type="0" btype="0" language="ro">
+<name>Axn Black (Offline)</name>
+<status>2</status>
+<region en=""/>
+<class en="Filme">0</class>
+<user_count>0</user_count>
+<sn>0</sn>
+<visit_count>0</visit_count>
+<start_from/>
+<stream_type/>
+<kbps>0</kbps>
+<qs>0</qs>
+<qc>0</qc>
+<sop_address>
+<item>sop://broker.sopcast.com:3912/149261</item>
+</sop_address>
+<description>Axn Black</description>
+</channel>
+<channel id="149262" type="0" btype="0" language="ro">
+<name>Axn White</name>
+<status>2</status>
+<region en=""/>
+<class en="Filme">0</class>
+<user_count>0</user_count>
+<sn>0</sn>
+<visit_count>0</visit_count>
+<start_from/>
+<stream_type/>
+<kbps>0</kbps>
+<qs>0</qs>
+<qc>0</qc>
+<sop_address>
+<item>sop://broker.sopcast.com:3912/149262</item>
+</sop_address>
+<description>Axn White</description>
+</channel>
+<channel id="140335" type="0" btype="0" language="ro">
+<name>Cbns Tv (Offline)</name>
+<status>2</status>
+<region en=""/>
+<class en="Filme">0</class>
+<user_count>0</user_count>
+<sn>0</sn>
+<visit_count>0</visit_count>
+<start_from/>
+<stream_type/>
+<kbps>0</kbps>
+<qs>0</qs>
+<qc>0</qc>
+<sop_address>
+<item>sop://broker.sopcast.com:3912/140335</item>
+</sop_address>
+<description>CBNS TV</description>
+</channel>
+<channel id="148882" type="0" btype="0" language="ro">
+<name>Cinemax (Offline)</name>
+<status>2</status>
+<region en=""/>
+<class en="Filme">0</class>
+<user_count>0</user_count>
+<sn>0</sn>
+<visit_count>0</visit_count>
+<start_from/>
+<stream_type/>
+<kbps>0</kbps>
+<qs>0</qs>
+<qc>0</qc>
+<sop_address>
+<item>sop://broker.sopcast.com:3912/148882</item>
+</sop_address>
+<description>Cinemax</description>
+</channel>
+<channel id="172978" type="0" btype="0" language="ro">
+<name>Digi Film</name>
+<status>2</status>
+<region en=""/>
+<class en="Filme">0</class>
+<user_count>0</user_count>
+<sn>0</sn>
+<visit_count>0</visit_count>
+<start_from/>
+<stream_type/>
+<kbps>0</kbps>
+<qs>0</qs>
+<qc>0</qc>
+<sop_address>
+<item>sop://broker.sopcast.com:3912/172978</item>
+</sop_address>
+<description>DIGI Film</description>
+</channel>
+<channel id="123456" type="0" btype="0" language="ro">
+<name>Diva (Offline)</name>
+<status>2</status>
+<region en=""/>
+<class en="Filme">0</class>
+<user_count>0</user_count>
+<sn>0</sn>
+<visit_count>0</visit_count>
+<start_from/>
+<stream_type/>
+<kbps>0</kbps>
+<qs>0</qs>
+<qc>0</qc>
+<sop_address>
+<item>sop://broker.sopcast.com:3912/253034/123456</item>
+</sop_address>
+<description>Diva</description>
+</channel>
+<channel id="253034" type="0" btype="0" language="ro">
+<name>Diva Universal (Offline)</name>
+<status>2</status>
+<region en=""/>
+<class en="Filme">0</class>
+<user_count>0</user_count>
+<sn>0</sn>
+<visit_count>0</visit_count>
+<start_from/>
+<stream_type/>
+<kbps>0</kbps>
+<qs>0</qs>
+<qc>0</qc>
+<sop_address>
+<item>sop://broker.sopcast.com:3912/253034</item>
+</sop_address>
+<description>Diva Universal</description>
+</channel>
+<channel id="148981" type="0" btype="0" language="ro">
+<name>Filmbox (Offline)</name>
+<status>2</status>
+<region en=""/>
+<class en="Filme">0</class>
+<user_count>0</user_count>
+<sn>0</sn>
+<visit_count>0</visit_count>
+<start_from/>
+<stream_type/>
+<kbps>0</kbps>
+<qs>0</qs>
+<qc>0</qc>
+<sop_address>
+<item>sop://broker.sopcast.com:3912/148981</item>
+</sop_address>
+<description>Filmbox</description>
+</channel>
+<channel id="256238" type="0" btype="0" language="ro">
+<name>Filmcafe</name>
+<status>2</status>
+<region en=""/>
+<class en="Filme">0</class>
+<user_count>0</user_count>
+<sn>0</sn>
+<visit_count>0</visit_count>
+<start_from/>
+<stream_type/>
+<kbps>0</kbps>
+<qs>0</qs>
+<qc>0</qc>
+<sop_address>
+<item>sop://broker.sopcast.com:3912/256238</item>
+</sop_address>
+<description>FilmCafe</description>
+</channel>
+<channel id="253473" type="0" btype="0" language="ro">
+<name>Happy Channel</name>
+<status>2</status>
+<region en=""/>
+<class en="Filme">0</class>
+<user_count>0</user_count>
+<sn>0</sn>
+<visit_count>0</visit_count>
+<start_from/>
+<stream_type/>
+<kbps>0</kbps>
+<qs>0</qs>
+<qc>0</qc>
+<sop_address>
+<item>sop://broker.sopcast.com:3912/253473</item>
+</sop_address>
+<description>Happy Channel</description>
+</channel>
+<channel id="259497" type="0" btype="0" language="ro">
+<name>Hbo</name>
+<status>2</status>
+<region en=""/>
+<class en="Filme">0</class>
+<user_count>0</user_count>
+<sn>0</sn>
+<visit_count>0</visit_count>
+<start_from/>
+<stream_type/>
+<kbps>0</kbps>
+<qs>0</qs>
+<qc>0</qc>
+<sop_address>
+<item>sop://broker.sopcast.com:3912/259497</item>
+</sop_address>
+<description>Hbo</description>
+</channel>
+<channel id="259168" type="0" btype="0" language="ro">
+<name>Hbo 2</name>
+<status>2</status>
+<region en=""/>
+<class en="Filme">0</class>
+<user_count>0</user_count>
+<sn>0</sn>
+<visit_count>0</visit_count>
+<start_from/>
+<stream_type/>
+<kbps>0</kbps>
+<qs>0</qs>
+<qc>0</qc>
+<sop_address>
+<item>sop://broker.sopcast.com:3912/259168</item>
+</sop_address>
+<description>HBO 2</description>
+</channel>
+<channel id="264001" type="0" btype="0" language="ro">
+<name>Hbo 3</name>
+<status>2</status>
+<region en=""/>
+<class en="Filme">0</class>
+<user_count>0</user_count>
+<sn>0</sn>
+<visit_count>0</visit_count>
+<start_from/>
+<stream_type/>
+<kbps>0</kbps>
+<qs>0</qs>
+<qc>0</qc>
+<sop_address>
+<item>sop://broker.sopcast.com:3912/264001</item>
+</sop_address>
+<description>HBO 3</description>
+</channel>
+<channel id="260710" type="0" btype="0" language="ro">
+<name>Hbo Sd</name>
+<status>2</status>
+<region en=""/>
+<class en="Filme">0</class>
+<user_count>0</user_count>
+<sn>0</sn>
+<visit_count>0</visit_count>
+<start_from/>
+<stream_type/>
+<kbps>0</kbps>
+<qs>0</qs>
+<qc>0</qc>
+<sop_address>
+<item>sop://broker.sopcast.com:3912/260710</item>
+</sop_address>
+<description>HBO SD</description>
+</channel>
+<channel id="253033" type="0" btype="0" language="ro">
+<name>Paramount</name>
+<status>2</status>
+<region en=""/>
+<class en="Filme">0</class>
+<user_count>0</user_count>
+<sn>0</sn>
+<visit_count>0</visit_count>
+<start_from/>
+<stream_type/>
+<kbps>0</kbps>
+<qs>0</qs>
+<qc>0</qc>
+<sop_address>
+<item>sop://broker.sopcast.com:3912/253033</item>
+</sop_address>
+<description>PARAMOUNT</description>
+</channel>
+<channel id="151665" type="0" btype="0" language="ro">
+<name>Pro 2</name>
+<status>2</status>
+<region en=""/>
+<class en="Filme">0</class>
+<user_count>0</user_count>
+<sn>0</sn>
+<visit_count>0</visit_count>
+<start_from/>
+<stream_type/>
+<kbps>0</kbps>
+<qs>0</qs>
+<qc>0</qc>
+<sop_address>
+<item>sop://broker.sopcast.com:3912/151665</item>
+</sop_address>
+<description>Pro 2</description>
+</channel>
+<channel id="149256" type="0" btype="0" language="ro">
+<name>Pro 2</name>
+<status>2</status>
+<region en=""/>
+<class en="Filme">0</class>
+<user_count>0</user_count>
+<sn>0</sn>
+<visit_count>0</visit_count>
+<start_from/>
+<stream_type/>
+<kbps>0</kbps>
+<qs>0</qs>
+<qc>0</qc>
+<sop_address>
+<item>sop://broker.sopcast.com:3912/149256</item>
+</sop_address>
+<description>PRO 2</description>
+</channel>
+<channel id="148249" type="0" btype="0" language="ro">
+<name>Pro Cinema</name>
+<status>2</status>
+<region en=""/>
+<class en="Filme">0</class>
+<user_count>0</user_count>
+<sn>0</sn>
+<visit_count>0</visit_count>
+<start_from/>
+<stream_type/>
+<kbps>0</kbps>
+<qs>0</qs>
+<qc>0</qc>
+<sop_address>
+<item>sop://broker.sopcast.com:3912/148249</item>
+</sop_address>
+<description>Pro Cinema</description>
+</channel>
+<channel id="123456" type="0" btype="0" language="ro">
+<name>Pro Cinema</name>
+<status>2</status>
+<region en=""/>
+<class en="Filme">0</class>
+<user_count>0</user_count>
+<sn>0</sn>
+<visit_count>0</visit_count>
+<start_from/>
+<stream_type/>
+<kbps>0</kbps>
+<qs>0</qs>
+<qc>0</qc>
+<sop_address>
+<item>sop://broker.sopcast.com:3912/148249/123456</item>
+</sop_address>
+<description>PRO Cinema</description>
+</channel>
+<channel id="151952" type="0" btype="0" language="ro">
+<name>Pro Gold</name>
+<status>2</status>
+<region en=""/>
+<class en="Filme">0</class>
+<user_count>0</user_count>
+<sn>0</sn>
+<visit_count>0</visit_count>
+<start_from/>
+<stream_type/>
+<kbps>0</kbps>
+<qs>0</qs>
+<qc>0</qc>
+<sop_address>
+<item>sop://broker.sopcast.com:3912/151952</item>
+</sop_address>
+<description>PRO Gold</description>
+</channel>
+<channel id="263344" type="0" btype="0" language="ro">
+<name>Protv</name>
+<status>2</status>
+<region en=""/>
+<class en="Filme">0</class>
+<user_count>0</user_count>
+<sn>0</sn>
+<visit_count>0</visit_count>
+<start_from/>
+<stream_type/>
+<kbps>0</kbps>
+<qs>0</qs>
+<qc>0</qc>
+<sop_address>
+<item>sop://51.15.195.206:3912/263344</item>
+</sop_address>
+<description>Protv</description>
+</channel>
+<channel id="259499" type="0" btype="0" language="ro">
+<name>Tv 1000 (Offline)</name>
+<status>2</status>
+<region en=""/>
+<class en="Filme">0</class>
+<user_count>0</user_count>
+<sn>0</sn>
+<visit_count>0</visit_count>
+<start_from/>
+<stream_type/>
+<kbps>0</kbps>
+<qs>0</qs>
+<qc>0</qc>
+<sop_address>
+<item>sop://broker.sopcast.com:3912/259499</item>
+</sop_address>
+<description>TV 1000</description>
+</channel>
+<channel id="123456" type="0" btype="0" language="ro">
+<name>Tv 1000</name>
+<status>2</status>
+<region en=""/>
+<class en="Filme">0</class>
+<user_count>0</user_count>
+<sn>0</sn>
+<visit_count>0</visit_count>
+<start_from/>
+<stream_type/>
+<kbps>0</kbps>
+<qs>0</qs>
+<qc>0</qc>
+<sop_address>
+<item>sop://broker.sopcast.com:3912/256337/123456</item>
+</sop_address>
+<description>TV 1000</description>
+</channel>
+<channel id="256337" type="0" btype="0" language="ro">
+<name>Tv1000</name>
+<status>2</status>
+<region en=""/>
+<class en="Filme">0</class>
+<user_count>0</user_count>
+<sn>0</sn>
+<visit_count>0</visit_count>
+<start_from/>
+<stream_type/>
+<kbps>0</kbps>
+<qs>0</qs>
+<qc>0</qc>
+<sop_address>
+<item>sop://broker.sopcast.com:3912/256337</item>
+</sop_address>
+<description>TV1000</description>
+</channel>
+</group>
+<group id="1" type="1" en="Documentare" description="Documentare">
+Documentare
+<channel id="148257" type="0" btype="0" language="ro">
+<name>Bbc Earth</name>
+<status>2</status>
+<region en=""/>
+<class en="Documentare">0</class>
+<user_count>0</user_count>
+<sn>0</sn>
+<visit_count>0</visit_count>
+<start_from/>
+<stream_type/>
+<kbps>0</kbps>
+<qs>0</qs>
+<qc>0</qc>
+<sop_address>
+<item>sop://broker.sopcast.com:3912/148257</item>
+</sop_address>
+<description>Bbc Earth</description>
+</channel>
+<channel id="148260" type="0" btype="0" language="ro">
+<name>Digi World</name>
+<status>2</status>
+<region en=""/>
+<class en="Documentare">0</class>
+<user_count>0</user_count>
+<sn>0</sn>
+<visit_count>0</visit_count>
+<start_from/>
+<stream_type/>
+<kbps>0</kbps>
+<qs>0</qs>
+<qc>0</qc>
+<sop_address>
+<item>sop://broker.sopcast.com:3912/148260</item>
+</sop_address>
+<description>Digi World</description>
+</channel>
+<channel id="256241" type="0" btype="0" language="ro">
+<name>Discovery</name>
+<status>2</status>
+<region en=""/>
+<class en="Documentare">0</class>
+<user_count>0</user_count>
+<sn>0</sn>
+<visit_count>0</visit_count>
+<start_from/>
+<stream_type/>
+<kbps>0</kbps>
+<qs>0</qs>
+<qc>0</qc>
+<sop_address>
+<item>sop://broker.sopcast.com:3912/256241</item>
+</sop_address>
+<description>Discovery</description>
+</channel>
+<channel id="263196" type="0" btype="0" language="ro">
+<name>Discovery Id</name>
+<status>2</status>
+<region en=""/>
+<class en="Documentare">0</class>
+<user_count>0</user_count>
+<sn>0</sn>
+<visit_count>0</visit_count>
+<start_from/>
+<stream_type/>
+<kbps>0</kbps>
+<qs>0</qs>
+<qc>0</qc>
+<sop_address>
+<item>sop://51.15.195.206:3912/263196</item>
+</sop_address>
+<description>Discovery ID</description>
+</channel>
+<channel id="256243" type="0" btype="0" language="ro">
+<name>Discovery Science</name>
+<status>2</status>
+<region en=""/>
+<class en="Documentare">0</class>
+<user_count>0</user_count>
+<sn>0</sn>
+<visit_count>0</visit_count>
+<start_from/>
+<stream_type/>
+<kbps>0</kbps>
+<qs>0</qs>
+<qc>0</qc>
+<sop_address>
+<item>sop://broker.sopcast.com:3912/256243</item>
+</sop_address>
+<description>Discovery Science</description>
+</channel>
+<channel id="263392" type="0" btype="0" language="ro">
+<name>History</name>
+<status>2</status>
+<region en=""/>
+<class en="Documentare">0</class>
+<user_count>0</user_count>
+<sn>0</sn>
+<visit_count>0</visit_count>
+<start_from/>
+<stream_type/>
+<kbps>0</kbps>
+<qs>0</qs>
+<qc>0</qc>
+<sop_address>
+<item>sop://broker.sopcast.com:3912/263392</item>
+</sop_address>
+<description>History</description>
+</channel>
+<channel id="253032" type="0" btype="0" language="ro">
+<name>History (Offline)</name>
+<status>2</status>
+<region en=""/>
+<class en="Documentare">0</class>
+<user_count>0</user_count>
+<sn>0</sn>
+<visit_count>0</visit_count>
+<start_from/>
+<stream_type/>
+<kbps>0</kbps>
+<qs>0</qs>
+<qc>0</qc>
+<sop_address>
+<item>sop://broker.sopcast.com:3912/253032</item>
+</sop_address>
+<description>History</description>
+</channel>
+<channel id="256244" type="0" btype="0" language="ro">
+<name>Investigation Discovery (Offline)</name>
+<status>2</status>
+<region en=""/>
+<class en="Documentare">0</class>
+<user_count>0</user_count>
+<sn>0</sn>
+<visit_count>0</visit_count>
+<start_from/>
+<stream_type/>
+<kbps>0</kbps>
+<qs>0</qs>
+<qc>0</qc>
+<sop_address>
+<item>sop://broker.sopcast.com:3912/256244</item>
+</sop_address>
+<description>Investigation Discovery</description>
+</channel>
+<channel id="148248" type="0" btype="0" language="ro">
+<name>National Geografic</name>
+<status>2</status>
+<region en=""/>
+<class en="Documentare">0</class>
+<user_count>0</user_count>
+<sn>0</sn>
+<visit_count>0</visit_count>
+<start_from/>
+<stream_type/>
+<kbps>0</kbps>
+<qs>0</qs>
+<qc>0</qc>
+<sop_address>
+<item>sop://broker.sopcast.com:3912/148248</item>
+</sop_address>
+<description>National Geografic</description>
+</channel>
+<channel id="253037" type="0" btype="0" language="ro">
+<name>National Geographic Wild (Offline)</name>
+<status>2</status>
+<region en=""/>
+<class en="Documentare">0</class>
+<user_count>0</user_count>
+<sn>0</sn>
+<visit_count>0</visit_count>
+<start_from/>
+<stream_type/>
+<kbps>0</kbps>
+<qs>0</qs>
+<qc>0</qc>
+<sop_address>
+<item>sop://broker.sopcast.com:3912/253037</item>
+</sop_address>
+<description>National Geographic Wild</description>
+</channel>
+<channel id="151300" type="0" btype="0" language="ro">
+<name>Viasat History</name>
+<status>2</status>
+<region en=""/>
+<class en="Documentare">0</class>
+<user_count>0</user_count>
+<sn>0</sn>
+<visit_count>0</visit_count>
+<start_from/>
+<stream_type/>
+<kbps>0</kbps>
+<qs>0</qs>
+<qc>0</qc>
+<sop_address>
+<item>sop://broker.sopcast.com:3912/151300</item>
+</sop_address>
+<description>Viasat History</description>
+</channel>
+</group>
+<group id="8" type="1" en="Sport" description="Sport">
+Sport
+<channel id="263484" type="0" btype="0" language="ro">
+<name>Dg Sport</name>
+<status>2</status>
+<region en=""/>
+<class en="Sport">0</class>
+<user_count>0</user_count>
+<sn>0</sn>
+<visit_count>0</visit_count>
+<start_from/>
+<stream_type/>
+<kbps>0</kbps>
+<qs>0</qs>
+<qc>0</qc>
+<sop_address>
+<item>sop://broker.sopcast.com:3912/263484</item>
+</sop_address>
+<description>DG SPORT</description>
+</channel>
+<channel id="253874" type="0" btype="0" language="ro">
+<name>Digi Sp1 (Offline)</name>
+<status>2</status>
+<region en=""/>
+<class en="Sport">0</class>
+<user_count>0</user_count>
+<sn>0</sn>
+<visit_count>0</visit_count>
+<start_from/>
+<stream_type/>
+<kbps>0</kbps>
+<qs>0</qs>
+<qc>0</qc>
+<sop_address>
+<item>sop://broker.sopcast.com:3912/253874</item>
+</sop_address>
+<description>Digi Sp1</description>
+</channel>
+<channel id="150261" type="0" btype="0" language="ro">
+<name>Digi Sport 1 (Offline)</name>
+<status>2</status>
+<region en=""/>
+<class en="Sport">0</class>
+<user_count>0</user_count>
+<sn>0</sn>
+<visit_count>0</visit_count>
+<start_from/>
+<stream_type/>
+<kbps>0</kbps>
+<qs>0</qs>
+<qc>0</qc>
+<sop_address>
+<item>sop://broker.sopcast.com:3912/150261</item>
+</sop_address>
+<description>Digi Sport 1</description>
+</channel>
+<channel id="263483" type="0" btype="0" language="ro">
+<name>Digi Sport 3</name>
+<status>2</status>
+<region en=""/>
+<class en="Sport">0</class>
+<user_count>0</user_count>
+<sn>0</sn>
+<visit_count>0</visit_count>
+<start_from/>
+<stream_type/>
+<kbps>0</kbps>
+<qs>0</qs>
+<qc>0</qc>
+<sop_address>
+<item>sop://51.15.195.206:3912/263483</item>
+</sop_address>
+<description>Digi Sport 3</description>
+</channel>
+<channel id="263484" type="0" btype="0" language="ro">
+<name>Digisport !</name>
+<status>2</status>
+<region en=""/>
+<class en="Sport">0</class>
+<user_count>0</user_count>
+<sn>0</sn>
+<visit_count>0</visit_count>
+<start_from/>
+<stream_type/>
+<kbps>0</kbps>
+<qs>0</qs>
+<qc>0</qc>
+<sop_address>
+<item>sop://51.15.195.206:3912/263484</item>
+</sop_address>
+<description>DigiSport !</description>
+</channel>
+<channel id="148886" type="0" btype="0" language="ro">
+<name>Digisport 1</name>
+<status>2</status>
+<region en=""/>
+<class en="Sport">0</class>
+<user_count>0</user_count>
+<sn>0</sn>
+<visit_count>0</visit_count>
+<start_from/>
+<stream_type/>
+<kbps>0</kbps>
+<qs>0</qs>
+<qc>0</qc>
+<sop_address>
+<item>sop://broker.sopcast.com:3912/148886</item>
+</sop_address>
+<description>DigiSport 1</description>
+</channel>
+<channel id="173020" type="0" btype="0" language="ro">
+<name>Digisport 1 (Offline)</name>
+<status>2</status>
+<region en=""/>
+<class en="Sport">0</class>
+<user_count>0</user_count>
+<sn>0</sn>
+<visit_count>0</visit_count>
+<start_from/>
+<stream_type/>
+<kbps>0</kbps>
+<qs>0</qs>
+<qc>0</qc>
+<sop_address>
+<item>sop://broker.sopcast.com:3912/173020</item>
+</sop_address>
+<description>Digisport 1</description>
+</channel>
+<channel id="263242" type="0" btype="0" language="ro">
+<name>Digisport 2 (Offline)</name>
+<status>2</status>
+<region en=""/>
+<class en="Sport">0</class>
+<user_count>0</user_count>
+<sn>0</sn>
+<visit_count>0</visit_count>
+<start_from/>
+<stream_type/>
+<kbps>0</kbps>
+<qs>0</qs>
+<qc>0</qc>
+<sop_address>
+<item>sop://broker.sopcast.com:3912/263242</item>
+</sop_address>
+<description>Digisport 2</description>
+</channel>
+<channel id="263056" type="0" btype="0" language="ro">
+<name>Eurosport 1 (Offline)</name>
+<status>2</status>
+<region en=""/>
+<class en="Sport">0</class>
+<user_count>0</user_count>
+<sn>0</sn>
+<visit_count>0</visit_count>
+<start_from/>
+<stream_type/>
+<kbps>0</kbps>
+<qs>0</qs>
+<qc>0</qc>
+<sop_address>
+<item>sop://broker.sopcast.com:3912/263056</item>
+</sop_address>
+<description>EuroSport 1</description>
+</channel>
+<channel id="263132" type="0" btype="0" language="ro">
+<name>Eurosport 1</name>
+<status>2</status>
+<region en=""/>
+<class en="Sport">0</class>
+<user_count>0</user_count>
+<sn>0</sn>
+<visit_count>0</visit_count>
+<start_from/>
+<stream_type/>
+<kbps>0</kbps>
+<qs>0</qs>
+<qc>0</qc>
+<sop_address>
+<item>sop://broker.sopcast.com:3912/263132</item>
+</sop_address>
+<description>Eurosport 1</description>
+</channel>
+<channel id="257488" type="0" btype="0" language="ro">
+<name>Eurosport 2</name>
+<status>2</status>
+<region en=""/>
+<class en="Sport">0</class>
+<user_count>0</user_count>
+<sn>0</sn>
+<visit_count>0</visit_count>
+<start_from/>
+<stream_type/>
+<kbps>0</kbps>
+<qs>0</qs>
+<qc>0</qc>
+<sop_address>
+<item>sop://broker.sopcast.com:3912/257488</item>
+</sop_address>
+<description>Eurosport 2</description>
+</channel>
+<channel id="178547" type="0" btype="0" language="ro">
+<name>Sport.ro</name>
+<status>2</status>
+<region en=""/>
+<class en="Sport">0</class>
+<user_count>0</user_count>
+<sn>0</sn>
+<visit_count>0</visit_count>
+<start_from/>
+<stream_type/>
+<kbps>0</kbps>
+<qs>0</qs>
+<qc>0</qc>
+<sop_address>
+<item>sop://broker.sopcast.com:3912/178547</item>
+</sop_address>
+<description>Sport.ro</description>
+</channel>
+<channel id="151307" type="0" btype="0" language="ro">
+<name>Telekom Sp1</name>
+<status>2</status>
+<region en=""/>
+<class en="Sport">0</class>
+<user_count>0</user_count>
+<sn>0</sn>
+<visit_count>0</visit_count>
+<start_from/>
+<stream_type/>
+<kbps>0</kbps>
+<qs>0</qs>
+<qc>0</qc>
+<sop_address>
+<item>sop://broker.sopcast.com:3912/151307</item>
+</sop_address>
+<description>Telekom Sp1</description>
+</channel>
+<channel id="255726" type="0" btype="0" language="ro">
+<name>Telekom Sport 1</name>
+<status>2</status>
+<region en=""/>
+<class en="Sport">0</class>
+<user_count>0</user_count>
+<sn>0</sn>
+<visit_count>0</visit_count>
+<start_from/>
+<stream_type/>
+<kbps>0</kbps>
+<qs>0</qs>
+<qc>0</qc>
+<sop_address>
+<item>sop://broker.sopcast.com:3912/255726</item>
+</sop_address>
+<description>Telekom Sport 1</description>
+</channel>
+<channel id="263051" type="0" btype="0" language="ro">
+<name>Telekom Sport 2</name>
+<status>2</status>
+<region en=""/>
+<class en="Sport">0</class>
+<user_count>0</user_count>
+<sn>0</sn>
+<visit_count>0</visit_count>
+<start_from/>
+<stream_type/>
+<kbps>0</kbps>
+<qs>0</qs>
+<qc>0</qc>
+<sop_address>
+<item>sop://broker.sopcast.com:3912/263051</item>
+</sop_address>
+<description>Telekom Sport 2</description>
+</channel>
+<channel id="257109" type="0" btype="0" language="ro">
+<name>Telekom Sport 2</name>
+<status>2</status>
+<region en=""/>
+<class en="Sport">0</class>
+<user_count>0</user_count>
+<sn>0</sn>
+<visit_count>0</visit_count>
+<start_from/>
+<stream_type/>
+<kbps>0</kbps>
+<qs>0</qs>
+<qc>0</qc>
+<sop_address>
+<item>sop://broker.sopcast.com:3912/257109</item>
+</sop_address>
+<description>Telekom Sport 2</description>
+</channel>
+</group>
+<group id="4" type="1" en="Pentru copii" description="Pentru copii">
+Pentru copii
+<channel id="149264" type="0" btype="0" language="ro">
+<name>Boomerang</name>
+<status>2</status>
+<region en=""/>
+<class en="Pentru copii">0</class>
+<user_count>0</user_count>
+<sn>0</sn>
+<visit_count>0</visit_count>
+<start_from/>
+<stream_type/>
+<kbps>0</kbps>
+<qs>0</qs>
+<qc>0</qc>
+<sop_address>
+<item>sop://broker.sopcast.com:3912/149264</item>
+</sop_address>
+<description>Boomerang</description>
+</channel>
+<channel id="148254" type="0" btype="0" language="ro">
+<name>Cartoon Network</name>
+<status>2</status>
+<region en=""/>
+<class en="Pentru copii">0</class>
+<user_count>0</user_count>
+<sn>0</sn>
+<visit_count>0</visit_count>
+<start_from/>
+<stream_type/>
+<kbps>0</kbps>
+<qs>0</qs>
+<qc>0</qc>
+<sop_address>
+<item>sop://broker.sopcast.com:3912/148254</item>
+</sop_address>
+<description>Cartoon Network</description>
+</channel>
+<channel id="123456" type="0" btype="0" language="ro">
+<name>Cartoon Network + Tnt</name>
+<status>2</status>
+<region en=""/>
+<class en="Pentru copii">0</class>
+<user_count>0</user_count>
+<sn>0</sn>
+<visit_count>0</visit_count>
+<start_from/>
+<stream_type/>
+<kbps>0</kbps>
+<qs>0</qs>
+<qc>0</qc>
+<sop_address>
+<item>sop://broker.sopcast.com:3912/148254/123456</item>
+</sop_address>
+<description>Cartoon Network + Tnt</description>
+</channel>
+<channel id="253031" type="0" btype="0" language="ro">
+<name>Disney Channel (Offline)</name>
+<status>2</status>
+<region en=""/>
+<class en="Pentru copii">0</class>
+<user_count>0</user_count>
+<sn>0</sn>
+<visit_count>0</visit_count>
+<start_from/>
+<stream_type/>
+<kbps>0</kbps>
+<qs>0</qs>
+<qc>0</qc>
+<sop_address>
+<item>sop://broker.sopcast.com:3912/253031</item>
+</sop_address>
+<description>Disney Channel</description>
+</channel>
+<channel id="256239" type="0" btype="0" language="ro">
+<name>Disney Junior</name>
+<status>2</status>
+<region en=""/>
+<class en="Pentru copii">0</class>
+<user_count>0</user_count>
+<sn>0</sn>
+<visit_count>0</visit_count>
+<start_from/>
+<stream_type/>
+<kbps>0</kbps>
+<qs>0</qs>
+<qc>0</qc>
+<sop_address>
+<item>sop://broker.sopcast.com:3912/256239</item>
+</sop_address>
+<description>Disney Junior</description>
+</channel>
+<channel id="148259" type="0" btype="0" language="ro">
+<name>Duck Tv</name>
+<status>2</status>
+<region en=""/>
+<class en="Pentru copii">0</class>
+<user_count>0</user_count>
+<sn>0</sn>
+<visit_count>0</visit_count>
+<start_from/>
+<stream_type/>
+<kbps>0</kbps>
+<qs>0</qs>
+<qc>0</qc>
+<sop_address>
+<item>sop://broker.sopcast.com:3912/148259</item>
+</sop_address>
+<description>Duck TV</description>
+</channel>
+<channel id="256328" type="0" btype="0" language="ro">
+<name>Megamax</name>
+<status>2</status>
+<region en=""/>
+<class en="Pentru copii">0</class>
+<user_count>0</user_count>
+<sn>0</sn>
+<visit_count>0</visit_count>
+<start_from/>
+<stream_type/>
+<kbps>0</kbps>
+<qs>0</qs>
+<qc>0</qc>
+<sop_address>
+<item>sop://broker.sopcast.com:3912/256328</item>
+</sop_address>
+<description>Megamax</description>
+</channel>
+<channel id="148263" type="0" btype="0" language="ro">
+<name>Minimax</name>
+<status>2</status>
+<region en=""/>
+<class en="Pentru copii">0</class>
+<user_count>0</user_count>
+<sn>0</sn>
+<visit_count>0</visit_count>
+<start_from/>
+<stream_type/>
+<kbps>0</kbps>
+<qs>0</qs>
+<qc>0</qc>
+<sop_address>
+<item>sop://broker.sopcast.com:3912/148263</item>
+</sop_address>
+<description>Minimax</description>
+</channel>
+<channel id="253472" type="0" btype="0" language="ro">
+<name>Nickelodeon</name>
+<status>2</status>
+<region en=""/>
+<class en="Pentru copii">0</class>
+<user_count>0</user_count>
+<sn>0</sn>
+<visit_count>0</visit_count>
+<start_from/>
+<stream_type/>
+<kbps>0</kbps>
+<qs>0</qs>
+<qc>0</qc>
+<sop_address>
+<item>sop://broker.sopcast.com:3912/253472</item>
+</sop_address>
+<description>Nickelodeon</description>
+</channel>
+</group>
+<group id="3" type="1" en="Muzica" description="Muzica">
+Muzica
+<channel id="148252" type="0" btype="0" language="ro">
+<name>Zu Tv</name>
+<status>2</status>
+<region en=""/>
+<class en="Muzica">0</class>
+<user_count>0</user_count>
+<sn>0</sn>
+<visit_count>0</visit_count>
+<start_from/>
+<stream_type/>
+<kbps>0</kbps>
+<qs>0</qs>
+<qc>0</qc>
+<sop_address>
+<item>sop://broker.sopcast.com:3912/148252</item>
+</sop_address>
+<description>ZU Tv</description>
+</channel>
+</group>
+<group id="6" type="1" en="Generale" description="Generale">
+Generale
+<channel id="149257" type="0" btype="0" language="ro">
+<name>Antena 1</name>
+<status>2</status>
+<region en=""/>
+<class en="Generale">0</class>
+<user_count>0</user_count>
+<sn>0</sn>
+<visit_count>0</visit_count>
+<start_from/>
+<stream_type/>
+<kbps>0</kbps>
+<qs>0</qs>
+<qc>0</qc>
+<sop_address>
+<item>sop://broker.sopcast.com:3912/149257</item>
+</sop_address>
+<description>Antena 1</description>
+</channel>
+<channel id="148083" type="0" btype="0" language="ro">
+<name>Antena 1</name>
+<status>2</status>
+<region en=""/>
+<class en="Generale">0</class>
+<user_count>0</user_count>
+<sn>0</sn>
+<visit_count>0</visit_count>
+<start_from/>
+<stream_type/>
+<kbps>0</kbps>
+<qs>0</qs>
+<qc>0</qc>
+<sop_address>
+<item>sop://broker.sopcast.com:3912/148083</item>
+</sop_address>
+<description>Antena 1</description>
+</channel>
+<channel id="263319" type="0" btype="0" language="ro">
+<name>Antena 1</name>
+<status>2</status>
+<region en=""/>
+<class en="Generale">0</class>
+<user_count>0</user_count>
+<sn>0</sn>
+<visit_count>0</visit_count>
+<start_from/>
+<stream_type/>
+<kbps>0</kbps>
+<qs>0</qs>
+<qc>0</qc>
+<sop_address>
+<item>sop://broker.sopcast.com:3912/263319</item>
+</sop_address>
+<description>Antena 1</description>
+</channel>
+<channel id="151301" type="0" btype="0" language="ro">
+<name>Antena1 Sd</name>
+<status>2</status>
+<region en=""/>
+<class en="Generale">0</class>
+<user_count>0</user_count>
+<sn>0</sn>
+<visit_count>0</visit_count>
+<start_from/>
+<stream_type/>
+<kbps>0</kbps>
+<qs>0</qs>
+<qc>0</qc>
+<sop_address>
+<item>sop://broker.sopcast.com:3912/151301</item>
+</sop_address>
+<description>Antena1 SD</description>
+</channel>
+<channel id="148084" type="0" btype="0" language="ro">
+<name>Antena3 Sd</name>
+<status>2</status>
+<region en=""/>
+<class en="Generale">0</class>
+<user_count>0</user_count>
+<sn>0</sn>
+<visit_count>0</visit_count>
+<start_from/>
+<stream_type/>
+<kbps>0</kbps>
+<qs>0</qs>
+<qc>0</qc>
+<sop_address>
+<item>sop://broker.sopcast.com:3912/148084</item>
+</sop_address>
+<description>Antena3 SD</description>
+</channel>
+<channel id="149258" type="0" btype="0" language="ro">
+<name>Kanal D</name>
+<status>2</status>
+<region en=""/>
+<class en="Generale">0</class>
+<user_count>0</user_count>
+<sn>0</sn>
+<visit_count>0</visit_count>
+<start_from/>
+<stream_type/>
+<kbps>0</kbps>
+<qs>0</qs>
+<qc>0</qc>
+<sop_address>
+<item>sop://broker.sopcast.com:3912/149258</item>
+</sop_address>
+<description>Kanal D</description>
+</channel>
+<channel id="256720" type="0" btype="0" language="ro">
+<name>Kanal D</name>
+<status>2</status>
+<region en=""/>
+<class en="Generale">0</class>
+<user_count>0</user_count>
+<sn>0</sn>
+<visit_count>0</visit_count>
+<start_from/>
+<stream_type/>
+<kbps>0</kbps>
+<qs>0</qs>
+<qc>0</qc>
+<sop_address>
+<item>sop://broker.sopcast.com:3912/256720</item>
+</sop_address>
+<description>Kanal D</description>
+</channel>
+<channel id="253030" type="0" btype="0" language="ro">
+<name>National Tv (Offline)</name>
+<status>2</status>
+<region en=""/>
+<class en="Generale">0</class>
+<user_count>0</user_count>
+<sn>0</sn>
+<visit_count>0</visit_count>
+<start_from/>
+<stream_type/>
+<kbps>0</kbps>
+<qs>0</qs>
+<qc>0</qc>
+<sop_address>
+<item>sop://broker.sopcast.com:3912/253030</item>
+</sop_address>
+<description>National TV</description>
+</channel>
+<channel id="148086" type="0" btype="0" language="ro">
+<name>Primatv Sd</name>
+<status>2</status>
+<region en=""/>
+<class en="Generale">0</class>
+<user_count>0</user_count>
+<sn>0</sn>
+<visit_count>0</visit_count>
+<start_from/>
+<stream_type/>
+<kbps>0</kbps>
+<qs>0</qs>
+<qc>0</qc>
+<sop_address>
+<item>sop://broker.sopcast.com:3912/148086</item>
+</sop_address>
+<description>PrimaTV SD</description>
+</channel>
+<channel id="263263" type="0" btype="0" language="ro">
+<name>Pro Tv Hd</name>
+<status>2</status>
+<region en=""/>
+<class en="Generale">0</class>
+<user_count>0</user_count>
+<sn>0</sn>
+<visit_count>0</visit_count>
+<start_from/>
+<stream_type/>
+<kbps>0</kbps>
+<qs>0</qs>
+<qc>0</qc>
+<sop_address>
+<item>sop://broker.sopcast.com:3912/263263</item>
+</sop_address>
+<description>Pro TV HD</description>
+</channel>
+<channel id="151380" type="0" btype="0" language="ro">
+<name>Protv Sd</name>
+<status>2</status>
+<region en=""/>
+<class en="Generale">0</class>
+<user_count>0</user_count>
+<sn>0</sn>
+<visit_count>0</visit_count>
+<start_from/>
+<stream_type/>
+<kbps>0</kbps>
+<qs>0</qs>
+<qc>0</qc>
+<sop_address>
+<item>sop://broker.sopcast.com:3912/151380</item>
+</sop_address>
+<description>ProTV SD</description>
+</channel>
+<channel id="148085" type="0" btype="0" language="ro">
+<name>Tvr 1</name>
+<status>2</status>
+<region en=""/>
+<class en="Generale">0</class>
+<user_count>0</user_count>
+<sn>0</sn>
+<visit_count>0</visit_count>
+<start_from/>
+<stream_type/>
+<kbps>0</kbps>
+<qs>0</qs>
+<qc>0</qc>
+<sop_address>
+<item>sop://broker.sopcast.com:3912/148085</item>
+</sop_address>
+<description>TVR 1</description>
+</channel>
+<channel id="173286" type="0" btype="0" language="ro">
+<name>Tvr2 (Offline)</name>
+<status>2</status>
+<region en=""/>
+<class en="Generale">0</class>
+<user_count>0</user_count>
+<sn>0</sn>
+<visit_count>0</visit_count>
+<start_from/>
+<stream_type/>
+<kbps>0</kbps>
+<qs>0</qs>
+<qc>0</qc>
+<sop_address>
+<item>sop://broker.sopcast.com:3912/173286</item>
+</sop_address>
+<description>TVR2</description>
+</channel>
+<channel id="256336" type="0" btype="0" language="ro">
+<name>Tvr2</name>
+<status>2</status>
+<region en=""/>
+<class en="Generale">0</class>
+<user_count>0</user_count>
+<sn>0</sn>
+<visit_count>0</visit_count>
+<start_from/>
+<stream_type/>
+<kbps>0</kbps>
+<qs>0</qs>
+<qc>0</qc>
+<sop_address>
+<item>sop://broker.sopcast.com:3912/256336</item>
+</sop_address>
+<description>TVR2</description>
+</channel>
+</group>
+<group id="7" type="1" en="Life Style" description="Life Style">
+Life Style
+<channel id="148255" type="0" btype="0" language="ro">
+<name>Antena Stars</name>
+<status>2</status>
+<region en=""/>
+<class en="Life Style">0</class>
+<user_count>0</user_count>
+<sn>0</sn>
+<visit_count>0</visit_count>
+<start_from/>
+<stream_type/>
+<kbps>0</kbps>
+<qs>0</qs>
+<qc>0</qc>
+<sop_address>
+<item>sop://broker.sopcast.com:3912/148255</item>
+</sop_address>
+<description>Antena Stars</description>
+</channel>
+<channel id="148261" type="0" btype="0" language="ro">
+<name>Mpfm (Offline)</name>
+<status>2</status>
+<region en=""/>
+<class en="Life Style">0</class>
+<user_count>0</user_count>
+<sn>0</sn>
+<visit_count>0</visit_count>
+<start_from/>
+<stream_type/>
+<kbps>0</kbps>
+<qs>0</qs>
+<qc>0</qc>
+<sop_address>
+<item>sop://broker.sopcast.com:3912/148261</item>
+</sop_address>
+<description>MPFM</description>
+</channel>
+<channel id="148256" type="0" btype="0" language="ro">
+<name>Tlc</name>
+<status>2</status>
+<region en=""/>
+<class en="Life Style">0</class>
+<user_count>0</user_count>
+<sn>0</sn>
+<visit_count>0</visit_count>
+<start_from/>
+<stream_type/>
+<kbps>0</kbps>
+<qs>0</qs>
+<qc>0</qc>
+<sop_address>
+<item>sop://broker.sopcast.com:3912/148256</item>
+</sop_address>
+<description>Tlc</description>
+</channel>
+<channel id="148885" type="0" btype="0" language="ro">
+<name>Travel Channel</name>
+<status>2</status>
+<region en=""/>
+<class en="Life Style">0</class>
+<user_count>0</user_count>
+<sn>0</sn>
+<visit_count>0</visit_count>
+<start_from/>
+<stream_type/>
+<kbps>0</kbps>
+<qs>0</qs>
+<qc>0</qc>
+<sop_address>
+<item>sop://broker.sopcast.com:3912/148885</item>
+</sop_address>
+<description>Travel Channel</description>
+</channel>
+<channel id="148881" type="0" btype="0" language="ro">
+<name>Tv Paprika</name>
+<status>2</status>
+<region en=""/>
+<class en="Life Style">0</class>
+<user_count>0</user_count>
+<sn>0</sn>
+<visit_count>0</visit_count>
+<start_from/>
+<stream_type/>
+<kbps>0</kbps>
+<qs>0</qs>
+<qc>0</qc>
+<sop_address>
+<item>sop://broker.sopcast.com:3912/148881</item>
+</sop_address>
+<description>Tv Paprika</description>
+</channel>
+</group>
+<group id="2" type="1" en="Stiri" description="Stiri">
+Stiri
+<channel id="148087" type="0" btype="0" language="ro">
+<name>B1 Tv</name>
+<status>2</status>
+<region en=""/>
+<class en="Stiri">0</class>
+<user_count>0</user_count>
+<sn>0</sn>
+<visit_count>0</visit_count>
+<start_from/>
+<stream_type/>
+<kbps>0</kbps>
+<qs>0</qs>
+<qc>0</qc>
+<sop_address>
+<item>sop://broker.sopcast.com:3912/148087</item>
+</sop_address>
+<description>B1 TV</description>
+</channel>
+<channel id="151638" type="0" btype="0" language="ro">
+<name>Realitatea Tv</name>
+<status>2</status>
+<region en=""/>
+<class en="Stiri">0</class>
+<user_count>0</user_count>
+<sn>0</sn>
+<visit_count>0</visit_count>
+<start_from/>
+<stream_type/>
+<kbps>0</kbps>
+<qs>0</qs>
+<qc>0</qc>
+<sop_address>
+<item>sop://broker.sopcast.com:3912/151638</item>
+</sop_address>
+<description>Realitatea Tv</description>
+</channel>
+<channel id="253036" type="0" btype="0" language="ro">
+<name>Realitatea Tv (Offline)</name>
+<status>2</status>
+<region en=""/>
+<class en="Stiri">0</class>
+<user_count>0</user_count>
+<sn>0</sn>
+<visit_count>0</visit_count>
+<start_from/>
+<stream_type/>
+<kbps>0</kbps>
+<qs>0</qs>
+<qc>0</qc>
+<sop_address>
+<item>sop://broker.sopcast.com:3912/253036</item>
+</sop_address>
+<description>Realitatea TV</description>
+</channel>
+<channel id="148258" type="0" btype="0" language="ro">
+<name>Romaniatv Sd</name>
+<status>2</status>
+<region en=""/>
+<class en="Stiri">0</class>
+<user_count>0</user_count>
+<sn>0</sn>
+<visit_count>0</visit_count>
+<start_from/>
+<stream_type/>
+<kbps>0</kbps>
+<qs>0</qs>
+<qc>0</qc>
+<sop_address>
+<item>sop://broker.sopcast.com:3912/148258</item>
+</sop_address>
+<description>RomaniaTV SD</description>
+</channel>
+</group>
+</channels>
