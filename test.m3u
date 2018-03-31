@@ -1,4 +1,121 @@
 #EXTM3U
+#EXTINF:-1 logo="https://s20.postimg.org/6w63y9jal/VTV1_HD.png" tvg-id="b2cd09ad683159eefa3302177e392276",VTV1 
+http://xemiptv.ddns.net:9981/stream/channelid/755617202?ticket=25FA06B43407A51E55DC7EF286C2F1EBA9473AB9&profile=pass
+#EXTINF:-1 logo="https://s20.postimg.org/zabji56ul/VTV2.png" tvg-id="3a7799452ca09e4713a1811d313960b9",VTV2 
+http://xemiptv.ddns.net:9981/stream/channelid/1167685434?ticket=20594AE26D73C4F0A517384B030F7499B82527D9&profile=pass
+#EXTINF:-1 logo="https://s20.postimg.org/enmtwtnfx/VTV3_HD.png" tvg-id="5e271466dbe61d442508451447d0e081",VTV3 
+http://xemiptv.ddns.net:9981/stream/channelid/1712596830?ticket=345A9D905FC6AF846F7560DED12850153186D4ED&profile=pass
+#EXTINF:-1 logo="https://s20.postimg.org/psbsi3l65/VTV4.png" tvg-id="cfdeab634bea1c38ed2baa214d738235",VTV4 
+http://xemiptv.ddns.net:9981/stream/channelid/1672208079?ticket=69B30795E5AFD33CC7DC7CD465A73C109792DB4A&profile=pass
+#EXTINF:-1 logo="https://s20.postimg.org/6lylex4od/VTV5.png" tvg-id="ad6cc0ae6ab9972dd9e2c315e167d972",VTV5 
+http://xemiptv.ddns.net:9981/stream/channelid/784362669?ticket=7D1D68F653108ED801DAA82E91DB61636DC624C1&profile=pass
+#EXTINF:-1 logo="https://s20.postimg.org/m2c5p79bh/VTV6.png" tvg-id="2f246ef03f763812976f597b1cb12be8",VTV6 
+http://xemiptv.ddns.net:9981/stream/channelid/1886266415?ticket=573038A30F693617523F395E2729687607AE737F&profile=pass
+#EXTINF:-1 logo="https://s20.postimg.org/sw935i299/VTV7_HD.png" tvg-id="e89b171ccca8f435e80add0c458444e4",VTV7 
+http://xemiptv.ddns.net:9981/stream/channelid/471309288?ticket=C7F142F03939DBC1E0EF200B48411C0655E0DBB7&profile=pass
+#EXTINF:-1 logo="https://s20.postimg.org/q4ptew3ql/VTV8_HD.png" tvg-id="0cbcd7ce13063866954a362db75d1078",VTV8 
+http://xemiptv.ddns.net:9981/stream/channelid/1322761228?ticket=90A2F14B94D809C5BF8589520AD92A53AAFA2B90&profile=pass
+#EXTINF:-1 logo="https://s20.postimg.org/z2ajc8w6l/VTV9_HD.png" tvg-id="b9614a2df0577084183ad2a8ff362254",VTV9 
+http://xemiptv.ddns.net:9981/stream/channelid/759849401?ticket=614E337B57D942DA206027182AFA54161F38AD67&profile=pass
+#EXTINF:-1 logo="https://s20.postimg.org/h5qkadk31/HTV1.png" tvg-id="026d0dbf23bbce72b634b8546468e09c",HTV1
+http://xemiptv.ddns.net:9981/stream/channelid/1057844482?ticket=D3808D17348E330DA5972F6449A9422E05ADCDE9&profile=pass
+#EXTINF:-1 logo="https://s20.postimg.org/rd93ms6b1/HTV2_HD.png" tvg-id="9531802c693f1f5be1dc8572c05f58fe",HTV2 
+http://xemiptv.ddns.net:9981/stream/channelid/746598805?ticket=82B58F7AAF2FC9A0F4FEFFE886FDB0342C5B277F&profile=pass
+#EXTINF:-1 logo="https://s20.postimg.org/unxgmnw8d/HTV3.png" tvg-id="580c2e1dabe8b020ed0b23ba56de0c1c",HTV3
+http://xemiptv.ddns.net:9981/stream/channelid/489557080?ticket=3151F38570827974C851415299A43AFD387C7DD6&profile=pass
+#EXTINF:-1 logo="https://s20.postimg.org/q3ba7qcj1/HTV4.png" tvg-id="914d408f2fae9ddf1b9d603573ed769f",HTV4
+http://xemiptv.ddns.net:9981/stream/channelid/255872401?ticket=AEDCCCB2AAAA6DF77B90F79F59F8D413B878354F&profile=pass
+#EXTINF:-1 logo="https://s20.postimg.org/fmzrj52wd/HTV7_HD.png" tvg-id="89b65907c0b5121a01b96721c15f4a52",HTV7 
+http://xemiptv.ddns.net:9981/stream/channelid/123319945?ticket=0F1DFB2E87748DDC4607ED04556CC2C756C43D1F&profile=pass
+#EXTINF:-1 logo="https://s20.postimg.org/kgexa9a0d/HTV9_HD.png" tvg-id="7fa7960fcbb5238b402dc23c04c993ba",HTV9 
+http://xemiptv.ddns.net:9981/stream/channelid/261531519?ticket=E1977970951979F5FFECA51C2345513BC44B6203&profile=pass
+#EXTINF:-1 logo="https://s20.postimg.org/wvaw22ga5/HTVC_THETHAO.png" tvg-id="ace748016ef4ce3b59c9544ccc75e620",HTV Thể thao
+http://xemiptv.ddns.net:9981/stream/channelid/21555116?ticket=D1758C6C1020396CD9392991B3E4F03E28201BF1&profile=pass
+#EXTINF:-1 logo="https://s20.postimg.org/5r39x8mi5/HTVC_DL_CS.png" tvg-id="fc5ce292d60fba5d10c0ff9389d01b76",HTVC - Du lịch & Cuộc sống
+http://xemiptv.ddns.net:9981/stream/channelid/316824828?ticket=1DBFC38C55DEA992500767DF446B28CBDB25A2BE&profile=pass
+#EXTINF:-1 logo="https://s20.postimg.org/jolg2jkkt/HTVC_GIADINH1.png" tvg-id="6353d3ee73b5f3ab446f7975838acc47",HTVC - Gia Đình
+http://xemiptv.ddns.net:9981/stream/channelid/1859343203?ticket=4F2CD6B2260E6A5123EEF11CD16F8082517CE2AC&profile=pass
+#EXTINF:-1 logo="https://s20.postimg.org/lk88dp9f1/HTVC_PHUNU_HD.png" tvg-id="afae8a4f481b5ced1ee9c17a59e93239",HTVC - Phụ Nữ
+http://xemiptv.ddns.net:9981/stream/channelid/1334488751?ticket=D29CE21B7018CD538F798E947A47F94391F15829&profile=pass
+#EXTINF:-1 logo="https://s20.postimg.org/6gqnnccfh/HTVC_PHIM_HD.png" tvg-id="04984ad1d562ccdf19f8e24ab3c2d32f",HTVC - Phim
+http://xemiptv.ddns.net:9981/stream/channelid/1363843076?ticket=A3E95668FC2126F6ADC68758B33F9317E7EE8C7D&profile=pass
+#EXTINF:-1 logo="https://s20.postimg.org/c0yjk8lwt/HTVC_THUANVIET.png" tvg-id="a270086cedd9b82fa48686d0e48d6597",HTVC - Thuần Việt
+http://xemiptv.ddns.net:9981/stream/channelid/1812492450?ticket=F292DF33F34C2E3197C8EC3004FA48A8BD8A60F2&profile=pass
+#EXTINF:-1 logo="https://s20.postimg.org/jjma6m2nh/HTVC_THUANVIET_HD.png" tvg-id="3ae66c3f42dd49029b11ea36e147f893",HTVC Thuần Việt HD (Phim Việt)
+http://xemiptv.ddns.net:9981/stream/channelid/1064101434?ticket=35FE1A88E67E3EE74F38B5DEC116E935D28AF801&profile=pass
+#EXTINF:-1 logo="https://s20.postimg.org/k2ms254od/HTVC_FBNC.png" tvg-id="99b61f65b7af99baeb086d6b54c33ed7",FBNC HD
+http://xemiptv.ddns.net:9981/stream/channelid/1696577177?ticket=F00B3DBD858D313C7D8F4B155430C11ED0FB0CE9&profile=pass
+#EXTINF:-1 tvg-id="bc7a96f6be84fc52dfe497c20932e82e",SCTV4
+http://xemiptv.ddns.net:9981/stream/channelid/1989573308?ticket=C440DF0F179F48E148614E9FB2528271A8BCB91A&profile=pass
+#EXTINF:-1 logo="https://s20.postimg.org/ogecs7pil/ANTV_HD.png" tvg-id="689fa62e282c855ae3684e0f2ad1cf98",ANTV
+http://xemiptv.ddns.net:9981/stream/channelid/782671720?ticket=426988F5CF043C946BB95751F66BE627E73B0619&profile=pass
+#EXTINF:-1 logo="https://s20.postimg.org/t6ij5f1m5/QPVN.png" tvg-id="9fb6df38599d93f805ab12a9989fafd6",Quốc Phòng VN 
+http://xemiptv.ddns.net:9981/stream/channelid/954185375?ticket=96B0E9F57DB2485715255D5823569C39DC8A391D&profile=pass
+#EXTINF:-1 logo="https://s20.postimg.org/4ihsbjw8d/TTXVN.png" tvg-id="2bade036105a002cc12af055203515c6",VNEWS TTXVN
+http://xemiptv.ddns.net:9981/stream/channelid/920694059?ticket=041502A85C69C25D0DF29ED36EE952F11B1391CF&profile=pass
+#EXTINF:-1 logo="https://s20.postimg.org/cl1py9vql/QUOCHOI.png" tvg-id="0073a044212f071127a02fd073336284",Quốc Hội HD
+http://xemiptv.ddns.net:9981/stream/channelid/1151365888?ticket=C19CFDC5570E26C10EA45FB6AB4E632342C49A2A&profile=pass
+#EXTINF:-1 logo="https://s20.postimg.org/5nfzbar59/NHANDAN.png" tvg-id="4203653711a67832b852576892d89062",Truyền Hình Nhân Dân
+http://xemiptv.ddns.net:9981/stream/channelid/929366850?ticket=0547758535A28309F4D0A5BC14113E84E2921E69&profile=pass
+#EXTINF:-1 logo="https://s20.postimg.org/70p8nmwvh/THVL1.png" tvg-id="ed2aacf25a5e54c1c1e5bf8a7c70cf07",VinhLongTV1
+http://xemiptv.ddns.net:9981/stream/channelid/1923885805?ticket=7FD82E16DF9808899B6A4D5F13DBEA904D823F27&profile=pass
+#EXTINF:-1 logo="https://s20.postimg.org/prr5xsrfx/THVL2.png" tvg-id="209299cda5d45267645afbdce0a086d5",VinhLongTV2 (THVL2)
+http://xemiptv.ddns.net:9981/stream/channelid/1301910048?ticket=5FBF65422173EC30CBF075D382C3FC5DF4227BD6&profile=pass
+#EXTINF:-1 logo="https://s20.postimg.org/ngt3tmgod/BTV1.png" tvg-id="47bfd72e5868bff93fafa818a616049a",Bình Dương 1
+http://xemiptv.ddns.net:9981/stream/channelid/785891143?ticket=B0D91149A43533F689DD19AB91F4274466085944&profile=pass
+#EXTINF:-1 logo="https://s20.postimg.org/6cbc7kru5/BTV2.png" tvg-id="3e6e54fd776c26935c57be2705a2d6f8",Bình Dương 2
+http://xemiptv.ddns.net:9981/stream/channelid/2102685246?ticket=09BB90C65FD9F8B505DA4F714BA972847A2C8AD2&profile=pass
+#EXTINF:-1 logo="https://s20.postimg.org/pwux7gyr1/BTV4-IMOVIEHD.png" tvg-id="daf6237e020bc165d978f4253638b5a6",iMovie HD
+http://xemiptv.ddns.net:9981/stream/channelid/2116286170?ticket=8D9B10DAF31B1255F66C7529C3087B8D07DA7033&profile=pass
+#EXTINF:-1 logo="https://s20.postimg.org/4gojwf2zx/DN1.png" tvg-id="7a755a8da7ec3a69a09f1e674bd06224",DongNaiTV1
+http://xemiptv.ddns.net:9981/stream/channelid/224032122?ticket=6D9954D2FAF62FC75A29735FB0C948B65F89F094&profile=pass
+#EXTINF:-1 logo="https://s20.postimg.org/fvl111fcd/DN2.png" tvg-id="1fac99a4eb4266722580974337238596",DongNaiTV2
+http://xemiptv.ddns.net:9981/stream/channelid/614050847?ticket=F830D5C03CC3234FAF1B4E5D9488D9988E7423A0&profile=pass
+#EXTINF:-1 logo="https://s20.postimg.org/pvkze1wx9/HANOI1.png" tvg-id="856420dbde931e1e97c330bc40d94cd4",HanoiTV1
+http://xemiptv.ddns.net:9981/stream/channelid/1528849541?ticket=34FB52B9D6C9692B4C070DF0E11BB0458EB02B6B&profile=pass
+#EXTINF:-1 logo="https://s20.postimg.org/hv6opkfzh/HANOI2.png" tvg-id="70b92fcdf657d3fcc16ec70f57a2e100",HanoiTV2
+http://xemiptv.ddns.net:9981/stream/channelid/1294973296?ticket=1403A38C935B644AB3750EE65AC55A568481A02F&profile=pass
+#EXTINF:-1 logo="https://s20.postimg.org/l5pzsbzl9/DRT1.png" tvg-id="3cc1963af0df492c407f524fb00b3b56",DanangTV1
+http://xemiptv.ddns.net:9981/stream/channelid/982958396?ticket=1B74FC317699F914F35251B4FF0AE67FDE9C7964&profile=pass
+#EXTINF:-1 logo="https://s20.postimg.org/s3z5ve419/DRT2.png" tvg-id="ac660e63369ce5c3b81a66c7ca4ee41e",DanangTV2
+http://xemiptv.ddns.net:9981/stream/channelid/1661888172?ticket=810A17AA792BCA537BD33A482CE306D4B043E453&profile=pass
+#EXTINF:-1 logo="https://s20.postimg.org/sieqjl97x/THP.png" tvg-id="b6e9eeeab413157fb31c4225f49f7647",Hải Phòng
+http://xemiptv.ddns.net:9981/stream/channelid/1794042294?ticket=CB08F6B3C61074DDFA07AF9B3E05CB70A42E23C2&profile=pass
+#EXTINF:-1 logo="https://s20.postimg.org/qz9p3r6y5/VTC1.png" tvg-id="bc6cac463437b3b7667cc9bd0d75e60c",VTC1 
+http://xemiptv.ddns.net:9981/stream/channelid/1185705148?ticket=66EE47856ECC97CD67310F39AA97608BC384C911&profile=pass
+#EXTINF:-1 logo="https://s20.postimg.org/5zozyifvx/VTC2.png" tvg-id="dfe8a8c250c1f47db3aea3304bb70fae",VTC2
+http://xemiptv.ddns.net:9981/stream/channelid/1118365919?ticket=B796E85208318969590E7C41C0161C3F1F10A583&profile=pass
+#EXTINF:-1 logo="https://s20.postimg.org/mrewv05il/VTC3_HD.png" tvg-id="b1c04a178d996ac6cbba470692be96af",VTC3 HD
+http://xemiptv.ddns.net:9981/stream/channelid/390774961?ticket=A04158065E2EA908C0830291C6FA3AF56621B9AF&profile=pass
+#EXTINF:-1 logo="https://s20.postimg.org/z5a4kvoq5/VTC4_YEAH1FAMILY.png" tvg-id="97ff2ec038ccc8c77313d6d5f41f13ef",Yeah1 Family - VTC4
+http://xemiptv.ddns.net:9981/stream/channelid/1076821911?ticket=9CB4DBEDAD12D55CFD6D8C8BC05B33966514D62B&profile=pass
+#EXTINF:-1 logo="https://s20.postimg.org/pms01v9il/VTC5.png" tvg-id="e555f2e45f1147b1b7c246a8d26a836e",VTC5
+http://xemiptv.ddns.net:9981/stream/channelid/1693603301?ticket=B3E7883EF7BD90A134B3DCA5EB3E2166F2810797&profile=pass
+#EXTINF:-1 logo="https://s20.postimg.org/9d1tyyyul/VTC6.png" tvg-id="e5ad5541ee23ccb20e06e8a3a6272ede",VTC6
+http://xemiptv.ddns.net:9981/stream/channelid/1096134117?ticket=62E2EBE86D04C394EDD890E44F8DEDC9C22B5654&profile=pass
+#EXTINF:-1 logo="https://s20.postimg.org/lmpg3d8fh/VTC7_Today_TV.png" tvg-id="0f2e030946764f60f8d73a4b577a0344",TodayTV - VTC7
+http://xemiptv.ddns.net:9981/stream/channelid/151203343?ticket=E50DC799BE975A9D3D832B6819FEC480C7420CD8&profile=pass
+#EXTINF:-1 logo="https://s20.postimg.org/5x9ppf1m5/VTC8.png" tvg-id="84f3cd3081c333917d1f3f57b6fd80cd",VTC8
+http://xemiptv.ddns.net:9981/stream/channelid/818803588?ticket=8EB92978B6B4D1276BAE672C30D617C470CA3C87&profile=pass
+#EXTINF:-1 logo="https://s20.postimg.org/8q2x9g1yl/VTC9_Lets_Viet.png" tvg-id="6e9d2b481e630bdc5329bf3722c296b6",Let's Viet
+http://xemiptv.ddns.net:9981/stream/channelid/1210817902?ticket=C7CC58904CD6BC65977B99720FF1CCBECB924DFA&profile=pass
+#EXTINF:-1 logo="https://s20.postimg.org/4ks0nj46l/VTC10.png" tvg-id="22718a8ccabc82a1602506f00c579311",VTC10
+http://xemiptv.ddns.net:9981/stream/channelid/210399522?ticket=B51E437B1614EE3E38AB6FEA5CB6C5CB8F1EA358&profile=pass
+#EXTINF:-1 logo="https://s20.postimg.org/5akgar0fh/VTC11_KIDS.png" tvg-id="75692ffc890f5fbbed014d2b72ec2b17",VTC11 Thiếu Nhi
+http://xemiptv.ddns.net:9981/stream/channelid/2083481973?ticket=4AD29AB70895EC5FF17C078D88D1ADEFAB8BFAF8&profile=pass
+#EXTINF:-1 logo="https://s20.postimg.org/o1cqa1zal/VTC12.png" tvg-id="abfe041a430ff41b4b0d54b1b71562a8",VTC12
+http://xemiptv.ddns.net:9981/stream/channelid/436534955?ticket=BEA4F4764CFB0B331B6FA49E1A8DFEF4BDF592C6&profile=pass
+#EXTINF:-1 logo="https://s20.postimg.org/mq9kfbt2l/VTC13.png" tvg-id="ada9c31f9089a7843a942aed7e7dc811",ITV
+http://xemiptv.ddns.net:9981/stream/channelid/532916653?ticket=DEE16ECCEB2C767B6B3182F2229A6016D5904ECD&profile=pass
+#EXTINF:-1 logo="https://s20.postimg.org/7mneb86p9/VTC14.png" tvg-id="3492f687d45146b584c6687248e106d5",VTC14 HD
+http://xemiptv.ddns.net:9981/stream/channelid/133599796?ticket=4105DAFCB091A9015E80146C568C844440E7F887&profile=pass
+#EXTINF:-1 logo="https://s20.postimg.org/ai0hi3ap9/VTC16_3NTV.png" tvg-id="36cb8b3dfd6b82683034074789abf64f",VTC16
+http://xemiptv.ddns.net:9981/stream/channelid/1032571702?ticket=41E5A904B06693E5CB62EB035FA13F185A8DF865&profile=pass
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="▬ Austria [AT] ▬" tvg-logo="http://picon.space/austria.png" group-title="Austria",▬ Austria [AT] ▬
 http://cdntraffice.com:80/live/fyUp6ypCT2477/z5QA1zt0Jx477/16542.m3u8
 #EXTINF:-1 tvg-id="ATV.at" tvg-name="ATV AT" tvg-logo="http://picon.space/atv.png" group-title="Austria",ATV AT
