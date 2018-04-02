@@ -1,30 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="VTV" tvg-id="VTV1",VTV1
-udp://@225.1.2.1:30120
-#EXTINF:-1 group-title="VTV" tvg-id="VTV1",VTV1 HD
-udp://@225.1.2.249:30120
-#EXTINF:-1 group-title="VTV" tvg-id="VTV2",VTV2
-udp://@225.1.1.249:30120
-#EXTINF:-1 group-title="VTV" tvg-id="VTV3",VTV3
-udp://@225.1.2.167:30120
-#EXTINF:-1 group-title="VTV" tvg-id="VTV3",VTV3 HD
-udp://@225.1.2.247:30120
-#EXTINF:-1 group-title="VTV" tvg-id="VTV4",VTV4
-udp://@225.1.1.248:30120
-#EXTINF:-1 group-title="VTV" tvg-id="VTV5",VTV5
-udp://@225.1.1.247:30120
-#EXTINF:-1 group-title="VTV" tvg-id="VTV6",VTV6
-udp://@225.1.1.246:30120
-#EXTINF:-1 group-title="VTV" tvg-id="VTV6 HD",VTV6 HD
-udp://@225.1.2.245:30120
-#EXTINF:-1 group-title="VTV" tvg-id="VTV7",VTV7 HD
-udp://@225.1.2.97:30120
-#EXTINF:-1 group-title="VTV" tvg-id="VTV8",VTV8 HD
-udp://@225.1.2.166:30120
-#EXTINF:-1 group-title="VTV" tvg-id="VTV9",VTV9
-udp://@225.1.1.153:30120
-
-
 
 #EXTINF:-1 group-title="" tvg-logo="https://i.imgur.com/sBIwAmn.jpg",VTV1 HD
 http://karaokehd.47daklak.com/ccount202/click.php?id=151
