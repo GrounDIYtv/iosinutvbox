@@ -6,8 +6,10 @@ http://live2.thvli.vn/784d5dbf6c76490bc4e8dda72391de6b1523782581/live/thvl1hd_30
 http://live2.thvli.vn/d0d27b0383b6310ae87dd8ec5b2b590d1523782749/live/thvl2hd_3000000/index.m3u8
 #EXTINF:-1,VNATV
 http://cdn1.galaxyott.com/api/a3b34c0871dc2fd51eec5559b68f709d?chn=/secure/streamer/vnatv/playlist.m3u8&u=guest
-#EXTINF:-1,THVL2
-#EXTINF:-1,THVL2
+#EXTINF:-1,RANG DONG
+http://cdn1.galaxyott.com/api/a3b34c0871dc2fd51eec5559b68f709d?chn=/secure/streamer/rangdong/playlist.m3u8&u=guest
+#EXTINF:-1,SAIGON TV
+http://saigontvtv.saigon.ns01.us:1935/VietStarTV/myStream/playlist.m3u8
 #EXTINF:-1,THVL2
 #EXTINF:-1,THVL2
 #EXTINF:-1,THVL2
