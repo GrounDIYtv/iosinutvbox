@@ -14,7 +14,30 @@ http://saigontvtv.saigon.ns01.us:1935/VietStarTV/myStream/playlist.m3u8
 #EXTINF:-1,THVL2
 #EXTINF:-1,THVL2
 #EXTINF:-1,THVL2
-
+#EXTINF:-1 group-title="VietHN" tvg-logo="",Sai Gon TV
+https://saigonrtmp.tulix.tv/vchannel2/vchannel2/playlist.m3u8
+#EXTINF:-1 group-title="VietHN" tvg-logo="https://s30.postimg.org/s0aco3hzl/VIET_MY.png",Việt Mỹ TV
+http://68.235.37.11:1935/vietmagazine/vietmagazine/playlist.m3u8
+#EXTINF:-1 group-title="VietHN" tvg-logo="https://s23.postimg.org/s0fe2u0t7/image.png",Việt Sóng TV 47.7
+rtmp://uni5rtmp.tulix.tv/playout2multi10/playout2multi10.stream
+#EXTINF:-1 group-title="VietHN" tvg-logo="https://s24.postimg.org/sf24r4qjp/VNTV.png",Việt News TV
+http://vietnews.saigon.ns01.us:1935/VietNews/myStream/chunklist_w107230799.m3u8
+#EXTINF:-1 group-title="VietHN" tvg-logo="https://s27.postimg.org/65e8ozu8z/set.png",SET TV
+http://livestream.vnvn.net/hls-live/livepkgr/_definst_/settv574-3/settv574-3.m3u8
+#EXTINF:-1 group-title="VietHN" tvg-logo="https://s23.postimg.org/q8pgw4wgb/IBC.jpg",IBC TV 57.8
+http://liveplay3.malimarcdn.com/ibcnews/ibcnews.sdp/playlist.m3u8
+#EXTINF:-1 group-title="VietHN" tvg-logo="https://s27.postimg.org/zd62aenf7/vnbc.png",VNBC
+http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w189527979_b1228800.m3u8
+#EXTINF:-1 group-title="VietHN" tvg-logo="https://s27.postimg.org/wnwdqo22b/vstar.png",ViệtStar 57.11
+http://saigontvtv.saigon.ns01.us:1935/VietStarTV/myStream/chunklist_w36065371.m3u8
+#EXTINF:-1 group-title="VietHN" tvg-logo="https://s23.postimg.org/99da6ha97/VBS.png",VBS - Vietnames Broadcasting Service
+http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w189527979_b1228800.m3u8
+#EXTINF:-1 group-title="VietHN" tvg-logo="https://s24.postimg.org/7t4su66md/vbs1.png",VBS (WS)
+http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w530158239_b1228800.m3u8
+#EXTINF:-1 group-title="VietHN" tvg-logo="https://s23.postimg.org/99da6ha97/VBS.png",VBS Canada
+http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w1847269952_b204800.m3u8
+#EXTINF:-1 group-title="VietHN" tvg-logo="https://s23.postimg.org/f0ie1s30b/VNA.png",VNA TV
+http://livestream.vnvn.net/hls-live/livepkgr/_definst_/vnatv573-1/vnatv573-1.m3u8?time=1482109571065 
 #EXTINF:-1,VTV3
 http://1253358702.rsc.cdn77.org/bA5qmjJ7ulNpyf8iY_b4ew==,1523743622/live/_definst_/vtv3-high.m3u8
 #EXTINF:-1,VTV1
