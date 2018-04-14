@@ -4,6 +4,15 @@
 http://live2.thvli.vn/784d5dbf6c76490bc4e8dda72391de6b1523782581/live/thvl1hd_3000000/index.m3u8
 #EXTINF:-1,THVL2
 http://live2.thvli.vn/d0d27b0383b6310ae87dd8ec5b2b590d1523782749/live/thvl2hd_3000000/index.m3u8
+#EXTINF:-1,VNATV
+http://cdn1.galaxyott.com/api/a3b34c0871dc2fd51eec5559b68f709d?chn=/secure/streamer/vnatv/playlist.m3u8&u=guest
+#EXTINF:-1,THVL2
+#EXTINF:-1,THVL2
+#EXTINF:-1,THVL2
+#EXTINF:-1,THVL2
+#EXTINF:-1,THVL2
+#EXTINF:-1,THVL2
+
 #EXTINF:-1,VTV3
 http://1253358702.rsc.cdn77.org/bA5qmjJ7ulNpyf8iY_b4ew==,1523743622/live/_definst_/vtv3-high.m3u8
 #EXTINF:-1,VTV1
