@@ -5,58 +5,126 @@ http://61.216.177.73/sta/ch1865043.m3u8
 #EXTINF:-1,THVL2
 http://live2.thvli.vn/d0d27b0383b6310ae87dd8ec5b2b590d1523782749/live/thvl2hd_3000000/index.m3u8
 #EXTINF:-1,VNATV
-http://cdn1.galaxyott.com/api/a3b34c0871dc2fd51eec5559b68f709d?chn=/secure/streamer/vnatv/playlist.m3u8&u=guest
-#EXTINF:-1,RANG DONG
-http://cdn1.galaxyott.com/api/a3b34c0871dc2fd51eec5559b68f709d?chn=/secure/streamer/rangdong/playlist.m3u8&u=guest
-#EXTINF:-1,SAIGON TV
-http://saigontvtv.saigon.ns01.us:1935/VietStarTV/myStream/playlist.m3u8
-#EXTINF:-1,THVL2
-#EXTINF:-1,THVL2
-#EXTINF:-1,THVL2
-#EXTINF:-1,THVL2
-#EXTINF:-1 group-title="VietHN" tvg-logo="",Sai Gon TV
-https://saigonrtmp.tulix.tv/vchannel2/vchannel2/playlist.m3u8
-#EXTINF:-1 group-title="VietHN" tvg-logo="https://s30.postimg.org/s0aco3hzl/VIET_MY.png",Việt Mỹ TV
-http://68.235.37.11:1935/vietmagazine/vietmagazine/playlist.m3u8
-#EXTINF:-1 group-title="VietHN" tvg-logo="https://s23.postimg.org/s0fe2u0t7/image.png",Việt Sóng TV 47.7
-rtmp://uni5rtmp.tulix.tv/playout2multi10/playout2multi10.stream
-#EXTINF:-1 group-title="VietHN" tvg-logo="https://s24.postimg.org/sf24r4qjp/VNTV.png",Việt News TV
-http://vietnews.saigon.ns01.us:1935/VietNews/myStream/chunklist_w107230799.m3u8
-#EXTINF:-1 group-title="VietHN" tvg-logo="https://s27.postimg.org/65e8ozu8z/set.png",SET TV
-http://livestream.vnvn.net/hls-live/livepkgr/_definst_/settv574-3/settv574-3.m3u8
-#EXTINF:-1 group-title="VietHN" tvg-logo="https://s23.postimg.org/q8pgw4wgb/IBC.jpg",IBC TV 57.8
-http://liveplay3.malimarcdn.com/ibcnews/ibcnews.sdp/playlist.m3u8
-#EXTINF:-1 group-title="VietHN" tvg-logo="https://s27.postimg.org/zd62aenf7/vnbc.png",VNBC
-http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w189527979_b1228800.m3u8
-#EXTINF:-1 group-title="VietHN" tvg-logo="https://s27.postimg.org/wnwdqo22b/vstar.png",ViệtStar 57.11
-http://saigontvtv.saigon.ns01.us:1935/VietStarTV/myStream/chunklist_w36065371.m3u8
-#EXTINF:-1 group-title="VietHN" tvg-logo="https://s23.postimg.org/99da6ha97/VBS.png",VBS - Vietnames Broadcasting Service
-http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w189527979_b1228800.m3u8
-#EXTINF:-1 group-title="VietHN" tvg-logo="https://s24.postimg.org/7t4su66md/vbs1.png",VBS (WS)
-http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w530158239_b1228800.m3u8
-#EXTINF:-1 group-title="VietHN" tvg-logo="https://s23.postimg.org/99da6ha97/VBS.png",VBS Canada
-http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w1847269952_b204800.m3u8
-#EXTINF:-1 group-title="VietHN" tvg-logo="https://s23.postimg.org/f0ie1s30b/VNA.png",VNA TV
-http://livestream.vnvn.net/hls-live/livepkgr/_definst_/vnatv573-1/vnatv573-1.m3u8?time=1482109571065 
-#EXTINF:-1,VTV3
-http://1253358702.rsc.cdn77.org/bA5qmjJ7ulNpyf8iY_b4ew==,1523743622/live/_definst_/vtv3-high.m3u8
-#EXTINF:-1,VTV1
-http://1253358702.rsc.cdn77.org/TlLSQ1_v7_wz_-UHhwflgw==,1523743764/live/_definst_/vtv1-high.m3u8
-#EXTINF:-1,VTV2
-http://1253358702.rsc.cdn77.org/RdWbNcASJtOJkSUWRQGC3g==,1523743797/live/_definst_/vtv2-high.m3u8
-#EXTINF:-1,VTV4
-http://1253358702.rsc.cdn77.org/3Js4xQhDfMM9fmo0_4WdZw==,1523743871/live/_definst_/vtv4-mid.m3u8
-#EXTINF:-1,VTV5
-http://1253358702.rsc.cdn77.org/O7FaZm7BDBuRdhevV5zl4w==,1523743915/live/_definst_/vtv5-high.m3u8
-#EXTINF:-1,VTV6
-http://1253358702.rsc.cdn77.org/-ugGcb0EGWBUCsV0RtN3nQ==,1523743950/live/_definst_/vtv6-high.m3u8
-#EXTINF:-1,VTV7
-http://1253358702.rsc.cdn77.org/XyvGIftJGom_XnLecrq7iA==,1523743998/live/_definst_/vtv7-low.m3u8
-#EXTINF:-1,VTV8
-http://1253358702.rsc.cdn77.org/5HN2Xn7PYPP5az0fuSyZFg==,1523744058/live/_definst_/vtv8-high.m3u8
-#EXTINF:-1,VTV9
-http://1253358702.rsc.cdn77.org/-grxs29vVmveNwwZIcsMAg==,1523744168/live/_definst_/vtv9-high.m3u8
-#EXTINF:-1,LITTLE SAIGON
-https://media-storage-iss.livestream.com/21388423_7992704_lsiy1zh4khhq2fuqige_1/segments/21388423_7992704_lsiy1zh4khhq2fuqige_1@2596000pb/media-u7g1ga573_7481.ts?token=1523912400_b205a0e4538eb1f7d15d6ad2fa09037828aa9767
-#EXTINF:-1,VTV5
+韩-电影01,http://fuli.zuida-youku-le.com/20170507/5Iv8TmTx/index.m3u8
+#EXTINF:-1,VNATV
+韩-电影02,http://fuli.yazyzw.com/20170618/qhai9zre/index.m3u8 
+#EXTINF:-1,VNATV
+韩-电影03,http://fuli.zuida-youku-le.com/20170507/umNasD9h/index.m3u8 
+#EXTINF:-1,VNATV
+韩-电影04,http://fuli.zuida-youku-le.com/20170507/d6CfDDD4/index.m3u8 
+#EXTINF:-1,VNATV
+
+韩-电影05,http://fuli.zuida-youku-le.com/20170506/IPnEYksT/index.m3u8 
+韩-电影06,http://fuli.zuida-youku-le.com/20170531/Wh8rpxA1/index.m3u8 
+韩-电影07,http://fuli.zuida-youku-le.com/20170507/JGZmraOi/index.m3u8 
+韩-电影08,http://fuli.yazyzw.com/20170618/Mi6fBnB2/index.m3u8 
+韩-电影09,http://fuli.zuida-youku-le.com/20170617/zeYDN2J9/index.m3u8 
+韩-电影10,http://hao.zuida-ouku.com/20170622/2HZOnGQ4/index.m3u8 
+韩-电影11,http://yingshi.yazyzw.com/20170828/WPkPNSrJ/index.m3u8 
+韩-电影12,http://hao.zuida-youku.com/20170622/7rEsyUjN/index.m3u8 
+韩-电影13,http://hao.zuida-youku.com/20170630/Kr62OeK7/index.m3u8 
+韩-电影14,http://hao.zuida-youku.com/20170704/xfnzZSLp/index.m3u8 
+韩-电影15,http://yingshi.yazyzw.com/20170828/tKeREf3U/index.m3u8 
+韩-电影16,http://yingshi.yazyzw.com/20170828/SrKOVY3A/index.m3u8 
+韩-电影17,http://hao.zuida-youku.com/20170705/tCc4qWTf/index.m3u8 
+韩-电影18,http://hao.zuida-youku.com/20170704/6RlvOCmZ/index.m3u8 
+韩-电影19,http://ethics.ppzuida.com/20170831/ebXT5J1D/index.m3u8 
+韩-电影20,http://ethics.ppzuida.com/20170831/OEKoiqx6/index.m3u8 
+韩-电影21,http://yingshi.yazyzw.com/20170828/YKscLAWN/index.m3u8 
+韩-电影22,http://fuli.zuida-youku-e.com/20170507/xDeZkLgu/index.m3u8 
+韩-电影23,http://eth.ppzuida.com/20170918/tzBz3V67/index.m3u8 
+韩-电影24,http://hao.zuida-youku.com/20170630/raSg42Ay/index.m3u8 
+韩-电影25,http://hao.zuida-youku.com/20170619/FA3LQ1s8/index.m3u8 
+韩-电影26,http://hao.zuida-youku.com/20170705/SfdfiUso/index.m3u8 
+韩-电影27,http://hao.zuida-youku.com/20170621/OXzaOPw1/index.m3u8 
+韩-电影28,http://hao.zuida-youku.com/20170707/5ReGwrTQ/index.m3u8 
+韩-电影29,http://hao.zuida-youku.com/20170630/vcjNTjtn/index.m3u8 
+韩-电影30,http://hao.zuida-youku.com/20170629/goRKWa1l/index.m3u8 
+韩-电影31,http://hao.zuida-youku.com/20170630/SV3nyHBx/index.m3u8 
+韩-电影32,http://hao.zuida-youku.com/20170622/SDoRMsfb/index.m3u8 
+韩-电影33,http://hao.zuida-youku.com/20170706/wFbo99mM/index.m3u8 
+韩-电影34,http://hao.zuida-youku.com/20170706/oPeDMblL/index.m3u8 
+韩-电影35,http://yingshi.yazyzw.com/20170828/WPkPNSrJ/index.m3u8 
+韩-电影36,http://hao.zuida-youku.com/20170619/DKAWBWnq/index.m3u8 
+韩-电影37,http://hao.zuida-youku.com/20170619/oZWsXAan/index.m3u8 
+韩-电影38,http://hao.zuida-youku.com/20170619/unF4NHhs/index.m3u8 
+韩-电影39,http://hao.zuida-youku.com/20170619/MfacAkWM/index.m3u8 
+韩-电影40,http://hao.zuida-youku.com/20170622/V13gtVF4/index.m3u8 
+韩-电影41,http://hao.zuida-youku.com/20170704/gVunckE5/index.m3u8 
+韩-电影42,http://hao.zuida-youku.com/20170630/nk1iwbzN/index.m3u8 
+韩-电影43,http://hao.zuida-youku.com/20170622/3WDyNdGK/index.m3u8 
+韩-电影44,http://hao.zuida-youku.com/20170704/LpbQQVz0/index.m3u8 
+韩-电影45,http://hao.zuida-youku.com/20170705/uMT8OWJF/index.m3u8 
+韩-电影46,http://hao.zuida-youku.com/20170630/GyF6CQbY/index.m3u8 
+韩-电影47,http://hao.zuida-youku.com/20170629/QFe3ySMO/index.m3u8 
+韩-电影48,http://hao.zuida-youku.com/20170619/P5W8OJ0p/index.m3u8 
+韩-电影49,http://hao.zuida-youku.com/20170709/zDfFjPvD/index.m3u8 
+韩-电影50,http://hao.zuida-youku.com/20170630/v8zcpYmP/index.m3u8 
+韩-电影51,http://hao.zuida-youku.com/20170704/43lT0R4m/index.m3u8 
+韩-电影52,http://hao.zuida-youku.com/20170623/2exPRNuq/index.m3u8 
+韩-电影53,http://hao.zuida-youku.com/20170619/beGVVqhH/index.m3u8 
+韩-电影54,http://hao.zuida-youku.com/20170619/TKRvGQNP/index.m3u8 
+韩-电影55,http://hao.zuida-youku.com/20170621/5T5P1tVK/index.m3u8 
+韩-电影56,http://hao.zuida-youku.com/20170622/7kHboGAe/index.m3u8 
+韩-电影57,http://hao.zuida-youku.com/20170704/Z0KANaJC/index.m3u8 
+韩-电影58,http://hao.zuida-youku.com/20170705/tJPiCbYh/index.m3u8 
+韩-电影59,http://hao.zuida-youku.com/20170619/HxCcfvKK/index.m3u8 
+韩-电影60,http://hao.zuida-youku.com/20170705/6JX2f54m/index.m3u8 
+韩-电影61,http://yingshi.yazyzw.com/20170828/tKeREf3U/index.m3u8 
+韩-电影62,http://yingshi.yazyzw.com/20170828/yHYEqV45/index.m3u8 
+韩-电影63,http://ethics.ppzuida.com/20170830/Toa1JGMQ/index.m3u8 
+韩-电影64,http://yingshi.yazyzw.com/20170828/oBd8Ey8z/index.m3u8 
+韩-电影65,http://hao.zuida-youku.com/20170704/pBCMttiB/index.m3u8 
+韩-电影66,http://hao.zuida-youku.com/20170704/22RjXQhZ/index.m3u8 
+韩-电影67,http://hao.zuida-youku.com/20170706/6twB33Nk/index.m3u8 
+韩-电影68,http://hao.zuida-youku.com/20170705/NuDyLXCk/index.m3u8 
+韩-电影69,http://hao.zuida-youku.com/20170707/obCBJUEz/index.m3u8 
+韩-电影70,http://hao.zuida-youku.com/20170704/N0osvuXB/index.m3u8 
+韩-电影71,http://hao.zuida-youku.com/20170707/Wp6Mpx9R/index.m3u8 
+韩-电影72,http://hao.zuida-youku.com/20170629/SK21Np52/index.m3u8 
+韩-电影73,http://hao.zuida-youku.com/20170622/ypIVWW0C/index.m3u8 
+韩-电影74,http://ethics.ppzuida.com/20170831/bm26sDTS/index.m3u8 
+韩-电影75,http://hao.zuida-youku.com/20170630/yXleM1Mh/index.m3u8 
+韩-电影76,http://yingshi.yazyzw.com/20170828/yUoYB6wY/index.m3u8  XXXXX
+韩-电影77,http://ethics.ppzuida.com/20170830/csf98CK7/index.m3u8
+韩-电影78,http://hao.zuida-youku.com/20170705/IcG6rqUN/index.m3u8
+韩-电影79,http://hao.zuida-youku.com/20170709/MGi7dKez/index.m3u8
+韩-电影80,http://yingshi.yazyzw.com/20170828/8wbO5aJw/index.m3u8
+韩-电影81,http://hao.zuida-youku.com/20170706/EOU7o9hf/index.m3u8
+韩-电影82,http://hao.zuida-youku.com/20170706/5T3PjObz/index.m3u8
+韩-电影83,http://hao.zuida-youku.com/20170709/5Kz7xGRP/index.m3u8
+韩-BS电影,http://ethics.ppzuida.com/20170831/T5dlFo5x/index.m3u8 
+韩-成人台,http://61.216.177.73/sta/ch1865038.m3u8 
+韩-彩虹电影,http://7xlwfe.com1.z0.glb.clouddn.com/shdyhk0307_%28new%29.avi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
