@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1,THVL1
-http://live2.thvli.vn/784d5dbf6c76490bc4e8dda72391de6b1523782581/live/thvl1hd_3000000/index.m3u8
+http://61.216.177.73/sta/ch1865043.m3u8
 #EXTINF:-1,THVL2
 http://live2.thvli.vn/d0d27b0383b6310ae87dd8ec5b2b590d1523782749/live/thvl2hd_3000000/index.m3u8
 #EXTINF:-1,VNATV
