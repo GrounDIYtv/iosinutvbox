@@ -1,8 +1,5 @@
 { "ret": 0, "statu_info": "success", "accountype": 3, "sinfo": " 温馨提示：本软件仅供测试之用，禁止用于商业用途。免责声明: 本软件所有资源均来自于互联网，版权归原创者所有，如果侵犯了你的权益，请通知我们，我们会及时删除侵权内容，谢谢合作。", 
 "Live": [ 
-{ "Category": "看世界", "id": 1, "name": "20198 RUSSIA 1HD 823", "httpurl": "p2p://144.217.253.239:2545/5b227d200000144304a73c5d6f727bf6.ts", "hotlink": "", "logo": "", "epg": "", "enable": "" }, 
-{ "Category": "看世界", "id": 2, "name": "208818 RUSSIA 1HD(823)B", "httpurl": "p2p://144.217.253.239:2545/5b2536da0006ca520f4cbca5c9ef019b.ts", "hotlink": "", "logo": "", "epg": "", "enable": "" }, 
-{ "Category": "看世界", "id": 3, "name": "2018 RUSSIA 2HD 824", "httpurl": "p2p://144.217.253.239:2545/5b18b393000c46ad03a951dd3d5b93a4.ts", "hotlink": "", "logo": "", "epg": "", "enable": "" }, 
 { "Category": "看世界", "id": 4, "name": "AOD剧集HDm 350", "httpurl": "p2p://144.217.253.239:2545/5af1b951000abf340583a6b47bb5b9be.ts", "hotlink": "", "logo": "", "epg": "", "enable": "" }, 
 { "Category": "看世界", "id": 5, "name": "AOD剧集HD 350", "httpurl": "p2p://144.217.253.239:2545/5af0505f000754b90001b4846c0603fe.ts", "hotlink": "", "logo": "", "epg": "", "enable": "" }, 
 { "Category": "看世界", "id": 6, "name": "AEC HD 306", "httpurl": "p2p://144.217.253.239:2545/5af04903000613040694161bd87d66d4.ts", "hotlink": "", "logo": "", "epg": "", "enable": "" }, 
